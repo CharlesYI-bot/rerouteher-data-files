@@ -1,0 +1,300 @@
+{
+  "source": "/Users/charlesyi/Downloads/archive 3/data/data",
+  "seed": "rerouteher-20260830-v1",
+  "selection": "Deterministic SHA256-ranked stratified sample; selected PDF hashes are unique.",
+  "population_count": 2484,
+  "population_categories": {
+    "ACCOUNTANT": 118,
+    "ADVOCATE": 118,
+    "AGRICULTURE": 63,
+    "APPAREL": 97,
+    "ARTS": 103,
+    "AUTOMOBILE": 36,
+    "AVIATION": 117,
+    "BANKING": 115,
+    "BPO": 22,
+    "BUSINESS-DEVELOPMENT": 120,
+    "CHEF": 118,
+    "CONSTRUCTION": 112,
+    "CONSULTANT": 115,
+    "DESIGNER": 107,
+    "DIGITAL-MEDIA": 96,
+    "ENGINEERING": 118,
+    "FINANCE": 118,
+    "FITNESS": 117,
+    "HEALTHCARE": 115,
+    "HR": 110,
+    "INFORMATION-TECHNOLOGY": 120,
+    "PUBLIC-RELATIONS": 111,
+    "SALES": 116,
+    "TEACHER": 102
+  },
+  "quotas": {
+    "INFORMATION-TECHNOLOGY": 5,
+    "ENGINEERING": 4,
+    "TEACHER": 3,
+    "HEALTHCARE": 2,
+    "DESIGNER": 2,
+    "AGRICULTURE": 1,
+    "AUTOMOBILE": 1,
+    "AVIATION": 1,
+    "DIGITAL-MEDIA": 1,
+    "CONSTRUCTION": 1,
+    "FINANCE": 1,
+    "HR": 1,
+    "SALES": 1,
+    "CHEF": 1
+  },
+  "cases": [
+    {
+      "case_id": "T01",
+      "category": "INFORMATION-TECHNOLOGY",
+      "file": "INFORMATION-TECHNOLOGY/27536013.pdf",
+      "sha256": "373a901cbc40a31ce36041375e34055e91918a8b0ce644f2678aace002b058a2",
+      "bytes": 22979,
+      "pages": 2,
+      "text_characters": 5908,
+      "headline": "EXPERIENCED INFORMATION TECHNOLOGY MANAGER"
+    },
+    {
+      "case_id": "T02",
+      "category": "INFORMATION-TECHNOLOGY",
+      "file": "INFORMATION-TECHNOLOGY/30223363.pdf",
+      "sha256": "b1dcc0e5bf93ed7a2d1a7c3383355eab8c1e9c7043f1657b82cbb3c8c18f7f25",
+      "bytes": 26038,
+      "pages": 2,
+      "text_characters": 10885,
+      "headline": "BUSINESS SYSTEMS ANALYST I"
+    },
+    {
+      "case_id": "T03",
+      "category": "INFORMATION-TECHNOLOGY",
+      "file": "INFORMATION-TECHNOLOGY/89413122.pdf",
+      "sha256": "a56c1094a07c28d4c3c05e503825b6cb0fb2d3a86cc173688ba39855219120a1",
+      "bytes": 20925,
+      "pages": 2,
+      "text_characters": 4777,
+      "headline": "OPERATIONS RESEARCH ANALYST"
+    },
+    {
+      "case_id": "T04",
+      "category": "INFORMATION-TECHNOLOGY",
+      "file": "INFORMATION-TECHNOLOGY/17681064.pdf",
+      "sha256": "a6873cf527ab8265e495c40c3dc859fef13e233e4fb2b120fb7fddf66e7515be",
+      "bytes": 23943,
+      "pages": 2,
+      "text_characters": 5232,
+      "headline": "INFORMATION TECHNOLOGY SENIOR MANAGER"
+    },
+    {
+      "case_id": "T05",
+      "category": "INFORMATION-TECHNOLOGY",
+      "file": "INFORMATION-TECHNOLOGY/12763627.pdf",
+      "sha256": "ce0dc2429b5ac39866f0a4f87934b30c5d8bbae00294d76085c48e712de8261a",
+      "bytes": 22487,
+      "pages": 2,
+      "text_characters": 6120,
+      "headline": "ASP.NET WEB DEVELOPER"
+    },
+    {
+      "case_id": "T06",
+      "category": "ENGINEERING",
+      "file": "ENGINEERING/28630325.pdf",
+      "sha256": "385adcb8a82fd2317eb351bd72f4e7be98ce722e9a5a06d0f603e5ce9555eed5",
+      "bytes": 18491,
+      "pages": 1,
+      "text_characters": 2760,
+      "headline": "ENGINEERING TEAM LEAD"
+    },
+    {
+      "case_id": "T07",
+      "category": "ENGINEERING",
+      "file": "ENGINEERING/12022566.pdf",
+      "sha256": "35430ebbfdd2950c025e77ff4ffa034a93ac00beaca51090042cc47bd41339f5",
+      "bytes": 20762,
+      "pages": 1,
+      "text_characters": 5491,
+      "headline": "ENGINEERING INTERN"
+    },
+    {
+      "case_id": "T08",
+      "category": "ENGINEERING",
+      "file": "ENGINEERING/44624796.pdf",
+      "sha256": "b6df76b1ed21860faa656857f6b5264ffa39cd247c2c2fc9055d4240114c6780",
+      "bytes": 29147,
+      "pages": 2,
+      "text_characters": 3532,
+      "headline": "ENGINEERING MANAGER"
+    },
+    {
+      "case_id": "T09",
+      "category": "ENGINEERING",
+      "file": "ENGINEERING/19397727.pdf",
+      "sha256": "3e36a9f8195cd8bd12eefe6a37cc6a0a47e9bc967826fbffe43488f8cbedac20",
+      "bytes": 22098,
+      "pages": 2,
+      "text_characters": 4940,
+      "headline": "ENGINEERING TECHNICIAN III"
+    },
+    {
+      "case_id": "T10",
+      "category": "TEACHER",
+      "file": "TEACHER/45987048.pdf",
+      "sha256": "f2c4c8f8cd5fe6001f203e9336dcc0e232ccb7d91ccac3a4fc23dfdf9ee8b0c9",
+      "bytes": 23775,
+      "pages": 2,
+      "text_characters": 6064,
+      "headline": "[PERSON]"
+    },
+    {
+      "case_id": "T11",
+      "category": "TEACHER",
+      "file": "TEACHER/22551979.pdf",
+      "sha256": "dc0fa33880c8fddd59293da2fee89a3bdd0c4220ae33265060d761dd04ca4381",
+      "bytes": 33988,
+      "pages": 2,
+      "text_characters": 5660,
+      "headline": "TEACHER"
+    },
+    {
+      "case_id": "T12",
+      "category": "TEACHER",
+      "file": "TEACHER/58665241.pdf",
+      "sha256": "2c895156e425aec3cc9a71b20b5fa4dfe43cdc215dc9b8e740838a0272eff127",
+      "bytes": 21974,
+      "pages": 2,
+      "text_characters": 5411,
+      "headline": "ENGLISH TEACHER"
+    },
+    {
+      "case_id": "T13",
+      "category": "HEALTHCARE",
+      "file": "HEALTHCARE/96260484.pdf",
+      "sha256": "738fceb9bcb8a9f24bb2147d1c585d64944a1a16f467b7c1c98ab3addaaa8c57",
+      "bytes": 21929,
+      "pages": 2,
+      "text_characters": 5677,
+      "headline": "HEALTHCARE CONSULTANT"
+    },
+    {
+      "case_id": "T14",
+      "category": "HEALTHCARE",
+      "file": "HEALTHCARE/10076271.pdf",
+      "sha256": "c022cca88b509a699c2383bb0dac11f2d715a8c9c249f2619c86e5feae6a676b",
+      "bytes": 24208,
+      "pages": 2,
+      "text_characters": 5588,
+      "headline": "CHIEF EXECUTIVE OFFICER"
+    },
+    {
+      "case_id": "T15",
+      "category": "DESIGNER",
+      "file": "DESIGNER/26790545.pdf",
+      "sha256": "65a9b5db917be753c9d7d25305487c7a0337d09221a09a03aa0c6e5369544836",
+      "bytes": 22988,
+      "pages": 2,
+      "text_characters": 5470,
+      "headline": "PRESENTATION DESIGNER"
+    },
+    {
+      "case_id": "T16",
+      "category": "DESIGNER",
+      "file": "DESIGNER/22506245.pdf",
+      "sha256": "4d889c22faa6c0de872704b9477eda21f2899a3c1f18d315b7f46377f36e699d",
+      "bytes": 20156,
+      "pages": 1,
+      "text_characters": 3824,
+      "headline": "PRE-PRESS GRAPHIC DESIGNER"
+    },
+    {
+      "case_id": "T17",
+      "category": "AGRICULTURE",
+      "file": "AGRICULTURE/29897742.pdf",
+      "sha256": "2001bbccddf035593b65b028c86e940002031bb589aac414a2bf103bc457f847",
+      "bytes": 21636,
+      "pages": 2,
+      "text_characters": 4945,
+      "headline": "ADULT EDUCATION TEACHER"
+    },
+    {
+      "case_id": "T18",
+      "category": "AUTOMOBILE",
+      "file": "AUTOMOBILE/17571262.pdf",
+      "sha256": "6ab82bc4b75780a6e1e25aca1dc17ac1c5799e844f4879c0e5cb1e6640b38a4d",
+      "bytes": 21713,
+      "pages": 2,
+      "text_characters": 4787,
+      "headline": "SECRETARY II"
+    },
+    {
+      "case_id": "T19",
+      "category": "AVIATION",
+      "file": "AVIATION/11959428.pdf",
+      "sha256": "86bf9077a6e71e89ebb5a458b4bfcfe249d5059aa809466e574afb6516553d43",
+      "bytes": 15534,
+      "pages": 1,
+      "text_characters": 1497,
+      "headline": "MAINTENANCE MECHANIC"
+    },
+    {
+      "case_id": "T20",
+      "category": "DIGITAL-MEDIA",
+      "file": "DIGITAL-MEDIA/15353911.pdf",
+      "sha256": "17707eba9f5db5a19d00189034e2ec23f17bb001d5773230d074d0bb2616cbbb",
+      "bytes": 17575,
+      "pages": 1,
+      "text_characters": 1669,
+      "headline": "LEAD ARTIST"
+    },
+    {
+      "case_id": "T21",
+      "category": "CONSTRUCTION",
+      "file": "CONSTRUCTION/16203589.pdf",
+      "sha256": "caa467b5a53159de53508fbe39a650b240ea56e9d7d88369f34b79dad65c7d56",
+      "bytes": 32705,
+      "pages": 2,
+      "text_characters": 6859,
+      "headline": "PROJECT & CONSTRUCTION MANAGER"
+    },
+    {
+      "case_id": "T22",
+      "category": "FINANCE",
+      "file": "FINANCE/14408510.pdf",
+      "sha256": "6389e189884894f6db96274d8bb1adc1feb29e6aba68e5251ce113906ed51364",
+      "bytes": 21541,
+      "pages": 2,
+      "text_characters": 4859,
+      "headline": "FINANCE COORDINATOR"
+    },
+    {
+      "case_id": "T23",
+      "category": "HR",
+      "file": "HR/30163002.pdf",
+      "sha256": "edf48c4ff2bf8451d17ea44ff63055fbd10b9be2644f044bab0815c92430166a",
+      "bytes": 21580,
+      "pages": 2,
+      "text_characters": 4766,
+      "headline": "HR GENERALIST"
+    },
+    {
+      "case_id": "T24",
+      "category": "SALES",
+      "file": "SALES/12696104.pdf",
+      "sha256": "da7a62e02c73ebadd742a5d93a18207ecec8a3881e3b86496151358d6647310b",
+      "bytes": 14515,
+      "pages": 1,
+      "text_characters": 893,
+      "headline": "SALES ASSOCIATE"
+    },
+    {
+      "case_id": "T25",
+      "category": "CHEF",
+      "file": "CHEF/30826569.pdf",
+      "sha256": "6cb61cdc925d4c33dd7e4262cebf949d9e12a2b0af3dc36d719b79710110992a",
+      "bytes": 34504,
+      "pages": 2,
+      "text_characters": 5592,
+      "headline": "LECTURER, CHEF INSTRUCTOR, RESEARCHER, AND RECRUITER"
+    }
+  ]
+}

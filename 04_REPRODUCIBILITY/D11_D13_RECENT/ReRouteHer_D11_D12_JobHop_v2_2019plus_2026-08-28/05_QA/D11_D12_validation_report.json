@@ -1,0 +1,13 @@
+{
+  "task_scope": "D11 and D12",
+  "status": "PASS",
+  "checks": 31,
+  "passed": 31,
+  "failed": 0,
+  "d11_roles": 258,
+  "d12_training_examples": 562,
+  "d12_model_classes": 19,
+  "d12_catalog_size": 258,
+  "resume_dataset": "JobHop v2 confirmed active 2019+ only",
+  "failed_checks": []
+}

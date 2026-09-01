@@ -1,0 +1,15 @@
+{
+  "generated_on": "2026-08-27",
+  "roles": 10,
+  "masco_tasks": 95,
+  "bursa_sectors": 12,
+  "role_sector_links": 27,
+  "employers": 50,
+  "reports_reviewed": 50,
+  "atomic_employer_evidence_rows": 85,
+  "jobhop_records": 47224,
+  "jobhop_resumes": 35568,
+  "jobhop_training_examples": 562,
+  "official_esco_onet_coverage_rate": 0.989464,
+  "production_ready": false
+}

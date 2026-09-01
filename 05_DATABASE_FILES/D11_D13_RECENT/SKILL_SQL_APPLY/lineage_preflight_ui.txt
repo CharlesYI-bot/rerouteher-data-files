@@ -1,0 +1,34 @@
+The following is a diff from the previous accessibility tree for Window: "pgAdmin 4" with ~ and + representing changed and added elements, respectively. Removed elements are summarized by ID range.
+Removed element IDs: 553-557
++									560 container Cancel query
++									561 button Execute script F5
++									562 button Execute query
++									563 button Explain
++									564 button Explain Analyze
+~											544 text entry area Secondary Actions: Show Writing Tools, Value: NOTICE:  CHECKS {"missing_lineage": 0, "dangling_lineage": 0, "master_mismatches": 0}
+NOTICE:  DIGITAL_COLUMN {"table_name":"digital_skill_rating_lineage","column_name":"role_id","data_type":"text","is_nullable":"NO"}
+NOTICE:  DIGITAL_COLUMN {"table_name":"digital_skill_rating_lineage","column_name":"skill_id","data_type":"text","is_nullable":"NO"}
+NOTICE:  DIGITAL_COLUMN {"table_name":"digital_skill_rating_lineage","column_name":"skill_name","data_type":"text","is_nullable":"NO"}
+NOTICE:  DIGITAL_COLUMN {"table_name":"digital_skill_rating_lineage","column_name":"skill_type","data_type":"text","is_nullable":"NO"}
+NOTICE:  DIGITAL_COLUMN {"table_name":"digital_skill_rating_lineage","column_name":"importance","data_type":"double precision","is_nullable":"YES"}
+NOTICE:  DIGITAL_COLUMN {"table_name":"digital_skill_rating_lineage","column_name":"source","data_type":"text","is_nullable":"NO"}
+NOTICE:  DIGITAL_COLUMN {"table_name":"digital_skill_rating_lineage","column_name":"source_occupation_code","data_type":"text","is_nullable":"YES"}
+NOTICE:  DIGITAL_COLUMN {"table_name":"digital_skill_rating_lineage","column_name":"source_element_id","data_type":"text","is_nullable":"YES"}
+NOTICE:  DIGITAL_COLUMN {"table_name":"digital_skill_rating_lineage","column_name":"importance_method","data_type":"text","is_nullable":"YES"}
+NOTICE:  DIGITAL_COLUMN {"table_name":"digital_skill_rating_lineage","column_name":"curation_note","data_type":"text","is_nullable":"YES"}
+NOTICE:  DIGITAL_COLUMN {"table_name":"digital_skill_rating_lineage","column_name":"raw_source_value","data_type":"text","is_nullable":"YES"}
+NOTICE:  DIGITAL_COLUMN {"table_name":"digital_skill_rating_lineage","column_name":"normalisation_or_rating_rule","data_type":"text","is_nullable":"YES"}
+NOTICE:  DIGITAL_COLUMN {"table_name":"digital_skill_rating_lineage","column_name":"one_line_justification","data_type":"text","is_nullable":"YES"}
+NOTICE:  DIGITAL_COLUMN {"table_name":"digital_skill_rating_lineage","column_name":"source_url","data_type":"text","is_nullable":"YES"}
+NOTICE:  DIGITAL_COLUMN {"table_name":"digital_skill_rating_lineage","column_name":"review_status","data_type":"text","is_nullable":"NO"}
+NOTICE:  DIGITAL_LINEAGE 50
+ROLLBACK
+
+Query returned successfully in 352 msec.
++												565 text NOTICE:  CHECKS {"missing_lineage": 0, "dangling_lineage": 0, "master_mismatches": 0}
+NOTICE:  DIGITAL_COLUMN {"table_name":"digital_skill_rating_lineage","column_name":"role_id","data_type":"text","is_nullable":"NO"}
+NOTICE:  DIGITAL_COLUMN {"table_name":"digital_skill_rating_lineage","column_name":"skill_id","data_type":"text","is_nullable":"NO"}
+NOTICE:  DIGITAL_COLUMN {"table_name":"digital_skill_rating_lineage","column_name":"skill_name","data_type":"text","is_nullable":"NO"}
+NOTICE:  DIGITAL_COLUMN {"
+~									535 text Query complete 00:00:00.352
+The focused UI element is 458 HTML content pgadmin-agk54moxhek3abjlpt3jvpxs.152.69.222.16.sslip.io/sqleditor/panel/2164545?is_query_tool=true&sgid=1&sid=1&did=107074&database_name=rerouteher_test

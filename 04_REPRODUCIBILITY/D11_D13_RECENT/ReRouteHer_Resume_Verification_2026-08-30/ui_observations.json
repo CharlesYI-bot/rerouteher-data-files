@@ -1,0 +1,14 @@
+{
+  "application":"https://rerouteher.curl.my/",
+  "method":"Two completed browser journeys using original sampled PDFs: T01 and T17. Same live parse/snapshot/gap workflow as the 25-case API test. A first T01 upload lost its test tab before completion and was retried; this browser interruption is not counted as an application failure.",
+  "synthetic_break_input":{"duration_display":"Less than a year","duration_value":0,"activity":"Managing schedules"},
+  "break_input_note":"Browser form requires an activity; API isolation tests used two years with no activities. These are synthetic test settings, not inferred facts about the resume owners. Two scheduling/coordination skills appeared in both UI snapshots; primary recommendations and tested scores matched the API isolation results.",
+  "observations":[
+    {"case_id":"T01","stage":"snapshot","professional_skill_count":48,"break_skill_count":2,"previous_role":"Operation Research Analyst","displayed_confidence":"63%","badge":"Exploratory match"},
+    {"case_id":"T01","stage":"gap","target_role":"Operation Research Analyst","readiness":100,"visible_messages":["Ready today","None of your skills matched this role’s requirements yet.","No gaps were found for this role — you are covered on every skill we checked."],"screenshot":"ui_false_100_readiness.png"},
+    {"case_id":"T01","stage":"gap","target_role":"Supervisor, Management Information Systems","readiness":1.4,"displayed_requirement_count":"You meet 1 of 4 requirements","actual_active_requirement_count":32,"screenshot":"ui_requirement_count.png"},
+    {"case_id":"T17","stage":"snapshot","professional_skill_count":23,"break_skill_count":2,"previous_role":"Instructor Grade U41","displayed_confidence":"58%","badge":"Exploratory match"},
+    {"case_id":"T17","stage":"gap","target_role":"Instructor Grade U41","readiness":100,"matched_skills":0,"gaps":0},
+    {"case_id":"T17","stage":"gap","target_role":"Village Community Center Manager","readiness":100,"matched_skills":0,"gaps":0,"screenshot":"ui_village_manager.png"}
+  ]
+}

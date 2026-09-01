@@ -1,0 +1,156 @@
+{
+  "overall_passed": true,
+  "checks_passed": 29,
+  "checks_total": 29,
+  "scope": "Source, identifiers, joins, aliases, embeddings and round-trip data integrity. Not an expert equivalence audit or live database execution.",
+  "checks": [
+    {
+      "check": "all_657_D11_roles_mapped_once",
+      "passed": true,
+      "observed": 657
+    },
+    {
+      "check": "562_additional_roles_mapped",
+      "passed": true,
+      "observed": ""
+    },
+    {
+      "check": "MASCO_identifiers_are_six_digits",
+      "passed": true,
+      "observed": ""
+    },
+    {
+      "check": "all_primary_codes_URIs_titles_exist_in_ESCO",
+      "passed": true,
+      "observed": ""
+    },
+    {
+      "check": "original_D11_ESCO_comparison_fields_preserved",
+      "passed": true,
+      "observed": ""
+    },
+    {
+      "check": "D11_source_unchanged",
+      "passed": true,
+      "observed": ""
+    },
+    {
+      "check": "all_657_roles_have_skills",
+      "passed": true,
+      "observed": 657
+    },
+    {
+      "check": "skill_taxonomy_unique",
+      "passed": true,
+      "observed": 6164
+    },
+    {
+      "check": "role_skill_pairs_unique",
+      "passed": true,
+      "observed": 40948
+    },
+    {
+      "check": "role_and_skill_foreign_keys",
+      "passed": true,
+      "observed": ""
+    },
+    {
+      "check": "skill_names_and_types_match_taxonomy",
+      "passed": true,
+      "observed": ""
+    },
+    {
+      "check": "taxonomy_only_contains_linked_leaf_skills",
+      "passed": true,
+      "observed": ""
+    },
+    {
+      "check": "importance_is_100_or_50",
+      "passed": true,
+      "observed": ""
+    },
+    {
+      "check": "lineage_covers_every_role_skill_pair",
+      "passed": true,
+      "observed": ""
+    },
+    {
+      "check": "every_role_skill_is_an_official_ESCO_relation",
+      "passed": true,
+      "observed": ""
+    },
+    {
+      "check": "importance_follows_official_relation",
+      "passed": true,
+      "observed": ""
+    },
+    {
+      "check": "aliases_have_valid_skill_FKs",
+      "passed": true,
+      "observed": ""
+    },
+    {
+      "check": "aliases_case_insensitive_unique_per_skill",
+      "passed": true,
+      "observed": ""
+    },
+    {
+      "check": "required_product_acronym_aliases_present",
+      "passed": true,
+      "observed": ""
+    },
+    {
+      "check": "all_embeddings_384_dimensional",
+      "passed": true,
+      "observed": [
+        6164,
+        384
+      ]
+    },
+    {
+      "check": "embeddings_finite_and_L2_normalized",
+      "passed": true,
+      "observed": ""
+    },
+    {
+      "check": "embedding_index_matches_taxonomy",
+      "passed": true,
+      "observed": ""
+    },
+    {
+      "check": "CSV_vectors_match_numpy_artifact",
+      "passed": true,
+      "observed": ""
+    },
+    {
+      "check": "mapping_evidence_and_review_cover_all_roles",
+      "passed": true,
+      "observed": ""
+    },
+    {
+      "check": "confidence_relations_and_test_flags_explicit",
+      "passed": true,
+      "observed": ""
+    },
+    {
+      "check": "source_snapshot_hashes_match",
+      "passed": true,
+      "observed": ""
+    },
+    {
+      "check": "artifact_authoring_preserves_every_cell",
+      "passed": true,
+      "observed": ""
+    },
+    {
+      "check": "known_misleading_title_matches_corrected",
+      "passed": true,
+      "observed": ""
+    },
+    {
+      "check": "append_SQL_matches_user_schema_and_has_no_DDL",
+      "passed": true,
+      "observed": ""
+    }
+  ]
+}

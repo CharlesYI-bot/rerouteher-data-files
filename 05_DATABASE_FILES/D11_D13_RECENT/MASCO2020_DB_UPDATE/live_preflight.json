@@ -1,0 +1,49 @@
+{
+  "date": "2026-08-30",
+  "status": "awaiting_action_time_replacement_confirmation",
+  "database_rows_modified": false,
+  "schema_modified": false,
+  "database": "rerouteher_test",
+  "schema": "rerouteher",
+  "resource": "postgresql-database-wxnjpd2ia8avtwbs739mtamk",
+  "postgresql_version_observed": "18.6",
+  "database_size_observed": "281 MB",
+  "table_count_observed": 35,
+  "original_role_ids": ["R01","R02","R03","R04","R05","R06","R07","R08","R09","R10"],
+  "before_counts": {
+    "roles": 667,
+    "skill_taxonomy": 6205,
+    "skill_aliases": 38285,
+    "role_skills": 41118,
+    "role_skill_lineage": 41118
+  },
+  "prior_metadata_prefix": "d13_test_20260830",
+  "prior_metadata_count": 6822,
+  "cross_schema_foreign_keys_to_roles_or_skills": 0,
+  "outside_d13_role_or_uuid_skill_references_found": 0,
+  "user_triggers_on_target_data_tables": 0,
+  "backup_directory": "/var/lib/postgresql/masco2020_migration_20260830.MLQhVm",
+  "backup_file": "before.dump",
+  "backup_listing_successful": true,
+  "backup_size_observed": "38 MB",
+  "backup_sha256": "dc6c47767eb7bb533d20e30ffcdc34f71114dc23f1becd5da31cfa3d1ca6e3d7",
+  "normalized_schema_sha256": "07cdc5de3a8721e6557717a407fad933968dffde541a441c993b6eacf1925ff1",
+  "archive_uploaded_to_coolify": "MASCO2020_UPDATE_EXISTING_TEST_DATABASE.sql.gz",
+  "uploaded_ui_size": "18.06 MB",
+  "server_uploaded_checksum_verified": false,
+  "configured_import_command": "stage_upload.sh wrapped as sh -c SCRIPT sh; checksum-only staging, no psql execution",
+  "current_ui": "Restore Database from File confirmation; Name empty; Continue disabled",
+  "next_steps_after_confirmation": [
+    "Verify import command is still checksum-only staging and file is the new migration; enter exact resource name and continue staging.",
+    "Observe MIGRATION_STAGED_NO_SQL_EXECUTED and matching server SQL checksum; if staging fails inspect logs, do not run the default pg_restore.",
+    "Use the Coolify PostgreSQL terminal to verify the backup, migration checksum and unchanged normalized schema.",
+    "Run psql with d13_dry_run=true against the staged migration.sql. Inspect success and ROLLBACK.",
+    "Run the same file with d13_dry_run=false only after the rehearsal succeeds.",
+    "Verify commit, dataset counts, original-row hashes, ESCO comparisons and an identical normalized schema dump. Write a final live import receipt."
+  ],
+  "notes": [
+    "An original Coolify configuration tab contains unsaved user settings. It has not been saved or discarded.",
+    "The upload and backup are complete; the staging command and SQL migration have NOT been executed.",
+    "Role/skill replacement approval must be obtained before continuing through the destructive confirmation."
+  ]
+}

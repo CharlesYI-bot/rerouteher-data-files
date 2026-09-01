@@ -1,0 +1,5 @@
+"file","sha256","authority","source_url","rows"
+"00_SOURCE_SNAPSHOT/ESCO_v1.2.1_classification_en_csv/occupations_en.csv","8034348d84b6d1dd24a5bcf9609186ecbba0a85457ee2eacd65bddec33a51b4a","European Commission ESCO v1.2.1","https://esco.ec.europa.eu/en/use-esco/download","3043"
+"00_SOURCE_SNAPSHOT/ESCO_v1.2.1_classification_en_csv/skills_en.csv","d03b10efca94b4bcfa260a992cfde89c375f0fa12095d6662a663cfd2f9f2950","European Commission ESCO v1.2.1","https://esco.ec.europa.eu/en/use-esco/download","13960"
+"00_SOURCE_SNAPSHOT/ESCO_v1.2.1_classification_en_csv/occupationSkillRelations_en.csv","e1a46511f0ef4d505f106f1d41f528ef76d289f93e59d4d0cbaac38986102c44","European Commission ESCO v1.2.1","https://esco.ec.europa.eu/en/use-esco/download","126051"
+"00_SOURCE_SNAPSHOT/D11_STEM_roles.csv","b83366da3287b2a49d51fbe8e53932434a1225179d081437a486ececba679ec8","User-selected D11 2026-08-29; eMASCO-derived profiles","https://emasco.mohr.gov.my","657"

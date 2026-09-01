@@ -1,0 +1,60 @@
+{
+  "date": "2026-08-30",
+  "target_service": "postgresql-database-wxnjpd2ia8avtwbs739mtamk",
+  "database": "rerouteher_test",
+  "schema": "rerouteher",
+  "execution_interface": "Safari, Coolify terminal, PostgreSQL psql",
+  "sql_file": "04_DATABASE/D13_APPEND_LIVE_COMPAT.sql",
+  "sql_sha256": "a7f339ad5b7cbbf814396dfe40e3792a4556c7760c62bb80e7f15f17a52c28cd",
+  "compressed_sql_sha256": "50cc030adaf79d53324ba15d2dd8e626f33fce500a3e8d4e690d9eae730cee87",
+  "uploaded_checksums_match": true,
+  "psql_exit_status": 0,
+  "commit_observed": true,
+  "execution_seconds": 18,
+  "first_attempt": "Original ERD-only SQL failed the live skill_type CHECK constraint and fully rolled back; confirmed roles remained 10.",
+  "before_counts": {
+    "roles": 10,
+    "skill_taxonomy": 41,
+    "skill_aliases": 76,
+    "role_skills": 170,
+    "role_skill_lineage": 170
+  },
+  "after_counts": {
+    "roles": 667,
+    "skill_taxonomy": 6205,
+    "skill_aliases": 38285,
+    "role_skills": 41118,
+    "role_skill_lineage": 41118
+  },
+  "d13_checks": {
+    "mapped_roles": 657,
+    "roles_with_skills": 657,
+    "mapping_metadata_records": 657,
+    "retained_esco_comparison_records": 657,
+    "skill_original_type_metadata_records": 6164,
+    "role_skill_links": 40948,
+    "invalid_six_digit_masco_role_identities": 0,
+    "missing_or_mismatched_esco_codes": 0,
+    "invalid_384_dimension_or_unit_norm_role_vectors": 0,
+    "invalid_384_dimension_or_unit_norm_skill_vectors": 0,
+    "inconsistent_skill_type_or_uri": 0,
+    "database_digital_skills": 910,
+    "database_technical_skills": 5254
+  },
+  "preservation": {
+    "schema_before_after_hashes_identical": true,
+    "schema_dump_options": "--schema-only --schema=rerouteher --no-owner --no-privileges; randomized psql restrict/unrestrict lines removed before comparison",
+    "original_ten_role_row_hashes_identical": true,
+    "existing_records_deleted": false,
+    "esco_codes_and_comparisons_retained": true,
+    "original_esco_skill_types_retained_in_metadata": true,
+    "source_csvs_changed": false,
+    "database_constraints_changed": false,
+    "other_databases_written": false
+  },
+  "limitations": [
+    "Test-only project mappings, not an official MASCO-ESCO equivalence crosswalk.",
+    "Database skill categories are coarse compatibility buckets; authoritative source types remain in dataset_metadata.",
+    "This imports data; it does not retrain or redeploy the matching model."
+  ]
+}

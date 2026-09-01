@@ -1,0 +1,32 @@
+{
+  "validation_passed": true,
+  "schema_source_sha256": "2ee5959e1c1c531657198ffc140f82e63d25cb8073aa9d9c79399f77ec80abda",
+  "schema_source_tables": 35,
+  "insert_input_rows": {
+    "roles": 657,
+    "skill_taxonomy": 6164,
+    "skill_aliases": 38209,
+    "role_skills": 40948,
+    "role_skill_lineage": 40948
+  },
+  "mapping_metadata_rows": 657,
+  "release_metadata_rows": 1,
+  "before_image_rows": "0 to 657 depending on existing roles",
+  "allowed_existing_update": "roles.esco_code only; same role_id and masco_code",
+  "DDL_statements": 0,
+  "delete_truncate_statements": 0,
+  "schema_changes": false,
+  "external_file_dependencies": false,
+  "live_database_executed": false,
+  "sql_sha256": "a7f339ad5b7cbbf814396dfe40e3792a4556c7760c62bb80e7f15f17a52c28cd",
+  "sql_bytes": 101559667,
+  "skill_type_adapter": {
+    "metadata_rows": 6164,
+    "category_counts": {
+      "digital": 910,
+      "technical": 5254
+    },
+    "source_tables_unchanged": true,
+    "target_database_guard": "rerouteher_test"
+  }
+}

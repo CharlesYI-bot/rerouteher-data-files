@@ -1,0 +1,656 @@
+role_id,masco_code,role_title,original_inventory,core_candidates,approved_core_candidates,conditional_skills,empty_digital_band,mapping_confidence,mapping_relation,mapping_approval,status
+M112104,112104,Chief Technical Officer,83,22,22,61,False,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M121104,121104,Budget Manager,44,28,28,16,True,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M121106,121106,Audit and Risk Management Manager,47,27,0,20,True,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M121107,121107,Credit Manager,49,27,27,22,True,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M121108,121108,Insurance Manager,63,35,35,28,True,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M121109,121109,Fund Manager,57,30,30,27,True,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M121114,121114,Tax Manager,42,17,17,25,True,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M121115,121115,Claim Manager,41,23,23,18,True,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M121123,121123,Actuarial Valuation Manager,35,14,14,21,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M121205,121205,Occupational Safety and Health Manager,67,40,40,27,False,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M121411,121411,Supply Chain Manager,99,23,23,76,False,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M121416,121416,Technology Manager,41,18,18,23,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M122301,122301,Research and Development Manager,82,28,28,54,True,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M131102,131102,Forestry Manager,43,20,20,23,True,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M131106,131106,Agricultural Manager,37,15,15,22,True,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M131111,131111,Veterinary Manager,20,19,0,1,True,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M131114,131114,"Field Manager, Grass",88,41,0,47,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M131202,131202,"Production and Operation Manager, Fishery",63,39,0,24,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M131203,131203,Aquaculture Production Manager,63,39,39,24,False,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M132101,132101,Manufacturing Manager,82,21,21,61,False,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M132102,132102,"Production and Operation Manager, Manufacturing",35,19,19,16,True,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M132104,132104,Electrical Manager,57,27,0,30,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M132105,132105,Energy Manager,66,40,40,26,True,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M132108,132108,Ship Hull Manager,35,19,19,16,True,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M132109,132109,Mechanical Manager,82,21,0,61,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M132110,132110,Welding Manager,50,22,22,28,True,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M132111,132111,Oil Mill Manager,53,31,31,22,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M132112,132112,"Manager, Halal Food Manufacturing",53,31,31,22,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M132126,132126,Power Generation Plant Manager,50,26,26,24,True,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M132201,132201,"Production and Operation Manager, Mine",31,22,22,9,False,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M132203,132203,"Production and Operation Manager, Oil and Gas Extraction",39,21,21,18,True,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M132207,132207,Offshore Installation Manager,39,21,21,18,True,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M132210,132210,"Manager, Metallurgy",25,13,13,12,True,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M132301,132301,Construction Manager,56,27,27,29,True,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M132310,132310,Building and Architecture Manager,56,27,27,29,True,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M132311,132311,Land Surveyor Manager,53,27,27,26,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M132401,132401,Railway Station Master,23,22,22,1,False,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M132402,132402,Transport Manager,32,30,30,2,False,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M132405,132405,Logistics Manager,46,34,34,12,False,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M132414,132414,Shipping Manager,46,34,34,12,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M132416,132416,"Manager, Halal Logistics Operation",46,34,34,12,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M151101,151101,Chief Information Officer,89,23,23,66,False,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M151102,151102,Chief data officer,61,16,16,45,False,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M151103,151103,Chief Information Security Officer,81,47,47,34,False,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M151106,151106,Information Systems Manager,41,18,18,23,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M151108,151108,Village Community Center Manager,41,18,0,23,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M151112,151112,Application Development Manager,48,23,23,25,False,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M151113,151113,Data Operations Manager,41,18,18,23,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M151116,151116,Internet Service Provider,27,10,10,17,False,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M151117,151117,Network Manager,41,18,18,23,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M151119,151119,Audio Visual Manager,10,9,0,1,True,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M151122,151122,Information Technology Project Manager,71,26,26,45,False,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M151123,151123,Information Technology Infrastructure Manager,41,18,18,23,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M151124,151124,Information Technology Programme Manager,71,26,0,45,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M151127,151127,Bioinformatics Manager,84,56,56,28,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M151128,151128,Creative Multimedia Manager,39,18,18,21,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M151130,151130,Network Operations Manager,41,18,18,23,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M151132,151132,Information Technology Business Development Manager,32,16,16,16,False,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M151135,151135,Software Development Manager,48,23,23,25,False,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M161202,161202,"Director, Nursing",106,92,0,14,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M161210,161210,Phytonutrients Manager,82,28,0,54,True,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M161211,161211,Health Educator,33,14,14,19,True,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M211101,211101,Physicist,94,50,50,44,False,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M211129,211129,Astronaut,31,18,18,13,False,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M211201,211201,Meteorological Officer Grade C41,65,40,40,25,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M211202,211202,Meteorologist,65,40,40,25,False,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M211210,211210,"Meteorologist, Environmental",65,40,40,25,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M211211,211211,"Meteorologist, Numerical Weather Prediction Modeling",65,40,40,25,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M211302,211302,Chemist,96,55,55,41,False,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M211402,211402,Geologist,87,47,47,40,False,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M211424,211424,Hydrologist,79,45,45,34,False,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M211432,211432,Geoscientist,87,47,47,40,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M212101,212101,Statistician Grade E41,85,50,50,35,False,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M212102,212102,Mathematician,80,44,44,36,False,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M212106,212106,"Statistician, Applied Statistics",85,50,50,35,False,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M212112,212112,Pricing Actuarie,35,14,14,21,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M212113,212113,Valuation Actuarie,35,14,14,21,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M212115,212115,Metrologist,65,48,48,17,False,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M213101,213101,Wildlife Officer Grade G41,62,28,28,34,True,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M213103,213103,Microbiologist,85,53,53,32,False,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M213104,213104,Serologist,78,49,49,29,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M213108,213108,Biologist,98,38,38,60,False,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M213117,213117,Cystologist,55,37,0,18,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M213120,213120,Botanist,31,25,25,6,True,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M213151,213151,Ecologist,92,45,45,47,False,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M213169,213169,Arborist,34,26,26,8,False,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M213202,213202,Conservator of Forests Grade G41,37,23,0,14,True,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M213203,213203,Agricultural Officer Grade G41,81,35,0,46,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M213204,213204,Land Planning Officer Grade G41,38,19,19,19,False,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M213205,213205,Agricultural Officer,81,35,0,46,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M213209,213209,Farm Demonstrator,81,35,0,46,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M213210,213210,Forestry Officer,37,23,0,14,True,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M213214,213214,Aquaculture Executive,63,39,39,24,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M213301,213301,Environmental Control Officer Grade C41,37,16,0,21,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M213302,213302,Agronomist,81,35,35,46,False,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M213304,213304,Agricultural Scientist,74,53,53,21,False,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M213305,213305,Floriculturist,82,42,0,40,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M213306,213306,Horticulturist,24,16,0,8,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M213315,213315,Wood Analyst,52,28,0,24,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M213316,213316,Animal Scientist,56,46,0,10,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M213317,213317,Environmental Research Scientist,82,56,56,26,False,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M213318,213318,Conservation Officer,62,28,28,34,True,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M213322,213322,Environmental Consultant,56,31,31,25,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M213402,213402,Biochemist,93,54,54,39,False,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M213409,213409,Endocrinologists,178,62,62,116,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M213410,213410,Physiologists,83,41,41,42,False,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M213416,213416,Pharmacologists,89,55,55,34,False,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M213422,213422,Pathologist,178,62,62,116,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M213433,213433,Bio-Fermentation Specialist,71,45,0,26,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M213435,213435,Bee Cultivation Specialist,39,27,27,12,True,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M213436,213436,Embryologist,92,53,0,39,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M214101,214101,Automation Engineer,109,45,45,64,False,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M214102,214102,Robotics Engineer,53,17,17,36,False,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M214103,214103,Industrial Engineer,77,9,9,68,True,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M214106,214106,Communication Analyst,61,33,0,28,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M214110,214110,Systems Engineer (Except Computers),77,9,9,68,True,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M214111,214111,Systems Design Engineer (Except Computers),49,17,17,32,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M214115,214115,Cost Evaluation Engineer,33,13,0,20,True,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M214120,214120,Ceramics Technologist,47,27,27,20,True,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M214142,214142,Photonic Engineer,105,41,41,64,False,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M214144,214144,SCADA Engineer,109,45,45,64,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M214155,214155,Energy Engineer,108,46,46,62,False,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M214156,214156,Renewable Energy Engineer,93,42,42,51,False,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M214157,214157,Environment Engineer,83,52,52,31,False,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M214159,214159,Energy Auditor,31,27,27,4,True,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M214169,214169,Materials Engineer,47,27,27,20,True,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M214202,214202,Engineer Grade J41,96,30,30,66,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M214206,214206,Civil Engineering Technologist,96,30,30,66,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M214207,214207,Civil Engineer,96,30,30,66,False,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M214238,214238,Foundation Engineer,45,20,0,25,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M214245,214245,Quantity Surveyor Grade J41,41,19,19,22,True,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M214246,214246,Building Surveyor Grade J41,26,11,11,15,True,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M214248,214248,Quantity Surveyor,41,19,19,22,True,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M214301,214301,Environmental Engineer,83,52,52,31,False,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M214305,214305,Environmental Analyst,82,56,56,26,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M214402,214402,Mechanical Engineer,92,40,40,52,False,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M214404,214404,Lift Engineer,58,31,0,27,True,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M214413,214413,Internal Combustion Engine Engineer,25,12,12,13,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M214436,214436,Welding Engineer,53,29,29,24,False,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M214443,214443,Engineering Technologist,92,40,40,52,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M214458,214458,Robotic Technologist,63,29,29,34,False,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M214459,214459,Aerospace Engineer,47,19,19,28,False,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M214503,214503,Chemical Engineer,106,18,18,88,True,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M214601,214601,Mining Engineer,21,13,0,8,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M214606,214606,Petroleum Mining Engineer,27,24,0,3,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M214609,214609,Metallurgist,50,17,17,33,True,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M214616,214616,Assayer,27,16,16,11,True,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M214624,214624,Marine Section Leader,39,28,0,11,True,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M214641,214641,Hydraulics Engineer,40,20,20,20,False,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M214642,214642,Water Management Engineer,73,24,0,49,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M214645,214645,Pipeline Mechanical Engineer,35,19,0,16,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M214648,214648,Pipe Stress Engineer,35,19,0,16,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M214649,214649,Blasting Expert,22,16,16,6,True,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M214901,214901,Explosive Ordnance Engineer,22,16,0,6,True,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M214902,214902,Marine Salvage Engineer,72,20,0,52,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M214907,214907,Industrial Health and Safety Engineer,62,11,11,51,False,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M214913,214913,Field Service Engineer,37,15,0,22,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M214918,214918,Research Engineer,37,14,14,23,False,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M214919,214919,Biomedical Engineer,67,25,25,42,False,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M214920,214920,Optical Engineer,118,33,33,85,False,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M214921,214921,Quality Assurance/Quality Control Inspection Engineer (QA/QC),37,16,0,21,True,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M214922,214922,Factories and Machinery Inspector Grade J41,61,34,0,27,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M214923,214923,Commissioning Engineer,33,20,20,13,True,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M215102,215102,Electrical Engineer,108,42,42,66,False,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M215135,215135,Electrical Energy Auditor,31,27,27,4,True,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M215136,215136,Electrical Superintendent,57,27,27,30,False,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M215202,215202,Electronics Engineer,58,27,27,31,False,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M215236,215236,Integrated Circuit Package Assembly Process Engineer (IC),106,45,45,61,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M215301,215301,Telecommunications Engineer,91,25,25,66,False,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M215323,215323,Network and System Engineer,98,23,23,75,False,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M215330,215330,Acoustic Engineer,33,13,13,20,False,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M216101,216101,Architect Grade J41,95,45,45,50,False,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M216102,216102,Architect,95,45,45,50,False,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M216201,216201,Landscape Architect Grade J41,52,18,18,34,True,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M216202,216202,Landscape Architect,52,18,18,34,True,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M216301,216301,Commercial Products Designer,67,20,0,47,True,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M216326,216326,Green Technology Design Professional,83,52,52,31,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M216401,216401,Urban and Rural Planning Officer Grade J41,82,45,0,37,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M216402,216402,Town Planner,82,45,45,37,False,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M216404,216404,Traffic Engineer,49,26,26,23,False,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M216407,216407,Urban and Regional Planners,82,45,0,37,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M216501,216501,Geospatialist Grade J41,43,20,0,23,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M216502,216502,Surveyor Grade J41,53,27,27,26,False,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M216503,216503,Cartographer,49,17,17,32,False,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M216507,216507,Surveyor,53,27,27,26,False,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M216601,216601,Designer Grade B41,64,19,19,45,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M217102,217102,Marine Engineer,72,20,20,52,False,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M217105,217105,Naval Architect,92,12,12,80,True,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M217201,217201,Marine Officer Grade AL41,79,27,0,52,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M217203,217203,Hovercraft Pilot,30,21,0,9,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M217205,217205,Port Captain,39,31,0,8,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M217207,217207,Ship Navigator,28,21,21,7,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M217210,217210,Marine Superintendent (Deck),28,21,21,7,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M217211,217211,Shipping Executive,25,12,0,13,True,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M217301,217301,Pilot/ Pilot Examiner Grade AT41,30,24,24,6,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M217302,217302,Aircraft Examiner Grade AT41,30,24,24,6,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M217303,217303,Pilot,88,24,0,64,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M217305,217305,Flight Instructor,42,19,19,23,False,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M217310,217310,Aircraft Design Engineer,47,19,19,28,False,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M217311,217311,Aeronautical Engineer,47,19,19,28,False,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M217312,217312,Pilot/Pilot Examiner Grade AT43,30,24,24,6,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M217313,217313,Pilot/Pilot Examiner Grade AT47,30,24,24,6,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M217314,217314,Pilot/Pilot Examiner Grade AT51,30,24,24,6,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M217315,217315,Pilot/Pilot Examiner Grade AT53,30,24,24,6,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M217322,217322,Marine Aviation Officer,20,17,0,3,True,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M217401,217401,Air Traffic Control Officer Grade A41,36,32,32,4,False,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M217402,217402,Air Traffic Controller,36,32,32,4,False,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M217403,217403,Operation Centre Controller,20,17,17,3,True,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M217501,217501,Railway and Locomotive Operation Officer,26,20,20,6,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M218101,218101,Mining Excecutive,38,27,27,11,True,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M218201,218201,Manufacturing Executive,82,21,0,61,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M218202,218202,Quality Assurance Executive,31,17,17,14,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M218207,218207,Store Executive,54,40,0,14,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M218229,218229,Technical Service Adviser,84,31,0,53,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M218231,218231,Material Specialist,47,27,27,20,True,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M218301,218301,Construction Executive,56,27,27,29,True,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M221101,221101,Medical Officer Grade UD41,56,10,10,46,False,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M221102,221102,Medical Doctor,56,10,10,46,False,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M221107,221107,"Medical Doctor, Gynaecology",178,62,62,116,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M221108,221108,"Medical Doctor, Cardiology",178,62,62,116,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M221110,221110,"Medical Doctor, Obstetrics",178,62,62,116,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M221111,221111,"Medical Doctor, Ophthalmology",178,62,62,116,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M221112,221112,"Medical Doctor, Psychiatry",178,62,62,116,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M221113,221113,"Medical Doctor, Radiology",178,62,62,116,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M221118,221118,"Doctor, Skin",178,62,62,116,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M221120,221120,Medical Officer Grade UD43,56,10,10,46,False,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M221201,221201,"Ear, Nose and Throat Specialist",178,62,62,116,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M221204,221204,Anaesthetist,178,62,62,116,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M221206,221206,Medical Oncologist,178,62,62,116,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M221208,221208,Psychiatrist,178,62,62,116,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M221209,221209,Ophthalmologist,178,62,62,116,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M221210,221210,Cardiologist,178,62,62,116,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M221211,221211,Neurologist,178,62,62,116,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M221213,221213,Obstetrician and Gynaecologist,178,62,62,116,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M221217,221217,Surgeon,178,62,62,116,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M221233,221233,Dermatologist,178,62,62,116,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M221234,221234,Orthopaedist,178,62,62,116,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M221236,221236,Paediatrician,178,62,62,116,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M221244,221244,Physician,178,62,62,116,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M221257,221257,Radiologist,178,62,62,116,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M221262,221262,Urologist,178,62,62,116,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M221263,221263,Venereologist,178,62,62,116,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M221266,221266,Application Specialist (Hematology),79,34,0,45,True,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M222101,222101,Nurse Grade U41,106,92,92,14,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M222102,222102,Professional Nurse,106,92,92,14,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M222109,222109,Specialist Nurse,92,70,70,22,False,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M222110,222110,Nurse Instructor,94,43,43,51,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M222201,222201,Professional Midwife,88,73,73,15,False,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M224101,224101,Paramedic,83,74,74,9,False,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M225101,225101,Veterinary Officer Grade GV41,52,35,0,17,True,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M225102,225102,Veterinarian,77,53,53,24,True,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M226101,226101,Dental Officer Grade UG41,83,67,0,16,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M226102,226102,Dentist,83,67,67,16,False,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M226201,226201,Pharmacist Grade UF41,86,65,65,21,True,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M226202,226202,Pharmacist,86,65,65,21,True,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M226207,226207,Pharmacist Grade UF44,86,65,65,21,True,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M226301,226301,Environmental Health Officer Grade U41,37,16,16,21,False,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M226320,226320,Occupational Safety and Health Adviser,38,16,16,22,False,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M226324,226324,Authorised Gas Tester,61,34,0,27,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M226325,226325,Indoor Air Quality (IAQ) Assessor,28,17,0,11,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M226327,226327,Chemical Assessor,61,34,34,27,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M226328,226328,Waste Management Competence Person,45,16,16,29,True,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M226329,226329,Building Auditor,36,18,18,18,True,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M226331,226331,Halal Executive,28,17,0,11,True,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M226337,226337,Food and Drinks Technologist,139,73,0,66,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M226341,226341,Landfill Engineer,47,20,20,27,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M226344,226344,Major Hazard Competent Person,62,11,11,51,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M226401,226401,Medical Rehabilitation Officer Grade U41,98,90,0,8,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M226411,226411,Orthopaedic Physical Therapist,98,90,0,8,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M226501,226501,Dietetics Officer Grade U41,103,81,81,22,False,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M226502,226502,Dietician,103,81,81,22,False,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M226514,226514,Food Preparation Officer Grade C41,53,31,0,22,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M226601,226601,Audiologists,71,60,60,11,False,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M226602,226602,Speech Therapist,87,73,73,14,False,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M226603,226603,Orthoepist,87,73,73,14,False,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M226701,226701,Optometry Officer Grade U41,60,46,0,14,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M226702,226702,Optometrist,60,46,46,14,False,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M226703,226703,Optician,61,53,53,8,False,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M226801,226801,Occupational Therapist,86,69,69,17,False,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M226901,226901,X-Ray Technician Grade U41,77,55,55,22,False,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M226902,226902,Instructor Grade U41,60,29,0,31,True,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M231105,231105,Dental Lecturer Grade DUG51P,88,34,34,54,False,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M231117,231117,Pharmacy Lecturer Grade DUF45,95,32,32,63,False,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M232102,232102,"Teacher, Vocational",115,11,11,104,True,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M238101,238101,Vocational Training Officer Grade DV41,115,11,11,104,True,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M238102,238102,Skills Training Trainer,115,11,11,104,True,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M238103,238103,Assistant Vocational Training Officer Grade DV29,115,11,11,104,True,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M238106,238106,Assistant Vocational Training Officer Grade DV35,115,11,11,104,True,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M238107,238107,Assistant Vocational Training Officer Grade DV37,115,11,11,104,True,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M238108,238108,Assistant Vocational Training Officer Grade DV39,115,11,11,104,True,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M238109,238109,Vocational Training Officer Grade DV43,115,11,11,104,True,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M238110,238110,Vocational Training Officer Grade DV47,115,11,11,104,True,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M238111,238111,Vocational Training Officer Grade DV51,115,11,11,104,True,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M238112,238112,Vocational Training Officer Grade DV53,115,11,11,104,True,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M239303,239303,Software Trainer,45,13,13,32,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M242103,242103,Operation Research Analyst,80,44,0,36,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M242401,242401,Staff Training Officer,36,16,16,20,True,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M242601,242601,Research Officer Grade Q41,34,17,0,17,True,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M242602,242602,Scientific Officer Grade C41,38,20,0,18,True,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M242603,242603,Agro-Based Biotech Food Researcher,71,45,45,26,False,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M242604,242604,Aquaculture Biotech Researcher,119,65,65,54,False,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M242609,242609,Research and Development Executive,82,28,28,54,True,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M242613,242613,Research Officer,34,17,0,17,True,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M243114,243114,Trade Product Specialist,56,28,28,28,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M243132,243132,Technical Sales Engineer,42,23,23,19,False,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M243301,243301,"Sales Representative, Medical",36,20,0,16,True,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M243401,243401,"Sales Representative, Information and Communications Technology",30,29,0,1,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M243410,243410,Digital Banking/Internet Technology Specialist,91,17,17,74,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M251101,251101,Management Information Systems (MIS) Analyst,97,28,0,69,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M251116,251116,Technical Specialist (.Net),108,24,24,84,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M251142,251142,Register Transfer Level (RTL) Designer (Information Technology),36,17,17,19,False,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M251144,251144,Design Engineer (Information Technology),92,23,0,69,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M251201,251201,Software Developer,108,24,24,84,False,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M251219,251219,Information Technology System Architect,92,23,0,69,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M251243,251243,Information System Executive,60,32,32,28,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M251301,251301,Website Developer,103,26,26,77,False,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M251302,251302,Internet/ Intranet Developer,103,26,26,77,False,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M251401,251401,Computer Programmer,108,24,24,84,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M251407,251407,Systems Programmer,97,20,20,77,False,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M251419,251419,C/C++ Programmer,108,24,24,84,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M251433,251433,Computer Infrastructure Specialist,60,32,32,28,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M251434,251434,User Interface (UI)/ Gameplay Coders,98,17,0,81,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M251902,251902,Systems Tester,42,12,12,30,False,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M251916,251916,Information Technology Auditor,37,19,19,18,False,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M252101,252101,Database Architect,103,27,27,76,False,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M252103,252103,Database Administrator,67,28,28,39,False,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M252108,252108,Oracle Database Specialist,67,28,28,39,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M252201,252201,Information Technology Officer Grade F41,97,28,28,69,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M252205,252205,Information System Officer,60,32,32,28,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M252208,252208,Information Technology Support Officer,80,23,23,57,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M252214,252214,Computer Support Engineer,80,23,23,57,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M252215,252215,Information Technology Technical Specialist,80,23,23,57,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M252222,252222,Cloud Computing Solution Architect,17,6,0,11,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M252238,252238,Geographic Information Systems (GIS) Officer,43,20,0,23,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M252311,252311,Network Specialist,98,34,34,64,False,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M252401,252401,Data Scientist,97,63,63,34,False,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M252403,252403,Data Analyst,67,36,36,31,False,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M252406,252406,Data Architect,103,27,27,76,False,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M252411,252411,Machine Learning Engineer,89,31,31,58,False,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M252413,252413,Artificial Intelligence Engineer (AI),89,31,31,58,False,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M253102,253102,Cybersecurity Executive,72,22,0,50,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M253103,253103,Digital Forensic Specialist,77,40,0,37,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M253120,253120,Information Security Officer,59,25,25,34,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M253130,253130,Cybersecurity Analyst,72,22,0,50,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M253131,253131,Test Analyst (Information Technology),36,9,0,27,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M253136,253136,Security Infrastructure Engineer,59,25,25,34,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M253139,253139,Internet Safety Evaluater,54,32,0,22,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M254110,254110,Compositor/Composite artist,35,18,18,17,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M254112,254112,Scriptwriter / Screenwriter,33,21,0,12,True,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M254116,254116,Digital Artist,41,23,23,18,False,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M254120,254120,Multimedia Artist,41,23,23,18,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M254126,254126,Visualization Specialist,103,24,24,79,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M254127,254127,Computer Specialist,80,23,23,57,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M254128,254128,Story Content Writer,32,18,18,14,True,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M254201,254201,Game Designer (Digital),96,18,0,78,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M254203,254203,QA Tester/Game Tester (Digital),38,9,0,29,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M254204,254204,Game Producer (Digital),17,13,13,4,True,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M254206,254206,3D Artist,72,16,0,56,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M254209,254209,Concept Artist,41,23,23,18,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M254210,254210,Technical Artist,41,23,0,18,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M254211,254211,Art director,82,26,26,56,True,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M254215,254215,Graphics Programmer,82,19,0,63,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M254217,254217,Graphics Creator,64,19,0,45,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M254301,254301,Web Designer,22,10,10,12,False,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M254302,254302,Graphic Designer,64,19,19,45,False,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M254305,254305,Multimedia Designer,103,24,24,79,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M254314,254314,UX Designer (User Experience),95,27,0,68,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M254316,254316,Digital Designer,103,24,24,79,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M254317,254317,Creative Team Leader,39,18,18,21,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M254318,254318,Character Rigger,24,15,0,9,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M261907,261907,Coroner,26,9,9,17,True,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M282203,282203,Archaeologist,79,40,40,39,False,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M282204,282204,Geographer,73,41,41,32,False,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M282206,282206,Criminologist,67,47,47,20,False,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M282404,282404,Clinical Psychologist,120,99,99,21,False,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M282407,282407,Psychotherapist,103,73,73,30,False,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M291603,291603,Industrial Relations Officer Grade S41,29,16,16,13,True,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M291608,291608,Maritime Superintendent Officer Grade T13,37,14,0,23,True,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M311101,311101,Laboratory Assistant Grade C19,82,16,16,66,True,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M311102,311102,Research Assistant Grade Q19,81,43,0,38,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M311105,311105,Geophysics Technician,58,23,0,35,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M311106,311106,Chemistry Technician,63,27,27,36,False,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M311107,311107,Physics Science Laboratory Technician,33,13,0,20,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M311108,311108,Physical Science Technician,33,13,0,20,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M311110,311110,Chemistry Laboratory Assistant,63,27,27,36,False,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M311112,311112,Soil Technician,37,19,19,18,True,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M311114,311114,Meteorological Technician,35,22,22,13,False,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M311116,311116,Geological Technician,58,23,23,35,False,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M311120,311120,Oceanography Technician,45,21,0,24,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M311125,311125,Climate Service Technician,35,22,22,13,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M311132,311132,Laboratory Technician,82,16,16,66,True,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M311133,311133,Assistant Meteorological Officer Grade C29,35,22,0,13,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M311136,311136,Assistant Scientific Officer Grade C29,82,16,16,66,True,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M311137,311137,Assistant Research Officer Grade Q29,81,43,0,38,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M311202,311202,Civil Engineering Technician,63,20,20,43,False,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M311204,311204,Civil Engineering Estimator,41,19,0,22,True,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M311208,311208,Engineering Designer,42,16,16,26,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M311209,311209,Civil Engineering Supervisor,48,22,22,26,True,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M311210,311210,Tunnel Boring Machine Technician,26,14,0,12,True,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M311211,311211,Building Inspector,36,18,18,18,True,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M311212,311212,Geotechnical Technician,17,9,9,8,True,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M311213,311213,Fire Inspector,29,13,13,16,True,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M311214,311214,Surveying Technician,46,23,23,23,False,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M311217,311217,Process Instrument Technician,78,32,32,46,False,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M311219,311219,Assistant Engineer Grade JA29,28,9,0,19,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M311225,311225,Assistant Civil Engineer,28,9,0,19,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M311226,311226,Operation Technician,38,16,0,22,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M311227,311227,Green Building Facilities Maintenance Technician,24,10,0,14,True,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M311230,311230,Assistant Engineer Maintenance,42,14,0,28,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M311232,311232,Assistant Quantity Surveyor Grade JA29,41,19,19,22,True,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M311233,311233,Quantity Surveyor Assistant,41,19,19,22,True,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M311237,311237,Assistant Building Surveyor Grade J29,26,11,11,15,True,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M311301,311301,Electrical Engineering Technician,67,28,28,39,True,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M311307,311307,Electrical and Instrument Supervisor,57,27,0,30,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M311310,311310,Electrical Engineering Estimator,34,11,11,23,True,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M311314,311314,Electrical High Voltage Technician,67,28,0,39,True,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M311315,311315,Debug Technician,45,24,0,21,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M311316,311316,Assistant Electrical Engineer,67,28,28,39,True,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M311401,311401,Electronics Engineering Technician,90,30,30,60,False,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M311402,311402,Electronics Engineering Estimator,34,11,11,23,True,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M311404,311404,Electronics Design Technician,90,30,0,60,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M311504,311504,Mechanical Engineering Technician,39,14,14,25,False,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M311514,311514,Mechanical Engineering Assistant,28,9,0,19,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M311515,311515,Mechanical Engineering Estimator,34,11,11,23,True,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M311516,311516,"Dockmaster, Dry Dock",39,31,0,8,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M311517,311517,"Dockmaster, Graving Dock",39,31,0,8,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M311521,311521,Hydraulic Hose Technician,31,13,0,18,True,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M311524,311524,Mechatronics Technician,63,28,28,35,False,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M311527,311527,CNC Technician (Computer Numerical Control),158,19,0,139,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M311528,311528,Welding Technician,50,22,22,28,True,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M311529,311529,Steelmaking Technician,33,18,0,15,True,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M311531,311531,Hygiene Technician 1,61,34,0,27,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M311538,311538,CAD/CAM Technician (Computer-Aided Design and Manufacturing),83,49,49,34,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M311544,311544,AutoCad Drafter,83,49,49,34,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M311548,311548,Equipment Technician,37,16,16,21,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M311549,311549,Assistant Equipment Engineer,37,15,0,22,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M311550,311550,Assistant Welding Engineer,53,29,0,24,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M311552,311552,Hygiene Technician 2,61,34,0,27,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M311601,311601,Chemical Engineering Technician,55,24,24,31,False,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M311604,311604,Oil Technologist,18,9,0,9,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M311605,311605,Chemical Petroleum Technician,55,24,0,31,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M311609,311609,Chemical Engineering Estimator,34,11,11,23,True,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M311701,311701,Metallurgical Technician,33,18,18,15,True,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M311704,311704,Metallurgical Laboratory Assistant,33,18,0,15,True,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M311711,311711,Mining Assistant,26,10,10,16,True,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M311723,311723,Associate Field Professional,28,9,9,19,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M311801,311801,Draughtsperson (Architecture) Grade JA19,47,23,0,24,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M311803,311803,Draughtsperson,90,24,24,66,False,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M311824,311824,Geospatial Technician,43,20,0,23,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M311826,311826,Assistant Architectural Officer Grade JA29,95,45,0,50,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M311827,311827,Draughtsperson (Civil Engineering) Grade JA19,42,16,16,26,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M311828,311828,Assistant Landscape Architect Grade JA29,52,18,0,34,True,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M311829,311829,Assistant Land Officer (Peninsular) NT29,38,19,0,19,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M311830,311830,Assistant Land Admini Officer (Sabah and Sarawak) Grade NT29,47,20,0,27,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M311831,311831,Assistant Surveyor Grade JA29,46,23,23,23,False,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M311903,311903,Maintenance Technician,37,16,16,21,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M311910,311910,"Engineering Technician, Production",38,16,16,22,False,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M311928,311928,Quality Assurance Engineering Technician,40,17,0,23,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M311929,311929,Assistant Factory and Machinery Inspector Grade JA29,61,34,0,27,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M311943,311943,Food Processing Technician,80,32,0,48,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M311944,311944,Crankshaft Grinding Technician,62,26,0,36,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M311945,311945,Agro-Based Biotech Research Technician,43,17,17,26,True,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M311948,311948,Test Technician,40,17,17,23,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M312201,312201,Manufacturing Supervisor,86,39,39,47,True,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M312203,312203,Finishing Supervisor,86,39,39,47,True,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M312205,312205,Compounding Supervisor,37,22,22,15,True,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M312207,312207,Cutting Supervisor,86,39,39,47,True,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M312209,312209,Plywood Inspection Supervisor,44,16,16,28,True,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M312210,312210,Sawyer Supervisor,44,16,16,28,True,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M312215,312215,Quality Control Supervisor,49,29,0,20,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M312218,312218,"Production Supervisor, Halal Food Manufacturing",86,39,0,47,True,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M312220,312220,"Quality Assurance Supervisor, Halal Meat Processing",28,17,0,11,True,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M312226,312226,Maintenance Supervisor,42,14,0,28,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M312228,312228,"Supervisor, Halal Slaughterhouse",45,33,0,12,True,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M312229,312229,"Warehouse Supervisor, Halal Logistics Operation",54,40,0,14,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M312234,312234,Industrial Robot Controller,33,12,12,21,False,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M312301,312301,Operation Supervisor,48,22,22,26,True,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M312303,312303,Construction Supervisor,48,22,22,26,True,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M313104,313104,Power Generating Plant Operator,63,17,0,46,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M313106,313106,Powerhouse Fabricator,61,22,0,39,True,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M313110,313110,Solar Power Plant Operator,62,15,15,47,True,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M313111,313111,Distribution Control Operator,27,14,14,13,True,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M313113,313113,Power System Operator,63,17,0,46,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M313116,313116,Solar Cell Technician,93,25,0,68,True,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M313201,313201,Stationary Engine Operator,63,17,0,46,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M313302,313302,Chemical Plant Supervisor,37,22,22,15,True,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M313406,313406,Gas Plant Operator,35,15,0,20,True,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M313412,313412,Pumping-Station Petroleum and Natural Gas Operator,23,15,0,8,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M313417,313417,Refinery Process Technician,18,9,9,9,False,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M313503,313503,Metal Processing Control Operator,21,10,10,11,True,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M314101,314101,Biological Technician,51,22,0,29,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M314102,314102,Entomological Technician,39,19,19,20,True,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M314104,314104,Botanical Technician,45,19,19,26,True,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M314107,314107,Artificial Breeding Technician,44,25,0,19,True,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M314109,314109,Zoological Technician,39,19,19,20,True,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M314203,314203,Soil Science Technician,37,19,0,18,True,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M314205,314205,Horticulture Technician,43,10,0,33,True,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M314209,314209,Irrigator,22,11,11,11,False,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M314216,314216,Assistant Agricultural Officer Grade G29,43,10,10,33,True,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M314217,314217,Assistant Land Planning Officer Grade G29,38,19,0,19,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M314218,314218,"Supervisor, Halal Livestock Production",47,24,0,23,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M314221,314221,Land Scheme Supervisor Grade G19,56,36,0,20,True,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M314302,314302,Forestry Technician,38,23,23,15,True,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M314304,314304,Assistant Conservator of Forests Grade G29,38,23,23,15,True,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M314305,314305,Assistant Wildlife Officer Grade G29,62,28,0,34,True,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M314306,314306,Wildlife Assistant Grade G19,62,28,0,34,True,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M314401,314401,Hatchery Technician,47,30,0,17,True,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M314402,314402,Hatchery Supervisor,51,32,0,19,True,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M314403,314403,Fishery Technician,41,22,22,19,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M314404,314404,Hatchery Assistant,43,26,26,17,True,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M314405,314405,Aquaculture Technician,41,22,22,19,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M314407,314407,Assistant Fisheries Officer Grade G29,42,23,0,19,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M315101,315101,Air Traffic Safety Technician,55,24,24,31,False,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M315103,315103,Aviation Maintenance Technician,37,29,29,8,False,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M315107,315107,Aircraft Restorer,37,29,29,8,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M315108,315108,Airframe and Power Plant Technician,37,29,0,8,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M315114,315114,Rocket Engine Component Technician,50,18,0,32,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M315115,315115,Aircraft Examiner Grade A29,30,24,0,6,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M315116,315116,Assistant Air Traffic Control Officer Grade A29,36,32,32,4,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M315201,315201,Marine Assistant Grade A19,41,20,0,21,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M315202,315202,Berthing Master,39,31,0,8,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M315206,315206,Ship Technician,83,16,0,67,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M315208,315208,Assistant Marine Officer Grade A29,79,27,0,52,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M315301,315301,Train Technician,56,26,26,30,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M315306,315306,Track Network Technician,42,19,19,23,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M315307,315307,Signalling and Communication Technician,26,23,23,3,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M315406,315406,Motor Vehicle Technician,66,34,0,32,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M315902,315902,Logistics Supervisor,46,34,34,12,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M315904,315904,Green Technology Infrastructure Assistant Facilitator,69,37,0,32,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M316101,316101,Nuclear Technician,43,30,30,13,False,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M321101,321101,Radiographer Grade U29,77,55,55,22,False,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M321102,321102,Radiographer,77,55,55,22,False,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M321204,321204,Ecology Technician,69,37,37,32,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M321207,321207,Histology Technician,47,32,32,15,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M321208,321208,Cytology Technician,55,37,37,18,False,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M321209,321209,Physiology Technician,127,98,0,29,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M321212,321212,Parasitological Assistant,72,29,0,43,True,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M321213,321213,Medical Laboratory Technician,127,98,0,29,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M321214,321214,Surgical Technician,58,37,0,21,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M321301,321301,Pharmaceutical Assistant,51,41,0,10,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M321304,321304,Pharmacy Aide,51,41,0,10,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M321305,321305,Assistant Pharmacy Officer Grade U29,51,41,0,10,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M321401,321401,Dental technician,28,23,23,5,False,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M321404,321404,Orthotist,57,23,23,34,True,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M321502,321502,Prosthetic Technician,29,17,17,12,False,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M321503,321503,Medical Technician Grade U19,79,34,0,45,True,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M322101,322101,Nurse Grade U29,106,92,92,14,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M322104,322104,Practical Nurse,106,92,92,14,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M324103,324103,Veterinary Biotech Research Technician,43,17,17,26,True,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M324107,324107,Veterinary Artificial Inseminator,44,25,0,19,True,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M324108,324108,Veterinary Biotech Production Technician,43,17,17,26,True,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M324109,324109,Veterinary Nurse,60,45,45,15,True,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M324110,324110,Assistant Veterinary Officer Grade G29,55,30,30,25,True,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M325101,325101,Dental Surgery Assistant Grade U19,43,36,0,7,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M325105,325105,Dental Assistant,43,36,36,7,False,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M325106,325106,Dental Hygienist,36,32,32,4,False,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M325107,325107,Dental Therapist Grade U29,36,32,0,4,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M325302,325302,Community Health Promoter,33,14,0,19,True,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M325304,325304,Village Health Worker,33,14,0,19,True,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M325305,325305,Community Nurse Grade U19,33,14,0,19,True,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M325505,325505,Massage Therapist,66,21,21,45,True,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M325506,325506,Physiotherapy Technician,41,41,41,0,False,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M325601,325601,Medical Laboratory Assistant,72,29,29,43,True,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M325602,325602,Hospital Assistant,46,32,0,14,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M325606,325606,"Radiographist Equipment, Medical, General",77,55,55,22,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M325611,325611,Sonographer,71,55,55,16,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M325613,325613,Clinical Instructor,94,43,0,51,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M325614,325614,Ophthalmic Assistant,66,46,46,20,False,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M325615,325615,Assistant Medical Officer Grade U29,83,74,0,9,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M325703,325703,Public Health Unit Inspector,37,16,0,21,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M325705,325705,Occupational Safety and Health Inspector,61,34,0,27,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M325712,325712,Product Quality Inspector,46,20,20,26,False,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M325735,325735,Water Inspector,44,14,0,30,True,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M325736,325736,Mine Safety Inspector,20,16,16,4,True,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M325737,325737,Mine Examiner,20,16,0,4,True,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M325747,325747,Assistant Food Technology Officer Grade C29,80,32,32,48,False,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M325748,325748,Assistant Environmental Health Officer Grade U29,37,16,0,21,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M325749,325749,Assistant Environmental Control Officer Grade C29,69,37,0,32,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M325802,325802,Ambulance Officer,83,74,74,9,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M325805,325805,Emergency Paramedic,83,74,0,9,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M331401,331401,Assistant Statistics Officer Grade E29,38,15,0,23,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M351101,351101,Computer Technician Grade FT19,44,20,20,24,False,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M351105,351105,Computer Technician,44,20,20,24,False,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M351109,351109,Electronic Data Processing Technician,49,14,14,35,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M351113,351113,Semi-Conductor Technician,52,25,25,27,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M351115,351115,Information Technology Assistant,80,23,23,57,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M351116,351116,Computer Console Operator,49,14,14,35,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M351123,351123,"Engineering Assistant, Telecommunications",76,25,25,51,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M351124,351124,"Supervisor, Management Information Systems",60,32,32,28,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M351125,351125,Assistant Information Technology Officer Grade FA29,80,23,23,57,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M351201,351201,Computer Help Desk Technician,32,20,20,12,False,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M351203,351203,Information Technology Technician,80,23,0,57,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M351206,351206,Computer Assistant,80,23,23,57,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M351207,351207,Communications Assistant (ICT),39,20,20,19,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M351208,351208,Database Assistant,67,28,0,39,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M351209,351209,Computer Programming Assistant,91,17,0,74,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M351212,351212,Call Centre Trainer,36,16,16,20,True,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M351213,351213,Data Centre Supervisor,49,14,14,35,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M351215,351215,Technical Support Technician,80,23,0,57,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M351301,351301,Computer Network Technician,39,20,0,19,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M351303,351303,Network Security Technician (ICT),95,34,0,61,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M351402,351402,Web Technician,94,23,23,71,False,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M352101,352101,Audio-Visual Technician Grade N19,37,15,15,22,False,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M352102,352102,Cinematographer,38,21,21,17,False,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M352105,352105,Motion Picture Assistant,29,12,0,17,True,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M352108,352108,Sound Mixer,71,43,43,28,False,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M352111,352111,Ships Radio Officer,28,21,0,7,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M352112,352112,Broadcast Technician,42,19,19,23,False,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M352116,352116,Land-Base Radio Equipment Technician,26,19,0,7,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M352117,352117,Flight Radio Equipment Technician,35,19,0,16,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M352123,352123,Videographer,45,23,23,22,False,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M352124,352124,Assistant Telecommunications Engineer,76,25,25,51,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M352204,352204,Telecommunications Technician,45,26,26,19,False,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M363201,363201,Designer Grade B19,64,19,19,45,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M363202,363202,Interior Designer,28,21,21,7,False,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M363204,363204,Poster Designer,64,19,19,45,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M363221,363221,Carve Technician,44,17,0,27,True,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M363304,363304,Gallery Technician,15,7,7,8,True,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M363305,363305,Library Technician,32,13,13,19,False,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M363306,363306,Museum Technician,15,7,7,8,True,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M363414,363414,Stage Technician,90,48,48,42,False,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M411126,411126,Economic Affairs Assistant Grade E19,41,20,0,21,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M413209,413209,Data Entry Clerk,34,10,10,24,False,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M422602,422602,Survey Interviewer,37,14,14,23,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M431112,431112,Auction Clerk,27,20,0,7,True,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M431114,431114,Audit Clerk,35,17,17,18,False,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M431115,431115,Credit Control Clerk,28,19,0,9,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M431118,431118,Billing Clerk,24,12,12,12,False,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M431119,431119,Property Clerk,47,20,20,27,False,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M431120,431120,Cost Clerk,40,20,20,20,True,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M431123,431123,Office Cash Clerk,25,10,10,15,True,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M431126,431126,AuditAssistant Grade W19,35,17,17,18,False,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M431132,431132,Energy Audit Assistant Technician,31,27,27,4,True,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M431201,431201,Administrative Assistant (Finance) Grade W19,40,20,20,20,True,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M431203,431203,Statistical Clerk,38,15,15,23,False,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M431215,431215,Finance Clerk,40,20,20,20,True,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M431217,431217,Brokerage Clerk,29,13,13,16,False,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M431218,431218,Insurance clerk,32,14,14,18,False,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M431219,431219,Tax Clerk,28,13,13,15,False,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M431220,431220,Investment Clerk,32,19,19,13,False,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M431221,431221,Adjustment Clerk,40,20,20,20,True,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M431222,431222,Stockbroker Clerk,29,13,13,16,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M431224,431224,Rating Clerk,24,12,0,12,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M431225,431225,Assistant Broker,29,13,13,16,False,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M431227,431227,Collateral Clerk,39,16,0,23,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M431228,431228,Mortgage Clerk,26,11,0,15,True,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M431231,431231,Statistical Assistant Grade E19,38,15,15,23,False,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M431233,431233,Actuarial Assistant,24,10,10,14,False,high,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M522313,522313,E-commerce Sales Clerk,41,27,0,14,True,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M531208,531208,Vocational Training Assistant DV19,115,11,0,104,True,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M531210,531210,Vocational Training Assistant DV21,115,11,0,104,True,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M532102,532102,Public Health Assistant Grade U19,33,14,14,19,True,medium,broader_proxy,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M818202,818202,Boilerman,23,13,13,10,True,medium,close_match,auto_approved_medium_or_high_test_mapping,User-Authorized Test Core Candidates; Not Exact MASCO-ESCO Equivalence
+M818209,818209,Engine Driver,63,17,0,46,False,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review
+M821101,821101,Assembler,31,11,0,20,True,low,partial_proxy,pending_low_confidence_review,Low Confidence; Requirements Held Out for Review

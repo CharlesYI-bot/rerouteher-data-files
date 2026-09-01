@@ -1,0 +1,447 @@
+skill_id,alias,alias_source,candidate_skill_ids,reason
+00e53a0a-c0ba-4c9f-a2ed-4706d5832a00,ensure customer satisfaction,esco_altlabel,00e53a0a-c0ba-4c9f-a2ed-4706d5832a00|89ba58e8-a67e-4d2b-ad42-6acab25c241b,Ambiguous Alias Requires Contextual Review
+020b3c27-bae1-4b85-9d6f-eccee0f5ed99,manage supply chain,esco_altlabel,020b3c27-bae1-4b85-9d6f-eccee0f5ed99|96d549bb-3e62-4c45-92a7-f114df089581,Ambiguous Alias Requires Contextual Review
+020b3c27-bae1-4b85-9d6f-eccee0f5ed99,supply chain management,esco_altlabel,020b3c27-bae1-4b85-9d6f-eccee0f5ed99|96d549bb-3e62-4c45-92a7-f114df089581|f929c89e-c363-4132-a918-e021d57b307c,Canonical Label Takes Priority
+05bc7677-5a64-4e0c-ade3-0140348d4125,arrange rehearsals,esco_altlabel,05bc7677-5a64-4e0c-ade3-0140348d4125|5f6e56b0-7cf7-42b2-9a3f-524ba0774881,Ambiguous Alias Requires Contextual Review
+05bc7677-5a64-4e0c-ade3-0140348d4125,organize rehearsals,esco_altlabel,05bc7677-5a64-4e0c-ade3-0140348d4125|5f6e56b0-7cf7-42b2-9a3f-524ba0774881,Ambiguous Alias Requires Contextual Review
+05bc7677-5a64-4e0c-ade3-0140348d4125,plan rehearsals,esco_altlabel,05bc7677-5a64-4e0c-ade3-0140348d4125|5f6e56b0-7cf7-42b2-9a3f-524ba0774881,Ambiguous Alias Requires Contextual Review
+05bc7677-5a64-4e0c-ade3-0140348d4125,schedule rehearsals,esco_altlabel,05bc7677-5a64-4e0c-ade3-0140348d4125|5f6e56b0-7cf7-42b2-9a3f-524ba0774881,Ambiguous Alias Requires Contextual Review
+05c00631-b864-4842-b47e-06710c197c7a,coordinate manufacturing processes,esco_altlabel,05c00631-b864-4842-b47e-06710c197c7a|7d0f33ea-e724-4d77-8b75-ee4fe66bb9ba,Ambiguous Alias Requires Contextual Review
+05c00631-b864-4842-b47e-06710c197c7a,organise manufacturing processes,esco_altlabel,05c00631-b864-4842-b47e-06710c197c7a|7d0f33ea-e724-4d77-8b75-ee4fe66bb9ba,Ambiguous Alias Requires Contextual Review
+07ad40ef-1336-4c0c-abd5-1001773c0eda,lasers,esco_altlabel,07ad40ef-1336-4c0c-abd5-1001773c0eda|fed2fe77-623b-42f7-9d46-a2e5454f069a,Canonical Label Takes Priority
+082967d4-b94c-4305-aa13-35a6aa8c5c7c,collaborate with colleagues,esco_altlabel,082967d4-b94c-4305-aa13-35a6aa8c5c7c|9d5521f9-44d7-4db4-b7ac-0ba7d389f44d,Ambiguous Alias Requires Contextual Review
+082967d4-b94c-4305-aa13-35a6aa8c5c7c,work together with colleagues,esco_altlabel,082967d4-b94c-4305-aa13-35a6aa8c5c7c|9d5521f9-44d7-4db4-b7ac-0ba7d389f44d,Ambiguous Alias Requires Contextual Review
+08f09776-a8cd-4981-a5d2-21e01ecf078d,adjust components,esco_altlabel,08f09776-a8cd-4981-a5d2-21e01ecf078d|5133ed7b-0785-4c28-825d-1dcf518c4b5b,Ambiguous Alias Requires Contextual Review
+08fe5910-8c4c-4679-a988-eb2ded3c4909,employment law,esco_altlabel,08fe5910-8c4c-4679-a988-eb2ded3c4909|97b713f0-b9e8-4903-8dee-7e0b4019a1c0,Canonical Label Takes Priority
+08fe5910-8c4c-4679-a988-eb2ded3c4909,employment legislation,esco_altlabel,08fe5910-8c4c-4679-a988-eb2ded3c4909|97b713f0-b9e8-4903-8dee-7e0b4019a1c0,Ambiguous Alias Requires Contextual Review
+097c6a36-f031-4d3e-b5c1-62d6ffcb430b,comply with data protection regulations,esco_altlabel,097c6a36-f031-4d3e-b5c1-62d6ffcb430b|86d2e2ea-1ba2-4aa6-b465-8a1f9abc81b8,Ambiguous Alias Requires Contextual Review
+0ad6d5e8-593f-4191-843c-439b23a468ca,analyse energy consumption,esco_altlabel,0ad6d5e8-593f-4191-843c-439b23a468ca|29bfe2cd-f011-4f94-a3aa-f77768e60460,Canonical Label Takes Priority
+0ad6d5e8-593f-4191-843c-439b23a468ca,analysing energy consumption,esco_altlabel,0ad6d5e8-593f-4191-843c-439b23a468ca|29bfe2cd-f011-4f94-a3aa-f77768e60460,Ambiguous Alias Requires Contextual Review
+0ad6d5e8-593f-4191-843c-439b23a468ca,energy consumption analysing,esco_altlabel,0ad6d5e8-593f-4191-843c-439b23a468ca|29bfe2cd-f011-4f94-a3aa-f77768e60460,Ambiguous Alias Requires Contextual Review
+0c0488b3-fca5-4deb-865b-8dc605c3d909,sales strategies,esco_altlabel,0c0488b3-fca5-4deb-865b-8dc605c3d909|450de541-797a-4da0-9fe4-a81471c8047d|e7219848-a27a-4bf4-8775-d367707be7c9,Canonical Label Takes Priority
+0da516ee-e70e-4384-be13-f5ff80be8127,assist customers,esco_altlabel,0da516ee-e70e-4384-be13-f5ff80be8127|61970f8b-099c-4e7e-82e0-9ccdced0baf3,Canonical Label Takes Priority
+0da516ee-e70e-4384-be13-f5ff80be8127,help customers,esco_altlabel,0da516ee-e70e-4384-be13-f5ff80be8127|61970f8b-099c-4e7e-82e0-9ccdced0baf3,Ambiguous Alias Requires Contextual Review
+0da516ee-e70e-4384-be13-f5ff80be8127,provide customer service,esco_altlabel,0da516ee-e70e-4384-be13-f5ff80be8127|75dfe1ee-5935-42ce-b820-697f827825c3,Ambiguous Alias Requires Contextual Review
+0da516ee-e70e-4384-be13-f5ff80be8127,respond to customers,esco_altlabel,0da516ee-e70e-4384-be13-f5ff80be8127|81513fdf-5ea9-4375-9bc4-67ad959ac5de,Ambiguous Alias Requires Contextual Review
+0dcea846-04b4-4ffc-8c75-a35c991454b1,administer first aid,esco_altlabel,0dcea846-04b4-4ffc-8c75-a35c991454b1|1d21f6ad-340f-45da-a0a3-4e83867f47a6,Ambiguous Alias Requires Contextual Review
+0dcea846-04b4-4ffc-8c75-a35c991454b1,undertake first aid,esco_altlabel,0dcea846-04b4-4ffc-8c75-a35c991454b1|1d21f6ad-340f-45da-a0a3-4e83867f47a6,Ambiguous Alias Requires Contextual Review
+0e0c9c11-b39e-43cf-ba95-2fe646f5de64,write research applications,esco_altlabel,0e0c9c11-b39e-43cf-ba95-2fe646f5de64|0ee7b0d6-db98-4785-9948-f2ef415d155a,Ambiguous Alias Requires Contextual Review
+0e355580-bd4a-465a-8058-92984623070e,work in bad weather,esco_altlabel,0e355580-bd4a-465a-8058-92984623070e|b805f989-14d5-46ad-80b0-755634b66dba,Ambiguous Alias Requires Contextual Review
+0e355580-bd4a-465a-8058-92984623070e,working in bad weather,esco_altlabel,0e355580-bd4a-465a-8058-92984623070e|b805f989-14d5-46ad-80b0-755634b66dba,Ambiguous Alias Requires Contextual Review
+0ee7b0d6-db98-4785-9948-f2ef415d155a,write research applications,esco_altlabel,0e0c9c11-b39e-43cf-ba95-2fe646f5de64|0ee7b0d6-db98-4785-9948-f2ef415d155a,Ambiguous Alias Requires Contextual Review
+103f7814-d262-4df6-a1b6-759bc51f76cb,alternative energy,esco_altlabel,103f7814-d262-4df6-a1b6-759bc51f76cb|8f585def-6ade-41b3-b897-3d71fba4151d,Canonical Label Takes Priority
+11245eee-fcbd-44c7-aa6a-3db2eb40106c,perform inspections,esco_altlabel,11245eee-fcbd-44c7-aa6a-3db2eb40106c|36e9c099-614e-44f1-ab0a-5e6fda4a0763,Ambiguous Alias Requires Contextual Review
+11335fcc-23af-4afe-bfaf-c0c25abcb5b0,diagnosis and treatment of blood diseases,esco_altlabel,11335fcc-23af-4afe-bfaf-c0c25abcb5b0|cb1e8e43-6fc5-4c34-ad4d-f3850144789b,Ambiguous Alias Requires Contextual Review
+120b9b87-3aad-4a42-b5e7-1b146a672038,processing survey data,esco_altlabel,120b9b87-3aad-4a42-b5e7-1b146a672038|6b30644d-bdc5-4bca-b1af-edbf5c6b15ee,Ambiguous Alias Requires Contextual Review
+12c82224-6394-4c3c-9831-2a8198ed1274,ocr,esco_altlabel,12c82224-6394-4c3c-9831-2a8198ed1274|7b0d5000-00da-4864-b776-6de49a87a669,Ambiguous Alias Requires Contextual Review
+143769cb-b61e-47d8-a61e-eedfbec1016c,business analytics,esco_altlabel,143769cb-b61e-47d8-a61e-eedfbec1016c|98a1dec3-8138-4f46-a596-5e2a83b884b9,Canonical Label Takes Priority
+1496ae24-9ccb-4470-8ed0-5b7b64253b35,maxillofacial surgery,esco_altlabel,1496ae24-9ccb-4470-8ed0-5b7b64253b35|e929af6c-9e6d-4c61-bf9c-7c3d99e2a8ed,Canonical Label Takes Priority
+14ced458-5f4b-495f-bd3d-9c240614bda0,adobe photoshop elements,esco_altlabel,14ced458-5f4b-495f-bd3d-9c240614bda0|a71577b2-7550-4222-88ee-dcbd2d881516,Ambiguous Alias Requires Contextual Review
+17fa2e6a-ca80-4d60-afb0-03f170e9d5f3,sampling,esco_altlabel,17fa2e6a-ca80-4d60-afb0-03f170e9d5f3|b5a1fc87-c9f2-41f4-a1ae-28e023715592,Ambiguous Alias Requires Contextual Review
+17fa2e6a-ca80-4d60-afb0-03f170e9d5f3,sampling equipment use,esco_altlabel,17fa2e6a-ca80-4d60-afb0-03f170e9d5f3|b5a1fc87-c9f2-41f4-a1ae-28e023715592,Ambiguous Alias Requires Contextual Review
+17fa2e6a-ca80-4d60-afb0-03f170e9d5f3,take samples,esco_altlabel,17fa2e6a-ca80-4d60-afb0-03f170e9d5f3|b5a1fc87-c9f2-41f4-a1ae-28e023715592,Ambiguous Alias Requires Contextual Review
+17fa2e6a-ca80-4d60-afb0-03f170e9d5f3,taking samples,esco_altlabel,17fa2e6a-ca80-4d60-afb0-03f170e9d5f3|b5a1fc87-c9f2-41f4-a1ae-28e023715592,Ambiguous Alias Requires Contextual Review
+17fa2e6a-ca80-4d60-afb0-03f170e9d5f3,using sampling equipment,esco_altlabel,17fa2e6a-ca80-4d60-afb0-03f170e9d5f3|b5a1fc87-c9f2-41f4-a1ae-28e023715592,Ambiguous Alias Requires Contextual Review
+1973c966-f236-40c9-b2d4-5d71a89019be,google sheets,esco_altlabel,1973c966-f236-40c9-b2d4-5d71a89019be|cf310cff-0d28-4dbc-9dbb-cc500a3196c2,Ambiguous Alias Requires Contextual Review
+1b90438f-820f-4b1c-9fbb-ac60a4369404,forge metal,esco_altlabel,1b90438f-820f-4b1c-9fbb-ac60a4369404|ac6b866c-d18d-4572-b24d-fe65567f5943,Ambiguous Alias Requires Contextual Review
+1b9899a4-5b50-44b0-a21a-e2f86c51ac5a,analyse client's physical condition,esco_altlabel,1b9899a4-5b50-44b0-a21a-e2f86c51ac5a|578ea133-eaf3-4542-a727-fe4fc8a6b5a9,Ambiguous Alias Requires Contextual Review
+1b9899a4-5b50-44b0-a21a-e2f86c51ac5a,convert physical information into personal training plans,esco_altlabel,1b9899a4-5b50-44b0-a21a-e2f86c51ac5a|578ea133-eaf3-4542-a727-fe4fc8a6b5a9,Ambiguous Alias Requires Contextual Review
+1b9899a4-5b50-44b0-a21a-e2f86c51ac5a,examine physical condition,esco_altlabel,1b9899a4-5b50-44b0-a21a-e2f86c51ac5a|578ea133-eaf3-4542-a727-fe4fc8a6b5a9,Ambiguous Alias Requires Contextual Review
+1bc7c69b-4292-4592-b854-f48165a06082,overhaul engines,esco_altlabel,1bc7c69b-4292-4592-b854-f48165a06082|92f54ff7-f6d8-4702-8e0f-2d7d3254a7fd,Ambiguous Alias Requires Contextual Review
+1d21f6ad-340f-45da-a0a3-4e83867f47a6,administer first aid,esco_altlabel,0dcea846-04b4-4ffc-8c75-a35c991454b1|1d21f6ad-340f-45da-a0a3-4e83867f47a6,Ambiguous Alias Requires Contextual Review
+1d21f6ad-340f-45da-a0a3-4e83867f47a6,give first aid,esco_altlabel,1d21f6ad-340f-45da-a0a3-4e83867f47a6|5cc97a45-69fc-4f37-a973-402d5ac561ac,Ambiguous Alias Requires Contextual Review
+1d21f6ad-340f-45da-a0a3-4e83867f47a6,undertake first aid,esco_altlabel,0dcea846-04b4-4ffc-8c75-a35c991454b1|1d21f6ad-340f-45da-a0a3-4e83867f47a6,Ambiguous Alias Requires Contextual Review
+1f1d2ff8-c4c1-45cc-9812-6a7ee84a73cb,direct a team,esco_altlabel,1f1d2ff8-c4c1-45cc-9812-6a7ee84a73cb|cb668e89-6ef5-4ff3-ab4a-506010e7e70b,Ambiguous Alias Requires Contextual Review
+1fea0bc2-a6fa-4fe8-b36f-7a3194f8ed1c,electric current,esco_altlabel,1fea0bc2-a6fa-4fe8-b36f-7a3194f8ed1c|57869946-cec2-4121-981c-84c9846c58d0,Canonical Label Takes Priority
+1fea0bc2-a6fa-4fe8-b36f-7a3194f8ed1c,electrical current,esco_altlabel,1fea0bc2-a6fa-4fe8-b36f-7a3194f8ed1c|56a13f47-ad7c-451f-81cf-e550107abc03,Ambiguous Alias Requires Contextual Review
+21c5790c-0930-4d74-b3b0-84caf5af12ea,approximate set costs,esco_altlabel,21c5790c-0930-4d74-b3b0-84caf5af12ea|dccbdbb8-7266-4fb4-a4cf-29056f102f12,Ambiguous Alias Requires Contextual Review
+21c5790c-0930-4d74-b3b0-84caf5af12ea,budget set costs,esco_altlabel,21c5790c-0930-4d74-b3b0-84caf5af12ea|dccbdbb8-7266-4fb4-a4cf-29056f102f12,Ambiguous Alias Requires Contextual Review
+21c5790c-0930-4d74-b3b0-84caf5af12ea,estimate set costs,esco_altlabel,21c5790c-0930-4d74-b3b0-84caf5af12ea|dccbdbb8-7266-4fb4-a4cf-29056f102f12,Ambiguous Alias Requires Contextual Review
+21d2f96d-35f7-4e3f-9745-c533d2dd6e97,labview,esco_altlabel,21d2f96d-35f7-4e3f-9745-c533d2dd6e97|925463a7-d51f-4d5b-9f79-4d28cf30acde,Ambiguous Alias Requires Contextual Review
+21d2f96d-35f7-4e3f-9745-c533d2dd6e97,opencv,esco_altlabel,21d2f96d-35f7-4e3f-9745-c533d2dd6e97|484df271-bb52-49f1-8f50-f19624bf4df2|7b0d5000-00da-4864-b776-6de49a87a669,Ambiguous Alias Requires Contextual Review
+21d2f96d-35f7-4e3f-9745-c533d2dd6e97,visual basic,esco_altlabel,13bdd41a-2a18-441f-96db-41252c519413|21d2f96d-35f7-4e3f-9745-c533d2dd6e97,Canonical Label Takes Priority
+22134337-8baa-4879-adec-d9cdbc02cc27,farm product marketing,esco_altlabel,22134337-8baa-4879-adec-d9cdbc02cc27|a551ec45-db14-4d5a-84ee-20abef51e739,Ambiguous Alias Requires Contextual Review
+22134337-8baa-4879-adec-d9cdbc02cc27,farm product promoting,esco_altlabel,22134337-8baa-4879-adec-d9cdbc02cc27|a551ec45-db14-4d5a-84ee-20abef51e739,Ambiguous Alias Requires Contextual Review
+22134337-8baa-4879-adec-d9cdbc02cc27,farm products marketing,esco_altlabel,22134337-8baa-4879-adec-d9cdbc02cc27|a551ec45-db14-4d5a-84ee-20abef51e739,Ambiguous Alias Requires Contextual Review
+22134337-8baa-4879-adec-d9cdbc02cc27,farm products promoting,esco_altlabel,22134337-8baa-4879-adec-d9cdbc02cc27|a551ec45-db14-4d5a-84ee-20abef51e739,Ambiguous Alias Requires Contextual Review
+22134337-8baa-4879-adec-d9cdbc02cc27,market farm products,esco_altlabel,22134337-8baa-4879-adec-d9cdbc02cc27|a551ec45-db14-4d5a-84ee-20abef51e739,Canonical Label Takes Priority
+22134337-8baa-4879-adec-d9cdbc02cc27,marketing farm products,esco_altlabel,22134337-8baa-4879-adec-d9cdbc02cc27|a551ec45-db14-4d5a-84ee-20abef51e739,Ambiguous Alias Requires Contextual Review
+22134337-8baa-4879-adec-d9cdbc02cc27,promoting farm products,esco_altlabel,22134337-8baa-4879-adec-d9cdbc02cc27|a551ec45-db14-4d5a-84ee-20abef51e739,Ambiguous Alias Requires Contextual Review
+22a40965-a2c7-43c4-853e-e0fd412383bd,food preservation,esco_altlabel,22a40965-a2c7-43c4-853e-e0fd412383bd|e4a46d74-71a8-469a-85ad-e40278a23ba1,Canonical Label Takes Priority
+233be639-bdb5-4099-ab40-96d537d6c1f3,ensure compliance with safety regulations,esco_altlabel,233be639-bdb5-4099-ab40-96d537d6c1f3|61484ab7-e5da-4fc1-82bd-72c3fa6ffab3,Ambiguous Alias Requires Contextual Review
+234aeb8d-56c3-4531-9193-1c5e6a8d16cb,prezi,esco_altlabel,234aeb8d-56c3-4531-9193-1c5e6a8d16cb|348b74cd-49ce-4844-8bdf-ec188b497213,Ambiguous Alias Requires Contextual Review
+237db40b-4600-47c0-837f-4a2c4f3014ab,principles of project management,esco_altlabel,237db40b-4600-47c0-837f-4a2c4f3014ab|7111b95d-0ce3-441a-9d92-4c75d05c4388,Ambiguous Alias Requires Contextual Review
+24a776a7-73f2-48a0-9b3e-93b8c78997e4,creating flower arrangements,esco_altlabel,24a776a7-73f2-48a0-9b3e-93b8c78997e4|274ba318-ab30-4d16-87fd-58af75cd6a22,Ambiguous Alias Requires Contextual Review
+25b291b5-8245-4d9d-b391-86a8a31d7109,parallel computing,esco_altlabel,25b291b5-8245-4d9d-b391-86a8a31d7109|897b393f-e7e0-4248-a40d-d77119694e83,Ambiguous Alias Requires Contextual Review
+2691f4d8-d090-423f-afd7-9e721f562e8d,recommend public relations,esco_altlabel,2691f4d8-d090-423f-afd7-9e721f562e8d|d952e003-b5af-4a8a-9d32-921d34dc4907,Ambiguous Alias Requires Contextual Review
+26ed52cf-30ca-451e-9699-a6c04a30649f,operate soldering equipment,esco_altlabel,26ed52cf-30ca-451e-9699-a6c04a30649f|f30a7ea4-77dd-452c-8a2d-b06c12606a7f,Canonical Label Takes Priority
+26ed52cf-30ca-451e-9699-a6c04a30649f,use soldering equipment,esco_altlabel,26ed52cf-30ca-451e-9699-a6c04a30649f|f30a7ea4-77dd-452c-8a2d-b06c12606a7f,Ambiguous Alias Requires Contextual Review
+274ba318-ab30-4d16-87fd-58af75cd6a22,create flower arrangements,esco_altlabel,24a776a7-73f2-48a0-9b3e-93b8c78997e4|274ba318-ab30-4d16-87fd-58af75cd6a22,Canonical Label Takes Priority
+274ba318-ab30-4d16-87fd-58af75cd6a22,creating flower arrangements,esco_altlabel,24a776a7-73f2-48a0-9b3e-93b8c78997e4|274ba318-ab30-4d16-87fd-58af75cd6a22,Ambiguous Alias Requires Contextual Review
+277f489c-7a47-4791-bd87-61ca01737f96,manage production requirements,esco_altlabel,277f489c-7a47-4791-bd87-61ca01737f96|6b9194f0-f8bb-4b9a-96a5-2203c9c2671b,Ambiguous Alias Requires Contextual Review
+277f489c-7a47-4791-bd87-61ca01737f96,supervise production requirements,esco_altlabel,277f489c-7a47-4791-bd87-61ca01737f96|6b9194f0-f8bb-4b9a-96a5-2203c9c2671b,Ambiguous Alias Requires Contextual Review
+27d26fd6-5795-4f0a-884e-112df7c68314,utilise phosphate coating on a metal workpiece,esco_altlabel,27d26fd6-5795-4f0a-884e-112df7c68314|298bd71e-5cf0-47e9-8b9f-08103f0b03a4|43032597-223c-4559-bdf9-abf0a312839a,Ambiguous Alias Requires Contextual Review
+298bd71e-5cf0-47e9-8b9f-08103f0b03a4,utilise phosphate coating on a metal workpiece,esco_altlabel,27d26fd6-5795-4f0a-884e-112df7c68314|298bd71e-5cf0-47e9-8b9f-08103f0b03a4|43032597-223c-4559-bdf9-abf0a312839a,Ambiguous Alias Requires Contextual Review
+29bfe2cd-f011-4f94-a3aa-f77768e60460,analysing energy consumption,esco_altlabel,0ad6d5e8-593f-4191-843c-439b23a468ca|29bfe2cd-f011-4f94-a3aa-f77768e60460,Ambiguous Alias Requires Contextual Review
+29bfe2cd-f011-4f94-a3aa-f77768e60460,energy consumption analysing,esco_altlabel,0ad6d5e8-593f-4191-843c-439b23a468ca|29bfe2cd-f011-4f94-a3aa-f77768e60460,Ambiguous Alias Requires Contextual Review
+29d762da-1711-4a3c-b424-f0a404f4bf2d,welding,esco_altlabel,29d762da-1711-4a3c-b424-f0a404f4bf2d|2fcd95a4-1f9a-41cf-95a9-4701bde476b4,Ambiguous Alias Requires Contextual Review
+2b9f4584-da2e-44e2-a2fb-4dd4fc64c1a2,ics,esco_altlabel,2b9f4584-da2e-44e2-a2fb-4dd4fc64c1a2|e5e17773-3a63-40c5-99e4-10e036cf7b99,Ambiguous Alias Requires Contextual Review
+2bab7535-cbef-44a7-8677-c31d2bcacc27,hepatology,esco_altlabel,2bab7535-cbef-44a7-8677-c31d2bcacc27|b8e6eb75-7e0f-4836-83a8-93ef5f41cec0,Canonical Label Takes Priority
+2fcd95a4-1f9a-41cf-95a9-4701bde476b4,welding,esco_altlabel,29d762da-1711-4a3c-b424-f0a404f4bf2d|2fcd95a4-1f9a-41cf-95a9-4701bde476b4,Ambiguous Alias Requires Contextual Review
+31b67516-af16-4b97-8430-a8a8e0f84190,assessment procedures,esco_altlabel,31b67516-af16-4b97-8430-a8a8e0f84190|d512d178-37a6-4eab-a660-412d2bb0824a,Ambiguous Alias Requires Contextual Review
+339ac029-066a-4985-9f9d-b3d7c8fea0bb,supervise employees,esco_altlabel,339ac029-066a-4985-9f9d-b3d7c8fea0bb|9581639c-e521-4d12-9b4e-25faca24d34b,Ambiguous Alias Requires Contextual Review
+339ac029-066a-4985-9f9d-b3d7c8fea0bb,supervise staff,esco_altlabel,339ac029-066a-4985-9f9d-b3d7c8fea0bb|9581639c-e521-4d12-9b4e-25faca24d34b|9601b2a8-68e4-4906-9306-a23679b8f0b0,Canonical Label Takes Priority
+348b74cd-49ce-4844-8bdf-ec188b497213,prezi,esco_hiddenlabel,234aeb8d-56c3-4531-9193-1c5e6a8d16cb|348b74cd-49ce-4844-8bdf-ec188b497213,Ambiguous Alias Requires Contextual Review
+36dc2bd2-3d9a-4a84-ad70-918a539c4311,perform fleet management activities,esco_altlabel,36dc2bd2-3d9a-4a84-ad70-918a539c4311|e7211c0c-e571-4d61-bfda-3bea3953151d,Ambiguous Alias Requires Contextual Review
+36dc2bd2-3d9a-4a84-ad70-918a539c4311,undertake fleet management activities,esco_altlabel,36dc2bd2-3d9a-4a84-ad70-918a539c4311|e7211c0c-e571-4d61-bfda-3bea3953151d,Ambiguous Alias Requires Contextual Review
+36e9c099-614e-44f1-ab0a-5e6fda4a0763,perform inspections,esco_altlabel,11245eee-fcbd-44c7-aa6a-3db2eb40106c|36e9c099-614e-44f1-ab0a-5e6fda4a0763,Ambiguous Alias Requires Contextual Review
+36e9c099-614e-44f1-ab0a-5e6fda4a0763,perform safety inspections,esco_altlabel,36e9c099-614e-44f1-ab0a-5e6fda4a0763|a983df1f-7192-4ba4-9b75-944b9614ed89,Ambiguous Alias Requires Contextual Review
+36e9c099-614e-44f1-ab0a-5e6fda4a0763,undertake safety inspections,esco_altlabel,36e9c099-614e-44f1-ab0a-5e6fda4a0763|a983df1f-7192-4ba4-9b75-944b9614ed89,Ambiguous Alias Requires Contextual Review
+36ff57b0-637d-4a83-a0e8-d14f86f9f078,scrutinize,esco_altlabel,36ff57b0-637d-4a83-a0e8-d14f86f9f078|ce5b1446-b5e3-4f05-a5ac-83f2ee142a44,Ambiguous Alias Requires Contextual Review
+377861af-f966-4c87-a2db-7e99904312b9,remote sensing,esco_altlabel,377861af-f966-4c87-a2db-7e99904312b9|cbb330ab-55ac-4eec-b54c-b85c6219f508,Ambiguous Alias Requires Contextual Review
+38509fa4-7c06-4a4b-9622-f521f03c37b8,shooting,esco_altlabel,38509fa4-7c06-4a4b-9622-f521f03c37b8|eb3aa3a8-6ece-441d-9041-15dcb0880e47,Ambiguous Alias Requires Contextual Review
+386774ac-fe5b-431a-b485-9aec0bf5c09e,test electrical equipment,esco_altlabel,386774ac-fe5b-431a-b485-9aec0bf5c09e|3f6dc31c-ceef-4e93-9d8a-b4b862cf9b51,Canonical Label Takes Priority
+3912401a-cccf-4995-9f5b-76302b26fff4,opto-mechanical components,esco_altlabel,3912401a-cccf-4995-9f5b-76302b26fff4|8485ef31-f707-4452-a6ec-9dbf3837611f,Ambiguous Alias Requires Contextual Review
+394028bf-8dd1-4910-ad46-bc9e8e6e5b6d,advocate for health,esco_altlabel,394028bf-8dd1-4910-ad46-bc9e8e6e5b6d|60b2dd49-c677-4f47-816e-aff3b577e113,Ambiguous Alias Requires Contextual Review
+394028bf-8dd1-4910-ad46-bc9e8e6e5b6d,promote health,esco_altlabel,394028bf-8dd1-4910-ad46-bc9e8e6e5b6d|60b2dd49-c677-4f47-816e-aff3b577e113,Ambiguous Alias Requires Contextual Review
+39b2f4dc-86b7-4bf9-94df-01771a56e042,order products,esco_altlabel,39b2f4dc-86b7-4bf9-94df-01771a56e042|c609c7cf-ec3f-42df-9147-3ea012e31b66,Canonical Label Takes Priority
+3a2d5b45-56e4-4f5a-a55a-4a4a65afdc43,ml,esco_altlabel,3a2d5b45-56e4-4f5a-a55a-4a4a65afdc43|a4d336a6-9ffd-402a-91cc-f359716ba4e0,Ambiguous Alias Requires Contextual Review
+3ab7c355-94f2-4b07-ab1b-4dcb29745b0e,characteristics of optical instruments,esco_altlabel,3ab7c355-94f2-4b07-ab1b-4dcb29745b0e|f8bd915e-8424-469f-bab8-e64fc2e4c2dd,Ambiguous Alias Requires Contextual Review
+3c35dfa4-6dae-45a5-ae0a-f6a45923a95f,biostatistics,esco_altlabel,3c35dfa4-6dae-45a5-ae0a-f6a45923a95f|a261c61a-29b8-4b6a-a283-e5a7d5077352,Canonical Label Takes Priority
+3dde5918-f4c6-4d46-9d6f-c7b2865f594f,analyse insurance claims,esco_altlabel,3dde5918-f4c6-4d46-9d6f-c7b2865f594f|eccd4313-c931-4e47-853e-76fdfac6e30b,Ambiguous Alias Requires Contextual Review
+3e75d405-c3d1-4a66-9963-05a9397d68fb,in-circuit test,esco_altlabel,3e75d405-c3d1-4a66-9963-05a9397d68fb|53456d90-8c0d-4bd2-9f1b-312619b6e2a6,Ambiguous Alias Requires Contextual Review
+3f4e4eab-a8e0-4aed-b8bb-79afe7c890e3,food safety measures,esco_altlabel,3f4e4eab-a8e0-4aed-b8bb-79afe7c890e3|fa46ff13-5ad7-4a11-85d6-4b0614e411de,Ambiguous Alias Requires Contextual Review
+3f4e4eab-a8e0-4aed-b8bb-79afe7c890e3,food safety rules,esco_altlabel,3f4e4eab-a8e0-4aed-b8bb-79afe7c890e3|fa46ff13-5ad7-4a11-85d6-4b0614e411de,Ambiguous Alias Requires Contextual Review
+3f9eafe9-965d-4397-b095-176809c84eeb,public health,esco_altlabel,3f9eafe9-965d-4397-b095-176809c84eeb|9570e84e-6699-4c9f-9a12-7bc82d53a231,Canonical Label Takes Priority
+40f65a56-ccbe-4601-9f32-1cc6cdd24f28,waste managing,esco_altlabel,40f65a56-ccbe-4601-9f32-1cc6cdd24f28|73a9561d-112c-4d8a-9d5f-b2c11c5bbd5f,Ambiguous Alias Requires Contextual Review
+4170595f-4424-42ff-83c5-7ff80aa3d7d6,culturing aquaculture hatchery stocks,esco_altlabel,4170595f-4424-42ff-83c5-7ff80aa3d7d6|f7f4d43e-86fb-4395-b52f-552f3c6ba9b4,Ambiguous Alias Requires Contextual Review
+426ceaba-6867-481c-bb6b-aee3933da7d2,ict security,esco_altlabel,426ceaba-6867-481c-bb6b-aee3933da7d2|8088750d-8388-4170-a76f-48354c469c44,Ambiguous Alias Requires Contextual Review
+43032597-223c-4559-bdf9-abf0a312839a,utilise phosphate coating on a metal workpiece,esco_altlabel,27d26fd6-5795-4f0a-884e-112df7c68314|298bd71e-5cf0-47e9-8b9f-08103f0b03a4|43032597-223c-4559-bdf9-abf0a312839a,Ambiguous Alias Requires Contextual Review
+440f64e5-e66c-45ee-bc29-53c14a2ad720,use geographical information systems,esco_altlabel,440f64e5-e66c-45ee-bc29-53c14a2ad720|4f6b656a-54d0-48ce-9b55-ebcac5904a14,Ambiguous Alias Requires Contextual Review
+440f64e5-e66c-45ee-bc29-53c14a2ad720,use gis,esco_altlabel,440f64e5-e66c-45ee-bc29-53c14a2ad720|4f6b656a-54d0-48ce-9b55-ebcac5904a14,Ambiguous Alias Requires Contextual Review
+450de541-797a-4da0-9fe4-a81471c8047d,sales strategies,esco_altlabel,0c0488b3-fca5-4deb-865b-8dc605c3d909|450de541-797a-4da0-9fe4-a81471c8047d|e7219848-a27a-4bf4-8775-d367707be7c9,Canonical Label Takes Priority
+45a87caf-d38d-4ad2-a8fa-4289e8f4b5d6,deal with production fluid,esco_altlabel,45a87caf-d38d-4ad2-a8fa-4289e8f4b5d6|6004cc99-d2d1-47c7-ad13-32d8fc85811e,Ambiguous Alias Requires Contextual Review
+45a87caf-d38d-4ad2-a8fa-4289e8f4b5d6,dealing with production fluid,esco_altlabel,45a87caf-d38d-4ad2-a8fa-4289e8f4b5d6|6004cc99-d2d1-47c7-ad13-32d8fc85811e,Ambiguous Alias Requires Contextual Review
+46406ae4-31b4-41d0-bd12-8a78588f431f,monitoring production costs,esco_altlabel,46406ae4-31b4-41d0-bd12-8a78588f431f|9148c1e4-beae-433c-bd72-e4a009440744,Ambiguous Alias Requires Contextual Review
+4746fab4-2cd0-4809-830e-f15aaf163120,inspect cargo,esco_altlabel,2592d0a3-a6ab-44f7-ac29-c145b4ad81c8|4746fab4-2cd0-4809-830e-f15aaf163120,Canonical Label Takes Priority
+484df271-bb52-49f1-8f50-f19624bf4df2,opencv,esco_hiddenlabel,21d2f96d-35f7-4e3f-9745-c533d2dd6e97|484df271-bb52-49f1-8f50-f19624bf4df2|7b0d5000-00da-4864-b776-6de49a87a669,Ambiguous Alias Requires Contextual Review
+4a466c62-db7d-4905-9a41-f23214810acb,gimp,esco_altlabel,4a466c62-db7d-4905-9a41-f23214810acb|a71577b2-7550-4222-88ee-dcbd2d881516,Ambiguous Alias Requires Contextual Review
+4a477e55-fdb6-4fe5-8dec-fcebfa3579d6,medical laboratory instruments,esco_altlabel,4a477e55-fdb6-4fe5-8dec-fcebfa3579d6|e0cfe83a-17d7-4015-a427-bd3986f27b42,Ambiguous Alias Requires Contextual Review
+4b164a27-849f-4be2-ae79-d26a4969b677,microchips,esco_altlabel,4b164a27-849f-4be2-ae79-d26a4969b677|8a211052-4bec-49c2-9b4e-7914c37d21b4,Ambiguous Alias Requires Contextual Review
+4ca91852-c534-4b98-ab1c-59a126534c88,project management,esco_altlabel,4ca91852-c534-4b98-ab1c-59a126534c88|7111b95d-0ce3-441a-9d92-4c75d05c4388,Canonical Label Takes Priority
+4d313147-b39d-413f-a5e2-b12d5f0dc9e6,do interviews,esco_altlabel,4d313147-b39d-413f-a5e2-b12d5f0dc9e6|66d47084-9437-48b2-819b-c4c8214ed650,Ambiguous Alias Requires Contextual Review
+4dc5042a-b2b4-4ad5-a39b-3558b073cec7,use global positioning systems,esco_altlabel,4dc5042a-b2b4-4ad5-a39b-3558b073cec7|4f6b656a-54d0-48ce-9b55-ebcac5904a14|97fb21db-a4e5-4b03-af21-03b9d510d872,Ambiguous Alias Requires Contextual Review
+4f6b656a-54d0-48ce-9b55-ebcac5904a14,use geographical information systems,esco_altlabel,440f64e5-e66c-45ee-bc29-53c14a2ad720|4f6b656a-54d0-48ce-9b55-ebcac5904a14,Ambiguous Alias Requires Contextual Review
+4f6b656a-54d0-48ce-9b55-ebcac5904a14,use gis,esco_altlabel,440f64e5-e66c-45ee-bc29-53c14a2ad720|4f6b656a-54d0-48ce-9b55-ebcac5904a14,Ambiguous Alias Requires Contextual Review
+4f6b656a-54d0-48ce-9b55-ebcac5904a14,use global positioning systems,esco_altlabel,4dc5042a-b2b4-4ad5-a39b-3558b073cec7|4f6b656a-54d0-48ce-9b55-ebcac5904a14|97fb21db-a4e5-4b03-af21-03b9d510d872,Ambiguous Alias Requires Contextual Review
+5033c2fb-ec55-4b8e-b0a4-9379593f1e1c,equipment maintenance,esco_altlabel,5033c2fb-ec55-4b8e-b0a4-9379593f1e1c|c0fc7d2d-d013-40d7-bc58-75cf3771153f,Ambiguous Alias Requires Contextual Review
+5033c2fb-ec55-4b8e-b0a4-9379593f1e1c,maintaining equipment,esco_altlabel,5033c2fb-ec55-4b8e-b0a4-9379593f1e1c|c0fc7d2d-d013-40d7-bc58-75cf3771153f,Ambiguous Alias Requires Contextual Review
+5033c2fb-ec55-4b8e-b0a4-9379593f1e1c,maintenance of equipment,esco_altlabel,5033c2fb-ec55-4b8e-b0a4-9379593f1e1c|c0fc7d2d-d013-40d7-bc58-75cf3771153f,Ambiguous Alias Requires Contextual Review
+50d38d64-9ad7-42b9-be8f-d329c1422558,clinical microbiology,esco_altlabel,50d38d64-9ad7-42b9-be8f-d329c1422558|d5a344f0-cf71-4fcc-9c00-99588b4de3c0,Canonical Label Takes Priority
+512702d5-e700-4ddf-b72d-9c41c23f8ec1,collect fish samples for diagnosis,esco_altlabel,512702d5-e700-4ddf-b72d-9c41c23f8ec1|cbaeb978-87a0-450f-b6fd-6231dffcf3da,Canonical Label Takes Priority
+512702d5-e700-4ddf-b72d-9c41c23f8ec1,fish samples collecting for diagnosis,esco_altlabel,512702d5-e700-4ddf-b72d-9c41c23f8ec1|cbaeb978-87a0-450f-b6fd-6231dffcf3da,Ambiguous Alias Requires Contextual Review
+5133ed7b-0785-4c28-825d-1dcf518c4b5b,adjust components,esco_altlabel,08f09776-a8cd-4981-a5d2-21e01ecf078d|5133ed7b-0785-4c28-825d-1dcf518c4b5b,Ambiguous Alias Requires Contextual Review
+52838a25-11f5-4cb1-b4ab-c5c7d59041e8,types of electronic device,esco_altlabel,52838a25-11f5-4cb1-b4ab-c5c7d59041e8|8a2f841c-fe35-46c0-90bd-51858a88a83b,Ambiguous Alias Requires Contextual Review
+53456d90-8c0d-4bd2-9f1b-312619b6e2a6,in-circuit test,esco_altlabel,3e75d405-c3d1-4a66-9963-05a9397d68fb|53456d90-8c0d-4bd2-9f1b-312619b6e2a6,Ambiguous Alias Requires Contextual Review
+550f0643-9756-4b27-a18a-aa04bb823e3f,fish grading,esco_altlabel,0524a62d-96bb-45f5-b7c6-baacbef31af9|550f0643-9756-4b27-a18a-aa04bb823e3f,Canonical Label Takes Priority
+5548401e-dbe9-4603-9917-1c8b3e0ad4ad,soil science,esco_altlabel,5548401e-dbe9-4603-9917-1c8b3e0ad4ad|91a6da8d-24dc-4453-9821-de305864677c,Canonical Label Takes Priority
+56a13f47-ad7c-451f-81cf-e550107abc03,electrical current,esco_altlabel,1fea0bc2-a6fa-4fe8-b36f-7a3194f8ed1c|56a13f47-ad7c-451f-81cf-e550107abc03,Ambiguous Alias Requires Contextual Review
+56fa904b-eb1c-4f34-a671-8c5dc6af6de1,build relationships with mining professionals,esco_altlabel,56fa904b-eb1c-4f34-a671-8c5dc6af6de1|729ee685-e714-4858-8c49-584a29cbcd6e,Ambiguous Alias Requires Contextual Review
+56fa904b-eb1c-4f34-a671-8c5dc6af6de1,building relationships with mining professionals,esco_altlabel,56fa904b-eb1c-4f34-a671-8c5dc6af6de1|729ee685-e714-4858-8c49-584a29cbcd6e,Ambiguous Alias Requires Contextual Review
+571267c5-98e7-4dd2-b6bc-cde5aeec3eaa,colour wood,esco_altlabel,571267c5-98e7-4dd2-b6bc-cde5aeec3eaa|9372cc5b-8f47-4805-8a37-fd0e85a948f4,Ambiguous Alias Requires Contextual Review
+571267c5-98e7-4dd2-b6bc-cde5aeec3eaa,paint wood,esco_altlabel,571267c5-98e7-4dd2-b6bc-cde5aeec3eaa|9372cc5b-8f47-4805-8a37-fd0e85a948f4,Ambiguous Alias Requires Contextual Review
+57231a22-4da7-49c8-97b8-75672feadf1e,gather data,esco_altlabel,0d6714c6-720e-4985-9791-5ab85d28da79|57231a22-4da7-49c8-97b8-75672feadf1e,Canonical Label Takes Priority
+57231a22-4da7-49c8-97b8-75672feadf1e,process data,esco_altlabel,57231a22-4da7-49c8-97b8-75672feadf1e|f2d57f41-43b4-4f5b-8100-3df5c21eda50,Canonical Label Takes Priority
+574257ea-7b64-4100-b7b6-e27c233fe143,electronic communication,esco_altlabel,574257ea-7b64-4100-b7b6-e27c233fe143|debef2fc-7af4-4bff-ac92-4d0317915a84,Canonical Label Takes Priority
+578ea133-eaf3-4542-a727-fe4fc8a6b5a9,analyse client's physical condition,esco_altlabel,1b9899a4-5b50-44b0-a21a-e2f86c51ac5a|578ea133-eaf3-4542-a727-fe4fc8a6b5a9,Ambiguous Alias Requires Contextual Review
+578ea133-eaf3-4542-a727-fe4fc8a6b5a9,convert physical information into personal training plans,esco_altlabel,1b9899a4-5b50-44b0-a21a-e2f86c51ac5a|578ea133-eaf3-4542-a727-fe4fc8a6b5a9,Ambiguous Alias Requires Contextual Review
+578ea133-eaf3-4542-a727-fe4fc8a6b5a9,examine physical condition,esco_altlabel,1b9899a4-5b50-44b0-a21a-e2f86c51ac5a|578ea133-eaf3-4542-a727-fe4fc8a6b5a9,Ambiguous Alias Requires Contextual Review
+5b1aecb9-17a6-46ae-8611-c742f11db2f9,paediatrics,esco_altlabel,5b1aecb9-17a6-46ae-8611-c742f11db2f9|8671290a-ab17-42c2-9114-adcb741e7257,Canonical Label Takes Priority
+5b1d43d1-e063-4d07-8ba1-6f08d4e46279,livestock feeding,esco_altlabel,5b1d43d1-e063-4d07-8ba1-6f08d4e46279|a7309d64-6209-49d7-878e-2b0e403908a4,Canonical Label Takes Priority
+5cc97a45-69fc-4f37-a973-402d5ac561ac,give first aid,esco_altlabel,1d21f6ad-340f-45da-a0a3-4e83867f47a6|5cc97a45-69fc-4f37-a973-402d5ac561ac,Ambiguous Alias Requires Contextual Review
+5eafee30-f3b6-4cd6-baf8-517bb2f3d625,principles of agronomy,esco_altlabel,5eafee30-f3b6-4cd6-baf8-517bb2f3d625|afdcb380-ef9f-4785-b877-cc551f035034,Ambiguous Alias Requires Contextual Review
+5f6e56b0-7cf7-42b2-9a3f-524ba0774881,arrange rehearsals,esco_altlabel,05bc7677-5a64-4e0c-ade3-0140348d4125|5f6e56b0-7cf7-42b2-9a3f-524ba0774881,Ambiguous Alias Requires Contextual Review
+5f6e56b0-7cf7-42b2-9a3f-524ba0774881,organize rehearsals,esco_altlabel,05bc7677-5a64-4e0c-ade3-0140348d4125|5f6e56b0-7cf7-42b2-9a3f-524ba0774881,Ambiguous Alias Requires Contextual Review
+5f6e56b0-7cf7-42b2-9a3f-524ba0774881,plan rehearsals,esco_altlabel,05bc7677-5a64-4e0c-ade3-0140348d4125|5f6e56b0-7cf7-42b2-9a3f-524ba0774881,Ambiguous Alias Requires Contextual Review
+5f6e56b0-7cf7-42b2-9a3f-524ba0774881,schedule rehearsals,esco_altlabel,05bc7677-5a64-4e0c-ade3-0140348d4125|5f6e56b0-7cf7-42b2-9a3f-524ba0774881,Ambiguous Alias Requires Contextual Review
+6004cc99-d2d1-47c7-ad13-32d8fc85811e,deal with production fluid,esco_altlabel,45a87caf-d38d-4ad2-a8fa-4289e8f4b5d6|6004cc99-d2d1-47c7-ad13-32d8fc85811e,Ambiguous Alias Requires Contextual Review
+6004cc99-d2d1-47c7-ad13-32d8fc85811e,dealing with production fluid,esco_altlabel,45a87caf-d38d-4ad2-a8fa-4289e8f4b5d6|6004cc99-d2d1-47c7-ad13-32d8fc85811e,Ambiguous Alias Requires Contextual Review
+60b2dd49-c677-4f47-816e-aff3b577e113,advocate for health,esco_altlabel,394028bf-8dd1-4910-ad46-bc9e8e6e5b6d|60b2dd49-c677-4f47-816e-aff3b577e113,Ambiguous Alias Requires Contextual Review
+60b2dd49-c677-4f47-816e-aff3b577e113,promote health,esco_altlabel,394028bf-8dd1-4910-ad46-bc9e8e6e5b6d|60b2dd49-c677-4f47-816e-aff3b577e113,Ambiguous Alias Requires Contextual Review
+61268e22-9367-4c3b-91d9-b651e4c142e2,fire prevention procedures,esco_altlabel,61268e22-9367-4c3b-91d9-b651e4c142e2|861009ea-4d15-4e80-a8dc-7db41ecaf49b,Canonical Label Takes Priority
+61484ab7-e5da-4fc1-82bd-72c3fa6ffab3,ensure compliance with safety regulations,esco_altlabel,233be639-bdb5-4099-ab40-96d537d6c1f3|61484ab7-e5da-4fc1-82bd-72c3fa6ffab3,Ambiguous Alias Requires Contextual Review
+614c627b-2ec9-4a0d-811e-de14be4362f2,brainstorm,esco_altlabel,614c627b-2ec9-4a0d-811e-de14be4362f2|d97c894e-d330-4bd3-b8ba-138fc11855ee,Ambiguous Alias Requires Contextual Review
+61970f8b-099c-4e7e-82e0-9ccdced0baf3,help customers,esco_altlabel,0da516ee-e70e-4384-be13-f5ff80be8127|61970f8b-099c-4e7e-82e0-9ccdced0baf3,Ambiguous Alias Requires Contextual Review
+61c81161-b732-4c47-aba5-9e554d9a853f,ic types,esco_altlabel,61c81161-b732-4c47-aba5-9e554d9a853f|e5e17773-3a63-40c5-99e4-10e036cf7b99,Ambiguous Alias Requires Contextual Review
+61c81161-b732-4c47-aba5-9e554d9a853f,types of ic,esco_altlabel,61c81161-b732-4c47-aba5-9e554d9a853f|e5e17773-3a63-40c5-99e4-10e036cf7b99,Ambiguous Alias Requires Contextual Review
+61c81161-b732-4c47-aba5-9e554d9a853f,types of integrated circuit,esco_altlabel,61c81161-b732-4c47-aba5-9e554d9a853f|e5e17773-3a63-40c5-99e4-10e036cf7b99,Ambiguous Alias Requires Contextual Review
+62685d7a-a8be-4070-89e9-8699ad1201b6,principles of ecology,esco_altlabel,62685d7a-a8be-4070-89e9-8699ad1201b6|a8429098-ddac-481b-91e7-688d021c092e,Ambiguous Alias Requires Contextual Review
+629685b8-5f9e-4522-8cff-b3e2c4ec625a,data processing,esco_altlabel,629685b8-5f9e-4522-8cff-b3e2c4ec625a|f2d57f41-43b4-4f5b-8100-3df5c21eda50,Ambiguous Alias Requires Contextual Review
+63b9a087-a5db-424e-96ef-3212c8b5311e,coach students,esco_altlabel,63b9a087-a5db-424e-96ef-3212c8b5311e|d5e1e30e-44ab-4aba-abab-b8263e801b7a,Ambiguous Alias Requires Contextual Review
+66d47084-9437-48b2-819b-c4c8214ed650,do interviews,esco_altlabel,4d313147-b39d-413f-a5e2-b12d5f0dc9e6|66d47084-9437-48b2-819b-c4c8214ed650,Ambiguous Alias Requires Contextual Review
+67785eab-0818-41f9-9756-a8e0a215b95b,remote sensing methods,esco_altlabel,67785eab-0818-41f9-9756-a8e0a215b95b|cbb330ab-55ac-4eec-b54c-b85c6219f508,Ambiguous Alias Requires Contextual Review
+67785eab-0818-41f9-9756-a8e0a215b95b,remote sensing techniques,esco_altlabel,67785eab-0818-41f9-9756-a8e0a215b95b|cbb330ab-55ac-4eec-b54c-b85c6219f508,Canonical Label Takes Priority
+67785eab-0818-41f9-9756-a8e0a215b95b,surveying techniques,esco_altlabel,67785eab-0818-41f9-9756-a8e0a215b95b|e19b64a9-9816-4561-9b93-6222fc925c10,Ambiguous Alias Requires Contextual Review
+67df159c-735e-4784-b75b-90859ea8a170,fabrication of small metal appliances and products,esco_altlabel,67df159c-735e-4784-b75b-90859ea8a170|92e05418-6986-4374-b3e9-00becdf54b57,Ambiguous Alias Requires Contextual Review
+67df159c-735e-4784-b75b-90859ea8a170,manufacture of small metal appliances and products,esco_altlabel,67df159c-735e-4784-b75b-90859ea8a170|92e05418-6986-4374-b3e9-00becdf54b57,Ambiguous Alias Requires Contextual Review
+67df159c-735e-4784-b75b-90859ea8a170,production of small metal appliances and products,esco_altlabel,67df159c-735e-4784-b75b-90859ea8a170|92e05418-6986-4374-b3e9-00becdf54b57,Ambiguous Alias Requires Contextual Review
+69693912-0fc4-4c07-af34-e3cb24c68f63,dermatology,esco_altlabel,11190c86-bf63-4d98-be9a-fbee97c9f93a|69693912-0fc4-4c07-af34-e3cb24c68f63,Canonical Label Takes Priority
+69693912-0fc4-4c07-af34-e3cb24c68f63,venereology,esco_altlabel,69693912-0fc4-4c07-af34-e3cb24c68f63|ef250dbf-2f98-4895-8e4b-fdc804e71555,Canonical Label Takes Priority
+699d61dd-7e3f-40e6-87d5-2bd609055761,food products contents,esco_altlabel,699d61dd-7e3f-40e6-87d5-2bd609055761|bb992d83-2d7d-4618-9109-0f0e04881a8e,Ambiguous Alias Requires Contextual Review
+699d61dd-7e3f-40e6-87d5-2bd609055761,food products make up,esco_altlabel,699d61dd-7e3f-40e6-87d5-2bd609055761|bb992d83-2d7d-4618-9109-0f0e04881a8e,Ambiguous Alias Requires Contextual Review
+6a2bc03b-e30d-429b-9549-5784cb92ae2f,circuit boards,esco_altlabel,6a2bc03b-e30d-429b-9549-5784cb92ae2f|7a950986-27fe-4b6c-adf3-88f211e77019,Ambiguous Alias Requires Contextual Review
+6b30644d-bdc5-4bca-b1af-edbf5c6b15ee,processing survey data,esco_altlabel,120b9b87-3aad-4a42-b5e7-1b146a672038|6b30644d-bdc5-4bca-b1af-edbf5c6b15ee,Ambiguous Alias Requires Contextual Review
+6b9194f0-f8bb-4b9a-96a5-2203c9c2671b,manage production requirements,esco_altlabel,277f489c-7a47-4791-bd87-61ca01737f96|6b9194f0-f8bb-4b9a-96a5-2203c9c2671b,Ambiguous Alias Requires Contextual Review
+6b9194f0-f8bb-4b9a-96a5-2203c9c2671b,supervise production requirements,esco_altlabel,277f489c-7a47-4791-bd87-61ca01737f96|6b9194f0-f8bb-4b9a-96a5-2203c9c2671b,Ambiguous Alias Requires Contextual Review
+6badc79b-4353-4f95-b248-57a9ed07c7ac,implement safety procedures,esco_altlabel,6badc79b-4353-4f95-b248-57a9ed07c7ac|d2d9051a-10e1-41c5-9cfb-bbdc58016176,Ambiguous Alias Requires Contextual Review
+70bc4cfe-16c8-4433-a873-15ea8620453e,using laboratory equipment,esco_altlabel,70bc4cfe-16c8-4433-a873-15ea8620453e|c3fb1757-a529-4336-8898-4e96cd99f95f,Ambiguous Alias Requires Contextual Review
+7111b95d-0ce3-441a-9d92-4c75d05c4388,principles of project management,esco_altlabel,237db40b-4600-47c0-837f-4a2c4f3014ab|7111b95d-0ce3-441a-9d92-4c75d05c4388,Ambiguous Alias Requires Contextual Review
+713f1ba8-c7a8-43e5-a5cc-0b869474efe7,food regulations,esco_altlabel,713f1ba8-c7a8-43e5-a5cc-0b869474efe7|e591f458-93c4-4cc7-a441-2340545c33f3,Ambiguous Alias Requires Contextual Review
+713fb616-118e-40bc-9366-4a69879a49d5,verify data,esco_altlabel,713fb616-118e-40bc-9366-4a69879a49d5|e2b82b00-f07f-4fc8-a7bb-c8febf65efe5,Ambiguous Alias Requires Contextual Review
+71f81e1a-e2ca-48d6-b7b8-7a34c56c51f8,optical fibers,esco_altlabel,71f81e1a-e2ca-48d6-b7b8-7a34c56c51f8|fdfa3dcb-b8f0-454f-a659-64c66dc6b6a2,Ambiguous Alias Requires Contextual Review
+726abd5a-d23c-44b9-abb0-f22bbe95f1d3,operations analysis,esco_altlabel,726abd5a-d23c-44b9-abb0-f22bbe95f1d3|ONET_2_B_3_a,Canonical Label Takes Priority
+729ee685-e714-4858-8c49-584a29cbcd6e,build relationships with mining professionals,esco_altlabel,56fa904b-eb1c-4f34-a671-8c5dc6af6de1|729ee685-e714-4858-8c49-584a29cbcd6e,Ambiguous Alias Requires Contextual Review
+729ee685-e714-4858-8c49-584a29cbcd6e,building relationships with mining professionals,esco_altlabel,56fa904b-eb1c-4f34-a671-8c5dc6af6de1|729ee685-e714-4858-8c49-584a29cbcd6e,Ambiguous Alias Requires Contextual Review
+732cb4dd-af91-4c88-9a9f-5fc62144e500,arrange information,esco_altlabel,732cb4dd-af91-4c88-9a9f-5fc62144e500|bf05da8d-772a-4423-adb2-df79672f46f7,Ambiguous Alias Requires Contextual Review
+7369f779-4b71-4aab-8836-48b69c676eec,dbms,esco_altlabel,7369f779-4b71-4aab-8836-48b69c676eec|ab1e97ed-2319-4293-a8b7-072d2648822f,Ambiguous Alias Requires Contextual Review
+73a9561d-112c-4d8a-9d5f-b2c11c5bbd5f,waste managing,esco_altlabel,40f65a56-ccbe-4601-9f32-1cc6cdd24f28|73a9561d-112c-4d8a-9d5f-b2c11c5bbd5f,Ambiguous Alias Requires Contextual Review
+75dfe1ee-5935-42ce-b820-697f827825c3,provide customer service,esco_altlabel,0da516ee-e70e-4384-be13-f5ff80be8127|75dfe1ee-5935-42ce-b820-697f827825c3,Ambiguous Alias Requires Contextual Review
+75f312e1-622b-4751-8d93-815b32feaf8d,international convention for the prevention of pollution from ships,esco_altlabel,75f312e1-622b-4751-8d93-815b32feaf8d|aac9e93a-106a-4cdc-8d27-ac3a9ffce0ac,Canonical Label Takes Priority
+75f312e1-622b-4751-8d93-815b32feaf8d,marpol,esco_altlabel,75f312e1-622b-4751-8d93-815b32feaf8d|aac9e93a-106a-4cdc-8d27-ac3a9ffce0ac,Ambiguous Alias Requires Contextual Review
+79c366d4-0316-4838-b72e-c3be4f90fbd3,use communication equipment,esco_altlabel,7373abdb-ee5a-4949-b4ae-dee60ab37914|79c366d4-0316-4838-b72e-c3be4f90fbd3,Canonical Label Takes Priority
+79ecb6aa-a865-4444-9dfc-9f23232fdc45,study of inscriptions,esco_altlabel,79ecb6aa-a865-4444-9dfc-9f23232fdc45|ac78df58-c269-42df-97f2-46a75a581dbf,Ambiguous Alias Requires Contextual Review
+7a273f33-016a-47cc-b4b7-5ebeea768816,metal container fabrication,esco_altlabel,7a273f33-016a-47cc-b4b7-5ebeea768816|d2a921a0-894d-4a4e-aeb4-602914c33a5e,Ambiguous Alias Requires Contextual Review
+7a950986-27fe-4b6c-adf3-88f211e77019,circuit boards,esco_altlabel,6a2bc03b-e30d-429b-9549-5784cb92ae2f|7a950986-27fe-4b6c-adf3-88f211e77019,Ambiguous Alias Requires Contextual Review
+7a950986-27fe-4b6c-adf3-88f211e77019,microprocessors,esco_altlabel,7a950986-27fe-4b6c-adf3-88f211e77019|8a211052-4bec-49c2-9b4e-7914c37d21b4,Canonical Label Takes Priority
+7b0d5000-00da-4864-b776-6de49a87a669,matlab,esco_altlabel,7b0d5000-00da-4864-b776-6de49a87a669|c3a03c5a-c260-4c26-9b9a-873abb396f4d,Canonical Label Takes Priority
+7b0d5000-00da-4864-b776-6de49a87a669,ocr,esco_altlabel,12c82224-6394-4c3c-9831-2a8198ed1274|7b0d5000-00da-4864-b776-6de49a87a669,Ambiguous Alias Requires Contextual Review
+7b0d5000-00da-4864-b776-6de49a87a669,opencv,esco_altlabel,21d2f96d-35f7-4e3f-9745-c533d2dd6e97|484df271-bb52-49f1-8f50-f19624bf4df2|7b0d5000-00da-4864-b776-6de49a87a669,Ambiguous Alias Requires Contextual Review
+7d0f33ea-e724-4d77-8b75-ee4fe66bb9ba,coordinate manufacturing processes,esco_altlabel,05c00631-b864-4842-b47e-06710c197c7a|7d0f33ea-e724-4d77-8b75-ee4fe66bb9ba,Ambiguous Alias Requires Contextual Review
+7d0f33ea-e724-4d77-8b75-ee4fe66bb9ba,organise manufacturing processes,esco_altlabel,05c00631-b864-4842-b47e-06710c197c7a|7d0f33ea-e724-4d77-8b75-ee4fe66bb9ba,Ambiguous Alias Requires Contextual Review
+7e9b4242-2be7-4b9e-8ca0-46d5cedd3cb9,pesticides,esco_altlabel,5b6abc4b-0cfe-4178-845d-479da3d2d699|7e9b4242-2be7-4b9e-8ca0-46d5cedd3cb9,Canonical Label Takes Priority
+8088750d-8388-4170-a76f-48354c469c44,ict security,esco_altlabel,426ceaba-6867-481c-bb6b-aee3933da7d2|8088750d-8388-4170-a76f-48354c469c44,Ambiguous Alias Requires Contextual Review
+81513fdf-5ea9-4375-9bc4-67ad959ac5de,communicate with customers,esco_altlabel,0da516ee-e70e-4384-be13-f5ff80be8127|81513fdf-5ea9-4375-9bc4-67ad959ac5de,Canonical Label Takes Priority
+81513fdf-5ea9-4375-9bc4-67ad959ac5de,respond to customers,esco_altlabel,0da516ee-e70e-4384-be13-f5ff80be8127|81513fdf-5ea9-4375-9bc4-67ad959ac5de,Ambiguous Alias Requires Contextual Review
+81633a44-f1db-4a01-a940-804c6905e330,google docs,esco_altlabel,81633a44-f1db-4a01-a940-804c6905e330|cf310cff-0d28-4dbc-9dbb-cc500a3196c2,Ambiguous Alias Requires Contextual Review
+81633a44-f1db-4a01-a940-804c6905e330,latex,esco_altlabel,81633a44-f1db-4a01-a940-804c6905e330|d4789070-2ff7-4bbb-94ca-8bb1739826a9,Ambiguous Alias Requires Contextual Review
+8248a071-5307-4a64-a62d-643a35ec31e2,pv systems,esco_altlabel,8248a071-5307-4a64-a62d-643a35ec31e2|e45507ff-c1e2-4e0c-92fb-b6c0e6cb6245,Ambiguous Alias Requires Contextual Review
+8259c2c0-2749-41e2-a4a8-4a64a76eab37,gas chromatography,esco_altlabel,657c5a25-903c-4669-9efc-46c85c176fbf|8259c2c0-2749-41e2-a4a8-4a64a76eab37,Canonical Label Takes Priority
+82887396-e5bf-4306-af51-3fe8d82790b2,urban planning,esco_altlabel,7f18039d-dfae-471b-9daa-507f6b2d2842|82887396-e5bf-4306-af51-3fe8d82790b2,Canonical Label Takes Priority
+83bf74c8-6d77-4aac-9a36-f3118a066e51,guard boring machine,esco_altlabel,83bf74c8-6d77-4aac-9a36-f3118a066e51|a8c14569-704d-4615-bfb3-b1ecfd721bb3,Ambiguous Alias Requires Contextual Review
+83bf74c8-6d77-4aac-9a36-f3118a066e51,monitor boring machine,esco_altlabel,83bf74c8-6d77-4aac-9a36-f3118a066e51|a8c14569-704d-4615-bfb3-b1ecfd721bb3,Ambiguous Alias Requires Contextual Review
+83bf74c8-6d77-4aac-9a36-f3118a066e51,oversee boring machine,esco_altlabel,83bf74c8-6d77-4aac-9a36-f3118a066e51|a8c14569-704d-4615-bfb3-b1ecfd721bb3,Ambiguous Alias Requires Contextual Review
+83bf74c8-6d77-4aac-9a36-f3118a066e51,watch over boring machine,esco_altlabel,83bf74c8-6d77-4aac-9a36-f3118a066e51|a8c14569-704d-4615-bfb3-b1ecfd721bb3,Ambiguous Alias Requires Contextual Review
+83fc0b2b-6cd2-46af-b1ff-d3fc83604c26,energy conservation,esco_altlabel,83fc0b2b-6cd2-46af-b1ff-d3fc83604c26|ddce2912-bc0f-4a47-aa2b-c1de48bc4b44,Canonical Label Takes Priority
+84251cb1-babf-4d17-a3cd-baa642c24c8d,informix extended parallel server,esco_altlabel,84251cb1-babf-4d17-a3cd-baa642c24c8d|ab1e97ed-2319-4293-a8b7-072d2648822f,Ambiguous Alias Requires Contextual Review
+8485ef31-f707-4452-a6ec-9dbf3837611f,opto-mechanical components,esco_altlabel,3912401a-cccf-4995-9f5b-76302b26fff4|8485ef31-f707-4452-a6ec-9dbf3837611f,Ambiguous Alias Requires Contextual Review
+8485ef31-f707-4452-a6ec-9dbf3837611f,optomechanical components,esco_altlabel,3912401a-cccf-4995-9f5b-76302b26fff4|8485ef31-f707-4452-a6ec-9dbf3837611f,Canonical Label Takes Priority
+85038d57-1fdd-40de-b908-2c005545a8c3,autodesk sketchbook pro,esco_altlabel,85038d57-1fdd-40de-b908-2c005545a8c3|a71577b2-7550-4222-88ee-dcbd2d881516,Ambiguous Alias Requires Contextual Review
+86d2e2ea-1ba2-4aa6-b465-8a1f9abc81b8,comply with data protection regulations,esco_altlabel,097c6a36-f031-4d3e-b5c1-62d6ffcb430b|86d2e2ea-1ba2-4aa6-b465-8a1f9abc81b8,Ambiguous Alias Requires Contextual Review
+8770350e-746f-4adb-9556-18ca68104be6,market analysis,esco_altlabel,8770350e-746f-4adb-9556-18ca68104be6|b011c8b4-76e1-4bbc-8bb9-1d205e7b618a,Canonical Label Takes Priority
+8770350e-746f-4adb-9556-18ca68104be6,market studies,esco_altlabel,8770350e-746f-4adb-9556-18ca68104be6|b011c8b4-76e1-4bbc-8bb9-1d205e7b618a,Ambiguous Alias Requires Contextual Review
+87a0c0e6-c114-4ea1-b2d0-933bce1f3c5f,build machines,esco_altlabel,87a0c0e6-c114-4ea1-b2d0-933bce1f3c5f|f0006418-17ee-4c38-af75-f5e1e35de64c,Canonical Label Takes Priority
+88b406d0-72e2-4087-be19-d5992d259473,human resource administration,esco_altlabel,88b406d0-72e2-4087-be19-d5992d259473|e437eba1-3e22-41f2-8703-741e94785cba,Ambiguous Alias Requires Contextual Review
+88b406d0-72e2-4087-be19-d5992d259473,human resource supervision,esco_altlabel,88b406d0-72e2-4087-be19-d5992d259473|e437eba1-3e22-41f2-8703-741e94785cba,Ambiguous Alias Requires Contextual Review
+897b393f-e7e0-4248-a40d-d77119694e83,parallel computing,esco_altlabel,25b291b5-8245-4d9d-b391-86a8a31d7109|897b393f-e7e0-4248-a40d-d77119694e83,Ambiguous Alias Requires Contextual Review
+89ba58e8-a67e-4d2b-ad42-6acab25c241b,ensure customer satisfaction,esco_altlabel,00e53a0a-c0ba-4c9f-a2ed-4706d5832a00|89ba58e8-a67e-4d2b-ad42-6acab25c241b,Ambiguous Alias Requires Contextual Review
+89c1d71c-f443-4e60-a7c3-f824ecb10597,kinds of media,esco_altlabel,89c1d71c-f443-4e60-a7c3-f824ecb10597|a1670c61-bc6a-4c40-9d98-88fb272f945a,Ambiguous Alias Requires Contextual Review
+89c1d71c-f443-4e60-a7c3-f824ecb10597,media types,esco_altlabel,89c1d71c-f443-4e60-a7c3-f824ecb10597|a1670c61-bc6a-4c40-9d98-88fb272f945a,Ambiguous Alias Requires Contextual Review
+8a211052-4bec-49c2-9b4e-7914c37d21b4,microchips,esco_altlabel,4b164a27-849f-4be2-ae79-d26a4969b677|8a211052-4bec-49c2-9b4e-7914c37d21b4,Ambiguous Alias Requires Contextual Review
+8a2f841c-fe35-46c0-90bd-51858a88a83b,electronic devices,esco_altlabel,8a2f841c-fe35-46c0-90bd-51858a88a83b|95c35c3a-035f-47c2-90cf-7e934d20fc08,Ambiguous Alias Requires Contextual Review
+8a2f841c-fe35-46c0-90bd-51858a88a83b,types of electronic device,esco_altlabel,52838a25-11f5-4cb1-b4ab-c5c7d59041e8|8a2f841c-fe35-46c0-90bd-51858a88a83b,Ambiguous Alias Requires Contextual Review
+8b9332c7-2551-4527-9a64-a615713d8b02,assess employees,esco_altlabel,8b9332c7-2551-4527-9a64-a615713d8b02|9581639c-e521-4d12-9b4e-25faca24d34b,Ambiguous Alias Requires Contextual Review
+8b9dc459-bb42-4c5d-8d5a-8cffd6a704c9,train dental technician staff,esco_altlabel,3bee464c-bf7c-47c9-b33b-0668d201a387|8b9dc459-bb42-4c5d-8d5a-8cffd6a704c9,Canonical Label Takes Priority
+8ebb2c0a-0baa-43bf-95cf-094047c57427,keep professional administration documents,esco_altlabel,8ebb2c0a-0baa-43bf-95cf-094047c57427|ab986bc4-df92-4351-9ac1-aa75af943cf7,Ambiguous Alias Requires Contextual Review
+8ebb2c0a-0baa-43bf-95cf-094047c57427,organise professional administration records,esco_altlabel,8ebb2c0a-0baa-43bf-95cf-094047c57427|ab986bc4-df92-4351-9ac1-aa75af943cf7,Ambiguous Alias Requires Contextual Review
+905b6acd-377b-46b9-9d80-e47e9ca789ca,financial market,esco_altlabel,905b6acd-377b-46b9-9d80-e47e9ca789ca|b895bd42-0009-4815-a150-eb9eb5caec21,Ambiguous Alias Requires Contextual Review
+90d7dc07-3d66-4364-b6ff-c40a1fe1b849,circuit breakers,esco_altlabel,90d7dc07-3d66-4364-b6ff-c40a1fe1b849|e5ad0cce-e3d5-4c60-8504-5d1c7e3b55b9,Ambiguous Alias Requires Contextual Review
+9148c1e4-beae-433c-bd72-e4a009440744,monitor production costs,esco_altlabel,46406ae4-31b4-41d0-bd12-8a78588f431f|9148c1e4-beae-433c-bd72-e4a009440744,Canonical Label Takes Priority
+9148c1e4-beae-433c-bd72-e4a009440744,monitoring production costs,esco_altlabel,46406ae4-31b4-41d0-bd12-8a78588f431f|9148c1e4-beae-433c-bd72-e4a009440744,Ambiguous Alias Requires Contextual Review
+920764e7-43c6-42c0-b2a6-2cbcc07fafc2,oversee equipment,esco_altlabel,920764e7-43c6-42c0-b2a6-2cbcc07fafc2|ca17f0df-59e4-4ed2-9360-fc5325bc7151,Ambiguous Alias Requires Contextual Review
+920764e7-43c6-42c0-b2a6-2cbcc07fafc2,supervise equipment,esco_altlabel,920764e7-43c6-42c0-b2a6-2cbcc07fafc2|ca17f0df-59e4-4ed2-9360-fc5325bc7151,Canonical Label Takes Priority
+925463a7-d51f-4d5b-9f79-4d28cf30acde,labview,esco_hiddenlabel,21d2f96d-35f7-4e3f-9745-c533d2dd6e97|925463a7-d51f-4d5b-9f79-4d28cf30acde,Ambiguous Alias Requires Contextual Review
+92e05418-6986-4374-b3e9-00becdf54b57,fabrication of small metal appliances and products,esco_altlabel,67df159c-735e-4784-b75b-90859ea8a170|92e05418-6986-4374-b3e9-00becdf54b57,Ambiguous Alias Requires Contextual Review
+92e05418-6986-4374-b3e9-00becdf54b57,manufacture of small metal appliances and products,esco_altlabel,67df159c-735e-4784-b75b-90859ea8a170|92e05418-6986-4374-b3e9-00becdf54b57,Ambiguous Alias Requires Contextual Review
+92e05418-6986-4374-b3e9-00becdf54b57,production of small metal appliances and products,esco_altlabel,67df159c-735e-4784-b75b-90859ea8a170|92e05418-6986-4374-b3e9-00becdf54b57,Ambiguous Alias Requires Contextual Review
+92f54ff7-f6d8-4702-8e0f-2d7d3254a7fd,overhaul engines,esco_altlabel,1bc7c69b-4292-4592-b854-f48165a06082|92f54ff7-f6d8-4702-8e0f-2d7d3254a7fd,Ambiguous Alias Requires Contextual Review
+9372cc5b-8f47-4805-8a37-fd0e85a948f4,colour wood,esco_altlabel,571267c5-98e7-4dd2-b6bc-cde5aeec3eaa|9372cc5b-8f47-4805-8a37-fd0e85a948f4,Ambiguous Alias Requires Contextual Review
+9372cc5b-8f47-4805-8a37-fd0e85a948f4,paint wood,esco_altlabel,571267c5-98e7-4dd2-b6bc-cde5aeec3eaa|9372cc5b-8f47-4805-8a37-fd0e85a948f4,Ambiguous Alias Requires Contextual Review
+9372cc5b-8f47-4805-8a37-fd0e85a948f4,stain wood,esco_altlabel,571267c5-98e7-4dd2-b6bc-cde5aeec3eaa|9372cc5b-8f47-4805-8a37-fd0e85a948f4,Canonical Label Takes Priority
+94b2c46e-6338-4a1d-950a-d44eef018c53,cooperate with engineers,esco_altlabel,94b2c46e-6338-4a1d-950a-d44eef018c53|c5c51528-ccfc-4c53-b409-c200aaa44222,Ambiguous Alias Requires Contextual Review
+9581639c-e521-4d12-9b4e-25faca24d34b,assess employees,esco_altlabel,8b9332c7-2551-4527-9a64-a615713d8b02|9581639c-e521-4d12-9b4e-25faca24d34b,Ambiguous Alias Requires Contextual Review
+9581639c-e521-4d12-9b4e-25faca24d34b,supervise employees,esco_altlabel,339ac029-066a-4985-9f9d-b3d7c8fea0bb|9581639c-e521-4d12-9b4e-25faca24d34b,Ambiguous Alias Requires Contextual Review
+9581639c-e521-4d12-9b4e-25faca24d34b,supervise staff,esco_altlabel,339ac029-066a-4985-9f9d-b3d7c8fea0bb|9581639c-e521-4d12-9b4e-25faca24d34b|9601b2a8-68e4-4906-9306-a23679b8f0b0,Canonical Label Takes Priority
+95c35c3a-035f-47c2-90cf-7e934d20fc08,electronic components,esco_altlabel,8a2f841c-fe35-46c0-90bd-51858a88a83b|95c35c3a-035f-47c2-90cf-7e934d20fc08,Canonical Label Takes Priority
+95c35c3a-035f-47c2-90cf-7e934d20fc08,electronic devices,esco_altlabel,8a2f841c-fe35-46c0-90bd-51858a88a83b|95c35c3a-035f-47c2-90cf-7e934d20fc08,Ambiguous Alias Requires Contextual Review
+969caeb0-cfc5-42aa-9c44-0ca3c09305fe,monitor traffic flow,esco_altlabel,969caeb0-cfc5-42aa-9c44-0ca3c09305fe|d22f2f23-9dd5-4854-bada-0514ff6c51a9,Canonical Label Takes Priority
+96d549bb-3e62-4c45-92a7-f114df089581,manage supply chain,esco_altlabel,020b3c27-bae1-4b85-9d6f-eccee0f5ed99|96d549bb-3e62-4c45-92a7-f114df089581,Ambiguous Alias Requires Contextual Review
+96d549bb-3e62-4c45-92a7-f114df089581,supply chain management,esco_altlabel,020b3c27-bae1-4b85-9d6f-eccee0f5ed99|96d549bb-3e62-4c45-92a7-f114df089581|f929c89e-c363-4132-a918-e021d57b307c,Canonical Label Takes Priority
+97b713f0-b9e8-4903-8dee-7e0b4019a1c0,employment legislation,esco_altlabel,08fe5910-8c4c-4679-a988-eb2ded3c4909|97b713f0-b9e8-4903-8dee-7e0b4019a1c0,Ambiguous Alias Requires Contextual Review
+97fb21db-a4e5-4b03-af21-03b9d510d872,use global positioning systems,esco_altlabel,4dc5042a-b2b4-4ad5-a39b-3558b073cec7|4f6b656a-54d0-48ce-9b55-ebcac5904a14|97fb21db-a4e5-4b03-af21-03b9d510d872,Ambiguous Alias Requires Contextual Review
+99207709-d076-4cce-ba38-e90d3bb28806,sparql,esco_altlabel,5da8018b-ae85-4cde-ad93-0394369018f3|99207709-d076-4cce-ba38-e90d3bb28806,Canonical Label Takes Priority
+99571e68-801f-49af-a897-5f75996642e1,business analysis,esco_altlabel,633a3637-2c6b-40ae-ac38-289eb2a62aa6|99571e68-801f-49af-a897-5f75996642e1|9e84a506-df06-4be3-874a-fa01293e3dd5,Canonical Label Takes Priority
+9d5521f9-44d7-4db4-b7ac-0ba7d389f44d,collaborate with colleagues,esco_altlabel,082967d4-b94c-4305-aa13-35a6aa8c5c7c|9d5521f9-44d7-4db4-b7ac-0ba7d389f44d,Ambiguous Alias Requires Contextual Review
+9d5521f9-44d7-4db4-b7ac-0ba7d389f44d,cooperate with colleagues,esco_altlabel,082967d4-b94c-4305-aa13-35a6aa8c5c7c|9d5521f9-44d7-4db4-b7ac-0ba7d389f44d,Canonical Label Takes Priority
+9d5521f9-44d7-4db4-b7ac-0ba7d389f44d,work together with colleagues,esco_altlabel,082967d4-b94c-4305-aa13-35a6aa8c5c7c|9d5521f9-44d7-4db4-b7ac-0ba7d389f44d,Ambiguous Alias Requires Contextual Review
+9e84a506-df06-4be3-874a-fa01293e3dd5,business analysis,esco_altlabel,633a3637-2c6b-40ae-ac38-289eb2a62aa6|99571e68-801f-49af-a897-5f75996642e1|9e84a506-df06-4be3-874a-fa01293e3dd5,Canonical Label Takes Priority
+a1670c61-bc6a-4c40-9d98-88fb272f945a,kinds of media,esco_altlabel,89c1d71c-f443-4e60-a7c3-f824ecb10597|a1670c61-bc6a-4c40-9d98-88fb272f945a,Ambiguous Alias Requires Contextual Review
+a1670c61-bc6a-4c40-9d98-88fb272f945a,media types,esco_altlabel,89c1d71c-f443-4e60-a7c3-f824ecb10597|a1670c61-bc6a-4c40-9d98-88fb272f945a,Ambiguous Alias Requires Contextual Review
+a17286c5-238d-4f0b-bc24-29e9121345de,active listening,esco_altlabel,ONET_2_A_1_b|a17286c5-238d-4f0b-bc24-29e9121345de,Canonical Label Takes Priority
+a2adddad-2889-460c-a111-e3a2001ae785,arrange exhibition,esco_altlabel,a2adddad-2889-460c-a111-e3a2001ae785|c45848bc-33c6-45fa-b791-bc5b06c21b87,Ambiguous Alias Requires Contextual Review
+a2adddad-2889-460c-a111-e3a2001ae785,organize exhibition,esco_altlabel,a2adddad-2889-460c-a111-e3a2001ae785|c45848bc-33c6-45fa-b791-bc5b06c21b87,Ambiguous Alias Requires Contextual Review
+a2b5dcf3-5b6a-453d-876c-cff540c0faf1,cadd software,esco_altlabel,3a33cec3-4b44-471a-8864-5cc8567a8b1f|a2b5dcf3-5b6a-453d-876c-cff540c0faf1,Canonical Label Takes Priority
+a4d336a6-9ffd-402a-91cc-f359716ba4e0,ml,esco_altlabel,3a2d5b45-56e4-4f5a-a55a-4a4a65afdc43|a4d336a6-9ffd-402a-91cc-f359716ba4e0,Ambiguous Alias Requires Contextual Review
+a551ec45-db14-4d5a-84ee-20abef51e739,farm product marketing,esco_altlabel,22134337-8baa-4879-adec-d9cdbc02cc27|a551ec45-db14-4d5a-84ee-20abef51e739,Ambiguous Alias Requires Contextual Review
+a551ec45-db14-4d5a-84ee-20abef51e739,farm product promoting,esco_altlabel,22134337-8baa-4879-adec-d9cdbc02cc27|a551ec45-db14-4d5a-84ee-20abef51e739,Ambiguous Alias Requires Contextual Review
+a551ec45-db14-4d5a-84ee-20abef51e739,farm products marketing,esco_altlabel,22134337-8baa-4879-adec-d9cdbc02cc27|a551ec45-db14-4d5a-84ee-20abef51e739,Ambiguous Alias Requires Contextual Review
+a551ec45-db14-4d5a-84ee-20abef51e739,farm products promoting,esco_altlabel,22134337-8baa-4879-adec-d9cdbc02cc27|a551ec45-db14-4d5a-84ee-20abef51e739,Ambiguous Alias Requires Contextual Review
+a551ec45-db14-4d5a-84ee-20abef51e739,marketing farm products,esco_altlabel,22134337-8baa-4879-adec-d9cdbc02cc27|a551ec45-db14-4d5a-84ee-20abef51e739,Ambiguous Alias Requires Contextual Review
+a551ec45-db14-4d5a-84ee-20abef51e739,promote farm products,esco_altlabel,22134337-8baa-4879-adec-d9cdbc02cc27|a551ec45-db14-4d5a-84ee-20abef51e739,Canonical Label Takes Priority
+a551ec45-db14-4d5a-84ee-20abef51e739,promoting farm products,esco_altlabel,22134337-8baa-4879-adec-d9cdbc02cc27|a551ec45-db14-4d5a-84ee-20abef51e739,Ambiguous Alias Requires Contextual Review
+a5e4890e-85c4-470b-84be-66095378b624,instruct animals,esco_altlabel,a5e4890e-85c4-470b-84be-66095378b624|d92d88cf-dd72-4c3b-a98a-2c2a12600df3,Ambiguous Alias Requires Contextual Review
+a5e4890e-85c4-470b-84be-66095378b624,train animals,esco_altlabel,a5e4890e-85c4-470b-84be-66095378b624|d92d88cf-dd72-4c3b-a98a-2c2a12600df3,Ambiguous Alias Requires Contextual Review
+a71577b2-7550-4222-88ee-dcbd2d881516,adobe photoshop elements,esco_altlabel,14ced458-5f4b-495f-bd3d-9c240614bda0|a71577b2-7550-4222-88ee-dcbd2d881516,Ambiguous Alias Requires Contextual Review
+a71577b2-7550-4222-88ee-dcbd2d881516,autodesk sketchbook pro,esco_altlabel,85038d57-1fdd-40de-b908-2c005545a8c3|a71577b2-7550-4222-88ee-dcbd2d881516,Ambiguous Alias Requires Contextual Review
+a71577b2-7550-4222-88ee-dcbd2d881516,gimp,esco_hiddenlabel,4a466c62-db7d-4905-9a41-f23214810acb|a71577b2-7550-4222-88ee-dcbd2d881516,Ambiguous Alias Requires Contextual Review
+a8429098-ddac-481b-91e7-688d021c092e,ecological principles,esco_altlabel,62685d7a-a8be-4070-89e9-8699ad1201b6|a8429098-ddac-481b-91e7-688d021c092e,Canonical Label Takes Priority
+a8429098-ddac-481b-91e7-688d021c092e,principles of ecology,esco_altlabel,62685d7a-a8be-4070-89e9-8699ad1201b6|a8429098-ddac-481b-91e7-688d021c092e,Ambiguous Alias Requires Contextual Review
+a8c14569-704d-4615-bfb3-b1ecfd721bb3,guard boring machine,esco_altlabel,83bf74c8-6d77-4aac-9a36-f3118a066e51|a8c14569-704d-4615-bfb3-b1ecfd721bb3,Ambiguous Alias Requires Contextual Review
+a8c14569-704d-4615-bfb3-b1ecfd721bb3,monitor boring machine,esco_altlabel,83bf74c8-6d77-4aac-9a36-f3118a066e51|a8c14569-704d-4615-bfb3-b1ecfd721bb3,Ambiguous Alias Requires Contextual Review
+a8c14569-704d-4615-bfb3-b1ecfd721bb3,oversee boring machine,esco_altlabel,83bf74c8-6d77-4aac-9a36-f3118a066e51|a8c14569-704d-4615-bfb3-b1ecfd721bb3,Ambiguous Alias Requires Contextual Review
+a8c14569-704d-4615-bfb3-b1ecfd721bb3,watch over boring machine,esco_altlabel,83bf74c8-6d77-4aac-9a36-f3118a066e51|a8c14569-704d-4615-bfb3-b1ecfd721bb3,Ambiguous Alias Requires Contextual Review
+a983df1f-7192-4ba4-9b75-944b9614ed89,perform safety inspections,esco_altlabel,36e9c099-614e-44f1-ab0a-5e6fda4a0763|a983df1f-7192-4ba4-9b75-944b9614ed89,Ambiguous Alias Requires Contextual Review
+a983df1f-7192-4ba4-9b75-944b9614ed89,undertake safety inspections,esco_altlabel,36e9c099-614e-44f1-ab0a-5e6fda4a0763|a983df1f-7192-4ba4-9b75-944b9614ed89,Ambiguous Alias Requires Contextual Review
+aac9e93a-106a-4cdc-8d27-ac3a9ffce0ac,marpol,esco_altlabel,75f312e1-622b-4751-8d93-815b32feaf8d|aac9e93a-106a-4cdc-8d27-ac3a9ffce0ac,Ambiguous Alias Requires Contextual Review
+ab1e97ed-2319-4293-a8b7-072d2648822f,dbms,esco_altlabel,7369f779-4b71-4aab-8836-48b69c676eec|ab1e97ed-2319-4293-a8b7-072d2648822f,Ambiguous Alias Requires Contextual Review
+ab1e97ed-2319-4293-a8b7-072d2648822f,informix extended parallel server,esco_altlabel,84251cb1-babf-4d17-a3cd-baa642c24c8d|ab1e97ed-2319-4293-a8b7-072d2648822f,Ambiguous Alias Requires Contextual Review
+ab1e97ed-2319-4293-a8b7-072d2648822f,microsoft access,esco_hiddenlabel,3d03c40c-1b83-4793-8902-2523f40af59e|ab1e97ed-2319-4293-a8b7-072d2648822f,Canonical Label Takes Priority
+ab1e97ed-2319-4293-a8b7-072d2648822f,rdb,esco_altlabel,ab1e97ed-2319-4293-a8b7-072d2648822f|de9f85ba-e77f-48fd-8c66-f5ebaf32d655,Ambiguous Alias Requires Contextual Review
+ab1e97ed-2319-4293-a8b7-072d2648822f,sql,esco_altlabel,598de5b0-5b58-4ea7-8058-a4bc4d18c742|ab1e97ed-2319-4293-a8b7-072d2648822f,Canonical Label Takes Priority
+ab6b2887-0ecf-462d-8c9d-70da02e5d475,trade securities,esco_altlabel,ab6b2887-0ecf-462d-8c9d-70da02e5d475|c4b5eec1-2da9-4353-acd4-fbbf929123e2,Canonical Label Takes Priority
+ab986bc4-df92-4351-9ac1-aa75af943cf7,keep professional administration documents,esco_altlabel,8ebb2c0a-0baa-43bf-95cf-094047c57427|ab986bc4-df92-4351-9ac1-aa75af943cf7,Ambiguous Alias Requires Contextual Review
+ab986bc4-df92-4351-9ac1-aa75af943cf7,maintain professional administration,esco_altlabel,8ebb2c0a-0baa-43bf-95cf-094047c57427|ab986bc4-df92-4351-9ac1-aa75af943cf7,Canonical Label Takes Priority
+ab986bc4-df92-4351-9ac1-aa75af943cf7,organise professional administration records,esco_altlabel,8ebb2c0a-0baa-43bf-95cf-094047c57427|ab986bc4-df92-4351-9ac1-aa75af943cf7,Ambiguous Alias Requires Contextual Review
+ac6b866c-d18d-4572-b24d-fe65567f5943,forge metal,esco_altlabel,1b90438f-820f-4b1c-9fbb-ac60a4369404|ac6b866c-d18d-4572-b24d-fe65567f5943,Ambiguous Alias Requires Contextual Review
+ac78df58-c269-42df-97f2-46a75a581dbf,study of inscriptions,esco_altlabel,79ecb6aa-a865-4444-9dfc-9f23232fdc45|ac78df58-c269-42df-97f2-46a75a581dbf,Ambiguous Alias Requires Contextual Review
+ad05c2bf-3905-4e4c-bd56-6fcfdebc994c,healthcare science,esco_altlabel,ad05c2bf-3905-4e4c-bd56-6fcfdebc994c|d429b19a-132f-44d3-971b-bb0ccd94f979,Ambiguous Alias Requires Contextual Review
+afdcb380-ef9f-4785-b877-cc551f035034,principles of agronomy,esco_altlabel,5eafee30-f3b6-4cd6-baf8-517bb2f3d625|afdcb380-ef9f-4785-b877-cc551f035034,Ambiguous Alias Requires Contextual Review
+b011c8b4-76e1-4bbc-8bb9-1d205e7b618a,market research,esco_altlabel,8770350e-746f-4adb-9556-18ca68104be6|b011c8b4-76e1-4bbc-8bb9-1d205e7b618a,Canonical Label Takes Priority
+b011c8b4-76e1-4bbc-8bb9-1d205e7b618a,market studies,esco_altlabel,8770350e-746f-4adb-9556-18ca68104be6|b011c8b4-76e1-4bbc-8bb9-1d205e7b618a,Ambiguous Alias Requires Contextual Review
+b5a1fc87-c9f2-41f4-a1ae-28e023715592,sampling,esco_altlabel,17fa2e6a-ca80-4d60-afb0-03f170e9d5f3|b5a1fc87-c9f2-41f4-a1ae-28e023715592,Ambiguous Alias Requires Contextual Review
+b5a1fc87-c9f2-41f4-a1ae-28e023715592,sampling equipment use,esco_altlabel,17fa2e6a-ca80-4d60-afb0-03f170e9d5f3|b5a1fc87-c9f2-41f4-a1ae-28e023715592,Ambiguous Alias Requires Contextual Review
+b5a1fc87-c9f2-41f4-a1ae-28e023715592,take samples,esco_altlabel,17fa2e6a-ca80-4d60-afb0-03f170e9d5f3|b5a1fc87-c9f2-41f4-a1ae-28e023715592,Ambiguous Alias Requires Contextual Review
+b5a1fc87-c9f2-41f4-a1ae-28e023715592,taking samples,esco_altlabel,17fa2e6a-ca80-4d60-afb0-03f170e9d5f3|b5a1fc87-c9f2-41f4-a1ae-28e023715592,Ambiguous Alias Requires Contextual Review
+b5a1fc87-c9f2-41f4-a1ae-28e023715592,using sampling equipment,esco_altlabel,17fa2e6a-ca80-4d60-afb0-03f170e9d5f3|b5a1fc87-c9f2-41f4-a1ae-28e023715592,Ambiguous Alias Requires Contextual Review
+b661befa-db9b-46d7-b89d-95a8c394f82f,arrange library material,esco_altlabel,b661befa-db9b-46d7-b89d-95a8c394f82f|f645997b-e5a3-47e4-b715-65bbfb3e69f5,Ambiguous Alias Requires Contextual Review
+b6d14ab8-3441-4cbe-8a0e-5b4f7f994730,develop educational resources,esco_altlabel,3a5b7435-c262-4a9d-893d-ee6c19bd9d92|b6d14ab8-3441-4cbe-8a0e-5b4f7f994730,Canonical Label Takes Priority
+b7b381f5-7de2-4f91-9a8f-524041cb47d9,control engineering,esco_altlabel,b7b381f5-7de2-4f91-9a8f-524041cb47d9|bf1f763e-c505-46e7-8af3-e48f13ec5f44,Canonical Label Takes Priority
+b7b381f5-7de2-4f91-9a8f-524041cb47d9,science of control engineering,esco_altlabel,b7b381f5-7de2-4f91-9a8f-524041cb47d9|bf1f763e-c505-46e7-8af3-e48f13ec5f44,Ambiguous Alias Requires Contextual Review
+b805f989-14d5-46ad-80b0-755634b66dba,work in bad weather,esco_altlabel,0e355580-bd4a-465a-8058-92984623070e|b805f989-14d5-46ad-80b0-755634b66dba,Ambiguous Alias Requires Contextual Review
+b805f989-14d5-46ad-80b0-755634b66dba,working in bad weather,esco_altlabel,0e355580-bd4a-465a-8058-92984623070e|b805f989-14d5-46ad-80b0-755634b66dba,Ambiguous Alias Requires Contextual Review
+b895bd42-0009-4815-a150-eb9eb5caec21,financial market,esco_altlabel,905b6acd-377b-46b9-9d80-e47e9ca789ca|b895bd42-0009-4815-a150-eb9eb5caec21,Ambiguous Alias Requires Contextual Review
+b8ac179c-4a29-4467-9177-031daf1321d6,packaging production,esco_altlabel,b8ac179c-4a29-4467-9177-031daf1321d6|fcc64184-33d5-4e4a-8d28-0993d5685c39,Ambiguous Alias Requires Contextual Review
+bacbfc27-4b5d-47de-8bfd-af5fa27562a2,create prototypes,esco_altlabel,bacbfc27-4b5d-47de-8bfd-af5fa27562a2|e921279a-1a7e-4900-9720-bde93ae3e70e,Ambiguous Alias Requires Contextual Review
+bb992d83-2d7d-4618-9109-0f0e04881a8e,food products contents,esco_altlabel,699d61dd-7e3f-40e6-87d5-2bd609055761|bb992d83-2d7d-4618-9109-0f0e04881a8e,Ambiguous Alias Requires Contextual Review
+bb992d83-2d7d-4618-9109-0f0e04881a8e,food products make up,esco_altlabel,699d61dd-7e3f-40e6-87d5-2bd609055761|bb992d83-2d7d-4618-9109-0f0e04881a8e,Ambiguous Alias Requires Contextual Review
+bf05da8d-772a-4423-adb2-df79672f46f7,arrange information,esco_altlabel,732cb4dd-af91-4c88-9a9f-5fc62144e500|bf05da8d-772a-4423-adb2-df79672f46f7,Ambiguous Alias Requires Contextual Review
+bf1f763e-c505-46e7-8af3-e48f13ec5f44,science of control engineering,esco_altlabel,b7b381f5-7de2-4f91-9a8f-524041cb47d9|bf1f763e-c505-46e7-8af3-e48f13ec5f44,Ambiguous Alias Requires Contextual Review
+c062bab3-3ea0-4291-9220-a2d8fef4bead,mysql,esco_hiddenlabel,4da171e5-779c-4983-a76f-91c16751e99f|c062bab3-3ea0-4291-9220-a2d8fef4bead,Canonical Label Takes Priority
+c0fc7d2d-d013-40d7-bc58-75cf3771153f,equipment maintenance,esco_altlabel,5033c2fb-ec55-4b8e-b0a4-9379593f1e1c|c0fc7d2d-d013-40d7-bc58-75cf3771153f,Ambiguous Alias Requires Contextual Review
+c0fc7d2d-d013-40d7-bc58-75cf3771153f,maintain equipment,esco_altlabel,5033c2fb-ec55-4b8e-b0a4-9379593f1e1c|c0fc7d2d-d013-40d7-bc58-75cf3771153f,Canonical Label Takes Priority
+c0fc7d2d-d013-40d7-bc58-75cf3771153f,maintaining equipment,esco_altlabel,5033c2fb-ec55-4b8e-b0a4-9379593f1e1c|c0fc7d2d-d013-40d7-bc58-75cf3771153f,Ambiguous Alias Requires Contextual Review
+c0fc7d2d-d013-40d7-bc58-75cf3771153f,maintenance of equipment,esco_altlabel,5033c2fb-ec55-4b8e-b0a4-9379593f1e1c|c0fc7d2d-d013-40d7-bc58-75cf3771153f,Ambiguous Alias Requires Contextual Review
+c13fb093-5ffb-491a-b8b7-fa2d42a57e2e,cloud security and compliance,esco_altlabel,1c2978b8-bb0d-4249-9c23-877571a4dffa|c13fb093-5ffb-491a-b8b7-fa2d42a57e2e,Canonical Label Takes Priority
+c1e0de6d-ec3b-4323-92d4-d1c62df2064a,environmental legislation,esco_altlabel,6f5850ea-5785-4e2c-b062-743066fd5bdb|c1e0de6d-ec3b-4323-92d4-d1c62df2064a,Canonical Label Takes Priority
+c2999f0c-eb37-4cdf-b9b0-82107b628794,cascading style sheets,esco_altlabel,c2999f0c-eb37-4cdf-b9b0-82107b628794|e5d1f825-60ed-4bdd-872a-e748c387f777,Ambiguous Alias Requires Contextual Review
+c2999f0c-eb37-4cdf-b9b0-82107b628794,css,esco_altlabel,c2999f0c-eb37-4cdf-b9b0-82107b628794|e5d1f825-60ed-4bdd-872a-e748c387f777,Canonical Label Takes Priority
+c3fb1757-a529-4336-8898-4e96cd99f95f,use laboratory equipment,esco_altlabel,70bc4cfe-16c8-4433-a873-15ea8620453e|c3fb1757-a529-4336-8898-4e96cd99f95f,Canonical Label Takes Priority
+c3fb1757-a529-4336-8898-4e96cd99f95f,using laboratory equipment,esco_altlabel,70bc4cfe-16c8-4433-a873-15ea8620453e|c3fb1757-a529-4336-8898-4e96cd99f95f,Ambiguous Alias Requires Contextual Review
+c45848bc-33c6-45fa-b791-bc5b06c21b87,arrange exhibition,esco_altlabel,a2adddad-2889-460c-a111-e3a2001ae785|c45848bc-33c6-45fa-b791-bc5b06c21b87,Ambiguous Alias Requires Contextual Review
+c45848bc-33c6-45fa-b791-bc5b06c21b87,organize exhibition,esco_altlabel,a2adddad-2889-460c-a111-e3a2001ae785|c45848bc-33c6-45fa-b791-bc5b06c21b87,Ambiguous Alias Requires Contextual Review
+c564a8dc-e6b3-48a1-bb6c-674f6ce37215,natural gas,esco_altlabel,608eb32b-276c-42a6-9be9-2d7bc33e9b3b|c564a8dc-e6b3-48a1-bb6c-674f6ce37215,Canonical Label Takes Priority
+c564a8dc-e6b3-48a1-bb6c-674f6ce37215,petroleum,esco_altlabel,ad536e6e-7333-4d86-bea6-130ca4ed9ee3|c564a8dc-e6b3-48a1-bb6c-674f6ce37215,Canonical Label Takes Priority
+c5c51528-ccfc-4c53-b409-c200aaa44222,collaborate with engineers,esco_altlabel,94b2c46e-6338-4a1d-950a-d44eef018c53|c5c51528-ccfc-4c53-b409-c200aaa44222,Canonical Label Takes Priority
+c5c51528-ccfc-4c53-b409-c200aaa44222,cooperate with engineers,esco_altlabel,94b2c46e-6338-4a1d-950a-d44eef018c53|c5c51528-ccfc-4c53-b409-c200aaa44222,Ambiguous Alias Requires Contextual Review
+c609c7cf-ec3f-42df-9147-3ea012e31b66,arrange ordering of products for customers,esco_altlabel,39b2f4dc-86b7-4bf9-94df-01771a56e042|c609c7cf-ec3f-42df-9147-3ea012e31b66,Canonical Label Takes Priority
+c6c37f68-190e-4482-905c-93007a64ed61,study radar images,esco_altlabel,c6c37f68-190e-4482-905c-93007a64ed61|e4d90d50-bd28-4a0c-a3a7-d4963e2a307a,Canonical Label Takes Priority
+ca17f0df-59e4-4ed2-9360-fc5325bc7151,oversee equipment,esco_altlabel,920764e7-43c6-42c0-b2a6-2cbcc07fafc2|ca17f0df-59e4-4ed2-9360-fc5325bc7151,Ambiguous Alias Requires Contextual Review
+cb1e8e43-6fc5-4c34-ad4d-f3850144789b,diagnosis and treatment of blood diseases,esco_altlabel,11335fcc-23af-4afe-bfaf-c0c25abcb5b0|cb1e8e43-6fc5-4c34-ad4d-f3850144789b,Ambiguous Alias Requires Contextual Review
+cb668e89-6ef5-4ff3-ab4a-506010e7e70b,direct a team,esco_altlabel,1f1d2ff8-c4c1-45cc-9812-6a7ee84a73cb|cb668e89-6ef5-4ff3-ab4a-506010e7e70b,Ambiguous Alias Requires Contextual Review
+cbaeb978-87a0-450f-b6fd-6231dffcf3da,fish samples collecting for diagnosis,esco_altlabel,512702d5-e700-4ddf-b72d-9c41c23f8ec1|cbaeb978-87a0-450f-b6fd-6231dffcf3da,Ambiguous Alias Requires Contextual Review
+cbb330ab-55ac-4eec-b54c-b85c6219f508,remote sensing,esco_altlabel,377861af-f966-4c87-a2db-7e99904312b9|cbb330ab-55ac-4eec-b54c-b85c6219f508,Ambiguous Alias Requires Contextual Review
+cbb330ab-55ac-4eec-b54c-b85c6219f508,remote sensing methods,esco_altlabel,67785eab-0818-41f9-9756-a8e0a215b95b|cbb330ab-55ac-4eec-b54c-b85c6219f508,Ambiguous Alias Requires Contextual Review
+ce5b1446-b5e3-4f05-a5ac-83f2ee142a44,scrutinize,esco_altlabel,36ff57b0-637d-4a83-a0e8-d14f86f9f078|ce5b1446-b5e3-4f05-a5ac-83f2ee142a44,Ambiguous Alias Requires Contextual Review
+cf310cff-0d28-4dbc-9dbb-cc500a3196c2,google docs,esco_hiddenlabel,81633a44-f1db-4a01-a940-804c6905e330|cf310cff-0d28-4dbc-9dbb-cc500a3196c2,Ambiguous Alias Requires Contextual Review
+cf310cff-0d28-4dbc-9dbb-cc500a3196c2,google sheets,esco_hiddenlabel,1973c966-f236-40c9-b2d4-5d71a89019be|cf310cff-0d28-4dbc-9dbb-cc500a3196c2,Ambiguous Alias Requires Contextual Review
+d1072655-88ce-4445-8803-e6273da273e7,technical drawings,esco_altlabel,59ea80e1-463a-4dba-82c6-d0b6d577d532|d1072655-88ce-4445-8803-e6273da273e7,Canonical Label Takes Priority
+d1317634-ccea-44d0-9cdc-c863f9bf856b,liaise with engineers,esco_altlabel,c5c51528-ccfc-4c53-b409-c200aaa44222|d1317634-ccea-44d0-9cdc-c863f9bf856b,Canonical Label Takes Priority
+d15e92c4-c8dc-48cd-a1f6-94fe13347f87,electrical wiring diagrams,esco_altlabel,d15e92c4-c8dc-48cd-a1f6-94fe13347f87|ed291aa0-8b2f-4179-b2f7-540ea6f63bf3,Canonical Label Takes Priority
+d2a921a0-894d-4a4e-aeb4-602914c33a5e,metal container fabrication,esco_altlabel,7a273f33-016a-47cc-b4b7-5ebeea768816|d2a921a0-894d-4a4e-aeb4-602914c33a5e,Ambiguous Alias Requires Contextual Review
+d2d9051a-10e1-41c5-9cfb-bbdc58016176,implement safety procedures,esco_altlabel,6badc79b-4353-4f95-b248-57a9ed07c7ac|d2d9051a-10e1-41c5-9cfb-bbdc58016176,Ambiguous Alias Requires Contextual Review
+d2e66c64-ee69-4854-8978-b6d1210532e1,diagnose speech disorders,esco_altlabel,c9e1cb88-bd7c-463d-83b2-2bd197a3114c|d2e66c64-ee69-4854-8978-b6d1210532e1,Canonical Label Takes Priority
+d3a8ef9c-8572-438c-91dc-010537070be3,environmental impact management,esco_altlabel,d3a8ef9c-8572-438c-91dc-010537070be3|d86babea-bf8b-4552-81a8-daf706066ad6,Ambiguous Alias Requires Contextual Review
+d429b19a-132f-44d3-971b-bb0ccd94f979,healthcare science,esco_altlabel,ad05c2bf-3905-4e4c-bd56-6fcfdebc994c|d429b19a-132f-44d3-971b-bb0ccd94f979,Ambiguous Alias Requires Contextual Review
+d4789070-2ff7-4bbb-94ca-8bb1739826a9,latex,esco_hiddenlabel,81633a44-f1db-4a01-a940-804c6905e330|d4789070-2ff7-4bbb-94ca-8bb1739826a9,Ambiguous Alias Requires Contextual Review
+d512d178-37a6-4eab-a660-412d2bb0824a,assessment procedures,esco_altlabel,31b67516-af16-4b97-8430-a8a8e0f84190|d512d178-37a6-4eab-a660-412d2bb0824a,Ambiguous Alias Requires Contextual Review
+d5e1e30e-44ab-4aba-abab-b8263e801b7a,coach students,esco_altlabel,63b9a087-a5db-424e-96ef-3212c8b5311e|d5e1e30e-44ab-4aba-abab-b8263e801b7a,Ambiguous Alias Requires Contextual Review
+d74df140-eb69-43e2-bac9-1cafc824d702,perform feasibility study on solar heating,esco_altlabel,6561f116-70de-47d8-80b8-f0e2a1d2cf11|d74df140-eb69-43e2-bac9-1cafc824d702,Canonical Label Takes Priority
+d86babea-bf8b-4552-81a8-daf706066ad6,environmental impact management,esco_altlabel,d3a8ef9c-8572-438c-91dc-010537070be3|d86babea-bf8b-4552-81a8-daf706066ad6,Ambiguous Alias Requires Contextual Review
+d86babea-bf8b-4552-81a8-daf706066ad6,manage environmental impact,esco_altlabel,d3a8ef9c-8572-438c-91dc-010537070be3|d86babea-bf8b-4552-81a8-daf706066ad6,Canonical Label Takes Priority
+d8829a1d-dbde-435b-b921-29d6462f35c9,android,esco_altlabel,d8829a1d-dbde-435b-b921-29d6462f35c9|f9a6f35b-01a7-40c9-8b61-b6ee46f97272,Ambiguous Alias Requires Contextual Review
+d92d88cf-dd72-4c3b-a98a-2c2a12600df3,instruct animals,esco_altlabel,a5e4890e-85c4-470b-84be-66095378b624|d92d88cf-dd72-4c3b-a98a-2c2a12600df3,Ambiguous Alias Requires Contextual Review
+d92d88cf-dd72-4c3b-a98a-2c2a12600df3,train animals,esco_altlabel,a5e4890e-85c4-470b-84be-66095378b624|d92d88cf-dd72-4c3b-a98a-2c2a12600df3,Ambiguous Alias Requires Contextual Review
+d952e003-b5af-4a8a-9d32-921d34dc4907,recommend public relations,esco_altlabel,2691f4d8-d090-423f-afd7-9e721f562e8d|d952e003-b5af-4a8a-9d32-921d34dc4907,Ambiguous Alias Requires Contextual Review
+d97c894e-d330-4bd3-b8ba-138fc11855ee,brainstorm,esco_altlabel,614c627b-2ec9-4a0d-811e-de14be4362f2|d97c894e-d330-4bd3-b8ba-138fc11855ee,Ambiguous Alias Requires Contextual Review
+dccbdbb8-7266-4fb4-a4cf-29056f102f12,approximate set costs,esco_altlabel,21c5790c-0930-4d74-b3b0-84caf5af12ea|dccbdbb8-7266-4fb4-a4cf-29056f102f12,Ambiguous Alias Requires Contextual Review
+dccbdbb8-7266-4fb4-a4cf-29056f102f12,budget set costs,esco_altlabel,21c5790c-0930-4d74-b3b0-84caf5af12ea|dccbdbb8-7266-4fb4-a4cf-29056f102f12,Ambiguous Alias Requires Contextual Review
+dccbdbb8-7266-4fb4-a4cf-29056f102f12,estimate set costs,esco_altlabel,21c5790c-0930-4d74-b3b0-84caf5af12ea|dccbdbb8-7266-4fb4-a4cf-29056f102f12,Ambiguous Alias Requires Contextual Review
+de03f4fd-c147-4477-a048-7109e5ba2d6f,customer relationship management,esco_altlabel,dc9a236c-c640-43c3-812f-269403591edb|de03f4fd-c147-4477-a048-7109e5ba2d6f,Canonical Label Takes Priority
+de586dcf-d7e5-4340-bf5b-d59026f1b436,metasploit,esco_altlabel,50597e96-9b6a-4736-ac79-dd80f36c0269|de586dcf-d7e5-4340-bf5b-d59026f1b436,Canonical Label Takes Priority
+de9f85ba-e77f-48fd-8c66-f5ebaf32d655,rdb,esco_altlabel,ab1e97ed-2319-4293-a8b7-072d2648822f|de9f85ba-e77f-48fd-8c66-f5ebaf32d655,Ambiguous Alias Requires Contextual Review
+e0cfe83a-17d7-4015-a427-bd3986f27b42,medical laboratory instruments,esco_altlabel,4a477e55-fdb6-4fe5-8dec-fcebfa3579d6|e0cfe83a-17d7-4015-a427-bd3986f27b42,Ambiguous Alias Requires Contextual Review
+e19b64a9-9816-4561-9b93-6222fc925c10,surveying methods,esco_altlabel,67785eab-0818-41f9-9756-a8e0a215b95b|e19b64a9-9816-4561-9b93-6222fc925c10,Canonical Label Takes Priority
+e19b64a9-9816-4561-9b93-6222fc925c10,surveying techniques,esco_altlabel,67785eab-0818-41f9-9756-a8e0a215b95b|e19b64a9-9816-4561-9b93-6222fc925c10,Ambiguous Alias Requires Contextual Review
+e258707b-7676-4e9b-9c36-20c38018b349,publishing industry,esco_altlabel,39f9b48c-04b5-4e6f-9c52-3cdb29a5a93b|e258707b-7676-4e9b-9c36-20c38018b349,Canonical Label Takes Priority
+e2b82b00-f07f-4fc8-a7bb-c8febf65efe5,verify data,esco_altlabel,713fb616-118e-40bc-9366-4a69879a49d5|e2b82b00-f07f-4fc8-a7bb-c8febf65efe5,Ambiguous Alias Requires Contextual Review
+e2e15494-65b9-4af5-8b86-53fb51e7e022,maintain financial records,esco_altlabel,e2e15494-65b9-4af5-8b86-53fb51e7e022|faf8943c-72ff-4736-a587-25508695d6f0,Canonical Label Takes Priority
+e2e15494-65b9-4af5-8b86-53fb51e7e022,oversee financial records,esco_altlabel,e2e15494-65b9-4af5-8b86-53fb51e7e022|faf8943c-72ff-4736-a587-25508695d6f0,Ambiguous Alias Requires Contextual Review
+e437eba1-3e22-41f2-8703-741e94785cba,human resource administration,esco_altlabel,88b406d0-72e2-4087-be19-d5992d259473|e437eba1-3e22-41f2-8703-741e94785cba,Ambiguous Alias Requires Contextual Review
+e437eba1-3e22-41f2-8703-741e94785cba,human resource supervision,esco_altlabel,88b406d0-72e2-4087-be19-d5992d259473|e437eba1-3e22-41f2-8703-741e94785cba,Ambiguous Alias Requires Contextual Review
+e45507ff-c1e2-4e0c-92fb-b6c0e6cb6245,pv systems,esco_altlabel,8248a071-5307-4a64-a62d-643a35ec31e2|e45507ff-c1e2-4e0c-92fb-b6c0e6cb6245,Ambiguous Alias Requires Contextual Review
+e591f458-93c4-4cc7-a441-2340545c33f3,food regulations,esco_altlabel,713f1ba8-c7a8-43e5-a5cc-0b869474efe7|e591f458-93c4-4cc7-a441-2340545c33f3,Ambiguous Alias Requires Contextual Review
+e5ad0cce-e3d5-4c60-8504-5d1c7e3b55b9,circuit breakers,esco_altlabel,90d7dc07-3d66-4364-b6ff-c40a1fe1b849|e5ad0cce-e3d5-4c60-8504-5d1c7e3b55b9,Ambiguous Alias Requires Contextual Review
+e5d1f825-60ed-4bdd-872a-e748c387f777,cascading style sheets,esco_altlabel,c2999f0c-eb37-4cdf-b9b0-82107b628794|e5d1f825-60ed-4bdd-872a-e748c387f777,Ambiguous Alias Requires Contextual Review
+e5e17773-3a63-40c5-99e4-10e036cf7b99,ic types,esco_altlabel,61c81161-b732-4c47-aba5-9e554d9a853f|e5e17773-3a63-40c5-99e4-10e036cf7b99,Ambiguous Alias Requires Contextual Review
+e5e17773-3a63-40c5-99e4-10e036cf7b99,ics,esco_altlabel,2b9f4584-da2e-44e2-a2fb-4dd4fc64c1a2|e5e17773-3a63-40c5-99e4-10e036cf7b99,Ambiguous Alias Requires Contextual Review
+e5e17773-3a63-40c5-99e4-10e036cf7b99,integrated circuit types,esco_altlabel,61c81161-b732-4c47-aba5-9e554d9a853f|e5e17773-3a63-40c5-99e4-10e036cf7b99,Canonical Label Takes Priority
+e5e17773-3a63-40c5-99e4-10e036cf7b99,integrated circuits,esco_altlabel,2b9f4584-da2e-44e2-a2fb-4dd4fc64c1a2|e5e17773-3a63-40c5-99e4-10e036cf7b99,Canonical Label Takes Priority
+e5e17773-3a63-40c5-99e4-10e036cf7b99,types of ic,esco_altlabel,61c81161-b732-4c47-aba5-9e554d9a853f|e5e17773-3a63-40c5-99e4-10e036cf7b99,Ambiguous Alias Requires Contextual Review
+e5e17773-3a63-40c5-99e4-10e036cf7b99,types of integrated circuit,esco_altlabel,61c81161-b732-4c47-aba5-9e554d9a853f|e5e17773-3a63-40c5-99e4-10e036cf7b99,Ambiguous Alias Requires Contextual Review
+e7211c0c-e571-4d61-bfda-3bea3953151d,perform fleet management activities,esco_altlabel,36dc2bd2-3d9a-4a84-ad70-918a539c4311|e7211c0c-e571-4d61-bfda-3bea3953151d,Ambiguous Alias Requires Contextual Review
+e7211c0c-e571-4d61-bfda-3bea3953151d,undertake fleet management activities,esco_altlabel,36dc2bd2-3d9a-4a84-ad70-918a539c4311|e7211c0c-e571-4d61-bfda-3bea3953151d,Ambiguous Alias Requires Contextual Review
+e87ec79a-c9ff-46f5-84fa-7a0f394cdf40,mechatronics,esco_altlabel,d88cb3f1-8e02-4618-bf32-4b0488066934|e87ec79a-c9ff-46f5-84fa-7a0f394cdf40,Canonical Label Takes Priority
+e921279a-1a7e-4900-9720-bde93ae3e70e,create prototypes,esco_altlabel,bacbfc27-4b5d-47de-8bfd-af5fa27562a2|e921279a-1a7e-4900-9720-bde93ae3e70e,Ambiguous Alias Requires Contextual Review
+eaa4cdc0-43e0-4388-9b8a-e2779218d10e,first aid,esco_altlabel,eaa4cdc0-43e0-4388-9b8a-e2779218d10e|f7464f30-662b-4177-85a0-3df9693e9e58,Canonical Label Takes Priority
+eb3aa3a8-6ece-441d-9041-15dcb0880e47,photography,esco_altlabel,38509fa4-7c06-4a4b-9622-f521f03c37b8|eb3aa3a8-6ece-441d-9041-15dcb0880e47,Canonical Label Takes Priority
+eb3aa3a8-6ece-441d-9041-15dcb0880e47,shooting,esco_altlabel,38509fa4-7c06-4a4b-9622-f521f03c37b8|eb3aa3a8-6ece-441d-9041-15dcb0880e47,Ambiguous Alias Requires Contextual Review
+eccd4313-c931-4e47-853e-76fdfac6e30b,analyse insurance claims,esco_altlabel,3dde5918-f4c6-4d46-9d6f-c7b2865f594f|eccd4313-c931-4e47-853e-76fdfac6e30b,Ambiguous Alias Requires Contextual Review
+f0006418-17ee-4c38-af75-f5e1e35de64c,assemble machines,esco_altlabel,87a0c0e6-c114-4ea1-b2d0-933bce1f3c5f|f0006418-17ee-4c38-af75-f5e1e35de64c,Canonical Label Takes Priority
+f2a34d6b-131a-4b8f-a110-898b9c91d18f,analyse economic trends,esco_altlabel,5f302d63-048e-451c-b150-97c124a5a26b|f2a34d6b-131a-4b8f-a110-898b9c91d18f,Canonical Label Takes Priority
+f2d57f41-43b4-4f5b-8100-3df5c21eda50,data processing,esco_altlabel,629685b8-5f9e-4522-8cff-b3e2c4ec625a|f2d57f41-43b4-4f5b-8100-3df5c21eda50,Ambiguous Alias Requires Contextual Review
+f30a7ea4-77dd-452c-8a2d-b06c12606a7f,use soldering equipment,esco_altlabel,26ed52cf-30ca-451e-9699-a6c04a30649f|f30a7ea4-77dd-452c-8a2d-b06c12606a7f,Ambiguous Alias Requires Contextual Review
+f645997b-e5a3-47e4-b715-65bbfb3e69f5,arrange library material,esco_altlabel,b661befa-db9b-46d7-b89d-95a8c394f82f|f645997b-e5a3-47e4-b715-65bbfb3e69f5,Ambiguous Alias Requires Contextual Review
+f7464f30-662b-4177-85a0-3df9693e9e58,emergency care,esco_altlabel,f7464f30-662b-4177-85a0-3df9693e9e58|fbb8f1a7-c8b5-4722-92c4-814836b86934,Ambiguous Alias Requires Contextual Review
+f7f4d43e-86fb-4395-b52f-552f3c6ba9b4,culturing aquaculture hatchery stocks,esco_altlabel,4170595f-4424-42ff-83c5-7ff80aa3d7d6|f7f4d43e-86fb-4395-b52f-552f3c6ba9b4,Ambiguous Alias Requires Contextual Review
+f8bd915e-8424-469f-bab8-e64fc2e4c2dd,characteristics of optical instruments,esco_altlabel,3ab7c355-94f2-4b07-ab1b-4dcb29745b0e|f8bd915e-8424-469f-bab8-e64fc2e4c2dd,Ambiguous Alias Requires Contextual Review
+f9a6f35b-01a7-40c9-8b61-b6ee46f97272,android,esco_hiddenlabel,d8829a1d-dbde-435b-b921-29d6462f35c9|f9a6f35b-01a7-40c9-8b61-b6ee46f97272,Ambiguous Alias Requires Contextual Review
+f9a6f35b-01a7-40c9-8b61-b6ee46f97272,ios,esco_hiddenlabel,ce26e71f-2d47-474e-89b6-7920931ac4fc|f9a6f35b-01a7-40c9-8b61-b6ee46f97272,Canonical Label Takes Priority
+fa46ff13-5ad7-4a11-85d6-4b0614e411de,food safety measures,esco_altlabel,3f4e4eab-a8e0-4aed-b8bb-79afe7c890e3|fa46ff13-5ad7-4a11-85d6-4b0614e411de,Ambiguous Alias Requires Contextual Review
+fa46ff13-5ad7-4a11-85d6-4b0614e411de,food safety rules,esco_altlabel,3f4e4eab-a8e0-4aed-b8bb-79afe7c890e3|fa46ff13-5ad7-4a11-85d6-4b0614e411de,Ambiguous Alias Requires Contextual Review
+fa64c52c-08cf-4074-bc9b-a93075802166,geography,esco_altlabel,cf9c8e73-105d-419e-86dd-4304cc6cd718|fa64c52c-08cf-4074-bc9b-a93075802166,Canonical Label Takes Priority
+faf8943c-72ff-4736-a587-25508695d6f0,oversee financial records,esco_altlabel,e2e15494-65b9-4af5-8b86-53fb51e7e022|faf8943c-72ff-4736-a587-25508695d6f0,Ambiguous Alias Requires Contextual Review
+fbb8f1a7-c8b5-4722-92c4-814836b86934,emergency care,esco_altlabel,f7464f30-662b-4177-85a0-3df9693e9e58|fbb8f1a7-c8b5-4722-92c4-814836b86934,Ambiguous Alias Requires Contextual Review
+fcc64184-33d5-4e4a-8d28-0993d5685c39,packaging production,esco_altlabel,b8ac179c-4a29-4467-9177-031daf1321d6|fcc64184-33d5-4e4a-8d28-0993d5685c39,Ambiguous Alias Requires Contextual Review
+fdfa3dcb-b8f0-454f-a659-64c66dc6b6a2,optical fibers,esco_altlabel,71f81e1a-e2ca-48d6-b7b8-7a34c56c51f8|fdfa3dcb-b8f0-454f-a659-64c66dc6b6a2,Ambiguous Alias Requires Contextual Review
+DIGCOMP_3_4,programming,canonical_variant_or_curated,DIGCOMP_3_4|ONET_2_B_3_e,Ambiguous Alias Requires Contextual Review
+ONET_2_A_1_e,mathematics,canonical_variant_or_curated,4339176e-3acd-4f7f-a5d9-445bee3d23f2|ONET_2_A_1_e,Canonical Label Takes Priority
+ONET_2_B_3_e,programming,canonical_variant_or_curated,DIGCOMP_3_4|ONET_2_B_3_e,Ambiguous Alias Requires Contextual Review

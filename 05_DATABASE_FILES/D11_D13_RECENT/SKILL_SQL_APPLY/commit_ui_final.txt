@@ -1,0 +1,36 @@
+The following is a diff from the previous accessibility tree for Window: "pgAdmin 4" with ~ and + representing changed and added elements, respectively. Removed elements are summarized by ID range.
+Removed element IDs: 560-564, 603
+~									460 button The session is idle and there is no current transaction.
++									603 container Cancel query
++									604 button Execute script F5
++									605 button Execute query
++									606 button Explain
++									607 button Explain Analyze
+~											544 text entry area Secondary Actions: Show Writing Tools, Value: NOTICE:  PLAN {"roles": 662, "cleanup": 124, "database": "rerouteher_test", "new_ai_links": 2269, "new_soft_script_links": 7868}
+NOTICE:  APPLY inserted=10137 removed=124
+NOTICE:  APPLY inserted=0 removed=0
+NOTICE:  VALIDATION PASS: rerun stable, canonical names/types consistent, lineage matched, cleanup exact, required coverage complete, unrelated existing mappings preserved
+NOTICE:  ARCHIVE role_skills before=138 after=10151
+NOTICE:  ARCHIVE role_skill_lineage before=138 after=10151
+NOTICE:  ARCHIVE digital_skill_rating_lineage before=0 after=0
+NOTICE:  ARCHIVE skill_taxonomy before=2 after=9
+NOTICE:  RECEIPT {"roles": 662, "scope": "Database only; no application changes; user-authorized original soft policies and cleanup; fixed AI domain evidence", "database": "rerouteher_test", "applied_at": "2026-08-30T16:36:22.567977+00:00", "validation": "passed including in-transaction rerun stability", "band_counts": {"soft": 6329, "digital": 2047, "ai_usage": 2269, "technical": 12634}, "role_skills": 23279, "user_backup": "User reports duplicate database backup; not independently restored", "table_hashes": {"role_skills": "1fa85c322c4b40256b5f95d3b1ae8058", "skill_taxonomy": "19f0e9634b6bb0cbfd05e6d5b220f9c6", "role_skill_lineage": "c1fd8d16ce1e8779cf4699381073a818", "digital_skill_rating_lineage": "1ae2b0f2a77e67b136aed08fb3f5f819"}, "removed_links": 124, "inserted_links": 10137, "skill_taxonomy": 6128, "role_skill_lineage": 23279}
+NOTICE:  AI_COVERAGE {"skill_id":"AIUSE_01","skill_name":"Use AI Assistants for Everyday Work Tasks","n":662}
+NOTICE:  AI_COVERAGE {"skill_id":"AIUSE_02","skill_name":"Check and Verify AI Output","n":662}
+NOTICE:  AI_COVERAGE {"skill_id":"AIUSE_03","skill_name":"Use AI to Analyse and Summarise Data","n":324}
+NOTICE:  AI_COVERAGE {"skill_id":"AIUSE_04","skill_name":"Use AI to Draft and Edit Documents","n":223}
+NOTICE:  AI_COVERAGE {"skill_id":"AIUSE_05","skill_name":"Use AI to Support Communication and Service","n":267}
+NOTICE:  AI_COVERAGE {"skill_id":"AIUSE_06","skill_name":"Use AI Coding Assistants","n":24}
+NOTICE:  AI_COVERAGE {"skill_id":"AIUSE_07","skill_name":"Use AI Tools for Design and Visual Content","n":107}
+COMMIT
+
+Query returned successfully in 7 secs 263 msec.
++												608 text NOTICE:  PLAN {"roles": 662, "cleanup": 124, "database": "rerouteher_test", "new_ai_links": 2269, "new_soft_script_links": 7868}
+NOTICE:  APPLY inserted=10137 removed=124
+NOTICE:  APPLY inserted=0 removed=0
+NOTICE:  VALIDATION PASS: rerun stable, canonical names/types consistent, lineage matched, cleanup exact, required coverage complete, unrelated existing mappings preserved
+NOTICE:  ARCHIVE role_skills before=138 after=10151
+NOTICE:  ARCHIVE role_skill_lineage before=138 after=10151
+NOTICE:  ARCHIVE digit
+~									535 text Query complete 00:00:07.270
+The focused UI element is 458 HTML content pgadmin-agk54moxhek3abjlpt3jvpxs.152.69.222.16.sslip.io/sqleditor/panel/2164545?is_query_tool=true&sgid=1&sid=1&did=107074&database_name=rerouteher_test

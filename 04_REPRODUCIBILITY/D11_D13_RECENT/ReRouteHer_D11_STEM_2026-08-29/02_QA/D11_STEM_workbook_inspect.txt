@@ -1,0 +1,16 @@
+{"kind":"region","sheet":"Summary","address":"A5:B11","rows":7,"cols":2,"nonEmpty":14,"text":14,"maxTextLength":39,"preview":[["Validated metric","Value"],["Official STEM roles","657"],["Official tasks","5518"],["Exact occupation task pages","653"],["Official unit-group task fallbacks","4"]],"previewAddress":"A5:B9","previewRows":5,"previewCols":2}
+{"kind":"region","sheet":"Summary","address":"A14:B20","rows":7,"cols":2,"nonEmpty":14,"text":14,"maxTextLength":17,"preview":[["MASCO major group","STEM roles"],["1","59"],["2","312"],["3","251"],["4","30"]],"previewAddress":"A14:B18","previewRows":5,"previewCols":2}
+{"kind":"region","sheet":"Summary","address":"D5:D11","rows":7,"cols":1,"nonEmpty":4,"blank":3,"text":4,"maxTextLength":208,"preview":[["Scope and interpretation"],["D11 is an expansion of D1 from ten seed roles to every occupation listed by e..."],[null],["The first 24 columns on Roles exactly preserve the D1 schema. ESCO fields rem..."],[null]],"previewAddress":"D5:D9","previewRows":5,"previewCols":1}
+{"kind":"region","sheet":"Summary","address":"A23:B26","rows":4,"cols":2,"nonEmpty":4,"blank":4,"text":4,"maxTextLength":189,"preview":[["Sources and release notes",null],["Official scope: https://emasco.mohr.gov.my/directory/category/stem — definiti...",null],["Portal content basis: MASCO 2020. Retrieval snapshot and page hashes are stor...",null],["No resume dataset is used in D11. ESCO mappings shown are retained comparison...",null]],"previewAddress":"A23:B26","previewRows":4,"previewCols":2}
+{"kind":"formula","sheet":"Summary","address":"B6","formula":"=COUNTA(Roles!$A$2:$A$658)"}
+{"kind":"formula","sheet":"Summary","address":"B7","formula":"=COUNTA('Role Tasks'!$A$2:$A$5519)"}
+{"kind":"formula","sheet":"Summary","address":"B8","formula":"=COUNTIF(Roles!$AT$2:$AT$658,\"exact_occupation\")"}
+{"kind":"formula","sheet":"Summary","address":"B9","formula":"=COUNTIF(Roles!$AT$2:$AT$658,\"unit_group_inherited\")"}
+{"kind":"formula","sheet":"Summary","address":"B10","formula":"=COUNTA(Roles!$F$2:$F$658)"}
+{"kind":"formula","sheet":"Summary","address":"B11","formula":"=COUNTA(Roles!$AJ$2:$AJ$658)"}
+{"kind":"formula","sheet":"Summary","address":"B15","formula":"=COUNTIF(Roles!$Z$2:$Z$658,A15)"}
+{"kind":"formula","sheet":"Summary","address":"B16","formula":"=COUNTIF(Roles!$Z$2:$Z$658,A16)"}
+{"kind":"formula","sheet":"Summary","address":"B17","formula":"=COUNTIF(Roles!$Z$2:$Z$658,A17)"}
+{"kind":"formula","sheet":"Summary","address":"B18","formula":"=COUNTIF(Roles!$Z$2:$Z$658,A18)"}
+{"kind":"formula","sheet":"Summary","address":"B19","formula":"=COUNTIF(Roles!$Z$2:$Z$658,A19)"}
+{"kind":"formula","sheet":"Summary","address":"B20","formula":"=COUNTIF(Roles!$Z$2:$Z$658,A20)"}

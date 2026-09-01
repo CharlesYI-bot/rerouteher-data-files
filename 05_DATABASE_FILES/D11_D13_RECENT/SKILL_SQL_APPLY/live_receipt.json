@@ -1,0 +1,45 @@
+{
+  "roles": 662,
+  "scope": "Database only; no application changes; user-authorized original soft policies and cleanup; fixed AI domain evidence",
+  "database": "rerouteher_test",
+  "applied_at": "2026-08-30T16:36:22.567977+00:00",
+  "validation": "passed including in-transaction rerun stability",
+  "band_counts": {
+    "soft": 6329,
+    "digital": 2047,
+    "ai_usage": 2269,
+    "technical": 12634
+  },
+  "role_skills": 23279,
+  "user_backup": "User reports duplicate database backup; not independently restored",
+  "table_hashes": {
+    "role_skills": "1fa85c322c4b40256b5f95d3b1ae8058",
+    "skill_taxonomy": "19f0e9634b6bb0cbfd05e6d5b220f9c6",
+    "role_skill_lineage": "c1fd8d16ce1e8779cf4699381073a818",
+    "digital_skill_rating_lineage": "1ae2b0f2a77e67b136aed08fb3f5f819"
+  },
+  "removed_links": 124,
+  "inserted_links": 10137,
+  "skill_taxonomy": 6128,
+  "role_skill_lineage": 23279,
+  "status": "COMMITTED_AND_VERIFIED",
+  "committed_at_malaysia": "2026-08-31T00:36:22.567977+08:00",
+  "surface": "Safari / pgAdmin",
+  "rehearsal_rolled_back": true,
+  "original_scripts_modified_in_place": false,
+  "post_commit_checks": "PASS: four table fingerprints, classifications, lineage, constraints, all-role soft/AI coverage",
+  "new_soft_script_mappings": 7868,
+  "new_soft_mappings": 6280,
+  "new_technical_mappings_from_soft_script": 1588,
+  "new_ai_usage_mappings": 2269,
+  "existing_reclassified_role_links": 14,
+  "ai_usage_coverage": {
+    "AIUSE_01": 662,
+    "AIUSE_02": 662,
+    "AIUSE_03": 324,
+    "AIUSE_04": 223,
+    "AIUSE_05": 267,
+    "AIUSE_06": 24,
+    "AIUSE_07": 107
+  }
+}

@@ -1,0 +1,93 @@
+[
+  {
+    "file": "01_TABLES/D13_role_esco_coverage.csv",
+    "rows": 657,
+    "columns": 33,
+    "round_trip": "PASS",
+    "preview_scan": "{\"kind\":\"notice\",\"message\":\"Cell search matched 0 entries.\"}"
+  },
+  {
+    "file": "01_TABLES/D13_role_esco_mapping_review.csv",
+    "rows": 657,
+    "columns": 19,
+    "round_trip": "PASS",
+    "preview_scan": "{\"kind\":\"notice\",\"message\":\"Cell search matched 0 entries.\"}"
+  },
+  {
+    "file": "01_TABLES/D13_mapping_evidence.csv",
+    "rows": 657,
+    "columns": 24,
+    "round_trip": "PASS",
+    "preview_scan": "{\"kind\":\"notice\",\"message\":\"Cell search matched 0 entries.\"}"
+  },
+  {
+    "file": "01_TABLES/D13_mapping_candidates.csv",
+    "rows": 5256,
+    "columns": 14,
+    "round_trip": "PASS",
+    "preview_scan": "{\"kind\":\"notice\",\"message\":\"Cell search matched 0 entries.\"}"
+  },
+  {
+    "file": "01_TABLES/skill_taxonomy.csv",
+    "rows": 6164,
+    "columns": 5,
+    "round_trip": "PASS",
+    "preview_scan": "{\"kind\":\"notice\",\"message\":\"Cell search matched 0 entries.\"}"
+  },
+  {
+    "file": "01_TABLES/skill_taxonomy_lineage.csv",
+    "rows": 6164,
+    "columns": 14,
+    "round_trip": "PASS",
+    "preview_scan": "{\"kind\":\"notice\",\"message\":\"Cell search matched 0 entries.\"}"
+  },
+  {
+    "file": "01_TABLES/skill_aliases.csv",
+    "rows": 38209,
+    "columns": 3,
+    "round_trip": "PASS",
+    "preview_scan": "{\"kind\":\"notice\",\"message\":\"Cell search matched 0 entries.\"}"
+  },
+  {
+    "file": "01_TABLES/role_skills.csv",
+    "rows": 40948,
+    "columns": 5,
+    "round_trip": "PASS",
+    "preview_scan": "{\"kind\":\"notice\",\"message\":\"Cell search matched 0 entries.\"}"
+  },
+  {
+    "file": "01_TABLES/role_skills_lineage.csv",
+    "rows": 40948,
+    "columns": 16,
+    "round_trip": "PASS",
+    "preview_scan": "{\"kind\":\"notice\",\"message\":\"Cell search matched 0 entries.\"}"
+  },
+  {
+    "file": "02_QA/D13_corrected_previous_mappings.csv",
+    "rows": 6,
+    "columns": 8,
+    "round_trip": "PASS",
+    "preview_scan": "{\"kind\":\"notice\",\"message\":\"Cell search matched 0 entries.\"}"
+  },
+  {
+    "file": "02_QA/D13_source_quality_issues.csv",
+    "rows": 3,
+    "columns": 6,
+    "round_trip": "PASS",
+    "preview_scan": "{\"kind\":\"notice\",\"message\":\"Cell search matched 0 entries.\"}"
+  },
+  {
+    "file": "02_QA/D13_source_manifest.csv",
+    "rows": 4,
+    "columns": 5,
+    "round_trip": "PASS",
+    "preview_scan": "{\"kind\":\"notice\",\"message\":\"Cell search matched 0 entries.\"}"
+  },
+  {
+    "file": "05_MODEL_ARTIFACTS/D13_skill_embedding_index.csv",
+    "rows": 6164,
+    "columns": 2,
+    "round_trip": "PASS",
+    "preview_scan": "{\"kind\":\"notice\",\"message\":\"Cell search matched 0 entries.\"}"
+  }
+]

@@ -1,0 +1,18 @@
+The following is a diff from the previous accessibility tree for Window: "pgAdmin 4" with ~ and + representing changed and added elements, respectively. Removed elements are summarized by ID range.
+~											544 text entry area Secondary Actions: Show Writing Tools, Value: NOTICE:  PLAN {"roles": 662, "cleanup": 124, "database": "rerouteher_test", "new_ai_links": 2269, "new_soft_script_links": 7868}
+NOTICE:  APPLY inserted=10137 removed=124
+NOTICE:  APPLY inserted=0 removed=0
+NOTICE:  VALIDATION PASS: rerun stable, canonical names/types consistent, lineage matched, cleanup exact, required coverage complete, unrelated existing mappings preserved
+NOTICE:  ARCHIVE role_skills before=138 after=10151
+NOTICE:  ARCHIVE role_skill_lineage before=138 after=10151
+NOTICE:  ARCHIVE digital_skill_rating_lineage before=0 after=0
+
++												603 text NOTICE:  PLAN {"roles": 662, "cleanup": 124, "database": "rerouteher_test", "new_ai_links": 2269, "new_soft_script_links": 7868}
+NOTICE:  APPLY inserted=10137 removed=124
+NOTICE:  APPLY inserted=0 removed=0
+NOTICE:  VALIDATION PASS: rerun stable, canonical names/types consistent, lineage matched, cleanup exact, required coverage complete, unrelated existing mappings preserved
+NOTICE:  ARCHIVE role_skills before=138 after=10151
+NOTICE:  ARCHIVE role_skill_lineage before=138 after=10151
+NOTICE:  ARCHIVE digit
+~									535 text Waiting for the query to complete... 00:00:06.314
+The focused UI element is 458 HTML content pgadmin-agk54moxhek3abjlpt3jvpxs.152.69.222.16.sslip.io/sqleditor/panel/2164545?is_query_tool=true&sgid=1&sid=1&did=107074&database_name=rerouteher_test

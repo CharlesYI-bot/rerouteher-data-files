@@ -1,0 +1,41 @@
+{
+  "release_date": "2026-08-30",
+  "d11_role_count": 657,
+  "six_digit_masco_role_count": 657,
+  "roles_with_project_esco_mapping": 657,
+  "previous_mapped_roles": 95,
+  "newly_mapped_roles": 562,
+  "corrected_previous_mappings": 6,
+  "roles_without_primary_mapping": 0,
+  "roles_with_skill_links": 657,
+  "distinct_esco_occupations_used": 382,
+  "mapping_relation_counts": {
+    "broader_proxy": 197,
+    "close_match": 234,
+    "partial_proxy": 226
+  },
+  "mapping_confidence_counts": {
+    "medium": 312,
+    "low": 226,
+    "high": 119
+  },
+  "curated_decisions": 391,
+  "scoped_leaf_skills": 6164,
+  "skill_alias_rows": 38209,
+  "role_skill_rows": 40948,
+  "essential_role_skill_rows": 18795,
+  "optional_role_skill_rows": 22153,
+  "source_quality_flags": 3,
+  "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "embedding_dimensions": 384,
+  "l2_normalized": true,
+  "human_validated_mappings": 0,
+  "official_crosswalk": false,
+  "deployed": false,
+  "coverage_interpretation": "657 assigned primary occupations includes broader and partial proxies; not 657 exact equivalents or complete specialty profiles.",
+  "qualification_warning": "ESCO skill inheritance does not establish Malaysian licences, protected titles, competency certification, remote-work feasibility or specialty completeness.",
+  "intended_use": "Testing only, as explicitly requested. No production sign-off required to use this test artifact.",
+  "test_package_ready": true,
+  "structural_checks_passed": 29,
+  "database_execution_tested": false
+}

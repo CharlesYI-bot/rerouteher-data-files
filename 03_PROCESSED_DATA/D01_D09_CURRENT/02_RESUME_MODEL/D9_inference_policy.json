@@ -1,0 +1,15 @@
+{
+  "production_approved": false,
+  "input_contract": "Earlier structured ESCO-coded employment history plus education; not raw CV text.",
+  "output_contract": "Up to three exploratory role suggestions with explicit user confirmation.",
+  "high_confidence_badge_enabled": false,
+  "reason_high_confidence_disabled": "The validation set is too small and the model is not calibrated for the product's >=70% high-confidence badge.",
+  "no_match_policy": "Return no match when model evidence is insufficient; never select a random role.",
+  "prohibited_uses": [
+    "automated hiring",
+    "eligibility or exclusion",
+    "demographic fairness claims",
+    "claiming raw resume-text understanding"
+  ],
+  "retraining_gate": "Collect consented, labeled Malaysian resume text and validate class support, calibration, and subgroup performance before production use."
+}

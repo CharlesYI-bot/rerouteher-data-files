@@ -1,0 +1,7 @@
+"role_id","masco_code","role_title","previous_esco_code","previous_esco_title","chosen_esco_code","chosen_esco_title","rationale"
+"M214302","214302","Environmental Analyst","2143.1","environmental engineer","2133.7","environmental scientist","Environmental data, research and compliance analysis; source does not primarily describe engineering design."
+"M214601","214601","Mining Engineer","2146.11","quarry engineer","2146.8","mine planning engineer","Mine planning/extraction engineering component; broad mining lifecycle exceeds mine-planning specialization."
+"M243103","243103","Technical Sales Engineer","2431.16","promotion assistant","2433.4","sales engineer","Technical sales engineering; corrects the D11 promotion-assistant crosswalk."
+"M252403","252403","Data Architect","2511.13","ICT system analyst","2521.2","database designer","Data architecture/database design is an ESCO alternate label; corrects the older ICT-system-analyst assignment."
+"M254306","254306","Character Rigger","2166.4","desktop publisher","2166.3.1","3D animator","Character deformation/rigging in 3D animation; not physical rigging or desktop publishing."
+"M431110","431110","Audit Assistant Grade W1","4311.2","sales support assistant","4312.1","auditing clerk","Audit support and records; corrects the prior sales-support-assistant mapping."

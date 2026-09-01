@@ -1,0 +1,28 @@
+role_id,sector_id,sector,reviewer,review_date,decision,review_notes,status
+R01,BS09,Technology,,,,,pending_second_reviewer
+R01,BS10,Telecommunications & Media,,,,,pending_second_reviewer
+R02,BS09,Technology,,,,,pending_second_reviewer
+R02,BS04,Financial Services,,,,,pending_second_reviewer
+R02,BS10,Telecommunications & Media,,,,,pending_second_reviewer
+R03,BS06,Industrial Products & Services,,,,,pending_second_reviewer
+R03,BS02,Consumer Products & Services,,,,,pending_second_reviewer
+R03,BS04,Financial Services,,,,,pending_second_reviewer
+R04,BS02,Consumer Products & Services,,,,,pending_second_reviewer
+R04,BS10,Telecommunications & Media,,,,,pending_second_reviewer
+R04,BS09,Technology,,,,,pending_second_reviewer
+R05,BS10,Telecommunications & Media,,,,,pending_second_reviewer
+R05,BS02,Consumer Products & Services,,,,,pending_second_reviewer
+R06,BS10,Telecommunications & Media,,,,,pending_second_reviewer
+R06,BS02,Consumer Products & Services,,,,,pending_second_reviewer
+R06,BS09,Technology,,,,,pending_second_reviewer
+R07,BS04,Financial Services,,,,,pending_second_reviewer
+R07,BS02,Consumer Products & Services,,,,,pending_second_reviewer
+R07,BS08,Property,,,,,pending_second_reviewer
+R08,BS04,Financial Services,,,,,pending_second_reviewer
+R08,BS10,Telecommunications & Media,,,,,pending_second_reviewer
+R08,BS02,Consumer Products & Services,,,,,pending_second_reviewer
+R09,BS04,Financial Services,,,,,pending_second_reviewer
+R09,BS08,Property,,,,,pending_second_reviewer
+R09,BS06,Industrial Products & Services,,,,,pending_second_reviewer
+R10,BS02,Consumer Products & Services,,,,,pending_second_reviewer
+R10,BS05,Health Care,,,,,pending_second_reviewer

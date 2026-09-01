@@ -1,0 +1,20 @@
+The following is a diff from the previous accessibility tree for Window: "pgAdmin 4" with ~ and + representing changed and added elements, respectively. Removed elements are summarized by ID range.
+~									460 button The session is idle and there is no current transaction.
+~									631 container Cancel query
+~									632 button Execute script F5
+~									633 button Execute query
+~									634 button Explain
+~									635 button Explain Analyze
+~											544 text entry area Secondary Actions: Show Writing Tools, Value: NOTICE:  POST_COMMIT_PASS: four table fingerprints match, canonical classifications and lineage consistent, all constraints validated, all 662 roles have soft and AI usage mappings
+NOTICE:  COMMITTED_RECEIPT {"roles": 662, "scope": "Database only; no application changes; user-authorized original soft policies and cleanup; fixed AI domain evidence", "database": "rerouteher_test", "applied_at": "2026-08-30T16:36:22.567977+00:00", "validation": "passed including in-transaction rerun stability", "band_counts": {"soft": 6329, "digital": 2047, "ai_usage": 2269, "technical": 12634}, "role_skills": 23279, "user_backup": "User reports duplicate database backup; not independently restored", "table_hashes": {"role_skills": "1fa85c322c4b40256b5f95d3b1ae8058", "skill_taxonomy": "19f0e9634b6bb0cbfd05e6d5b220f9c6", "role_skill_lineage": "c1fd8d16ce1e8779cf4699381073a818", "digital_skill_rating_lineage": "1ae2b0f2a77e67b136aed08fb3f5f819"}, "removed_links": 124, "inserted_links": 10137, "skill_taxonomy": 6128, "role_skill_lineage": 23279}
+NOTICE:  BAND {"skill_type":"ai_usage","n":2269}
+NOTICE:  BAND {"skill_type":"digital","n":2047}
+NOTICE:  BAND {"skill_type":"soft","n":6329}
+NOTICE:  BAND {"skill_type":"technical","n":12634}
+ROLLBACK
+
+Query returned successfully in 1 secs 494 msec.
++												636 text NOTICE:  POST_COMMIT_PASS: four table fingerprints match, canonical classifications and lineage consistent, all constraints validated, all 662 roles have soft and AI usage mappings
+NOTICE:  COMMITTED_RECEIPT {"roles": 662, "scope": "Database only; no application changes; user-authorized original soft policies and cleanup; fixed AI domain evidence", "database": "rerouteher_test", "applied_at": "2026-08-30T16:36:22.567977+00:00", "validation": "passed including in-transaction rerun stability", "band_counts": 
+~									535 text Query complete 00:00:01.494
+The focused UI element is 458 HTML content pgadmin-agk54moxhek3abjlpt3jvpxs.152.69.222.16.sslip.io/sqleditor/panel/2164545?is_query_tool=true&sgid=1&sid=1&did=107074&database_name=rerouteher_test

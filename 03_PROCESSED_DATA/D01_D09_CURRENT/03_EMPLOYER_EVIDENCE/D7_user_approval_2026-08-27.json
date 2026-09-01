@@ -1,0 +1,14 @@
+{
+  "scope": "D7 employer evidence and evidence-backed scoring decisions only",
+  "reviewer": "Charles Yi",
+  "approval_date": "2026-08-27",
+  "approval_source": "Explicit user message in Codex task: 'just mark the pillar 0 if it's not exist'",
+  "employers_approved": 50,
+  "atomic_evidence_rows_approved": 85,
+  "complete_scores_available": 50,
+  "zero_filled_employers": 49,
+  "zero_filled_pillar_cells": 131,
+  "complete_evidence_scores": 1,
+  "missing_value_policy": "After a completed official-source search, an unsupported D7 pillar is scored 0. Raw undisclosed facts remain blank; zero denotes non-disclosure for scoring, not verified absence.",
+  "note": "User explicitly instructed that a D7 pillar with no qualifying evidence after the completed official-source search must be scored as 0. Raw extracted fact fields remain blank when not disclosed; zero is a scoring convention for non-disclosure, not proof that a benefit is absent."
+}

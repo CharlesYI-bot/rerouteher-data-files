@@ -1,0 +1,57 @@
+{
+  "status": "STRUCTURAL_VALIDATION_PASSED",
+  "execution_receipt": "live_import_receipt.json",
+  "source_checks_passed": 48,
+  "source_sql_sha256": "3533a79e1035e45f5ef01ce53adbb2e8de5025b12786a7b8c3a42ea327ba7edf",
+  "migration_sql_sha256": "9ac887a7301a7a99bf777837daf8389d296b30bb4ba4e891ebff6b0ff2aba7be",
+  "gzip_sha256": "f71f9e9d7ad0fd02048428067425057b5fb2bf7a276f1ea56a72cd2be15920dd",
+  "sql_bytes": 95063842,
+  "gzip_bytes": 18940074,
+  "input_counts": {
+    "roles": 655,
+    "skill_taxonomy": 6080,
+    "skill_aliases": 37654,
+    "role_skills": 41024,
+    "role_skill_lineage": 41024,
+    "dataset_metadata": 8068
+  },
+  "expected_after_counts": {
+    "roles": 665,
+    "skill_taxonomy": 6121,
+    "skill_aliases": 37730,
+    "role_skills": 41194,
+    "role_skill_lineage": 41194
+  },
+  "schema_ddl_statements": 0,
+  "delete_statements": 5,
+  "deletions_exactly_scoped_to_prior_project_ids": true,
+  "default_behavior": "rehearsal with rollback",
+  "backup": {
+    "dataset": "D13 MASCO 2020 STEM rebuilt with Title Case",
+    "database": "rerouteher_test",
+    "source_sql_sha256": "3533a79e1035e45f5ef01ce53adbb2e8de5025b12786a7b8c3a42ea327ba7edf",
+    "backup_directory": "/var/lib/postgresql/masco2020_migration_20260830.MLQhVm",
+    "backup_sha256": "dc6c47767eb7bb533d20e30ffcdc34f71114dc23f1becd5da31cfa3d1ca6e3d7",
+    "schema_dump_sha256": "07cdc5de3a8721e6557717a407fad933968dffde541a441c993b6eacf1925ff1",
+    "old_project_roles": 657,
+    "new_project_roles": 655,
+    "original_roles_preserved": 10,
+    "deleted_superseded_role_ids": 382,
+    "new_role_ids": 380,
+    "old_only_skills_removed": 130,
+    "new_skill_ids": 46,
+    "schema_changed": false,
+    "original_esco_comparison_records": 657,
+    "total_rows_after": {
+      "roles": 665,
+      "skill_taxonomy": 6121,
+      "skill_aliases": 37730,
+      "role_skills": 41194,
+      "role_skill_lineage": 41194
+    },
+    "test_only": true
+  },
+  "limitations": [
+    "This report records builder checks; the completed rehearsal, commit and live postchecks are recorded separately in live_import_receipt.json."
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "counts": [
+    655,
+    6080,
+    37654,
+    16,
+    243,
+    199,
+    213,
+    657,
+    21
+  ],
+  "expected": [
+    655,
+    6080,
+    37654,
+    16,
+    243,
+    199,
+    213,
+    657,
+    21
+  ],
+  "scan": "{\"kind\":\"notice\",\"message\":\"Cell search matched 0 entries.\"}",
+  "sheets": [
+    {
+      "name": "Mappings",
+      "rows": 655,
+      "columns": 9
+    },
+    {
+      "name": "Skills",
+      "rows": 6080,
+      "columns": 6
+    },
+    {
+      "name": "Aliases",
+      "rows": 37654,
+      "columns": 5
+    },
+    {
+      "name": "Changes",
+      "rows": 16,
+      "columns": 7
+    },
+    {
+      "name": "Case Rules",
+      "rows": 21,
+      "columns": 4
+    },
+    {
+      "name": "ESCO Comparison",
+      "rows": 657,
+      "columns": 9
+    }
+  ]
+}

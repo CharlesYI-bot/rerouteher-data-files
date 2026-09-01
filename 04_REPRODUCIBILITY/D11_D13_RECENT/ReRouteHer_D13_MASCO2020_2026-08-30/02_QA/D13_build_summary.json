@@ -1,0 +1,49 @@
+{
+  "release_date": "2026-08-30",
+  "d11_masco_version": "2020",
+  "d11_role_count": 655,
+  "roles_with_project_esco_mapping": 655,
+  "roles_with_skill_links": 655,
+  "distinct_esco_occupations_used": 376,
+  "changed_primary_esco_codes": 16,
+  "fresh_role_retrieval_count": 655,
+  "2020_specific_manual_decisions": 65,
+  "rejected_exact_label_candidates": 105,
+  "mapping_relation_counts": {
+    "close_match": 243,
+    "partial_proxy": 213,
+    "broader_proxy": 199
+  },
+  "mapping_confidence_counts": {
+    "medium": 325,
+    "high": 117,
+    "low": 213
+  },
+  "scoped_leaf_skills": 6080,
+  "skill_alias_rows": 37654,
+  "role_skill_rows": 41024,
+  "skill_type_counts": {
+    "digital": 914,
+    "technical": 5166
+  },
+  "essential_role_skill_rows": 18821,
+  "optional_role_skill_rows": 22203,
+  "ESCO_comparison_source_records_preserved": 657,
+  "title_case_unique_audit_labels": 51244,
+  "title_case_labels_changed": 50084,
+  "title_case_unit_tests_passed": 21,
+  "raw_ESCO_sources_unchanged": true,
+  "alias_matching_case": "lowercase",
+  "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "embedding_dimensions": 384,
+  "l2_normalized": true,
+  "skill_embeddings_rebuilt": true,
+  "role_embeddings_unchanged": true,
+  "remote_AI_ratings_changed": false,
+  "schema_changed": false,
+  "live_database_modified": false,
+  "model_retrained_or_deployed": false,
+  "human_validated_mappings": 0,
+  "official_crosswalk": false,
+  "purpose": "test_only"
+}

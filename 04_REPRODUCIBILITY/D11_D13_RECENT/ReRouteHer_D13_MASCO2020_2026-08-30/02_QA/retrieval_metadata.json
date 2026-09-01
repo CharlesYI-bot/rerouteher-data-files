@@ -1,0 +1,11 @@
+{
+  "role_count": 655,
+  "esco_occupation_count": 3039,
+  "role_input": "Cleaned MASCO 2020 title; fresh embeddings for titles and inherited profiles",
+  "score_formula": "0.65 title cosine + 0.20 profile cosine + 0.15 lexical similarity; exact-label rank boosts",
+  "masco_isco_numeric_prefix_used_in_ranking": false,
+  "score_is_probability": false,
+  "cached_ESCO_vectors_verified_against_full_occupation_records": true,
+  "ESCO_source_sha256": "8034348d84b6d1dd24a5bcf9609186ecbba0a85457ee2eacd65bddec33a51b4a",
+  "D11_2020_source_sha256": "c2b194ae0cafcb6a705a22edb82c0c023c87680d8f50b61b88afef1ae7837e4a"
+}

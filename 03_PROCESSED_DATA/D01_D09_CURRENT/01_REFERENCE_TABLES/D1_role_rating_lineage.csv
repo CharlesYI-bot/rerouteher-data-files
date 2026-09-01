@@ -1,0 +1,11 @@
+role_id,role_title,masco_code,masco_source_page_pdf,rated_task_count,remote_capable_tasks,remote_onsite_tasks,remote_unclear_tasks,remote_pre_rating,ai_exposable_tasks,ai_exposure_share,ai_pre_rating,independent_raters_required,reconciliation_status,release_use
+R01,Software Developer,2512,92,9,8,0,1,medium,8,0.8889,high,2,pending,research_pre_rating_only
+R02,Data Analyst,2524,96,13,12,0,1,medium,12,0.9231,high,2,pending,research_pre_rating_only
+R03,Human Resources Officer,2423,88,9,3,0,6,medium,3,0.3333,medium,2,pending,research_pre_rating_only
+R04,Online Marketing Specialist,2431,90,8,4,0,4,medium,1,0.125,low,2,pending,research_pre_rating_only
+R05,Translator,2833,107,9,0,0,9,medium,3,0.3333,medium,2,pending,research_pre_rating_only
+R06,Graphic Designer,2543,98,10,5,0,5,medium,5,0.5,medium,2,pending,research_pre_rating_only
+R07,Accounting & Bookkeeping Clerk,4311,179,7,4,0,3,medium,5,0.7143,high,2,pending,research_pre_rating_only
+R08,Customer Contact Centre Officer,4222,176,9,5,0,4,medium,2,0.2222,low,2,pending,research_pre_rating_only
+R09,Secretary / Administrative Assistant,4121,172,11,3,1,7,low,4,0.3636,medium,2,pending,research_pre_rating_only
+R10,Tutor,2311,78,10,5,0,5,medium,1,0.1,low,2,pending,research_pre_rating_only

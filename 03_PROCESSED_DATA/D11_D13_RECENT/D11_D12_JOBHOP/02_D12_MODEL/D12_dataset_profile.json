@@ -1,0 +1,24 @@
+{
+  "jobhop_source": "ReRouteHer_TeamDrive_Upload_2026-08-27/02_RAW_SOURCE_DATA/RESUME_APPROVED/jobhop_v2_confirmed_active_2019plus.csv",
+  "jobhop_source_sha256": "423bb1410db68feec2c5196297ee13277781dce1754de6e2d7c0daac1f4f53d4",
+  "jobhop_audit_sha256": "afe26957657a27915940fc1d6ab408f89721a98b99125d3c2f9b9fdb2b4e8bd0",
+  "resume_dataset_policy": "JobHop v2 confirmed-active 2019+ is the sole resume/career-history dataset.",
+  "non_resume_reference_sources": [
+    "MASCO 2020 official PDF for six-digit target codes/titles/tasks",
+    "ESCO official occupation titles/skill groups for feature interpretation"
+  ],
+  "examples": 562,
+  "unique_resumes": 562,
+  "split_counts": {
+    "test": 45,
+    "train": 455,
+    "val": 62
+  },
+  "split_conflict_trajectories": 0,
+  "premerge_classes": 41,
+  "model_classes": 19,
+  "sparsity_merged_examples": 59,
+  "minimum_train_support": 5,
+  "raw_resume_text_available": false,
+  "feature_scope": "structured prior career history; no raw CV text"
+}

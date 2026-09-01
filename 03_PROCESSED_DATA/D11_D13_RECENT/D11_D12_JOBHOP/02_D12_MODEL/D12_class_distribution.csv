@@ -1,0 +1,52 @@
+split,masco_code,masco_role_title,examples,resumes
+test,231109,Tutor,5,5
+test,242321,Talent Acquisition Consultant,3,3
+test,242323,Human Resource Officer,2,2
+test,243110,Marketing Communications Specialist,1,1
+test,243121,Business Development Executive,3,3
+test,243135,Digital Marketing Executive,5,5
+test,243136,Marketing Officer,2,2
+test,252403,Data Analyst,1,1
+test,254302,Graphic Designer,4,4
+test,254316,Digital Designer,2,2
+test,283302,Translator,1,1
+test,283303,Interpreter,2,2
+test,412107,Secretary,8,8
+test,422207,Customer Contact Centre Information Clerk,2,2
+test,431110,Account and Promotion Clerk,3,3
+test,431118,Billing Clerk,1,1
+train,231109,Tutor,39,39
+train,242321,Talent Acquisition Consultant,35,35
+train,242323,Human Resource Officer,7,7
+train,243110,Marketing Communications Specialist,7,7
+train,243121,Business Development Executive,30,30
+train,243135,Digital Marketing Executive,52,52
+train,243136,Marketing Officer,23,23
+train,251201,Software Developer,11,11
+train,252403,Data Analyst,11,11
+train,252416,Business Data Analyst,5,5
+train,254302,Graphic Designer,40,40
+train,254309,Character Designer,13,13
+train,254316,Digital Designer,10,10
+train,283302,Translator,12,12
+train,283303,Interpreter,11,11
+train,412107,Secretary,44,44
+train,422207,Customer Contact Centre Information Clerk,25,25
+train,431110,Account and Promotion Clerk,51,51
+train,431118,Billing Clerk,29,29
+val,231109,Tutor,6,6
+val,242321,Talent Acquisition Consultant,6,6
+val,243110,Marketing Communications Specialist,3,3
+val,243121,Business Development Executive,3,3
+val,243135,Digital Marketing Executive,4,4
+val,243136,Marketing Officer,6,6
+val,251201,Software Developer,3,3
+val,252403,Data Analyst,2,2
+val,252416,Business Data Analyst,1,1
+val,254302,Graphic Designer,5,5
+val,254316,Digital Designer,1,1
+val,283303,Interpreter,2,2
+val,412107,Secretary,8,8
+val,422207,Customer Contact Centre Information Clerk,2,2
+val,431110,Account and Promotion Clerk,4,4
+val,431118,Billing Clerk,6,6

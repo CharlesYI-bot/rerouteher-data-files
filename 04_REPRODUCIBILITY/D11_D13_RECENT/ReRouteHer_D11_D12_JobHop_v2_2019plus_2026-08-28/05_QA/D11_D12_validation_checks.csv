@@ -1,0 +1,32 @@
+check_id,status,evidence
+D11_ROW_COUNT,PASS,258
+D11_UNIQUE_CODES,PASS,258
+D11_ALL_CODES_SIX_DIGIT,PASS,"{""invalid"": []}"
+D11_PRINTED_CODE_MATCHES,PASS,six-digit storage and printed MASCO hyphen agree
+D11_GROUP_COUNTS,PASS,"{""2311"": 42, ""2423"": 25, ""2431"": 41, ""2512"": 47, ""2524"": 21, ""2543"": 19, ""2833"": 10, ""4121"": 13, ""4222"": 7, ""4311"": 33}"
+D11_TEN_FLEXIBLE_ANCHORS,PASS,10
+D11_MISSING_NOT_ZERO,PASS,"nullable identifier/proxy fields use blank/null, not 0, as the missing-value sentinel"
+D11_EMBEDDING_DIMENSIONS,PASS,"{""rows"": 258, ""dimension"": 384}"
+D11_EMBEDDING_MODEL,PASS,"{""sentence-transformers/all-MiniLM-L6-v2"": 258}"
+D12_EXAMPLE_COUNT,PASS,562
+D12_ONE_EXAMPLE_PER_RESUME,PASS,562
+D12_PRESERVED_SPLITS,PASS,"{""test"": 45, ""train"": 455, ""val"": 62}"
+D12_ALL_TRAINING_LABELS_SIX_DIGIT,PASS,"[""231109"", ""242321"", ""242323"", ""243110"", ""243121"", ""243135"", ""243136"", ""251201"", ""252403"", ""252416"", ""254302"", ""254309"", ""254316"", ""283302"", ""283303"", ""412107"", ""422207"", ""431110"", ""431118""]"
+D12_LABELS_EXIST_IN_D11,PASS,[]
+D12_TARGET_EXCLUDED_FROM_TEXT,PASS,latest target is not systematically leaked into composed prior-history text
+D12_JOBHOP_HASH_MATCH,PASS,423bb1410db68feec2c5196297ee13277781dce1754de6e2d7c0daac1f4f53d4
+D12_SOLE_RESUME_DATASET_POLICY,PASS,JobHop v2 confirmed-active 2019+ is the sole resume/career-history dataset.
+D12_ONE_RESUME_SOURCE_IN_MANIFEST,PASS,"[""ReRouteHer_TeamDrive_Upload_2026-08-27/02_RAW_SOURCE_DATA/RESUME_APPROVED/jobhop_v2_confirmed_active_2019plus.csv""]"
+D12_CROSSWALK_70_TARGET_CODES,PASS,70
+D12_CROSSWALK_LABELS_EXIST_IN_D11,PASS,all premerge and model labels resolve to D11
+D12_ARTIFACT_STRUCTURE,PASS,"[""catalog"", ""classes"", ""compose_text_format"", ""embedding_class_centroids"", ""embedding_model"", ""fallback_catalog_matrix"", ""fallback_vectorizer"", ""format_version"", ""label_regex"", ""low_confidence_threshold"", ""pipeline"", ""random_state"", ""resume_dataset"", ""resume_dataset_sha256"", ""selected_research_model"", ""selection_metric"", ""sparsity_policy"", ""task""]"
+D12_ARTIFACT_CLASSES_SIX_DIGIT,PASS,"[""231109"", ""242321"", ""242323"", ""243110"", ""243121"", ""243135"", ""243136"", ""251201"", ""252403"", ""252416"", ""254302"", ""254309"", ""254316"", ""283302"", ""283303"", ""412107"", ""422207"", ""431110"", ""431118""]"
+D12_ARTIFACT_CLASSES_IN_D11,PASS,[]
+D12_FULL_FALLBACK_CATALOG,PASS,"{""catalog"": 258, ""matrix_rows"": 258}"
+D12_ARTIFACT_REPRODUCES_TEST_PREDICTIONS,PASS,"{""predictions"": 45}"
+D12_ALL_REPORTED_PREDICTIONS_SIX_DIGIT,PASS,"true, classifier, fallback and final codes all use six digits"
+D12_ALL_REPORTED_PREDICTIONS_IN_D11,PASS,all reported labels resolve to D11 catalog
+D12_NOT_PRODUCTION_APPROVED,PASS,"[""The JobHop input contains structured Belgian/Flemish career histories, not raw Malaysian CV text."", ""The project ESCO-to-six-digit-MASCO crosswalk requires domain-owner review."", ""Several sparse granular labels are merged to six-digit curated anchors."", ""Child-level remote/AI ratings inherit unit-group pre-ratings pending two-rater review.""]"
+D12_METRICS_HONEST_SCOPE,PASS,"{""resume_dataset_policy"": ""JobHop v2 confirmed-active 2019+ is the sole resume/career-history dataset."", ""selected_research_model"": ""minilm_centroid_retrieval""}"
+D11_MIGRATION_SIX_DIGIT_GUARD,PASS,migration fails if any roles.masco_code is not six digits
+D11_MIGRATION_CONTAINS_ALL_CODES,PASS,"{""codes"": 258}"

@@ -1,0 +1,40 @@
+{
+  "scope_override": "D13 references to D1 were applied to the D11 catalog of 657 official six-digit MASCO roles.",
+  "d11_role_count": 657,
+  "six_digit_masco_role_count": 657,
+  "roles_with_provisional_esco_mapping": 95,
+  "roles_without_usable_esco_mapping": 562,
+  "role_mapping_coverage_rate": 0.144597,
+  "mapping_status_counts": {
+    "ambiguous_exact_title_same_isco_group": 4,
+    "d11_existing_esco_code": 7,
+    "no_unique_exact_esco_title_match": 558,
+    "unique_exact_alternate_title_same_isco_group": 27,
+    "unique_exact_preferred_title_same_isco_group": 61
+  },
+  "distinct_esco_occupations_used": 93,
+  "scoped_leaf_skills": 2575,
+  "skill_alias_rows": 15203,
+  "alias_source_counts": {
+    "curated_product_or_acronym": 4,
+    "esco_altLabel": 15043,
+    "esco_hiddenLabel": 156
+  },
+  "role_skill_rows": 5851,
+  "essential_role_skill_rows": 2698,
+  "optional_role_skill_rows": 3153,
+  "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "embedding_dimensions": 384,
+  "l2_normalized": true,
+  "esco_source_version": "v1.2.1",
+  "esco_source_skill_rows": 13960,
+  "esco_unique_skill_uris": 13939,
+  "esco_duplicate_skill_rows_deduplicated_by_latest_modifiedDate": 21,
+  "esco_skills_with_blank_official_skillType_made_explicit": 3,
+  "esco_source_occupation_rows": 3043,
+  "esco_unique_occupation_uris": 3039,
+  "esco_duplicate_occupation_rows_deduplicated_by_latest_modifiedDate": 4,
+  "esco_relation_rows": 126051,
+  "scope_guard": "Only leaf skills linked to provisionally mapped D11 roles are included; the full ESCO skill universe is excluded.",
+  "production_warning": "No published official MASCO-six-digit-to-ESCO-occupation crosswalk exists in the supplied sources. All project-derived mappings remain pending domain-owner review."
+}

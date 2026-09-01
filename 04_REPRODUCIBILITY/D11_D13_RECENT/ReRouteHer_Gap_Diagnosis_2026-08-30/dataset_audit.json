@@ -1,0 +1,541 @@
+{
+  "roles": 655,
+  "skills": 6080,
+  "links": 41024,
+  "duplicate_role_ids": {},
+  "duplicate_role_titles_exact": {},
+  "duplicate_role_titles_normalized": {},
+  "duplicate_masco_codes": {},
+  "shared_esco_codes": 143,
+  "roles_sharing_esco": 422,
+  "unique_esco_codes": 376,
+  "duplicate_skill_ids": {},
+  "duplicate_canonical_names": {},
+  "duplicate_role_skill_pairs": {},
+  "same_skill_label_different_ids": {},
+  "same_skill_id_different_labels": {},
+  "ambiguous_alias_count": 172,
+  "ambiguous_alias_examples": [
+    {
+      "alias": "ensure customer satisfaction",
+      "ids": [
+        "00e53a0a-c0ba-4c9f-a2ed-4706d5832a00",
+        "89ba58e8-a67e-4d2b-ad42-6acab25c241b"
+      ]
+    },
+    {
+      "alias": "manage supply chain",
+      "ids": [
+        "020b3c27-bae1-4b85-9d6f-eccee0f5ed99",
+        "96d549bb-3e62-4c45-92a7-f114df089581"
+      ]
+    },
+    {
+      "alias": "supply chain management",
+      "ids": [
+        "020b3c27-bae1-4b85-9d6f-eccee0f5ed99",
+        "96d549bb-3e62-4c45-92a7-f114df089581"
+      ]
+    },
+    {
+      "alias": "arrange rehearsals",
+      "ids": [
+        "05bc7677-5a64-4e0c-ade3-0140348d4125",
+        "5f6e56b0-7cf7-42b2-9a3f-524ba0774881"
+      ]
+    },
+    {
+      "alias": "organize rehearsals",
+      "ids": [
+        "05bc7677-5a64-4e0c-ade3-0140348d4125",
+        "5f6e56b0-7cf7-42b2-9a3f-524ba0774881"
+      ]
+    },
+    {
+      "alias": "plan rehearsals",
+      "ids": [
+        "05bc7677-5a64-4e0c-ade3-0140348d4125",
+        "5f6e56b0-7cf7-42b2-9a3f-524ba0774881"
+      ]
+    },
+    {
+      "alias": "schedule rehearsals",
+      "ids": [
+        "05bc7677-5a64-4e0c-ade3-0140348d4125",
+        "5f6e56b0-7cf7-42b2-9a3f-524ba0774881"
+      ]
+    },
+    {
+      "alias": "coordinate manufacturing processes",
+      "ids": [
+        "05c00631-b864-4842-b47e-06710c197c7a",
+        "7d0f33ea-e724-4d77-8b75-ee4fe66bb9ba"
+      ]
+    },
+    {
+      "alias": "organise manufacturing processes",
+      "ids": [
+        "05c00631-b864-4842-b47e-06710c197c7a",
+        "7d0f33ea-e724-4d77-8b75-ee4fe66bb9ba"
+      ]
+    },
+    {
+      "alias": "collaborate with colleagues",
+      "ids": [
+        "082967d4-b94c-4305-aa13-35a6aa8c5c7c",
+        "9d5521f9-44d7-4db4-b7ac-0ba7d389f44d"
+      ]
+    }
+  ],
+  "link_counts": {
+    "min": 10,
+    "median": 53,
+    "max": 178
+  },
+  "no_digital_band_roles": 78,
+  "village": {
+    "role_id": "M151108",
+    "role_title": "Village Community Center Manager",
+    "masco_code": "151108",
+    "esco_code": "1330.5",
+    "esco_title": "ICT Operations Manager",
+    "d13_mapping_relation": "partial_proxy",
+    "d13_mapping_confidence": "low",
+    "ai_exposure": "high",
+    "flexible_role": "True",
+    "skills": 41,
+    "band_counts": {
+      "digital": 15,
+      "technical": 26
+    },
+    "band_weights": {
+      "technical": 1900,
+      "soft": 0,
+      "digital": 1050
+    },
+    "essential": 18,
+    "optional": 23
+  },
+  "same_esco_as_village": [
+    {
+      "role_id": "M121416",
+      "role_title": "Technology Manager",
+      "masco_code": "121416",
+      "esco_code": "1330.5",
+      "esco_title": "ICT Operations Manager",
+      "d13_mapping_relation": "broader_proxy",
+      "d13_mapping_confidence": "medium",
+      "ai_exposure": "low",
+      "flexible_role": "True",
+      "skills": 41,
+      "band_counts": {
+        "digital": 15,
+        "technical": 26
+      },
+      "band_weights": {
+        "technical": 1900,
+        "soft": 0,
+        "digital": 1050
+      },
+      "essential": 18,
+      "optional": 23
+    },
+    {
+      "role_id": "M151106",
+      "role_title": "Information Systems Manager",
+      "masco_code": "151106",
+      "esco_code": "1330.5",
+      "esco_title": "ICT Operations Manager",
+      "d13_mapping_relation": "broader_proxy",
+      "d13_mapping_confidence": "medium",
+      "ai_exposure": "low",
+      "flexible_role": "True",
+      "skills": 41,
+      "band_counts": {
+        "digital": 15,
+        "technical": 26
+      },
+      "band_weights": {
+        "technical": 1900,
+        "soft": 0,
+        "digital": 1050
+      },
+      "essential": 18,
+      "optional": 23
+    },
+    {
+      "role_id": "M151108",
+      "role_title": "Village Community Center Manager",
+      "masco_code": "151108",
+      "esco_code": "1330.5",
+      "esco_title": "ICT Operations Manager",
+      "d13_mapping_relation": "partial_proxy",
+      "d13_mapping_confidence": "low",
+      "ai_exposure": "high",
+      "flexible_role": "True",
+      "skills": 41,
+      "band_counts": {
+        "digital": 15,
+        "technical": 26
+      },
+      "band_weights": {
+        "technical": 1900,
+        "soft": 0,
+        "digital": 1050
+      },
+      "essential": 18,
+      "optional": 23
+    },
+    {
+      "role_id": "M151113",
+      "role_title": "Data Operations Manager",
+      "masco_code": "151113",
+      "esco_code": "1330.5",
+      "esco_title": "ICT Operations Manager",
+      "d13_mapping_relation": "broader_proxy",
+      "d13_mapping_confidence": "medium",
+      "ai_exposure": "high",
+      "flexible_role": "True",
+      "skills": 41,
+      "band_counts": {
+        "digital": 15,
+        "technical": 26
+      },
+      "band_weights": {
+        "technical": 1900,
+        "soft": 0,
+        "digital": 1050
+      },
+      "essential": 18,
+      "optional": 23
+    },
+    {
+      "role_id": "M151117",
+      "role_title": "Network Manager",
+      "masco_code": "151117",
+      "esco_code": "1330.5",
+      "esco_title": "ICT Operations Manager",
+      "d13_mapping_relation": "broader_proxy",
+      "d13_mapping_confidence": "medium",
+      "ai_exposure": "medium",
+      "flexible_role": "True",
+      "skills": 41,
+      "band_counts": {
+        "digital": 15,
+        "technical": 26
+      },
+      "band_weights": {
+        "technical": 1900,
+        "soft": 0,
+        "digital": 1050
+      },
+      "essential": 18,
+      "optional": 23
+    },
+    {
+      "role_id": "M151123",
+      "role_title": "Information Technology Infrastructure Manager",
+      "masco_code": "151123",
+      "esco_code": "1330.5",
+      "esco_title": "ICT Operations Manager",
+      "d13_mapping_relation": "broader_proxy",
+      "d13_mapping_confidence": "medium",
+      "ai_exposure": "medium",
+      "flexible_role": "True",
+      "skills": 41,
+      "band_counts": {
+        "digital": 15,
+        "technical": 26
+      },
+      "band_weights": {
+        "technical": 1900,
+        "soft": 0,
+        "digital": 1050
+      },
+      "essential": 18,
+      "optional": 23
+    },
+    {
+      "role_id": "M151130",
+      "role_title": "Network Operations Manager",
+      "masco_code": "151130",
+      "esco_code": "1330.5",
+      "esco_title": "ICT Operations Manager",
+      "d13_mapping_relation": "broader_proxy",
+      "d13_mapping_confidence": "medium",
+      "ai_exposure": "low",
+      "flexible_role": "True",
+      "skills": 41,
+      "band_counts": {
+        "digital": 15,
+        "technical": 26
+      },
+      "band_weights": {
+        "technical": 1900,
+        "soft": 0,
+        "digital": 1050
+      },
+      "essential": 18,
+      "optional": 23
+    }
+  ],
+  "software_roles": [
+    {
+      "role_id": "M151112",
+      "role_title": "Application Development Manager",
+      "masco_code": "151112",
+      "esco_code": "1330.5.1",
+      "esco_title": "Software Manager",
+      "d13_mapping_relation": "close_match",
+      "d13_mapping_confidence": "medium",
+      "ai_exposure": "medium",
+      "flexible_role": "True",
+      "skills": 48,
+      "band_counts": {
+        "digital": 28,
+        "technical": 20
+      },
+      "band_weights": {
+        "technical": 1350,
+        "soft": 0,
+        "digital": 2200
+      },
+      "essential": 23,
+      "optional": 25
+    },
+    {
+      "role_id": "M151135",
+      "role_title": "Software Development Manager",
+      "masco_code": "151135",
+      "esco_code": "1330.5.1",
+      "esco_title": "Software Manager",
+      "d13_mapping_relation": "close_match",
+      "d13_mapping_confidence": "medium",
+      "ai_exposure": "medium",
+      "flexible_role": "True",
+      "skills": 48,
+      "band_counts": {
+        "digital": 28,
+        "technical": 20
+      },
+      "band_weights": {
+        "technical": 1350,
+        "soft": 0,
+        "digital": 2200
+      },
+      "essential": 23,
+      "optional": 25
+    },
+    {
+      "role_id": "M239303",
+      "role_title": "Software Trainer",
+      "masco_code": "239303",
+      "esco_code": "2356.1",
+      "esco_title": "ICT Trainer",
+      "d13_mapping_relation": "broader_proxy",
+      "d13_mapping_confidence": "medium",
+      "ai_exposure": "medium",
+      "flexible_role": "False",
+      "skills": 45,
+      "band_counts": {
+        "digital": 29,
+        "technical": 16
+      },
+      "band_weights": {
+        "technical": 1150,
+        "soft": 0,
+        "digital": 1750
+      },
+      "essential": 13,
+      "optional": 32
+    },
+    {
+      "role_id": "M251116",
+      "role_title": "Technical Specialist (.Net)",
+      "masco_code": "251116",
+      "esco_code": "2512.4",
+      "esco_title": "Software Developer",
+      "d13_mapping_relation": "broader_proxy",
+      "d13_mapping_confidence": "medium",
+      "ai_exposure": "high",
+      "flexible_role": "True",
+      "skills": 108,
+      "band_counts": {
+        "digital": 94,
+        "technical": 14
+      },
+      "band_weights": {
+        "technical": 1150,
+        "soft": 0,
+        "digital": 5450
+      },
+      "essential": 24,
+      "optional": 84
+    },
+    {
+      "role_id": "M251201",
+      "role_title": "Software Developer",
+      "masco_code": "251201",
+      "esco_code": "2512.4",
+      "esco_title": "Software Developer",
+      "d13_mapping_relation": "close_match",
+      "d13_mapping_confidence": "high",
+      "ai_exposure": "high",
+      "flexible_role": "True",
+      "skills": 108,
+      "band_counts": {
+        "digital": 94,
+        "technical": 14
+      },
+      "band_weights": {
+        "technical": 1150,
+        "soft": 0,
+        "digital": 5450
+      },
+      "essential": 24,
+      "optional": 84
+    },
+    {
+      "role_id": "M251401",
+      "role_title": "Computer Programmer",
+      "masco_code": "251401",
+      "esco_code": "2512.4",
+      "esco_title": "Software Developer",
+      "d13_mapping_relation": "broader_proxy",
+      "d13_mapping_confidence": "medium",
+      "ai_exposure": "high",
+      "flexible_role": "True",
+      "skills": 108,
+      "band_counts": {
+        "digital": 94,
+        "technical": 14
+      },
+      "band_weights": {
+        "technical": 1150,
+        "soft": 0,
+        "digital": 5450
+      },
+      "essential": 24,
+      "optional": 84
+    },
+    {
+      "role_id": "M251407",
+      "role_title": "Systems Programmer",
+      "masco_code": "251407",
+      "esco_code": "2511.15",
+      "esco_title": "ICT System Developer",
+      "d13_mapping_relation": "close_match",
+      "d13_mapping_confidence": "medium",
+      "ai_exposure": "high",
+      "flexible_role": "True",
+      "skills": 97,
+      "band_counts": {
+        "digital": 89,
+        "technical": 8
+      },
+      "band_weights": {
+        "technical": 550,
+        "soft": 0,
+        "digital": 5300
+      },
+      "essential": 20,
+      "optional": 77
+    },
+    {
+      "role_id": "M251419",
+      "role_title": "C/C++ Programmer",
+      "masco_code": "251419",
+      "esco_code": "2512.4",
+      "esco_title": "Software Developer",
+      "d13_mapping_relation": "broader_proxy",
+      "d13_mapping_confidence": "medium",
+      "ai_exposure": "high",
+      "flexible_role": "True",
+      "skills": 108,
+      "band_counts": {
+        "digital": 94,
+        "technical": 14
+      },
+      "band_weights": {
+        "technical": 1150,
+        "soft": 0,
+        "digital": 5450
+      },
+      "essential": 24,
+      "optional": 84
+    },
+    {
+      "role_id": "M252215",
+      "role_title": "Information Technology Technical Specialist",
+      "masco_code": "252215",
+      "esco_code": "3512.4",
+      "esco_title": "ICT Technician",
+      "d13_mapping_relation": "broader_proxy",
+      "d13_mapping_confidence": "medium",
+      "ai_exposure": "medium",
+      "flexible_role": "True",
+      "skills": 80,
+      "band_counts": {
+        "digital": 74,
+        "technical": 6
+      },
+      "band_weights": {
+        "technical": 450,
+        "soft": 0,
+        "digital": 4700
+      },
+      "essential": 23,
+      "optional": 57
+    },
+    {
+      "role_id": "M254215",
+      "role_title": "Graphics Programmer",
+      "masco_code": "254215",
+      "esco_code": "2513.1",
+      "esco_title": "Digital Games Developer",
+      "d13_mapping_relation": "partial_proxy",
+      "d13_mapping_confidence": "low",
+      "ai_exposure": "medium",
+      "flexible_role": "True",
+      "skills": 82,
+      "band_counts": {
+        "digital": 76,
+        "technical": 6
+      },
+      "band_weights": {
+        "technical": 400,
+        "soft": 0,
+        "digital": 4650
+      },
+      "essential": 19,
+      "optional": 63
+    }
+  ],
+  "shared_skill_examples": [
+    [
+      "4fabca9a-7435-4f33-b1da-3cdb00340fdc",
+      138
+    ],
+    [
+      "cd5efa8c-e44d-4cbc-91c6-796018dbed68",
+      131
+    ],
+    [
+      "415abd43-e8e5-4643-b5da-5f11307af57a",
+      100
+    ],
+    [
+      "4339176e-3acd-4f7f-a5d9-445bee3d23f2",
+      98
+    ],
+    [
+      "a8d24a95-47b3-4f88-92e7-06600bcd3612",
+      97
+    ]
+  ],
+  "mapping_relations": {
+    "close_match": 243,
+    "partial_proxy": 213,
+    "broader_proxy": 199
+  }
+}

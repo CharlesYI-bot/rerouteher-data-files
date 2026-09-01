@@ -1,0 +1,33 @@
+{
+  "status": "PREPARED_NOT_APPLIED",
+  "database": "rerouteher_test",
+  "source_dataset": "ReRouteHer_Data_Quality_Fix_2026-08-30",
+  "sql_sha256": "b1027f4968e8a3353269ca35140c43590e489b71429e4b3c542cb7e37e9b2283",
+  "sql_bytes": 374953,
+  "gzip_bytes": 26949,
+  "source_csv_counts": {
+    "roles": 655,
+    "approved_mappings": 442,
+    "low_confidence_mappings": 213,
+    "approved_role_skills": 13147
+  },
+  "expected_database_counts": {
+    "roles": 662,
+    "skill_taxonomy": 6121,
+    "role_skills": 13266,
+    "role_skill_lineage": 13266,
+    "skill_aliases": 37284
+  },
+  "legacy_roles_retired": {
+    "R01": "M251201",
+    "R02": "M252403",
+    "R06": "M254302"
+  },
+  "deleted_role_skill_rows": 27911,
+  "deleted_lineage_rows": 27928,
+  "deleted_ambiguous_alias_rows": 446,
+  "permanent_schema_changed": false,
+  "backend_changes": false,
+  "requires_action_time_deletion_confirmation": true,
+  "sql_execution_tested": false
+}

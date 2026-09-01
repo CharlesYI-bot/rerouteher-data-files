@@ -1,0 +1,125 @@
+role_id,role_title,skill_name,script_line,matches_in_saved_active_core,skill_ids
+M251116,Technical Specialist (.Net),Perform Scientific Research,20,1,4fabca9a-7435-4f33-b1da-3cdb00340fdc
+M251116,Technical Specialist (.Net),Engineering Principles,20,1,209a5498-3449-4689-8ed9-bd08cab4fd78
+M251116,Technical Specialist (.Net),Engineering Processes,20,1,72a74f69-5cf1-43c5-99b9-62a444578919
+M251116,Technical Specialist (.Net),Manage Engineering Project,20,1,6a899482-8bcf-40ca-ae67-579a1cc467ab
+M251116,Technical Specialist (.Net),Technical Drawings,20,1,59ea80e1-463a-4dba-82c6-d0b6d577d532
+M251116,Technical Specialist (.Net),Use Technical Drawing Software,20,1,541561bc-510c-4a99-881c-2d8bf5a85462
+M251201,Software Developer,Perform Scientific Research,21,1,4fabca9a-7435-4f33-b1da-3cdb00340fdc
+M251201,Software Developer,Engineering Principles,21,1,209a5498-3449-4689-8ed9-bd08cab4fd78
+M251201,Software Developer,Engineering Processes,21,1,72a74f69-5cf1-43c5-99b9-62a444578919
+M251201,Software Developer,Manage Engineering Project,21,1,6a899482-8bcf-40ca-ae67-579a1cc467ab
+M251201,Software Developer,Technical Drawings,21,1,59ea80e1-463a-4dba-82c6-d0b6d577d532
+M251201,Software Developer,Use Technical Drawing Software,21,1,541561bc-510c-4a99-881c-2d8bf5a85462
+M251401,Computer Programmer,Perform Scientific Research,22,1,4fabca9a-7435-4f33-b1da-3cdb00340fdc
+M251401,Computer Programmer,Engineering Principles,22,1,209a5498-3449-4689-8ed9-bd08cab4fd78
+M251401,Computer Programmer,Engineering Processes,22,1,72a74f69-5cf1-43c5-99b9-62a444578919
+M251401,Computer Programmer,Manage Engineering Project,22,1,6a899482-8bcf-40ca-ae67-579a1cc467ab
+M251401,Computer Programmer,Technical Drawings,22,1,59ea80e1-463a-4dba-82c6-d0b6d577d532
+M251401,Computer Programmer,Use Technical Drawing Software,22,1,541561bc-510c-4a99-881c-2d8bf5a85462
+M251419,C/C++ Programmer,Perform Scientific Research,23,1,4fabca9a-7435-4f33-b1da-3cdb00340fdc
+M251419,C/C++ Programmer,Engineering Principles,23,1,209a5498-3449-4689-8ed9-bd08cab4fd78
+M251419,C/C++ Programmer,Engineering Processes,23,1,72a74f69-5cf1-43c5-99b9-62a444578919
+M251419,C/C++ Programmer,Manage Engineering Project,23,1,6a899482-8bcf-40ca-ae67-579a1cc467ab
+M251419,C/C++ Programmer,Technical Drawings,23,1,59ea80e1-463a-4dba-82c6-d0b6d577d532
+M251419,C/C++ Programmer,Use Technical Drawing Software,23,1,541561bc-510c-4a99-881c-2d8bf5a85462
+M251916,Information Technology Auditor,Engineering Processes,26,1,72a74f69-5cf1-43c5-99b9-62a444578919
+M252401,Data Scientist,Speak Different Languages,28,1,2de4572a-4724-4f76-afc2-72a568a264ac
+M254204,Game Producer (Digital),Manage Gambling Finances,30,1,1c50435f-593c-4269-b111-36475599dccf
+M254204,Game Producer (Digital),Manage Gaming Facilities,30,1,31910296-7c31-4b87-a00b-594ec072b6e5
+M254204,Game Producer (Digital),Manage Gambling Game,30,1,4246db3e-b5e2-43d4-a0cf-f799743e534b
+M254204,Game Producer (Digital),Follow Ethical Code of Conduct of Gambling,30,1,45205440-fa65-44e0-a719-e89278dd723a
+M254204,Game Producer (Digital),Ensure Gambling Operational Standards,30,1,65227f84-5d33-44a4-ad4b-1e8571b415c0
+M254204,Game Producer (Digital),Responsible Gambling,30,1,8f15b22d-930e-4842-80dc-5cab28ac71fc
+M254204,Game Producer (Digital),Manage Gaming Cash Desk,30,1,abbf99aa-4969-4865-997e-450c1cf8b6e9
+M254204,Game Producer (Digital),Manage Gambling Hospitality,30,1,f7e5e2a0-5039-4bee-b48c-b7a9c7287a43
+M311538,CAD/CAM Technician (Computer-Aided Design and Manufacturing),Lisp,35,1,0de61385-de6d-4146-ba32-1cc1bc102220
+M311538,CAD/CAM Technician (Computer-Aided Design and Manufacturing),Visual Basic,35,1,13bdd41a-2a18-441f-96db-41252c519413
+M311538,CAD/CAM Technician (Computer-Aided Design and Manufacturing),Java (Computer Programming),35,1,19a8293b-8e95-4de3-983f-77484079c389
+M311538,CAD/CAM Technician (Computer-Aided Design and Manufacturing),Computer Programming,35,1,21d2f96d-35f7-4e3f-9745-c533d2dd6e97
+M311538,CAD/CAM Technician (Computer-Aided Design and Manufacturing),Prolog (Computer Programming),35,1,2bde42ae-e776-41c1-9ded-b07b30bfe985
+M311538,CAD/CAM Technician (Computer-Aided Design and Manufacturing),OpenEdge Advanced Business Language,35,1,300d432b-f457-4cd3-9cb1-1858c7d14954
+M311538,CAD/CAM Technician (Computer-Aided Design and Manufacturing),JavaScript,35,1,3cd569a2-4f88-4c1e-9995-8dce8c5e51a7
+M311538,CAD/CAM Technician (Computer-Aided Design and Manufacturing),Perl,35,1,401eb8d8-6daa-4f8b-90ad-60afc71eb4f8
+M311538,CAD/CAM Technician (Computer-Aided Design and Manufacturing),Use Automatic Programming,35,1,7d10fcb2-b368-48ab-996b-7c9fafcf68ed
+M311538,CAD/CAM Technician (Computer-Aided Design and Manufacturing),Smalltalk (Computer Programming),35,1,42ed3bfb-1a01-4c8b-9758-fc6438865734
+M311538,CAD/CAM Technician (Computer-Aided Design and Manufacturing),PHP,35,1,4350c38d-0fe9-4ca7-bab9-40ed7f72b04f
+M311538,CAD/CAM Technician (Computer-Aided Design and Manufacturing),Assembly (Computer Programming),35,1,47b9bbcf-356c-4782-83a4-7f5a1b2b51a3
+M311538,CAD/CAM Technician (Computer-Aided Design and Manufacturing),C#,35,1,4c016b68-4116-468c-9dc6-42710c239e4a
+M311538,CAD/CAM Technician (Computer-Aided Design and Manufacturing),R,35,1,51586df8-1c46-4b47-8583-773cb63bf00b
+M311538,CAD/CAM Technician (Computer-Aided Design and Manufacturing),Groovy,35,1,52cf3037-ab53-4806-85ed-7fd21ea7f6a1
+M311538,CAD/CAM Technician (Computer-Aided Design and Manufacturing),ASP.NET,35,1,56a7f561-1d55-43c9-9cd7-36a0a9bc6c50
+M311538,CAD/CAM Technician (Computer-Aided Design and Manufacturing),APL,35,1,58d7a289-dafd-4363-833f-d1dc4140885e
+M311538,CAD/CAM Technician (Computer-Aided Design and Manufacturing),Haskell,35,1,000f1d3d-220f-4789-9c0a-cc742521fb02
+M311538,CAD/CAM Technician (Computer-Aided Design and Manufacturing),Erlang,35,1,034c29fa-c3ba-45ea-b8f3-bf8e3705e386
+M311538,CAD/CAM Technician (Computer-Aided Design and Manufacturing),SAS Language,35,1,04f1b938-d4d4-4cb1-a863-982af76b9d93
+M311538,CAD/CAM Technician (Computer-Aided Design and Manufacturing),Ruby (Computer Programming),35,1,0ccdfe98-f845-4598-84a1-3dca66e9d9a3
+M311538,CAD/CAM Technician (Computer-Aided Design and Manufacturing),Common Lisp,35,1,0cd6dcf1-5778-42a5-b685-4d01ae4a4871
+M311538,CAD/CAM Technician (Computer-Aided Design and Manufacturing),Microsoft Visual C++,35,1,8369ede5-4200-4a44-be2e-bc60ef959259
+M311538,CAD/CAM Technician (Computer-Aided Design and Manufacturing),TypeScript,35,1,867137fb-ff1b-4ca3-99f3-cb6969aa2c68
+M311538,CAD/CAM Technician (Computer-Aided Design and Manufacturing),CoffeeScript,35,1,993b1e23-f2de-4bd8-b33f-f86dde1c8e9d
+M311538,CAD/CAM Technician (Computer-Aided Design and Manufacturing),Objective-C,35,1,9973a5a2-7822-4161-99e9-95c781eb63f8
+M311538,CAD/CAM Technician (Computer-Aided Design and Manufacturing),ML (Computer Programming),35,1,a4d336a6-9ffd-402a-91cc-f359716ba4e0
+M311538,CAD/CAM Technician (Computer-Aided Design and Manufacturing),AJAX,35,1,b4dc6e4f-dc7d-445f-8ce2-d7b9d225e282
+M311538,CAD/CAM Technician (Computer-Aided Design and Manufacturing),C++,35,1,b633eb55-8f1f-4ae6-ab4c-2022ffe2cb7f
+M311538,CAD/CAM Technician (Computer-Aided Design and Manufacturing),SAP R3,35,1,bb99af26-71ff-4dca-bde7-1eb1f6194426
+M311538,CAD/CAM Technician (Computer-Aided Design and Manufacturing),Swift (Computer Programming),35,1,be80acfc-b6f2-4411-9b8d-b19d9cd2556a
+M311538,CAD/CAM Technician (Computer-Aided Design and Manufacturing),MATLAB,35,1,c3a03c5a-c260-4c26-9b9a-873abb396f4d
+M311538,CAD/CAM Technician (Computer-Aided Design and Manufacturing),Python (Computer Programming),35,1,ccd0a1d9-afda-43d9-b901-96344886e14d
+M311538,CAD/CAM Technician (Computer-Aided Design and Manufacturing),Scratch (Computer Programming),35,1,d56fc2b5-4b0a-4e7e-9bde-a33736f6ff18
+M311538,CAD/CAM Technician (Computer-Aided Design and Manufacturing),VBScript,35,1,dcdd5ddf-82a6-4ac3-8edc-d4b23cae9a88
+M311538,CAD/CAM Technician (Computer-Aided Design and Manufacturing),COBOL,35,1,def007fa-5fed-4a5f-91a2-b0d7e3db1be1
+M311538,CAD/CAM Technician (Computer-Aided Design and Manufacturing),ABAP,35,1,eb0e5615-1575-4a86-a1a2-7d39595033c5
+M311538,CAD/CAM Technician (Computer-Aided Design and Manufacturing),Pascal (Computer Programming),35,1,e8b89eb6-51e8-4c3a-babb-88b2e110376b
+M311538,CAD/CAM Technician (Computer-Aided Design and Manufacturing),Scala,35,1,ffddfc7c-a9dd-449f-9e96-882dc447c8b6
+M311544,AutoCad Drafter,Lisp,35,1,0de61385-de6d-4146-ba32-1cc1bc102220
+M311544,AutoCad Drafter,Visual Basic,35,1,13bdd41a-2a18-441f-96db-41252c519413
+M311544,AutoCad Drafter,Java (Computer Programming),35,1,19a8293b-8e95-4de3-983f-77484079c389
+M311544,AutoCad Drafter,Computer Programming,35,1,21d2f96d-35f7-4e3f-9745-c533d2dd6e97
+M311544,AutoCad Drafter,Prolog (Computer Programming),35,1,2bde42ae-e776-41c1-9ded-b07b30bfe985
+M311544,AutoCad Drafter,OpenEdge Advanced Business Language,35,1,300d432b-f457-4cd3-9cb1-1858c7d14954
+M311544,AutoCad Drafter,JavaScript,35,1,3cd569a2-4f88-4c1e-9995-8dce8c5e51a7
+M311544,AutoCad Drafter,Perl,35,1,401eb8d8-6daa-4f8b-90ad-60afc71eb4f8
+M311544,AutoCad Drafter,Use Automatic Programming,35,1,7d10fcb2-b368-48ab-996b-7c9fafcf68ed
+M311544,AutoCad Drafter,Smalltalk (Computer Programming),35,1,42ed3bfb-1a01-4c8b-9758-fc6438865734
+M311544,AutoCad Drafter,PHP,35,1,4350c38d-0fe9-4ca7-bab9-40ed7f72b04f
+M311544,AutoCad Drafter,Assembly (Computer Programming),35,1,47b9bbcf-356c-4782-83a4-7f5a1b2b51a3
+M311544,AutoCad Drafter,C#,35,1,4c016b68-4116-468c-9dc6-42710c239e4a
+M311544,AutoCad Drafter,R,35,1,51586df8-1c46-4b47-8583-773cb63bf00b
+M311544,AutoCad Drafter,Groovy,35,1,52cf3037-ab53-4806-85ed-7fd21ea7f6a1
+M311544,AutoCad Drafter,ASP.NET,35,1,56a7f561-1d55-43c9-9cd7-36a0a9bc6c50
+M311544,AutoCad Drafter,APL,35,1,58d7a289-dafd-4363-833f-d1dc4140885e
+M311544,AutoCad Drafter,Haskell,35,1,000f1d3d-220f-4789-9c0a-cc742521fb02
+M311544,AutoCad Drafter,Erlang,35,1,034c29fa-c3ba-45ea-b8f3-bf8e3705e386
+M311544,AutoCad Drafter,SAS Language,35,1,04f1b938-d4d4-4cb1-a863-982af76b9d93
+M311544,AutoCad Drafter,Ruby (Computer Programming),35,1,0ccdfe98-f845-4598-84a1-3dca66e9d9a3
+M311544,AutoCad Drafter,Common Lisp,35,1,0cd6dcf1-5778-42a5-b685-4d01ae4a4871
+M311544,AutoCad Drafter,Microsoft Visual C++,35,1,8369ede5-4200-4a44-be2e-bc60ef959259
+M311544,AutoCad Drafter,TypeScript,35,1,867137fb-ff1b-4ca3-99f3-cb6969aa2c68
+M311544,AutoCad Drafter,CoffeeScript,35,1,993b1e23-f2de-4bd8-b33f-f86dde1c8e9d
+M311544,AutoCad Drafter,Objective-C,35,1,9973a5a2-7822-4161-99e9-95c781eb63f8
+M311544,AutoCad Drafter,ML (Computer Programming),35,1,a4d336a6-9ffd-402a-91cc-f359716ba4e0
+M311544,AutoCad Drafter,AJAX,35,1,b4dc6e4f-dc7d-445f-8ce2-d7b9d225e282
+M311544,AutoCad Drafter,C++,35,1,b633eb55-8f1f-4ae6-ab4c-2022ffe2cb7f
+M311544,AutoCad Drafter,SAP R3,35,1,bb99af26-71ff-4dca-bde7-1eb1f6194426
+M311544,AutoCad Drafter,Swift (Computer Programming),35,1,be80acfc-b6f2-4411-9b8d-b19d9cd2556a
+M311544,AutoCad Drafter,MATLAB,35,1,c3a03c5a-c260-4c26-9b9a-873abb396f4d
+M311544,AutoCad Drafter,Python (Computer Programming),35,1,ccd0a1d9-afda-43d9-b901-96344886e14d
+M311544,AutoCad Drafter,Scratch (Computer Programming),35,1,d56fc2b5-4b0a-4e7e-9bde-a33736f6ff18
+M311544,AutoCad Drafter,VBScript,35,1,dcdd5ddf-82a6-4ac3-8edc-d4b23cae9a88
+M311544,AutoCad Drafter,COBOL,35,1,def007fa-5fed-4a5f-91a2-b0d7e3db1be1
+M311544,AutoCad Drafter,ABAP,35,1,eb0e5615-1575-4a86-a1a2-7d39595033c5
+M311544,AutoCad Drafter,Pascal (Computer Programming),35,1,e8b89eb6-51e8-4c3a-babb-88b2e110376b
+M311544,AutoCad Drafter,Scala,35,1,ffddfc7c-a9dd-449f-9e96-882dc447c8b6
+M321204,Ecology Technician,Machine Learning,38,1,3a2d5b45-56e4-4f5a-a55a-4a4a65afdc43
+M321204,Ecology Technician,Human-Robot Collaboration,38,1,0f5374e3-0b9b-4b16-af7a-49654ce0bb15
+M321204,Ecology Technician,Internet of Things,38,1,f049d050-12da-4e40-813a-2b5eb6df6b51
+M321204,Ecology Technician,Principles of Artificial Intelligence,38,1,e465a154-93f7-4973-9ce1-31659fe16dd2
+M321204,Ecology Technician,Virtual Reality,38,1,5da42cfd-1da8-4e4f-b68e-4f821d005fc5
+M321204,Ecology Technician,Predictive Maintenance,38,1,7d913551-e17a-40ba-baf7-48d0c3b12e50
+M325614,Ophthalmic Assistant,Operate Patients with Thoracic Diseases,40,1,05d529f7-a76a-4d45-b681-5e03eb505845
+M325614,Ophthalmic Assistant,Assist in Epilepsy Surgery,40,1,9153d8b4-f8ac-4a2c-99d2-383f5c129af1
+M325614,Ophthalmic Assistant,Perform Reconstructive Plastic Surgery,40,1,3a48fc82-f199-45eb-81d8-4ae250505009
+M413209,Data Entry Clerk,Resource Description Framework Query Language,42,1,99207709-d076-4cce-ba38-e90d3bb28806
+M413209,Data Entry Clerk,Query Languages,42,1,9cf681c7-89ec-470c-b651-7fe03786f586
+M413209,Data Entry Clerk,Apply Statistical Analysis Techniques,42,1,382c11ed-20d5-4ae7-b60e-15fec527fa6c

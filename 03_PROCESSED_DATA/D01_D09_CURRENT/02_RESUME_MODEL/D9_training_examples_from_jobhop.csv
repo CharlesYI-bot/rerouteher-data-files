@@ -1,0 +1,563 @@
+resume_id,split,role_id,target_esco_code,target_esco_title,previous_esco_codes,text,feature_definition
+100888,train,R05,2643.6,translator,2310.1.5,assistant lecturer ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+100934,train,R02,2511.9,ICT business analyst,1213.5;1211.1.1;2411.1;2411.1.8,1213.5 ; accounting manager ; accountant ; financial controller ; education PhD,prior standardized ESCO occupation titles plus education level; latest role excluded
+101958,train,R06,2166.2,animation layout artist,2166.10,illustrator ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+102089,train,R04,2431.10.3,marketing assistant,3343.1,administrative assistant ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+102156,train,R09,4120.1,secretary,3341.7,office manager ; education Secondary school,prior standardized ESCO occupation titles plus education level; latest role excluded
+10232,test,R04,2431.5,business developer,2431.5,business developer ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+104105,train,R04,2431.5,business developer,2359.7,e-learning developer ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+10436,test,R06,2166.9,graphic designer,3431.1;5132.1;2166.9,photographer ; bartender ; graphic designer ; education No tertiary qualification,prior standardized ESCO occupation titles plus education level; latest role excluded
+104805,test,R04,2431.10.3,marketing assistant,2310.1.42;0210.2,university teaching assistant ; sergeant ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+105569,train,R09,4120.1,secretary,2330.1.15;3422.3.1,physical education teacher secondary school ; football coach ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+105884,train,R04,2431.10.4,online marketer,1349.14,front of house manager ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+106207,train,R03,2423.6,recruitment consultant,2423.6,recruitment consultant ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+106798,train,R07,4311.2,sales support assistant,2431.6,client relations manager ; education Secondary school,prior standardized ESCO occupation titles plus education level; latest role excluded
+107156,train,R04,2431.1,advertising copywriter,1219.6;2431.10.4,project manager ; online marketer ; education No tertiary qualification,prior standardized ESCO occupation titles plus education level; latest role excluded
+107685,train,R10,2359.1,academic advisor,1219.6,project manager ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+107701,train,R03,2423.1,career guidance advisor,5164.2.1.2,horse trainer ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+107806,train,R02,2511.6,enterprise architect,1221.4,commercial director ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+108025,train,R07,4311.2,sales support assistant,5223.5,sales processor ; education Secondary school,prior standardized ESCO occupation titles plus education level; latest role excluded
+108052,train,R09,4120.1,secretary,5242.1,promotions demonstrator ; education Secondary school,prior standardized ESCO occupation titles plus education level; latest role excluded
+108680,train,R03,2423.6,recruitment consultant,1412.1,restaurant manager ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+109327,train,R04,2431.10.4,online marketer,2166.7,digital media designer ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+110845,train,R08,4222.1,customer contact centre information clerk,3512.1;3512.1,ICT help desk agent ; ICT help desk agent ; education Secondary school,prior standardized ESCO occupation titles plus education level; latest role excluded
+111731,test,R04,2431.11,market research analyst,2431.10,marketing consultant ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+112388,train,R07,4311.2,sales support assistant,4120.1,secretary ; education Secondary school,prior standardized ESCO occupation titles plus education level; latest role excluded
+112962,train,R04,2431.5,business developer,2433.2;4222.1,medical sales representative ; customer contact centre information clerk ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+11337,train,R07,4311.2,sales support assistant,3313.2,bookkeeper ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+114121,train,R06,2166.9,graphic designer,7316.1,decorative painter ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+114665,train,R03,2423.6,recruitment consultant,3343.1,administrative assistant ; education Secondary school,prior standardized ESCO occupation titles plus education level; latest role excluded
+115616,train,R06,2166.14,stop-motion animator,2166.14,stop-motion animator ; education Secondary school,prior standardized ESCO occupation titles plus education level; latest role excluded
+115679,train,R10,2359.14,tutor,2352.1;2352.1.6,special educational needs teacher ; special educational needs teacher secondary school ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+115976,train,R04,2431.6,client relations manager,5244.1,call centre agent ; education No tertiary qualification,prior standardized ESCO occupation titles plus education level; latest role excluded
+116607,val,R09,4120.1,secretary,5223.6,shop assistant ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+117366,train,R07,4311.2,sales support assistant,7231.6,roadside vehicle technician ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+118122,train,R04,2431.6,client relations manager,5223.6,shop assistant ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+11904,train,R07,4311.1,billing clerk,1349.6,book publisher ; education Secondary school,prior standardized ESCO occupation titles plus education level; latest role excluded
+120860,train,R08,4222.1,customer contact centre information clerk,3343.1.7,supply chain assistant ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+121811,train,R03,2423.6,recruitment consultant,5223.4;3343.1.7,sales assistant ; supply chain assistant ; education No tertiary qualification,prior standardized ESCO occupation titles plus education level; latest role excluded
+123671,train,R02,2511.16,ICT system integration consultant,1324.3.1.5,road transport division manager ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+123719,train,R04,2431.6,client relations manager,2433.1,after-sales service technician ; education Secondary school,prior standardized ESCO occupation titles plus education level; latest role excluded
+126744,train,R09,4120.1,secretary,2431.6,client relations manager ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+127253,train,R04,2431.10.4,online marketer,5131.2;3422.4.1;2431.1,waiter/waitress ; boxing instructor ; advertising copywriter ; education No tertiary qualification,prior standardized ESCO occupation titles plus education level; latest role excluded
+127477,train,R01,2512.4,software developer,2330.1.9,ICT teacher secondary school ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+128679,train,R05,2643.2,interpreter,2659.2.3;7215.1.1,puppeteer ; stagehand ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+130335,val,R04,2431.10.3,marketing assistant,5223.4,sales assistant ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+130409,train,R04,2431.10.3,marketing assistant,3423.1;5131.1;2631.2.3;9629.7,activity leader ; restaurant host/restaurant hostess ; economic development coordinator ; usher ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+130556,val,R02,2511.16,ICT system integration consultant,2511.10,ICT consultant ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+130696,train,R03,2423.6,recruitment consultant,5112.3.1,passenger fare controller ; education Secondary school,prior standardized ESCO occupation titles plus education level; latest role excluded
+130920,val,R01,2512.1,cloud engineer,5223.4;2423.6;2423.6,sales assistant ; recruitment consultant ; recruitment consultant ; education Secondary school,prior standardized ESCO occupation titles plus education level; latest role excluded
+132156,val,R06,2166.9,graphic designer,2634.2.2,educational psychologist ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+13230,val,R07,4311.2,sales support assistant,5223.5,sales processor ; education Secondary school,prior standardized ESCO occupation titles plus education level; latest role excluded
+132895,val,R04,2431.10.3,marketing assistant,1420.3,sales account manager ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+133445,train,R04,2431.10,marketing consultant,2166.7,digital media designer ; education Secondary school,prior standardized ESCO occupation titles plus education level; latest role excluded
+133921,train,R04,2431.15,product and services manager,1412.1,restaurant manager ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+134462,train,R01,2512.5,user interface developer,2166.9,graphic designer ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+1347,val,R10,2359.7,e-learning developer,3435.12,mask maker ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+134815,train,R09,4120.1,secretary,2341.1;2341.1,primary school teacher ; primary school teacher ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+135330,train,R04,2431.10.3,marketing assistant,2431.10.3;2635.3.18;5152.2.1;5223.4,marketing assistant ; migrant social worker ; domestic butler ; sales assistant ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+136259,test,R04,2431.10.4,online marketer,2432.4,intercultural communication consultant ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+136911,train,R01,2512.4,software developer,2642.1.5,copy editor ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+137103,test,R10,2359.9,further education teacher,5223.4;3343.5,sales assistant ; scopist ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+137125,val,R10,2359.2,academic support officer,3343.1,administrative assistant ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+137276,train,R06,2166.9,graphic designer,2166.7,digital media designer ; education No tertiary qualification,prior standardized ESCO occupation titles plus education level; latest role excluded
+138449,train,R07,4311.2,sales support assistant,5223.5,sales processor ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+138627,train,R06,2166.7,digital media designer,2149.16,test engineer ; education Secondary school,prior standardized ESCO occupation titles plus education level; latest role excluded
+140119,train,R08,4222.1,customer contact centre information clerk,9411.2,quick service restaurant crew member ; education Secondary school,prior standardized ESCO occupation titles plus education level; latest role excluded
+1405,test,R03,2423.6,recruitment consultant,5230.1,cashier ; education No tertiary qualification,prior standardized ESCO occupation titles plus education level; latest role excluded
+140563,train,R04,2431.10.3,marketing assistant,5131.1,restaurant host/restaurant hostess ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+140962,train,R06,2166.9,graphic designer,3332.1;7215.4,event assistant ; tent installer ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+141100,train,R04,2431.10.4,online marketer,5242.1;2431.10.3,promotions demonstrator ; marketing assistant ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+141132,train,R06,2166.9,graphic designer,2166.9,graphic designer ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+141438,train,R07,4311.2,sales support assistant,4225.1,customer service representative ; education Secondary school,prior standardized ESCO occupation titles plus education level; latest role excluded
+144841,train,R03,2423.6,recruitment consultant,4416.1;2635.3.15;3412.4.12,human resources assistant ; homelessness worker ; residential home older adult care worker ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+145034,train,R03,2423.6,recruitment consultant,3343.1.6,project support officer ; education No tertiary qualification,prior standardized ESCO occupation titles plus education level; latest role excluded
+146217,test,R09,4120.1,secretary,3433.3,taxidermist ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+147300,train,R10,2359.6,e-learning architect,2149.2,application engineer ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+147415,val,R07,4311.2,sales support assistant,1120.3,chief executive officer ; education Secondary school,prior standardized ESCO occupation titles plus education level; latest role excluded
+147446,train,R10,2359.11,learning mentor,2310.1.41;2166.14,university research assistant ; stop-motion animator ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+149221,train,R06,2166.10,illustrator,2166.10,illustrator ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+14998,train,R09,4120.1,secretary,5223.4,sales assistant ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+150308,train,R04,2431.10,marketing consultant,5131.2,waiter/waitress ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+15098,train,R07,4311.2,sales support assistant,2512.5,user interface developer ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+15303,val,R07,4311.1,billing clerk,5223.6,shop assistant ; education Secondary school,prior standardized ESCO occupation titles plus education level; latest role excluded
+153193,train,R04,2431.14,pricing specialist,4225.1,customer service representative ; education No tertiary qualification,prior standardized ESCO occupation titles plus education level; latest role excluded
+154463,train,R04,2431.10.3,marketing assistant,5131.2;5131.1,waiter/waitress ; restaurant host/restaurant hostess ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+155020,train,R05,2643.4,linguist,3422.3.1,football coach ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+156030,train,R04,2431.6,client relations manager,2421.1,business analyst ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+156639,test,R10,2359.14,tutor,2264.2,physiotherapist ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+158718,train,R04,2431.10.4,online marketer,5111.2.3,train attendant ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+159651,train,R06,2166.4,desktop publisher,3343.2,editorial assistant ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+161003,train,R08,4222.1,customer contact centre information clerk,4222.1.1,live chat operator ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+161466,val,R09,4120.1,secretary,9321.2,hand packer ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+161761,train,R07,4311.2,sales support assistant,4311.2,sales support assistant ; education Secondary school,prior standardized ESCO occupation titles plus education level; latest role excluded
+161852,train,R08,4222.1,customer contact centre information clerk,3343.1,administrative assistant ; education No tertiary qualification,prior standardized ESCO occupation titles plus education level; latest role excluded
+162677,train,R04,2431.10.3,marketing assistant,9333.8.1,warehouse order picker ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+163798,train,R03,2423.3,human resources officer,3343.4,management assistant ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+164153,train,R01,2512.5,user interface developer,2432.5,online community manager ; education No tertiary qualification,prior standardized ESCO occupation titles plus education level; latest role excluded
+165610,train,R04,2431.4,brand manager,2330.1.18;2431.10.4,science teacher secondary school ; online marketer ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+166040,train,R08,4222.1,customer contact centre information clerk,3343.1;3412.4.13,administrative assistant ; residential home young people care worker ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+166179,train,R03,2423.6,recruitment consultant,5142.4;4416.1,make-up and hair designer ; human resources assistant ; education No tertiary qualification,prior standardized ESCO occupation titles plus education level; latest role excluded
+166181,train,R05,2643.2,interpreter,2643.2;2643.6,interpreter ; translator ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+166503,train,R07,4311.2,sales support assistant,5223.5,sales processor ; education Secondary school,prior standardized ESCO occupation titles plus education level; latest role excluded
+16761,val,R01,2512.5,user interface developer,2512.4,software developer ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+168785,train,R04,2431.10.3,marketing assistant,5131.2,waiter/waitress ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+169593,train,R05,2643.6,translator,2310.1.17;2641.4.2;2652.3.2,fine arts instructor ; script writer ; singer ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+169938,train,R05,2643.2,interpreter,5223.4,sales assistant ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+170846,train,R02,2511.10,ICT consultant,2511.10,ICT consultant ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+171313,val,R07,4311.1,billing clerk,2413.2,middle office analyst ; education Secondary school,prior standardized ESCO occupation titles plus education level; latest role excluded
+171693,train,R04,2431.10.4,online marketer,2431.10;2513.4,marketing consultant ; web content manager ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+172097,train,R07,4311.2,sales support assistant,1213.5,1213.5 ; education No tertiary qualification,prior standardized ESCO occupation titles plus education level; latest role excluded
+172580,train,R07,4311.2,sales support assistant,5162.1,companion ; education No tertiary qualification,prior standardized ESCO occupation titles plus education level; latest role excluded
+173166,train,R02,2511.13,ICT system analyst,1330.6;2521.4,ICT product manager ; database integrator ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+173224,train,R04,2431.6,client relations manager,4225.1,customer service representative ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+17489,train,R06,2166.3,animator,2166.3,animator ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+175303,train,R10,2359.8,educational counsellor,2320.1.13,food service vocational teacher ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+176479,train,R06,2166.4,desktop publisher,2641.4,writer ; education Secondary school,prior standardized ESCO occupation titles plus education level; latest role excluded
+177872,train,R08,4222.1,customer contact centre information clerk,2431.14,pricing specialist ; education Secondary school,prior standardized ESCO occupation titles plus education level; latest role excluded
+178045,train,R03,2423.2,employment and vocational integration consultant,3431.1,photographer ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+178605,train,R02,2511.3,data analyst,3343.1,administrative assistant ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+179253,train,R09,4120.1,secretary,4412.2,postman/postwoman ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+181777,train,R07,4311.1,billing clerk,3343.1,administrative assistant ; education Secondary school,prior standardized ESCO occupation titles plus education level; latest role excluded
+181988,train,R03,2423.6,recruitment consultant,3343.1,administrative assistant ; education Secondary school,prior standardized ESCO occupation titles plus education level; latest role excluded
+182418,train,R09,4120.1,secretary,1439.1;1420.3,call centre manager ; sales account manager ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+186642,train,R09,4120.1,secretary,5132.1.2;3343.1;3412.3;3343.1,cocktail bartender ; administrative assistant ; life coach ; administrative assistant ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+187273,train,R07,4311.2,sales support assistant,4120.1,secretary ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+188048,train,R05,2643.2,interpreter,2354.1;2353.1;2330.1.12,music teacher ; language school teacher ; modern languages teacher secondary school ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+188052,train,R09,4120.1,secretary,2353.1,language school teacher ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+188307,train,R07,4311.2,sales support assistant,4311.2,sales support assistant ; education Secondary school,prior standardized ESCO occupation titles plus education level; latest role excluded
+188855,train,R09,4120.1,secretary,1345.1,headteacher ; education Secondary school,prior standardized ESCO occupation titles plus education level; latest role excluded
+188999,test,R07,4311.2,sales support assistant,2431.10.3,marketing assistant ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+190146,train,R08,4222.1,customer contact centre information clerk,5246.1,food service worker ; education Secondary school,prior standardized ESCO occupation titles plus education level; latest role excluded
+190372,train,R05,2643.2,interpreter,3435.25,theatre technician ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+191187,train,R07,4311.2,sales support assistant,3343.1.7,supply chain assistant ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+192646,train,R08,4222.1,customer contact centre information clerk,2351.3;3412.6;2359.8;3343.1,education inspector ; volunteer mentor ; educational counsellor ; administrative assistant ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+1934,train,R06,2166.9,graphic designer,3252.2,medical records manager ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+193684,train,R04,2431.10.4,online marketer,7512.1,baker ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+194289,train,R04,2431.5,business developer,2431.5,business developer ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+194801,test,R09,4120.1,secretary,4211.2,post office counter clerk ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+195662,val,R04,2431.10.4,online marketer,1221.3.2.1,sales manager ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+196926,train,R07,4311.2,sales support assistant,3343.1.7,supply chain assistant ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+197538,train,R07,4311.1,billing clerk,5223.7.34;1420.3,telecommunications equipment specialised seller ; sales account manager ; education Secondary school,prior standardized ESCO occupation titles plus education level; latest role excluded
+198110,test,R07,4311.2,sales support assistant,4419.2;2431.10.3;3343.1,foreign language correspondence clerk ; marketing assistant ; administrative assistant ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+200184,train,R09,4120.1,secretary,5223.4,sales assistant ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+20216,train,R04,2431.13,network marketer,2522.1.2;3422.4.7,system configurator ; tennis coach ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+202175,train,R07,4311.1,billing clerk,3313.1,accounting assistant ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+202236,train,R04,2431.10.4,online marketer,1221.3.2,marketing manager ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+202299,train,R09,4120.1,secretary,3341.7,office manager ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+202733,train,R07,4311.2,sales support assistant,3343.1,administrative assistant ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+203608,train,R04,2431.10.2,eBusiness manager,3324.4.11,wholesale merchant in electronic and telecommunications equipment and parts ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+204196,train,R04,2431.10.4,online marketer,2166.7,digital media designer ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+204527,train,R10,2359.4,assessor of prior learning,2511.1,computer scientist ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+204675,train,R04,2431.14,pricing specialist,4312.2.1,financial markets back office administrator ; education Secondary school,prior standardized ESCO occupation titles plus education level; latest role excluded
+205459,train,R04,2431.5,business developer,5221.1,retail entrepreneur ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+205654,test,R09,4120.1,secretary,1212.1,employee volunteering programme coordinator ; education Secondary school,prior standardized ESCO occupation titles plus education level; latest role excluded
+207135,val,R10,2359.11,learning mentor,2264.2;2264.2;3412.4.8,physiotherapist ; physiotherapist ; mental health support worker ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+207198,train,R04,2431.6,client relations manager,9333.8.1,warehouse order picker ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+207255,train,R05,2643.2,interpreter,2511.14;2643.2,ICT system architect ; interpreter ; education No tertiary qualification,prior standardized ESCO occupation titles plus education level; latest role excluded
+207395,train,R06,2166.7,digital media designer,2166.9,graphic designer ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+207944,train,R05,2643.4.1,lawyer linguist,2330.1,secondary school teacher ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+207981,train,R04,2431.13,network marketer,2423.6;3412.3;2421.2;4120.1;2423.6,recruitment consultant ; life coach ; business consultant ; secretary ; recruitment consultant ; education No tertiary qualification,prior standardized ESCO occupation titles plus education level; latest role excluded
+209723,train,R06,2166.7,digital media designer,2431.10.4,online marketer ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+211801,train,R06,2166.9,graphic designer,2166.9,graphic designer ; education No tertiary qualification,prior standardized ESCO occupation titles plus education level; latest role excluded
+211818,train,R02,2511.10,ICT consultant,1420.4.12,computer software and multimedia shop manager ; education No tertiary qualification,prior standardized ESCO occupation titles plus education level; latest role excluded
+212908,train,R06,2166.9,graphic designer,2166.9,graphic designer ; education No tertiary qualification,prior standardized ESCO occupation titles plus education level; latest role excluded
+214160,train,R04,2431.6,client relations manager,4416.1,human resources assistant ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+216558,train,R10,2359.7,e-learning developer,4224.1.1,camping ground operative ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+216936,train,R10,2359.2,academic support officer,3343.1,administrative assistant ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+217045,train,R10,2359.14,tutor,3313.1,accounting assistant ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+217777,val,R08,4222.1,customer contact centre information clerk,9412.1,kitchen assistant ; education Secondary school,prior standardized ESCO occupation titles plus education level; latest role excluded
+218748,train,R06,2166.9,graphic designer,2431.13,network marketer ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+218789,train,R07,4311.1,billing clerk,2411.1.7,financial auditor ; education Secondary school,prior standardized ESCO occupation titles plus education level; latest role excluded
+220382,train,R07,4311.2,sales support assistant,3331.2.2,shipping agent ; education Secondary school,prior standardized ESCO occupation titles plus education level; latest role excluded
+221343,train,R06,2166.3,animator,2166.14;2652.3,stop-motion animator ; musician ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+221550,train,R04,2431.10.4,online marketer,4221.4,tourist information officer ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+221669,train,R04,2431.10,marketing consultant,1211.1.3,budget manager ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+222871,train,R04,2431.10.4,online marketer,2431.10.4,online marketer ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+224425,test,R03,2423.4,labour relations officer,2422.12.15,social services policy officer ; education Secondary school,prior standardized ESCO occupation titles plus education level; latest role excluded
+224974,train,R06,2166.9,graphic designer,2166.9,graphic designer ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+225784,train,R04,2431.6,client relations manager,5132.1.1;5223.6,barista ; shop assistant ; education Secondary school,prior standardized ESCO occupation titles plus education level; latest role excluded
+226180,train,R04,2431.6,client relations manager,5311.1.2;2166.3,babysitter ; animator ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+227822,train,R07,4311.1,billing clerk,3331.2.1.4,import export specialist in chemical products ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+228609,train,R02,2511.19,user experience analyst,2513.3,user interface designer ; education No tertiary qualification,prior standardized ESCO occupation titles plus education level; latest role excluded
+230666,train,R10,2359.2,academic support officer,5131.2,waiter/waitress ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+230911,val,R04,2431.5,business developer,2433.4,sales engineer ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+230989,train,R08,4222.1,customer contact centre information clerk,5132.1,bartender ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+231182,test,R09,4120.1,secretary,1341.1,child care coordinator ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+232152,train,R03,2423.3,human resources officer,3412.3;3423.2.2;2359.13,life coach ; personal trainer ; public speaking coach ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+232179,train,R06,2166.1,3D modeller,5223.4,sales assistant ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+233881,train,R10,2359.11,learning mentor,9411.2;2351.1,quick service restaurant crew member ; curriculum administrator ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+234961,train,R04,2431.10.4,online marketer,2166.9,graphic designer ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+235788,test,R10,2359.4,assessor of prior learning,3423.1;3343.2,activity leader ; editorial assistant ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+237753,test,R04,2431.10,marketing consultant,1420.3,sales account manager ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+238327,train,R07,4311.1,billing clerk,1212.2;2423.6,human resources manager ; recruitment consultant ; education No tertiary qualification,prior standardized ESCO occupation titles plus education level; latest role excluded
+238911,train,R06,2166.9,graphic designer,2513.4,web content manager ; education No tertiary qualification,prior standardized ESCO occupation titles plus education level; latest role excluded
+239299,train,R09,4120.1,secretary,1111.6;1111.4,secretary of state ; mayor ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+239762,val,R06,2166.6,digital games designer,2651.6,drawing artist ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+240101,train,R06,2166.9,graphic designer,5311.1.3;3343.1,child day care worker ; administrative assistant ; education No tertiary qualification,prior standardized ESCO occupation titles plus education level; latest role excluded
+241223,train,R07,4311.2,sales support assistant,1420.3,sales account manager ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+242010,train,R04,2431.13,network marketer,5223.4,sales assistant ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+242951,val,R05,2643.2,interpreter,3343.1,administrative assistant ; education Secondary school,prior standardized ESCO occupation titles plus education level; latest role excluded
+243206,test,R09,4120.1,secretary,2653.2,dancer ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+244397,train,R09,4120.1,secretary,3341.7;3343.1,office manager ; administrative assistant ; education Secondary school,prior standardized ESCO occupation titles plus education level; latest role excluded
+245150,train,R07,4311.1,billing clerk,2359.2,academic support officer ; education Secondary school,prior standardized ESCO occupation titles plus education level; latest role excluded
+245435,train,R04,2431.10,marketing consultant,3423.2.2,personal trainer ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+245447,train,R04,2431.10.3,marketing assistant,2642.1.9;1221.3.2.1,entertainment journalist ; sales manager ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+246097,train,R04,2431.10.4,online marketer,1221.5,digital marketing manager ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+246299,train,R04,2431.10.3,marketing assistant,4225.1,customer service representative ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+246871,train,R09,4120.1,secretary,4416.1,human resources assistant ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+247907,train,R04,2431.4,brand manager,2431.5,business developer ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+248504,train,R04,2431.1,advertising copywriter,3332.1;5131.2,event assistant ; waiter/waitress ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+248908,train,R07,4311.1,billing clerk,3313.1,accounting assistant ; education Secondary school,prior standardized ESCO occupation titles plus education level; latest role excluded
+248913,train,R04,2431.5,business developer,9333.3,materials handler ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+249358,test,R04,2431.6,client relations manager,3431.2,photojournalist ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+24977,train,R02,2511.4,data scientist,2511.4,data scientist ; education No tertiary qualification,prior standardized ESCO occupation titles plus education level; latest role excluded
+249826,train,R06,2166.7,digital media designer,2166.7,digital media designer ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+250144,train,R09,4120.1,secretary,4416.1;4120.1;4416.1,human resources assistant ; secretary ; human resources assistant ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+250465,train,R05,2643.6,translator,1345.1;1212.1,headteacher ; employee volunteering programme coordinator ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+250982,train,R03,2423.6,recruitment consultant,5223.1,car leasing agent ; education Secondary school,prior standardized ESCO occupation titles plus education level; latest role excluded
+251038,train,R04,2431.10.3,marketing assistant,1221.5;1321.2.2;1420.3,digital marketing manager ; industrial quality manager ; sales account manager ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+251407,test,R03,2423.6,recruitment consultant,9112.2,building cleaner ; education No tertiary qualification,prior standardized ESCO occupation titles plus education level; latest role excluded
+252051,train,R09,4120.1,secretary,4224.1,hospitality establishment receptionist ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+252443,train,R06,2166.14,stop-motion animator,3115.1.18;2310.1.42;5311.1.4;5312.1;5312.1;5312.1,rolling stock engineering technician ; university teaching assistant ; nanny ; early years teaching assistant ; early years teaching assistant ; early years teaching assistant ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+252747,train,R07,4311.2,sales support assistant,5223.4,sales assistant ; education No tertiary qualification,prior standardized ESCO occupation titles plus education level; latest role excluded
+253485,train,R05,2643.2,interpreter,2635.3.7,consultant social worker ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+254999,train,R04,2431.10.4,online marketer,2310.1.41,university research assistant ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+256661,train,R02,2511.13,ICT system analyst,2310.1.41,university research assistant ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+256859,train,R07,4311.2,sales support assistant,5131.2;8322.5,waiter/waitress ; patient transport services driver ; education Secondary school,prior standardized ESCO occupation titles plus education level; latest role excluded
+257041,train,R03,2423.6,recruitment consultant,2359.14,tutor ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+257416,train,R06,2166.4,desktop publisher,2166.4;2431.10.4,desktop publisher ; online marketer ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+258814,train,R07,4311.2,sales support assistant,3422.4.7,tennis coach ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+25884,val,R01,2512.5,user interface developer,2513.5;2511.10,web developer ; ICT consultant ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+259085,test,R05,2643.2,interpreter,5153.1.3,verger ; education Secondary school,prior standardized ESCO occupation titles plus education level; latest role excluded
+26015,test,R07,4311.1,billing clerk,4226.1.1;4412.1,front line medical receptionist ; mail clerk ; education No tertiary qualification,prior standardized ESCO occupation titles plus education level; latest role excluded
+260542,train,R03,2423.6,recruitment consultant,2431.16,promotion assistant ; education Secondary school,prior standardized ESCO occupation titles plus education level; latest role excluded
+262784,train,R07,4311.2,sales support assistant,1212.1,employee volunteering programme coordinator ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+26289,test,R09,4120.1,secretary,4132.1,data entry clerk ; education Secondary school,prior standardized ESCO occupation titles plus education level; latest role excluded
+263382,train,R04,2431.10.3,marketing assistant,4311.2,sales support assistant ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+263532,train,R04,2431.3,advertising specialist,5223.6,shop assistant ; education No tertiary qualification,prior standardized ESCO occupation titles plus education level; latest role excluded
+2641,train,R10,2359.11,learning mentor,2330.1,secondary school teacher ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+264335,train,R04,2431.13,network marketer,2635.3;5223.7.31,social worker ; shoe and leather accessories specialised seller ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+264470,train,R05,2643.2,interpreter,3435.5;7215.1.1,body artist ; stagehand ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+266464,train,R04,2431.5,business developer,2433.6.4,technical sales representative in machinery and industrial equipment ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+267359,train,R06,2166.9,graphic designer,2166.9,graphic designer ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+267768,train,R09,4120.1,secretary,5230.1,cashier ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+268679,train,R06,2166.9,graphic designer,2166.9,graphic designer ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+270024,train,R04,2431.10.4,online marketer,2431.10.4,online marketer ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+270346,train,R06,2166.14,stop-motion animator,5223.7.4,bakery specialised seller ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+270348,train,R10,2359.14,tutor,2310.1;2330.1,higher education lecturer ; secondary school teacher ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+271951,train,R07,4311.1,billing clerk,2433.5,solar energy sales consultant ; education No tertiary qualification,prior standardized ESCO occupation titles plus education level; latest role excluded
+273052,val,R03,2423.6,recruitment consultant,2423.6,recruitment consultant ; education No tertiary qualification,prior standardized ESCO occupation titles plus education level; latest role excluded
+273123,train,R04,2431.7,creative director,2642.1.12,magazine editor ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+274309,train,R09,4120.1,secretary,2421.2,business consultant ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+275185,train,R07,4311.2,sales support assistant,1420.3,sales account manager ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+275215,val,R09,4120.1,secretary,3343.1,administrative assistant ; education No tertiary qualification,prior standardized ESCO occupation titles plus education level; latest role excluded
+27527,train,R09,4120.1,secretary,3343.1.2,education administrator ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+275291,train,R08,4222.1,customer contact centre information clerk,3423.2.2,personal trainer ; education Secondary school,prior standardized ESCO occupation titles plus education level; latest role excluded
+275805,test,R10,2359.7,e-learning developer,2330.1;2341.1,secondary school teacher ; primary school teacher ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+277385,train,R04,2431.6,client relations manager,2513.5,web developer ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+27746,train,R06,2166.1,3D modeller,5230.1,cashier ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+279961,train,R06,2166.9,graphic designer,2166.9;2431.4,graphic designer ; brand manager ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+28003,train,R07,4311.2,sales support assistant,3343.1.7,supply chain assistant ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+281726,train,R04,2431.10.3,marketing assistant,5132.1,bartender ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+282344,train,R08,4222.1,customer contact centre information clerk,5222.1;4222.1,shop supervisor ; customer contact centre information clerk ; education Secondary school,prior standardized ESCO occupation titles plus education level; latest role excluded
+283297,train,R04,2431.10.3,marketing assistant,9112.4,room attendant ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+284958,train,R09,4120.1,secretary,2330.1.12,modern languages teacher secondary school ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+285587,train,R06,2166.3,animator,2166.3;5131.2,animator ; waiter/waitress ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+287280,val,R10,2359.5,assistive technologist,3412.4.4;2330.1,disability support worker ; secondary school teacher ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+288176,train,R04,2431.10.3,marketing assistant,5169.3,escort ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+288730,test,R06,2166.9,graphic designer,3521.1.2,camera operator ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+289940,train,R10,2359.7,e-learning developer,1212.1,employee volunteering programme coordinator ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+291874,train,R06,2166.9,graphic designer,2166.4,desktop publisher ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+291980,val,R04,2431.10,marketing consultant,7215.1;4224.1,event scaffolder ; hospitality establishment receptionist ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+292259,train,R03,2423.6,recruitment consultant,2423.6,recruitment consultant ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+292430,val,R08,4222.1,customer contact centre information clerk,3344.1,medical administrative assistant ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+296422,train,R10,2359.10,instructional designer,3432.5;2651.9;2621.6;5131.2,set designer ; sculptor ; exhibition curator ; waiter/waitress ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+296433,train,R03,2423.6,recruitment consultant,3332.1,event assistant ; education Secondary school,prior standardized ESCO occupation titles plus education level; latest role excluded
+296690,train,R09,4120.1,secretary,4120.1,secretary ; education No tertiary qualification,prior standardized ESCO occupation titles plus education level; latest role excluded
+297694,train,R04,2431.10.3,marketing assistant,9629.3;9412.1,attraction operator ; kitchen assistant ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+297819,val,R06,2166.12,performance video designer,2654.3.2,video and motion picture producer ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+299054,train,R10,2359.11,learning mentor,5223.7.4;3412.4,bakery specialised seller ; social care worker ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+300129,train,R04,2431.10.4,online marketer,2166.14,stop-motion animator ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+302270,train,R03,2423.6,recruitment consultant,2423.6,recruitment consultant ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+302435,train,R07,4311.2,sales support assistant,4225.1,customer service representative ; education No tertiary qualification,prior standardized ESCO occupation titles plus education level; latest role excluded
+302648,train,R07,4311.1,billing clerk,2643.2,interpreter ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+303935,train,R03,2423.6,recruitment consultant,9412.1,kitchen assistant ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+304658,train,R07,4311.2,sales support assistant,3322.1,commercial sales representative ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+304959,train,R07,4311.2,sales support assistant,0210.3,special forces officer ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+30541,train,R10,2359.9,further education teacher,5131.2;5242.1,waiter/waitress ; promotions demonstrator ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+305487,train,R07,4311.2,sales support assistant,5244.1,call centre agent ; education Secondary school,prior standardized ESCO occupation titles plus education level; latest role excluded
+306893,val,R09,4120.1,secretary,3251.1,dental chairside assistant ; education Secondary school,prior standardized ESCO occupation titles plus education level; latest role excluded
+308589,train,R02,2511.12,ICT research consultant,2310.1.5;5419.7;4110.1,assistant lecturer ; life guard ; office clerk ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+308613,train,R04,2431.10.4,online marketer,2431.10.4,online marketer ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+308761,train,R07,4311.2,sales support assistant,4311.2,sales support assistant ; education No tertiary qualification,prior standardized ESCO occupation titles plus education level; latest role excluded
+309213,train,R03,2423.6,recruitment consultant,4313.1,payroll clerk ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+309410,train,R04,2431.10.4,online marketer,5223.6,shop assistant ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+310401,train,R04,2431.4,brand manager,3343.1.7,supply chain assistant ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+31097,train,R06,2166.9,graphic designer,2166.9,graphic designer ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+311108,train,R04,2431.6,client relations manager,9329.1,factory hand ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+311436,train,R07,4311.2,sales support assistant,3422.4,sports instructor ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+312404,val,R02,2511.10,ICT consultant,2431.11,market research analyst ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+314565,train,R04,2431.6,client relations manager,2642.1.15,political journalist ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+315320,train,R04,2431.10.4,online marketer,7533.5,sewing machinist ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+316793,train,R03,2423.6,recruitment consultant,7543.9,product quality controller ; education Secondary school,prior standardized ESCO occupation titles plus education level; latest role excluded
+317473,val,R06,2166.9,graphic designer,4224.1.1;7215.2.2,camping ground operative ; ground rigger ; education Secondary school,prior standardized ESCO occupation titles plus education level; latest role excluded
+317997,train,R06,2166.9,graphic designer,3431.1,photographer ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+318040,train,R04,2431.5,business developer,3322.1.2,renewable energy sales representative ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+318649,val,R09,4120.1,secretary,2330.1.2;7531.4;5312.2,biology teacher secondary school ; milliner ; primary school teaching assistant ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+318779,train,R04,2431.10.4,online marketer,2431.10.3,marketing assistant ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+319,train,R04,2431.10.4,online marketer,9321.1;3313.1,clothing finisher ; accounting assistant ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+319417,train,R05,2643.6,translator,2310.1.4;2651.5,art studies lecturer ; conceptual artist ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+320223,train,R07,4311.1,billing clerk,3313.1,accounting assistant ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+320488,train,R06,2166.9,graphic designer,2166.9;2166.9,graphic designer ; graphic designer ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+320924,train,R04,2431.10.4,online marketer,4110.1,office clerk ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+321369,train,R04,2431.11,market research analyst,2422.9,international relations officer ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+321585,train,R07,4311.2,sales support assistant,3332.2,event manager ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+322199,train,R07,4311.2,sales support assistant,3343.1,administrative assistant ; education Secondary school,prior standardized ESCO occupation titles plus education level; latest role excluded
+323331,train,R02,2511.2,computer vision engineer,5223.7.13,delicatessen specialised seller ; education No tertiary qualification,prior standardized ESCO occupation titles plus education level; latest role excluded
+324012,train,R03,2423.6,recruitment consultant,4110.1,office clerk ; education Secondary school,prior standardized ESCO occupation titles plus education level; latest role excluded
+324999,train,R10,2359.10,instructional designer,3343.1,administrative assistant ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+325659,train,R01,2512.4,software developer,2519.7;2521.1;2511.3,software tester ; database administrator ; data analyst ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+325917,train,R08,4222.1,customer contact centre information clerk,4223.1,telephone switchboard operator ; education Secondary school,prior standardized ESCO occupation titles plus education level; latest role excluded
+326673,train,R08,4222.1,customer contact centre information clerk,3341.2,call centre quality auditor ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+327729,train,R07,4311.1,billing clerk,3313.2,bookkeeper ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+328018,train,R06,2166.7,digital media designer,1219.6,project manager ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+328121,train,R03,2423.6,recruitment consultant,5223.5,sales processor ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+328416,train,R10,2359.8,educational counsellor,2359.2,academic support officer ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+328640,test,R10,2359.3,admissions coordinator,9622.1,handyman ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+328769,train,R07,4311.2,sales support assistant,2635.3.18;5131.1,migrant social worker ; restaurant host/restaurant hostess ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+328985,val,R02,2511.15,ICT system developer,3153.4,drone pilot ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+329173,train,R06,2166.9,graphic designer,5131.1,restaurant host/restaurant hostess ; education Secondary school,prior standardized ESCO occupation titles plus education level; latest role excluded
+329540,train,R07,4311.2,sales support assistant,1219.1,business service manager ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+329932,test,R05,2643.2,interpreter,2643.6;1324.3.1.5,translator ; road transport division manager ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+33047,train,R09,4120.1,secretary,2330.1.18;2330.1.2,science teacher secondary school ; biology teacher secondary school ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+331057,train,R07,4311.2,sales support assistant,5223.6;5230.1;4311.2,shop assistant ; cashier ; sales support assistant ; education Secondary school,prior standardized ESCO occupation titles plus education level; latest role excluded
+331367,train,R10,2359.11,learning mentor,3423.1;1341.1,activity leader ; child care coordinator ; education No tertiary qualification,prior standardized ESCO occupation titles plus education level; latest role excluded
+33207,val,R09,4120.1,secretary,3343.1,administrative assistant ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+332930,train,R07,4311.1,billing clerk,3323.2.2,ICT buyer ; education Secondary school,prior standardized ESCO occupation titles plus education level; latest role excluded
+333192,train,R02,2511.10,ICT consultant,2635.3.15,homelessness worker ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+333363,train,R04,2431.10.3,marketing assistant,3257.5.1,healthcare inspector ; education Secondary school,prior standardized ESCO occupation titles plus education level; latest role excluded
+333495,test,R03,2423.6,recruitment consultant,2359.11;2652.2,learning mentor ; music director ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+333559,train,R06,2166.7,digital media designer,2431.10.4,online marketer ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+334594,train,R08,4222.1,customer contact centre information clerk,2431.6,client relations manager ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+336832,test,R04,2431.10.4,online marketer,2432.5,online community manager ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+336971,train,R04,2431.10.4,online marketer,2513.4,web content manager ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+337121,train,R08,4222.1,customer contact centre information clerk,5223.7.4,bakery specialised seller ; education Secondary school,prior standardized ESCO occupation titles plus education level; latest role excluded
+338290,train,R04,2431.6,client relations manager,4211.2,post office counter clerk ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+338507,train,R03,2423.6,recruitment consultant,3343.1.7,supply chain assistant ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+339857,train,R06,2166.9,graphic designer,2166.9,graphic designer ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+341145,train,R03,2423.6,recruitment consultant,2423.6,recruitment consultant ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+341420,train,R09,4120.1,secretary,2320.1.13;2330.1.2;2310.1.37,food service vocational teacher ; biology teacher secondary school ; social work lecturer ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+341422,val,R04,2431.5,business developer,1420.3,sales account manager ; education Secondary school,prior standardized ESCO occupation titles plus education level; latest role excluded
+342357,train,R01,2512.5,user interface developer,1212.1,employee volunteering programme coordinator ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+343111,train,R03,2423.6,recruitment consultant,4226.1,receptionist ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+343673,train,R07,4311.2,sales support assistant,3257.3;1219.4,food safety inspector ; department manager ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+344307,train,R07,4311.2,sales support assistant,2431.10.4;2431.10.4,online marketer ; online marketer ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+344381,train,R09,4120.1,secretary,3343.1,administrative assistant ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+344419,train,R02,2511.10,ICT consultant,5223.6,shop assistant ; education Secondary school,prior standardized ESCO occupation titles plus education level; latest role excluded
+344689,train,R07,4311.1,billing clerk,5230.1,cashier ; education No tertiary qualification,prior standardized ESCO occupation titles plus education level; latest role excluded
+344864,train,R09,4120.1,secretary,3343.1,administrative assistant ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+345839,train,R06,2166.14,stop-motion animator,3343.1;2653.1;2653.1;2653.1,administrative assistant ; choreographer ; choreographer ; choreographer ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+346758,train,R10,2359.14,tutor,3422.3.1;2341.1;3422.3.1,football coach ; primary school teacher ; football coach ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+347071,train,R10,2359.4,assessor of prior learning,2330.1.17,religious education teacher at secondary school ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+348337,test,R04,2431.10.4,online marketer,0210.2;3332.1;1111.1;3332.1,sergeant ; event assistant ; city councillor ; event assistant ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+349092,test,R07,4311.2,sales support assistant,3343.1;5223.5,administrative assistant ; sales processor ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+351123,train,R07,4311.2,sales support assistant,2266.1,audiologist ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+35124,train,R07,4311.2,sales support assistant,3339.4,promoter ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+354138,val,R04,2431.10.3,marketing assistant,2431.10.4,online marketer ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+354285,train,R04,2431.10.3,marketing assistant,5223.6,shop assistant ; education No tertiary qualification,prior standardized ESCO occupation titles plus education level; latest role excluded
+354840,train,R04,2431.10.3,marketing assistant,4311.2,sales support assistant ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+355159,test,R08,4222.1,customer contact centre information clerk,5311.1.3,child day care worker ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+355881,train,R03,2423.5,occupational analyst,5223.6,shop assistant ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+357100,train,R09,4120.1,secretary,1341.1,child care coordinator ; education Secondary school,prior standardized ESCO occupation titles plus education level; latest role excluded
+357166,train,R04,2431.10.4,online marketer,2166.9,graphic designer ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+357444,train,R04,2431.15,product and services manager,1420.3,sales account manager ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+357484,train,R06,2166.1,3D modeller,2166.7,digital media designer ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+3577,val,R05,2643.2,interpreter,5312.3,secondary school teaching assistant ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+358053,val,R10,2359.11,learning mentor,2330.1.12,modern languages teacher secondary school ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+359235,train,R07,4311.1,billing clerk,4225.1;4223.1,customer service representative ; telephone switchboard operator ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+359634,train,R10,2359.11,learning mentor,1345.1.2;1324.3.1.5;2341.1,deputy head teacher ; road transport division manager ; primary school teacher ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+360496,train,R09,4120.1,secretary,3344.1,medical administrative assistant ; education Secondary school,prior standardized ESCO occupation titles plus education level; latest role excluded
+360868,train,R07,4311.2,sales support assistant,5131.1,restaurant host/restaurant hostess ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+360891,train,R06,2166.14,stop-motion animator,2166.14,stop-motion animator ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+364187,train,R07,4311.1,billing clerk,3313.1,accounting assistant ; education Secondary school,prior standardized ESCO occupation titles plus education level; latest role excluded
+364378,train,R01,2512.4,software developer,8331.1,bus driver ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+36455,train,R03,2423.4,labour relations officer,1420.4,shop manager ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+36519,train,R08,4222.1,customer contact centre information clerk,5244.1,call centre agent ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+365575,train,R04,2431.10.3,marketing assistant,2431.10.1,advertising media planner ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+365896,train,R06,2166.9,graphic designer,5311.1,child care worker ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+366084,train,R05,2643.6.1,localiser,2359.10;2432.4,instructional designer ; intercultural communication consultant ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+366862,train,R07,4311.1,billing clerk,3315.5,loss adjuster ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+367092,test,R04,2431.7,creative director,2651.6,drawing artist ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+368839,val,R03,2423.6,recruitment consultant,3343.1,administrative assistant ; education Secondary school,prior standardized ESCO occupation titles plus education level; latest role excluded
+369061,train,R09,4120.1,secretary,5321.1,healthcare assistant ; education Secondary school,prior standardized ESCO occupation titles plus education level; latest role excluded
+369828,train,R06,2166.14,stop-motion animator,7126.13,water conservation technician ; education Secondary school,prior standardized ESCO occupation titles plus education level; latest role excluded
+370969,val,R04,2431.10,marketing consultant,5131.2,waiter/waitress ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+372205,train,R04,2431.10.4,online marketer,2635.3.17;2642.1.4,mental health social worker ; columnist ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+373184,train,R07,4311.1,billing clerk,5311.1,child care worker ; education No tertiary qualification,prior standardized ESCO occupation titles plus education level; latest role excluded
+374063,train,R07,4311.2,sales support assistant,4226.1,receptionist ; education Secondary school,prior standardized ESCO occupation titles plus education level; latest role excluded
+374077,train,R07,4311.1,billing clerk,4412.2;3343.1,postman/postwoman ; administrative assistant ; education Secondary school,prior standardized ESCO occupation titles plus education level; latest role excluded
+374638,train,R03,2423.6,recruitment consultant,7422.3.1,mobile phone repair technician ; education No tertiary qualification,prior standardized ESCO occupation titles plus education level; latest role excluded
+376416,train,R04,2431.6,client relations manager,3257.3;2330.1,food safety inspector ; secondary school teacher ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+378093,train,R08,4222.1,customer contact centre information clerk,3343.1.7,supply chain assistant ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+379152,test,R04,2431.5,business developer,9333.8.1,warehouse order picker ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+381205,train,R06,2166.7,digital media designer,2166.9,graphic designer ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+381516,train,R02,2511.6,enterprise architect,1112.7,secretary general ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+381567,train,R09,4120.1,secretary,3324.1,commodity broker ; education No tertiary qualification,prior standardized ESCO occupation titles plus education level; latest role excluded
+381678,train,R07,4311.2,sales support assistant,5223.5;3343.1.2,sales processor ; education administrator ; education Secondary school,prior standardized ESCO occupation titles plus education level; latest role excluded
+381679,train,R05,2643.6,translator,9411.2;3213.1,quick service restaurant crew member ; pharmacy assistant ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+384000,train,R04,2431.11,market research analyst,2431.11,market research analyst ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+384659,val,R04,2431.10.3,marketing assistant,2431.10;2431.10.3,marketing consultant ; marketing assistant ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+385389,train,R07,4311.2,sales support assistant,3343.1.2,education administrator ; education No tertiary qualification,prior standardized ESCO occupation titles plus education level; latest role excluded
+385945,train,R07,4311.2,sales support assistant,3432.1,interior designer ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+386548,train,R04,2431.5,business developer,2434.2,ICT business development manager ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+388176,train,R06,2166.9,graphic designer,2166.9,graphic designer ; education Secondary school,prior standardized ESCO occupation titles plus education level; latest role excluded
+388304,train,R10,2359.14,tutor,2330.1.12,modern languages teacher secondary school ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+388424,train,R04,2431.10.4,online marketer,4227.1;1324.3,market research interviewer ; logistics and distribution manager ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+388996,train,R10,2359.7,e-learning developer,5312.3,secondary school teaching assistant ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+389112,train,R06,2166.5,digital artist,1349.8,commercial art gallery manager ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+389190,train,R01,2512.4,software developer,2513.1,digital games developer ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+390247,train,R09,4120.1,secretary,3343.1.7,supply chain assistant ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+391290,train,R07,4311.2,sales support assistant,5244.1;1219.6,call centre agent ; project manager ; education Secondary school,prior standardized ESCO occupation titles plus education level; latest role excluded
+391686,train,R03,2423.6,recruitment consultant,2423.6,recruitment consultant ; education No tertiary qualification,prior standardized ESCO occupation titles plus education level; latest role excluded
+391965,train,R09,4120.1,secretary,2330.1.12;2330.1.12,modern languages teacher secondary school ; modern languages teacher secondary school ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+394787,train,R07,4311.1,billing clerk,4110.1.1,membership administrator ; education Secondary school,prior standardized ESCO occupation titles plus education level; latest role excluded
+39483,train,R03,2423.6,recruitment consultant,2166.9,graphic designer ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+395588,train,R04,2431.15,product and services manager,3258.1,emergency ambulance driver ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+395795,train,R06,2166.14,stop-motion animator,1341.3,nursery school head teacher ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+399654,train,R06,2166.7,digital media designer,2513.5;5419.6,web developer ; emergency response worker ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+400416,train,R09,4120.1,secretary,2423.3,human resources officer ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+401388,train,R10,2359.1,academic advisor,4221.6;5312.2;5312.3,tour organiser ; primary school teaching assistant ; secondary school teaching assistant ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+401501,train,R04,2431.10.3,marketing assistant,3343.1,administrative assistant ; education Secondary school,prior standardized ESCO occupation titles plus education level; latest role excluded
+402879,train,R03,2423.6,recruitment consultant,2423.6,recruitment consultant ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+403521,train,R09,4120.1,secretary,4120.1;3313.1;3343.4,secretary ; accounting assistant ; management assistant ; education No tertiary qualification,prior standardized ESCO occupation titles plus education level; latest role excluded
+403539,val,R06,2166.9,graphic designer,2641.4.4,technical communicator ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+403570,test,R06,2166.5,digital artist,2635.3.27,youth worker ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+404069,train,R06,2166.9,graphic designer,7316.4,sign maker ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+404290,train,R07,4311.1,billing clerk,5131.2,waiter/waitress ; education Secondary school,prior standardized ESCO occupation titles plus education level; latest role excluded
+40472,train,R06,2166.9,graphic designer,4110.1,office clerk ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+406243,test,R08,4222.1,customer contact centre information clerk,3343.1,administrative assistant ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+407350,val,R07,4311.2,sales support assistant,2310.1;3422.4;3343.1,higher education lecturer ; sports instructor ; administrative assistant ; education Secondary school,prior standardized ESCO occupation titles plus education level; latest role excluded
+407512,val,R03,2423.6,recruitment consultant,3422.5;5311.1.3,sports official ; child day care worker ; education Secondary school,prior standardized ESCO occupation titles plus education level; latest role excluded
+408062,train,R08,4222.1,customer contact centre information clerk,3343.1.7,supply chain assistant ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+408258,train,R05,2643.5,sign language interpreter,3423.2.2;3412.4.9,personal trainer ; residential care home worker ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+40854,val,R07,4311.1,billing clerk,3343.1,administrative assistant ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+409068,train,R06,2166.9,graphic designer,2166.9,graphic designer ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+409368,train,R04,2431.6,client relations manager,2330.1.13,music teacher secondary school ; education Secondary school,prior standardized ESCO occupation titles plus education level; latest role excluded
+409520,train,R08,4222.1,customer contact centre information clerk,3432.6,visual merchandiser ; education Secondary school,prior standardized ESCO occupation titles plus education level; latest role excluded
+410524,train,R03,2423.6,recruitment consultant,5230.1;2423.6,cashier ; recruitment consultant ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+410730,train,R10,2359.1,academic advisor,2511.3,data analyst ; education PhD,prior standardized ESCO occupation titles plus education level; latest role excluded
+41143,train,R07,4311.2,sales support assistant,3343.1,administrative assistant ; education Secondary school,prior standardized ESCO occupation titles plus education level; latest role excluded
+412852,train,R06,2166.9,graphic designer,2166.9,graphic designer ; education Secondary school,prior standardized ESCO occupation titles plus education level; latest role excluded
+413392,train,R06,2166.9,graphic designer,2166.9,graphic designer ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+413999,val,R04,2431.10.3,marketing assistant,2166.7,digital media designer ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+414170,train,R08,4222.1,customer contact centre information clerk,3422.4.1;5311.1.2;2413.2,boxing instructor ; babysitter ; middle office analyst ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+414215,train,R01,2512.4,software developer,4132.1,data entry clerk ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+414565,train,R01,2512.4,software developer,2512.4,software developer ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+415442,test,R09,4120.1,secretary,5162.1,companion ; education Secondary school,prior standardized ESCO occupation titles plus education level; latest role excluded
+415812,train,R06,2166.9,graphic designer,2641.4,writer ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+416657,train,R09,4120.1,secretary,4311.2,sales support assistant ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+416666,train,R08,4222.1,customer contact centre information clerk,2262.1.1,pharmaceutical quality specialist ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+416786,train,R08,4222.1,customer contact centre information clerk,3332.2,event manager ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+417328,train,R07,4311.1,billing clerk,3411.1;3343.1,case administrator ; administrative assistant ; education Secondary school,prior standardized ESCO occupation titles plus education level; latest role excluded
+41785,test,R06,2166.9,graphic designer,2166.9,graphic designer ; education No tertiary qualification,prior standardized ESCO occupation titles plus education level; latest role excluded
+417986,train,R04,2431.6,client relations manager,2359.14;3334.3.2,tutor ; real estate investor ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+418808,train,R09,4120.1,secretary,4110.1,office clerk ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+419739,train,R05,2643.2,interpreter,3413.2,pastoral worker ; education No tertiary qualification,prior standardized ESCO occupation titles plus education level; latest role excluded
+420331,train,R04,2431.6,client relations manager,5223.6,shop assistant ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+421249,val,R03,2423.6,recruitment consultant,2423.6,recruitment consultant ; education No tertiary qualification,prior standardized ESCO occupation titles plus education level; latest role excluded
+422245,train,R05,2643.4.1,lawyer linguist,4323.12;1211.1;2431.5;2643.4.1;1324.3.1.6.21;1221.3.2.1,rail logistics coordinator ; financial manager ; business developer ; lawyer linguist ; meat and meat products distribution manager ; sales manager ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+42292,train,R07,4311.1,billing clerk,3343.1,administrative assistant ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+42366,train,R04,2431.10.3,marketing assistant,2412.11,venture capitalist ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+424288,train,R10,2359.9,further education teacher,2330.1,secondary school teacher ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+426998,train,R03,2423.6,recruitment consultant,3343.1.7,supply chain assistant ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+427173,test,R02,2511.16,ICT system integration consultant,5249.2.2,rental service representative in personal and household goods ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+429714,train,R09,4120.1,secretary,3343.1.7;3412.4.9,supply chain assistant ; residential care home worker ; education Secondary school,prior standardized ESCO occupation titles plus education level; latest role excluded
+429862,train,R04,2431.10,marketing consultant,4221.1;4416.1;3343.1.6;5223.5;5223.5;5223.5,ground steward/ground stewardess ; human resources assistant ; project support officer ; sales processor ; sales processor ; sales processor ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+431761,train,R09,4120.1,secretary,3343.1.2,education administrator ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+432928,train,R10,2359.1,academic advisor,3412.4,social care worker ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+433823,train,R09,4120.1,secretary,4415.1,file clerk ; education Secondary school,prior standardized ESCO occupation titles plus education level; latest role excluded
+43491,train,R07,4311.2,sales support assistant,3343.1,administrative assistant ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+435061,train,R06,2166.11,performance lighting designer,3435.25.5,stage technician ; education No tertiary qualification,prior standardized ESCO occupation titles plus education level; latest role excluded
+435497,val,R04,2431.1,advertising copywriter,2431.3,advertising specialist ; education Secondary school,prior standardized ESCO occupation titles plus education level; latest role excluded
+438354,train,R07,4311.1,billing clerk,3343.1.7,supply chain assistant ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+440012,train,R08,4222.1,customer contact centre information clerk,3431.1;3431.1,photographer ; photographer ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+440060,train,R10,2359.1,academic advisor,3412.4.2,care at home worker ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+440224,train,R06,2166.9,graphic designer,2166.9,graphic designer ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+441079,val,R04,2431.10,marketing consultant,1221.4,commercial director ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+441395,train,R06,2166.9,graphic designer,3412.4,social care worker ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+442023,train,R07,4311.1,billing clerk,3343.1,administrative assistant ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+442382,train,R03,2423.6,recruitment consultant,5244.1,call centre agent ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+442674,train,R10,2359.7,e-learning developer,1341.3;5312.2,nursery school head teacher ; primary school teaching assistant ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+443730,val,R04,2431.10.4,online marketer,9333.2,distribution centre dispatcher ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+444439,test,R06,2166.9,graphic designer,2166.9,graphic designer ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+44493,train,R04,2431.10.4,online marketer,2431.10.4,online marketer ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+44562,train,R03,2423.6,recruitment consultant,5223.2,motor vehicles parts advisor ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+45505,val,R09,4120.1,secretary,2341.1,primary school teacher ; education Secondary school,prior standardized ESCO occupation titles plus education level; latest role excluded
+45659,train,R10,2359.9,further education teacher,0210.2;5131.2;2330.1,sergeant ; waiter/waitress ; secondary school teacher ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+46150,val,R04,2431.16,promotion assistant,2310.1.7;2431.1,business lecturer ; advertising copywriter ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+48920,train,R06,2166.14,stop-motion animator,2166.14,stop-motion animator ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+50086,train,R03,2423.3,human resources officer,4416.1,human resources assistant ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+50205,train,R01,2512.5,user interface developer,2521.4,database integrator ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+50449,train,R04,2431.5,business developer,1120.6,social entrepreneur ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+50715,test,R05,2643.6.2,subtitler,2642.1.7;9334.1,critic ; shelf filler ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+5261,train,R04,2431.10,marketing consultant,1221.5,digital marketing manager ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+52644,val,R06,2166.9,graphic designer,2513.4,web content manager ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+53033,train,R03,2423.6,recruitment consultant,1111.6;5311.1.2,secretary of state ; babysitter ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+53656,val,R03,2423.6,recruitment consultant,1213.5,1213.5 ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+56414,train,R10,2359.11,learning mentor,1344.1.3,youth programme director ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+56649,train,R10,2359.2,academic support officer,5223.4;2359.11,sales assistant ; learning mentor ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+57081,train,R04,2431.10.4,online marketer,2431.1,advertising copywriter ; education Secondary school,prior standardized ESCO occupation titles plus education level; latest role excluded
+59911,train,R04,2431.10,marketing consultant,3322.1,commercial sales representative ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+60521,train,R04,2431.10.3,marketing assistant,4311.2,sales support assistant ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+60546,train,R07,4311.2,sales support assistant,4311.2,sales support assistant ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+61656,train,R05,2643.2,interpreter,2330.1.12,modern languages teacher secondary school ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+62903,test,R03,2423.2,employment and vocational integration consultant,2635.3.27,youth worker ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+63442,train,R05,2643.6,translator,2422.12.3,cultural policy officer ; education No tertiary qualification,prior standardized ESCO occupation titles plus education level; latest role excluded
+63454,val,R04,2431.6,client relations manager,5223.6;5223.6,shop assistant ; shop assistant ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+64186,train,R02,2511.3,data analyst,2330.1.9,ICT teacher secondary school ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+67828,val,R10,2359.2,academic support officer,3422.3.1;2264.2,football coach ; physiotherapist ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+68989,train,R04,2431.10.4,online marketer,2431.10.3,marketing assistant ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+69419,train,R09,4120.1,secretary,2636.1;5311.1,chaplain ; child care worker ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+69506,train,R06,2166.4,desktop publisher,4131.1,typist ; education Secondary school,prior standardized ESCO occupation titles plus education level; latest role excluded
+70391,val,R04,2431.10.3,marketing assistant,5131.1,restaurant host/restaurant hostess ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+70936,train,R04,2431.4,brand manager,2166.7,digital media designer ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+7131,train,R04,2431.10.3,marketing assistant,2431.10.3;2431.10.3,marketing assistant ; marketing assistant ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+7206,val,R03,2423.6,recruitment consultant,5223.7.25,motor vehicles specialised seller ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+72634,test,R06,2166.7,digital media designer,4221.6,tour organiser ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+72817,train,R04,2431.16,promotion assistant,3343.1;3422.4,administrative assistant ; sports instructor ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+72860,train,R07,4311.2,sales support assistant,3355.2,police detective ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+74457,train,R03,2423.6,recruitment consultant,1324.8,supply chain manager ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+74502,train,R10,2359.11,learning mentor,2330.1;3412.4.13,secondary school teacher ; residential home young people care worker ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+75288,train,R05,2643.5,sign language interpreter,5230.1,cashier ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+76291,train,R04,2431.16,promotion assistant,1221.3.3,promotion manager ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+78629,val,R07,4311.1,billing clerk,3332.2.1;4321.1,venue director ; inventory coordinator ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+78630,train,R04,2431.6,client relations manager,8322.4,parking valet ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+7984,train,R07,4311.2,sales support assistant,9112.4,room attendant ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+80841,train,R07,4311.1,billing clerk,3331.2.2,shipping agent ; education Secondary school,prior standardized ESCO occupation titles plus education level; latest role excluded
+8161,val,R07,4311.2,sales support assistant,5223.4,sales assistant ; education Secondary school,prior standardized ESCO occupation titles plus education level; latest role excluded
+8169,val,R07,4311.1,billing clerk,4214.2,insurance collector ; education Secondary school,prior standardized ESCO occupation titles plus education level; latest role excluded
+82077,train,R09,4120.1,secretary,1212.1;4221.2;4120.1,employee volunteering programme coordinator ; host/hostess ; secretary ; education No tertiary qualification,prior standardized ESCO occupation titles plus education level; latest role excluded
+82081,train,R04,2431.10.4,online marketer,5242.1,promotions demonstrator ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+82345,train,R04,2431.16,promotion assistant,9333.8,warehouse worker ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+83369,train,R06,2166.9,graphic designer,2166.9,graphic designer ; education No tertiary qualification,prior standardized ESCO occupation titles plus education level; latest role excluded
+84411,train,R09,4120.1,secretary,2221.3,specialist nurse ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+84662,train,R06,2166.14,stop-motion animator,3422.3.1,football coach ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+85503,train,R04,2431.6,client relations manager,3343.1.5,procurement support officer ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+85757,val,R09,4120.1,secretary,3313.1,accounting assistant ; education No tertiary qualification,prior standardized ESCO occupation titles plus education level; latest role excluded
+86788,train,R07,4311.1,billing clerk,3313.1,accounting assistant ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+87433,train,R10,2359.14,tutor,2330.1.13;2330.1.12;2352.1.6,music teacher secondary school ; modern languages teacher secondary school ; special educational needs teacher secondary school ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+88331,val,R07,4311.1,billing clerk,2432.9.1,spokesperson ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+89414,test,R09,4120.1,secretary,4311.1,billing clerk ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+90290,train,R09,4120.1,secretary,4120.1,secretary ; education No tertiary qualification,prior standardized ESCO occupation titles plus education level; latest role excluded
+91675,train,R03,2423.6,recruitment consultant,5241.2,fashion model ; education Master,prior standardized ESCO occupation titles plus education level; latest role excluded
+94079,test,R04,2431.10.3,marketing assistant,1222.1,communication manager ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+94196,train,R07,4311.1,billing clerk,4312.6;4211.2;1439.1,property assistant ; post office counter clerk ; call centre manager ; education Secondary school,prior standardized ESCO occupation titles plus education level; latest role excluded
+94270,train,R10,2359.5,assistive technologist,5223.4;5249.2.2,sales assistant ; rental service representative in personal and household goods ; education Secondary school,prior standardized ESCO occupation titles plus education level; latest role excluded
+94550,train,R08,4222.1,customer contact centre information clerk,3343.1.7,supply chain assistant ; education No tertiary qualification,prior standardized ESCO occupation titles plus education level; latest role excluded
+94584,train,R06,2166.5,digital artist,3332.1,event assistant ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+95399,train,R03,2423.6,recruitment consultant,2423.6,recruitment consultant ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+97836,train,R10,2359.7,e-learning developer,5131.2,waiter/waitress ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+98491,train,R10,2359.11,learning mentor,3339.8;4224.2,tourism contract negotiator ; night auditor ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded
+99423,train,R05,2643.2,interpreter,3512.1;2330.1.9,ICT help desk agent ; ICT teacher secondary school ; education Secondary school,prior standardized ESCO occupation titles plus education level; latest role excluded
+9982,train,R04,2431.6,client relations manager,4224.1.1;3423.2.2,camping ground operative ; personal trainer ; education Bachelor,prior standardized ESCO occupation titles plus education level; latest role excluded

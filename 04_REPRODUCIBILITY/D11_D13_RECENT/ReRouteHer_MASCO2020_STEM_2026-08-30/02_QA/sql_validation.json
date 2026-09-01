@@ -1,0 +1,29 @@
+{
+  "structural_validation": "PASS",
+  "target_database": "rerouteher_masco2020_test",
+  "requires_empty_data_tables": [
+    "roles",
+    "skill_taxonomy",
+    "skill_aliases",
+    "role_skills",
+    "role_skill_lineage"
+  ],
+  "schema_changed": false,
+  "overwrites_or_deletions": false,
+  "live_database_executed": false,
+  "insert_rows": {
+    "roles": 655,
+    "skill_taxonomy": 6051,
+    "skill_aliases": 37521,
+    "role_skills": 41286,
+    "role_skill_lineage": 41286
+  },
+  "metadata_rows": 8039,
+  "skill_type_adapter_counts": {
+    "digital": 908,
+    "technical": 5143
+  },
+  "sql_sha256": "b958594b9577f3ce035d2e24402074049e8b1ba2182f57b5166cef7d50870cf7",
+  "sql_bytes": 92166549,
+  "validation_scope": "Generated columns, required values, transaction/guard structure and row counts; not executed against a database."
+}

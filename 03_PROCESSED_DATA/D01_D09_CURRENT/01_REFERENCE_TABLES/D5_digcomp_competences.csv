@@ -1,0 +1,22 @@
+skill_id,digcomp_id,canonical_name,competence_area,definition,source_framework
+DIGCOMP_1_1,1.1,"Browsing, searching and filtering data, information and digital content",Information and data literacy,"DigComp 2.2 competence 1.1: Browsing, searching and filtering data, information and digital content.",DigComp 2.2
+DIGCOMP_1_2,1.2,"Evaluating data, information and digital content",Information and data literacy,"DigComp 2.2 competence 1.2: Evaluating data, information and digital content.",DigComp 2.2
+DIGCOMP_1_3,1.3,"Managing data, information and digital content",Information and data literacy,"DigComp 2.2 competence 1.3: Managing data, information and digital content.",DigComp 2.2
+DIGCOMP_2_1,2.1,Interacting through digital technologies,Communication and collaboration,DigComp 2.2 competence 2.1: Interacting through digital technologies.,DigComp 2.2
+DIGCOMP_2_2,2.2,Sharing through digital technologies,Communication and collaboration,DigComp 2.2 competence 2.2: Sharing through digital technologies.,DigComp 2.2
+DIGCOMP_2_3,2.3,Engaging in citizenship through digital technologies,Communication and collaboration,DigComp 2.2 competence 2.3: Engaging in citizenship through digital technologies.,DigComp 2.2
+DIGCOMP_2_4,2.4,Collaborating through digital technologies,Communication and collaboration,DigComp 2.2 competence 2.4: Collaborating through digital technologies.,DigComp 2.2
+DIGCOMP_2_5,2.5,Netiquette,Communication and collaboration,DigComp 2.2 competence 2.5: Netiquette.,DigComp 2.2
+DIGCOMP_2_6,2.6,Managing digital identity,Communication and collaboration,DigComp 2.2 competence 2.6: Managing digital identity.,DigComp 2.2
+DIGCOMP_3_1,3.1,Developing digital content,Digital content creation,DigComp 2.2 competence 3.1: Developing digital content.,DigComp 2.2
+DIGCOMP_3_2,3.2,Integrating and re-elaborating digital content,Digital content creation,DigComp 2.2 competence 3.2: Integrating and re-elaborating digital content.,DigComp 2.2
+DIGCOMP_3_3,3.3,Copyright and licences,Digital content creation,DigComp 2.2 competence 3.3: Copyright and licences.,DigComp 2.2
+DIGCOMP_3_4,3.4,Programming,Digital content creation,DigComp 2.2 competence 3.4: Programming.,DigComp 2.2
+DIGCOMP_4_1,4.1,Protecting devices,Safety,DigComp 2.2 competence 4.1: Protecting devices.,DigComp 2.2
+DIGCOMP_4_2,4.2,Protecting personal data and privacy,Safety,DigComp 2.2 competence 4.2: Protecting personal data and privacy.,DigComp 2.2
+DIGCOMP_4_3,4.3,Protecting health and well-being,Safety,DigComp 2.2 competence 4.3: Protecting health and well-being.,DigComp 2.2
+DIGCOMP_4_4,4.4,Protecting the environment,Safety,DigComp 2.2 competence 4.4: Protecting the environment.,DigComp 2.2
+DIGCOMP_5_1,5.1,Solving technical problems,Problem solving,DigComp 2.2 competence 5.1: Solving technical problems.,DigComp 2.2
+DIGCOMP_5_2,5.2,Identifying needs and technological responses,Problem solving,DigComp 2.2 competence 5.2: Identifying needs and technological responses.,DigComp 2.2
+DIGCOMP_5_3,5.3,Creatively using digital technologies,Problem solving,DigComp 2.2 competence 5.3: Creatively using digital technologies.,DigComp 2.2
+DIGCOMP_5_4,5.4,Identifying digital competence gaps,Problem solving,DigComp 2.2 competence 5.4: Identifying digital competence gaps.,DigComp 2.2

@@ -1,0 +1,658 @@
+role_id,role_title,masco_code,masco_source_page_pdf,rated_task_count,remote_capable_tasks,remote_onsite_tasks,remote_unclear_tasks,remote_pre_rating,ai_exposable_tasks,ai_exposure_share,ai_pre_rating,independent_raters_required,reconciliation_status,release_use,task_source_level,source_url
+M111201,Senior Government Officials,111201,,10,3,0,7,medium,2,0.2,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/1112-01
+M112104,Chief Technical Officer,112104,,10,4,0,6,medium,2,0.2,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/1121-04
+M121101,Budgeting/Financial Accounting Manager,121101,,8,5,0,3,medium,3,0.375,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/1211-01
+M121102,Audit and Risk Management Manager,121102,,10,7,0,3,medium,3,0.3,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/1211-02
+M121103,Credit Manager,121103,,9,4,0,5,medium,2,0.2222,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/1211-03
+M121104,Insurance Manager,121104,,10,4,0,6,medium,3,0.3,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/1211-04
+M121105,Fund/Portfolio Manager,121105,,7,5,0,2,medium,3,0.4286,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/1211-05
+M121107,Tax Manager,121107,,7,1,0,6,medium,0,0.0,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/1211-07
+M121108,Claims Manager,121108,,9,2,0,7,medium,2,0.2222,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/1211-08
+M121109,Actuarial Valuation Manager,121109,,9,4,0,5,medium,3,0.3333,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/1211-09
+M121111,Transfer Pricing Manager,121111,,9,5,0,4,medium,3,0.3333,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/1211-11
+M121202,Occupational Safety and Health Manager,121202,,8,2,0,6,medium,3,0.375,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/1212-02
+M121404,Supply Chain and Logistics Management Manager,121404,,10,3,0,7,medium,2,0.2,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/1214-04
+M121408,Technology Manager,121408,,9,3,0,6,medium,2,0.2222,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/1214-08
+M121409,Chief Business Officer,121409,,9,4,0,5,medium,1,0.1111,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/1214-09
+M122301,Research and Development Manager,122301,,9,5,0,4,medium,3,0.3333,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/1223-01
+M131101,Forestry Manager,131101,,10,5,0,5,medium,2,0.2,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/1311-01
+M131102,Agricultural Manager,131102,,9,2,1,6,low,1,0.1111,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/1311-02
+M131103,Veterinary Manager,131103,,9,0,2,7,low,2,0.2222,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/1311-03
+M131104,Field Manager (Grass),131104,,9,0,2,7,low,2,0.2222,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/1311-04
+M131201,Aquaculture and Fisheries Production/Operation Manager,131201,,10,2,1,7,low,2,0.2,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/1312-01
+M132101,Manufacturing Manager,132101,,10,2,0,8,medium,2,0.2,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/1321-01
+M132102,Electrical Manager,132102,,7,3,0,4,medium,0,0.0,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/1321-02
+M132103,Energy Manager,132103,,9,1,0,8,medium,2,0.2222,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/1321-03
+M132104,Production Manager (Manufacturing),132104,,9,3,1,5,low,3,0.3333,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/1321-04
+M132105,Ship Hull Manager,132105,,10,3,0,7,medium,2,0.2,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/1321-05
+M132106,Mechanical Manager,132106,,9,2,2,5,low,3,0.3333,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/1321-06
+M132107,Welding Manager,132107,,9,1,1,7,low,1,0.1111,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/1321-07
+M132108,Oil Mill Manager,132108,,9,2,2,5,low,3,0.3333,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/1321-08
+M132109,Manager (Halal Food Manufacturing),132109,,8,1,0,7,medium,0,0.0,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/1321-09
+M132111,Power Generation Plant Manager,132111,,10,7,2,1,low,3,0.3,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/1321-11
+M132201,Production and Operation Manager (Mine),132201,,10,3,2,5,low,3,0.3,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/1322-01
+M132202,Production and Operation Manager (Oil and Gas Extraction),132202,,9,1,1,7,low,0,0.0,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/1322-02
+M132203,Offshore Installation Manager,132203,,10,2,0,8,medium,0,0.0,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/1322-03
+M132205,Metallurgy Manager,132205,,9,2,2,5,low,0,0.0,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/1322-05
+M132301,Construction Manager,132301,,10,4,2,4,low,3,0.3,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/1323-01
+M132302,Building and Architecture Manager,132302,,9,4,0,5,medium,3,0.3333,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/1323-02
+M132303,Land Surveyor Manager,132303,,9,4,0,5,medium,3,0.3333,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/1323-03
+M132401,Railway Station Master,132401,,9,1,1,7,low,2,0.2222,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/1324-01
+M132402,Transport Manager,132402,,9,3,0,6,medium,3,0.3333,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/1324-02
+M132404,Port/Shipping Operations Manager,132404,,9,2,0,7,medium,2,0.2222,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/1324-04
+M132405,Halal Logistics Operation Manager,132405,,9,1,0,8,medium,0,0.0,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/1324-05
+M151101,Chief Information Officer/Chief Data Officer/Chief Information Security Officer,151101,,9,8,0,1,medium,7,0.7778,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/1511-01
+M151102,Information Systems Manager,151102,,10,4,0,6,medium,2,0.2,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/1511-02
+M151103,Village Community Center Manager (Information Technology),151103,,10,4,0,6,medium,6,0.6,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/1511-03
+M151104,Internet Service Provider,151104,,8,2,0,6,medium,1,0.125,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/1511-04
+M151105,Network/Communications/Infrastructure Manager,151105,,10,6,0,4,medium,3,0.3,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/1511-05
+M151106,Audio Visual Manager,151106,,8,3,1,4,low,2,0.25,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/1511-06
+M151107,Information Technology Project Manager,151107,,9,1,0,8,medium,1,0.1111,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/1511-07
+M151108,Information Technology Programme Manager,151108,,9,2,0,7,medium,7,0.7778,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/1511-08
+M151109,Bioinformatics Manager,151109,,8,7,0,1,medium,7,0.875,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/1511-09
+M151110,Creative Multimedia Manager,151110,,9,1,0,8,medium,2,0.2222,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/1511-10
+M151111,Network Operations Manager,151111,,9,3,0,6,medium,1,0.1111,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/1511-11
+M151112,Information Technology Business Development Manager,151112,,8,5,0,3,medium,1,0.125,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/1511-12
+M151113,Software and Applications Manager,151113,,9,5,0,4,medium,3,0.3333,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/1511-13
+M151118,Data Manager,151118,,8,8,0,0,high,8,1.0,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/1511-18
+M161201,Phytonutrients Manager,161201,,8,2,0,6,medium,0,0.0,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/1612-01
+M161202,Health Educator,161202,,8,1,0,7,medium,3,0.375,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/1612-02
+M161203,Chief Nurse,161203,,9,0,0,9,medium,0,0.0,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/1612-03
+M211101,Physicist,211101,,10,6,4,0,low,5,0.5,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2111-01
+M211102,Astronaut,211102,,8,5,2,1,low,1,0.125,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2111-02
+M211201,Meteorologist,211201,,8,6,0,2,medium,4,0.5,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2112-01
+M211202,Meteorologist (Environmental),211202,,9,4,0,5,medium,4,0.4444,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2112-02
+M211203,Meteorologist (Numerical Weather Prediction Modelling),211203,,9,3,0,6,medium,3,0.3333,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2112-03
+M211204,Meteorological Officer Grade C9,211204,,10,7,1,2,low,7,0.7,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2112-04
+M211301,Chemist,211301,,8,5,1,2,low,5,0.625,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2113-01
+M211401,Geologist,211401,,8,6,0,2,medium,4,0.5,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2114-01
+M211402,Hydrologist,211402,,7,3,0,4,medium,2,0.2857,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2114-02
+M211403,Geoscientist,211403,,9,7,0,2,medium,4,0.4444,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2114-03
+M212101,Mathematician,212101,,7,6,0,1,medium,3,0.4286,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2121-01
+M212102,Statistician,212102,,8,8,0,0,high,7,0.875,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2121-02
+M212103,Actuary,212103,,8,6,0,2,medium,5,0.625,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2121-03
+M212104,Metrologist,212104,,8,5,1,2,low,4,0.5,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2121-04
+M212105,Statistician Grade E9,212105,,10,8,0,2,medium,5,0.5,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2121-05
+M213101,Microbiologist,213101,,8,4,0,4,medium,3,0.375,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2131-01
+M213102,Serologist,213102,,9,4,1,4,low,4,0.4444,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2131-02
+M213103,Biologist,213103,,9,6,0,3,medium,3,0.3333,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2131-03
+M213104,Cytologist,213104,,7,2,0,5,medium,2,0.2857,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2131-04
+M213105,Botanist,213105,,8,8,0,0,high,3,0.375,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2131-05
+M213106,Ecologist,213106,,9,4,0,5,medium,4,0.4444,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2131-06
+M213107,Wildlife Officer Grade G9,213107,,10,4,0,6,medium,2,0.2,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2131-07
+M213201,Agricultural Officer,213201,,10,4,0,6,medium,2,0.2,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2132-01
+M213202,Farm Demonstrator,213202,,8,3,0,5,medium,2,0.25,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2132-02
+M213203,Forestry Officer,213203,,9,3,0,6,medium,3,0.3333,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2132-03
+M213204,Aquaculture Executive,213204,,9,1,1,7,low,1,0.1111,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2132-04
+M213206,Conservator of Forests Grade G9,213206,,10,5,1,4,low,4,0.4,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2132-06
+M213207,Agricultural Officer Grade G9,213207,,9,5,2,2,low,4,0.4444,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2132-07
+M213208,Land Planning Officer Grade G9,213208,,10,4,0,6,medium,7,0.7,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2132-08
+M213301,Agronomist,213301,,9,7,0,2,medium,3,0.3333,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2133-01
+M213302,Agricultural Scientist,213302,,9,4,0,5,medium,4,0.4444,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2133-02
+M213303,Floriculturist,213303,,8,5,1,2,low,3,0.375,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2133-03
+M213304,Horticulturist/Arborist,213304,,10,10,0,0,high,5,0.5,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2133-04
+M213305,Wood Analyst,213305,,9,3,1,5,low,4,0.4444,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2133-05
+M213306,Animal Scientist,213306,,9,5,0,4,medium,4,0.4444,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2133-06
+M213307,Environmental Research Scientist,213307,,10,7,0,3,medium,4,0.4,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2133-07
+M213308,Conservation Officer,213308,,7,4,0,3,medium,1,0.1429,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2133-08
+M213309,Environmental Consultant,213309,,10,4,1,5,low,2,0.2,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2133-09
+M213310,Environmental Control Officer Grade C9,213310,,10,3,0,7,medium,6,0.6,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2133-10
+M213401,Biochemist,213401,,9,6,0,3,medium,6,0.6667,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2134-01
+M213402,Endocrinologist,213402,,8,2,0,6,medium,2,0.25,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2134-02
+M213403,Physiologist,213403,,10,7,0,3,medium,4,0.4,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2134-03
+M213404,Pharmacologist,213404,,9,5,0,4,medium,4,0.4444,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2134-04
+M213405,Pathologist,213405,,9,3,1,5,low,3,0.3333,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2134-05
+M213406,Bio-Fermentation Specialist,213406,,6,4,1,1,low,2,0.3333,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2134-06
+M213407,Bee Cultivation Specialist,213407,,8,1,1,6,low,1,0.125,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2134-07
+M213408,Embryologist,213408,,8,2,1,5,low,2,0.25,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2134-08
+M214101,Automation Engineer,214101,,10,3,2,5,low,5,0.5,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2141-01
+M214102,Robotics Engineer,214102,,9,5,0,4,medium,7,0.7778,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2141-02
+M214103,Industrial Engineer,214103,,10,6,2,2,low,6,0.6,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2141-03
+M214104,Communication Analyst,214104,,7,7,0,0,high,2,0.2857,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2141-04
+M214105,Systems Engineer (except Computers),214105,,10,7,1,2,low,6,0.6,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2141-05
+M214106,Systems Design Engineer (except Computers),214106,,9,9,0,0,high,7,0.7778,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2141-06
+M214107,Cost Evaluation Engineer,214107,,9,3,1,5,low,3,0.3333,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2141-07
+M214108,Industrial and Production Technologist,214108,,10,3,3,4,low,4,0.4,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2141-08
+M214109,Ceramics Technologist,214109,,9,5,0,4,medium,5,0.5556,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2141-09
+M214110,Photonic Engineer,214110,,8,6,0,2,medium,6,0.75,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2141-10
+M214111,Scada Engineer,214111,,6,5,0,1,medium,3,0.5,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2141-11
+M214112,Energy Engineer,214112,,10,8,0,2,medium,5,0.5,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2141-12
+M214113,Renewable Energy Engineer,214113,,9,5,1,3,low,4,0.4444,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2141-13
+M214114,Environment Engineer,214114,,9,3,0,6,medium,3,0.3333,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2141-14
+M214115,Energy Auditor,214115,,8,2,0,6,medium,2,0.25,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2141-15
+M214116,Materials Engineer,214116,,9,6,0,3,medium,4,0.4444,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2141-16
+M214201,Civil Engineering Technologist,214201,,10,4,0,6,medium,3,0.3,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2142-01
+M214202,Civil Engineer,214202,,8,4,0,4,medium,4,0.5,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2142-02
+M214203,Foundation Engineer,214203,,9,3,0,6,medium,5,0.5556,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2142-03
+M214204,Quantity Surveyor,214204,,9,6,0,3,medium,4,0.4444,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2142-04
+M214206,Engineer Grade J9,214206,,10,8,0,2,medium,5,0.5,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2142-06
+M214207,Quantity Surveyor Grade J9/J10,214207,,10,7,0,3,medium,6,0.6,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2142-07
+M214208,Building Surveyor Grade J9/J10,214208,,10,6,1,3,low,2,0.2,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2142-08
+M214301,Environmental Engineer,214301,,10,3,0,7,medium,2,0.2,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2143-01
+M214302,Environmental Analyst,214302,,9,5,0,4,medium,2,0.2222,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2143-02
+M214401,Mechanical Engineer,214401,,8,4,2,2,low,6,0.75,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2144-01
+M214402,Lift Engineer,214402,,7,3,0,4,medium,2,0.2857,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2144-02
+M214403,Competent Person (CP) - Internal Combustion Engine Engineer,214403,,8,2,2,4,low,3,0.375,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2144-03
+M214404,Welding Engineer,214404,,10,2,1,7,low,3,0.3,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2144-04
+M214405,Engineering Technologist,214405,,10,6,2,2,low,6,0.6,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2144-05
+M214406,Robotic Technologist,214406,,8,5,0,3,medium,5,0.625,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2144-06
+M214407,Aerospace Engineer,214407,,8,7,0,1,medium,6,0.75,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2144-07
+M214408,Mine Ventilation Engineer,214408,,9,3,2,4,low,3,0.3333,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2144-08
+M214501,Chemical Engineer,214501,,10,3,2,5,low,5,0.5,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2145-01
+M214601,Mining Engineer,214601,,10,3,2,5,low,3,0.3,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2146-01
+M214602,Petroleum Mining Engineer,214602,,10,2,3,5,low,3,0.3,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2146-02
+M214603,Metallurgist,214603,,8,4,2,2,low,4,0.5,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2146-03
+M214604,Assayer,214604,,9,4,2,3,low,7,0.7778,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2146-04
+M214605,Marine Section Leader,214605,,9,1,1,7,low,1,0.1111,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2146-05
+M214606,Hydraulics Engineer,214606,,10,6,2,2,low,3,0.3,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2146-06
+M214607,Water Management Engineer,214607,,5,4,0,1,medium,2,0.4,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2146-07
+M214608,Pipeline Mechanical Engineer,214608,,9,2,1,6,low,4,0.4444,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2146-08
+M214609,Pipe Stress Engineer,214609,,8,5,0,3,medium,5,0.625,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2146-09
+M214610,Blasting Expert (Mine),214610,,10,3,0,7,medium,3,0.3,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2146-10
+M214901,Explosive Ordnance Engineer,214901,,8,2,1,5,low,2,0.25,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2149-01
+M214902,Marine Salvage Engineer,214902,,10,2,1,7,low,1,0.1,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2149-02
+M214904,Industrial Health and Safety Engineer,214904,,8,4,0,4,medium,3,0.375,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2149-04
+M214905,Field Service Engineer,214905,,8,1,5,2,low,3,0.375,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2149-05
+M214906,Research Engineer,214906,,10,9,1,0,low,5,0.5,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2149-06
+M214907,Biomedical Engineer,214907,,9,1,4,4,low,3,0.3333,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2149-07
+M214908,Optical Engineer,214908,,7,6,0,1,medium,4,0.5714,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2149-08
+M214909,Quality Assurance/Quality Control Inspection Engineer (QA/QC),214909,,8,3,0,5,medium,5,0.625,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2149-09
+M214910,Commissioning Engineer,214910,,8,5,0,3,medium,2,0.25,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2149-10
+M214911,Nano Engineer,214911,,9,5,2,2,low,5,0.5556,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2149-11
+M214913,Factories and Machinery Inspector Grade J9,214913,,10,4,4,2,low,8,0.8,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2149-13
+M215101,Electrical Engineer,215101,,10,3,3,4,low,6,0.6,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2151-01
+M215102,Electrical Energy Auditor,215102,,9,3,2,4,low,2,0.2222,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2151-02
+M215103,Electrical Superintendent,215103,,7,1,0,6,medium,2,0.2857,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2151-03
+M215201,Electronics Engineer,215201,,9,2,2,5,low,4,0.4444,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2152-01
+M215202,Integrated Circuit (IC) Package Assembly Process Engineer,215202,,7,5,0,2,medium,6,0.8571,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2152-02
+M215301,Telecommunications Engineer,215301,,5,4,0,1,medium,3,0.6,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2153-01
+M215302,Network and Systems Engineer,215302,,7,4,0,3,medium,3,0.4286,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2153-02
+M215303,Acoustic Engineer,215303,,9,5,2,2,low,2,0.2222,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2153-03
+M216101,Architect,216101,,10,6,1,3,low,9,0.9,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2161-01
+M216102,Architect Grade J9/J10,216102,,10,6,0,4,medium,3,0.3,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2161-02
+M216201,Landscape Architect,216201,,8,6,0,2,medium,7,0.875,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2162-01
+M216202,Landscape Architect Grade J9,216202,,11,11,0,0,high,5,0.4545,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2162-02
+M216301,Commercial Products Designer,216301,,9,9,0,0,high,9,1.0,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2163-01
+M216302,Green Technology Design Professional,216302,,10,8,0,2,medium,6,0.6,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2163-02
+M216401,Town Planner,216401,,9,8,0,1,medium,3,0.3333,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2164-01
+M216402,Traffic Engineer,216402,,9,8,0,1,medium,3,0.3333,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2164-02
+M216403,Urban and Regional Planner,216403,,9,8,0,1,medium,1,0.1111,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2164-03
+M216404,Urban and Rural Planning Officer Grade J9,216404,,11,8,0,3,medium,1,0.0909,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2164-04
+M216501,Cartographer,216501,,7,5,0,2,medium,4,0.5714,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2165-01
+M216502,Surveyor,216502,,7,4,0,3,medium,4,0.5714,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2165-02
+M216503,Geospatialist Grade J9,216503,,15,7,3,5,low,8,0.5333,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2165-03
+M216504,Surveyor Grade J9,216504,,10,7,0,3,medium,7,0.7,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2165-04
+M216602,Poster Designer,216602,,10,10,0,0,high,8,0.8,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2166-02
+M216603,Designer Grade B9,216603,,10,4,0,6,medium,4,0.4,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2166-03
+M217101,Marine Engineer,217101,,8,1,2,5,low,3,0.375,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2171-01
+M217102,Naval Architect,217102,,7,5,0,2,medium,5,0.7143,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2171-02
+M217201,Hovercraft Pilot,217201,,8,3,0,5,medium,2,0.25,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2172-01
+M217202,Port Captain,217202,,8,3,0,5,medium,3,0.375,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2172-02
+M217203,Ship Navigator,217203,,8,4,1,3,low,1,0.125,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2172-03
+M217204,Marine Superintendent (Deck),217204,,10,2,0,8,medium,1,0.1,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2172-04
+M217205,Shipping Executive,217205,,10,2,0,8,medium,3,0.3,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2172-05
+M217206,Marine Officer Grade AL9,217206,,10,3,0,7,medium,2,0.2,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2172-06
+M217301,Pilot,217301,,10,5,1,4,low,4,0.4,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2173-01
+M217302,Flight Instructor,217302,,9,1,2,6,low,2,0.2222,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2173-02
+M217303,Aircraft Design Engineer,217303,,9,9,0,0,high,9,1.0,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2173-03
+M217304,Aeronautical Engineer,217304,,10,10,0,0,high,8,0.8,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2173-04
+M217306,Marine Aviation Officer,217306,,10,2,2,6,low,1,0.1,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2173-06
+M217308,Pilot/Pilot Inspector Grade AT9,217308,,10,1,0,9,medium,4,0.4,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2173-08
+M217309,Aircraft Examiner Grade AT9,217309,,10,1,6,3,low,2,0.2,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2173-09
+M217310,Pilot/Pilot Examiner Grade AT10,217310,,10,2,0,8,medium,3,0.3,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2173-10
+M217311,Pilot/Pilot Examiner Grade AT12,217311,,10,3,0,7,medium,6,0.6,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2173-11
+M217312,Pilot/Pilot Examiner Grade AT13,217312,,10,0,0,10,medium,5,0.5,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2173-12
+M217313,Pilot/Pilot Examiner Grade AT14 (Flight Operation Director),217313,,11,5,0,6,medium,4,0.3636,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2173-13
+M217401,Air Traffic Controller,217401,,9,4,0,5,medium,3,0.3333,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2174-01
+M217402,Operation Centre Controller,217402,,7,4,0,3,medium,1,0.1429,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2174-02
+M217404,Air Traffic Control Officer Grade A9,217404,,10,3,2,5,low,3,0.3,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2174-04
+M217501,Railway and Locomotive Operation Officer,217501,,8,3,1,4,low,4,0.5,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2175-01
+M218101,Mining Executive,218101,,10,4,1,5,low,3,0.3,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2181-01
+M218201,Manufacturing Executive,218201,,9,2,1,6,low,1,0.1111,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2182-01
+M218202,Quality Assurance Executive,218202,,10,3,0,7,medium,3,0.3,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2182-02
+M218203,Store Executive,218203,,9,2,0,7,medium,2,0.2222,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2182-03
+M218204,Competent Person (CP) - Boilerman,218204,,9,3,2,4,low,2,0.2222,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2182-04
+M218205,Technical Service Adviser,218205,,6,2,0,4,medium,1,0.1667,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2182-05
+M218206,Material Specialist,218206,,7,3,0,4,medium,3,0.4286,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2182-06
+M218207,Product Development Executive,218207,,9,5,0,4,medium,4,0.4444,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2182-07
+M218301,Construction Executive,218301,,7,4,1,2,low,4,0.5714,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2183-01
+M221101,Medical Doctor,221101,,10,2,1,7,low,2,0.2,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2211-01
+M221102,Medical Doctor (Gynaecology),221102,,7,3,0,4,medium,1,0.1429,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2211-02
+M221103,Medical Doctor (Cardiology),221103,,8,1,1,6,low,1,0.125,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2211-03
+M221104,Medical Doctor (Obstetrics),221104,,8,1,1,6,low,0,0.0,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2211-04
+M221105,Medical Doctor (Ophthalmology),221105,,8,1,0,7,medium,1,0.125,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2211-05
+M221106,Medical Doctor (Psychiatry),221106,,8,3,0,5,medium,1,0.125,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2211-06
+M221107,Medical Doctor (Radiology),221107,,7,3,0,4,medium,1,0.1429,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2211-07
+M221108,Medical Doctor (Skin),221108,,5,2,0,3,medium,1,0.2,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2211-08
+M221111,"Medical Officer Grade UD9, UD10",221111,,10,2,0,8,medium,1,0.1,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2211-11
+M221201,"Ear, Nose and Throat Specialist",221201,,7,1,0,6,medium,1,0.1429,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2212-01
+M221202,Anaesthetist,221202,,8,2,0,6,medium,0,0.0,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2212-02
+M221203,Medical Oncologist,221203,,9,3,0,6,medium,1,0.1111,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2212-03
+M221204,Psychiatrist,221204,,6,1,0,5,medium,0,0.0,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2212-04
+M221205,Ophthalmologist,221205,,8,0,0,8,medium,0,0.0,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2212-05
+M221206,Cardiologist,221206,,7,2,1,4,low,1,0.1429,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2212-06
+M221207,Neurologist,221207,,7,1,0,6,medium,1,0.1429,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2212-07
+M221208,Obstetrician and Gynaecologist,221208,,9,3,0,6,medium,1,0.1111,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2212-08
+M221209,Surgeon,221209,,8,1,1,6,low,1,0.125,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2212-09
+M221210,Dermatologist,221210,,7,1,0,6,medium,1,0.1429,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2212-10
+M221211,Orthopaedist,221211,,8,3,1,4,low,1,0.125,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2212-11
+M221212,Paediatrician,221212,,7,0,0,7,medium,2,0.2857,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2212-12
+M221213,Physician,221213,,8,1,1,6,low,1,0.125,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2212-13
+M221214,Radiologist,221214,,8,3,0,5,medium,0,0.0,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2212-14
+M221215,Urologist,221215,,9,1,1,7,low,1,0.1111,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2212-15
+M221216,Venereologist,221216,,7,1,1,5,low,1,0.1429,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2212-16
+M221217,Occupational Therapist,221217,,8,2,2,4,low,1,0.125,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2212-17
+M222101,Professional Nurse,222101,,8,2,1,5,low,1,0.125,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2221-01
+M222102,Specialist Nurse,222102,,9,3,1,5,low,1,0.1111,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2221-02
+M222103,Nurse Instructor,222103,,10,3,0,7,medium,3,0.3,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2221-03
+M222104,Nurse Grade U9,222104,,10,5,1,4,low,3,0.3,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2221-04
+M222201,Professional Midwife,222201,,7,1,0,6,medium,0,0.0,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2222-01
+M224101,Paramedic,224101,,8,1,2,5,low,1,0.125,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2241-01
+M225101,Veterinarian,225101,,9,3,1,5,low,1,0.1111,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2251-01
+M225102,Veterinary Officer Grade GV9,225102,,10,1,0,9,medium,3,0.3,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2251-02
+M226101,Dentist,226101,,6,1,0,5,medium,0,0.0,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2261-01
+M226102,Dental Officer Grade UG9,226102,,8,1,0,7,medium,1,0.125,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2261-02
+M226201,Pharmacist,226201,,8,1,0,7,medium,1,0.125,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2262-01
+M226202,Pharmacist Grade UF9,226202,,10,3,0,7,medium,2,0.2,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2262-02
+M226203,Pharmacist Grade UF10,226203,,10,3,0,7,medium,2,0.2,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2262-03
+M226301,Occupational Safety and Health Adviser,226301,,8,4,0,4,medium,4,0.5,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2263-01
+M226302,Competent Person (CP) - Assessor,226302,,7,3,1,3,low,2,0.2857,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2263-02
+M226303,Competent Person (CP) - Waste Management,226303,,8,1,1,6,low,1,0.125,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2263-03
+M226304,Building Auditor,226304,,8,2,1,5,low,2,0.25,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2263-04
+M226305,Halal Executive,226305,,9,2,0,7,medium,1,0.1111,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2263-05
+M226306,Food and Drinks Technologist,226306,,7,3,0,4,medium,3,0.4286,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2263-06
+M226307,Landfill Engineer,226307,,8,2,1,5,low,3,0.375,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2263-07
+M226308,Competent Person (CP) - Major Hazard,226308,,9,3,0,6,medium,2,0.2222,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2263-08
+M226310,Ergonomist,226310,,5,1,2,2,low,3,0.6,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2263-10
+M226311,Authorised Gas Tester and Entry Supervisor,226311,,9,1,2,6,low,2,0.2222,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2263-11
+M226312,Environmental Health Officer Grade U9,226312,,5,5,0,0,high,4,0.8,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2263-12
+M226401,Orthopaedic Physical Therapist,226401,,8,2,1,5,low,2,0.25,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2264-01
+M226402,Medical Rehabilitation Officer Grade U9,226402,,6,3,1,2,low,3,0.5,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2264-02
+M226501,Dietitian,226501,,8,3,0,5,medium,2,0.25,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2265-01
+M226502,Dietetics Officer Grade U9,226502,,7,0,0,7,medium,1,0.1429,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2265-02
+M226503,Food Preparation Officer Grade C9,226503,,8,3,1,4,low,2,0.25,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2265-03
+M226601,Audiologist,226601,,9,2,1,6,low,3,0.3333,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2266-01
+M226602,Speech Therapist,226602,,7,4,0,3,medium,1,0.1429,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2266-02
+M226603,Orthoepist,226603,,8,4,1,3,low,2,0.25,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2266-03
+M226701,Optometrist,226701,,8,2,0,6,medium,0,0.0,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2267-01
+M226702,Optometry Officer Grade U9,226702,,9,1,0,8,medium,3,0.3333,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2267-02
+M226902,Radiographer Grade U9,226902,,9,1,1,7,low,1,0.1111,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2269-02
+M226903,Instructor Grade U9,226903,,8,2,0,6,medium,3,0.375,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2269-03
+M231104,Dental Lecturer Grade DUG13P,231104,,10,5,0,5,medium,1,0.1,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2311-04
+M231107,Pharmacy Lecturer Grade DUF11,231107,,8,3,0,5,medium,2,0.25,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2311-07
+M232101,Vocational Teacher,232101,,8,1,1,6,low,1,0.125,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2321-01
+M238101,Skills Training Trainer,238101,,9,1,1,7,low,4,0.4444,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2381-01
+M238102,Vocational Training Officer Grade DV9,238102,,10,6,2,2,low,7,0.7,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2381-02
+M238103,Vocational Training Officer Grade DV10,238103,,10,6,2,2,low,6,0.6,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2381-03
+M238104,Vocational Training Officer Grade DV12,238104,,10,5,2,3,low,3,0.3,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2381-04
+M238105,Vocational Training Officer Grade DV13,238105,,10,4,2,4,low,3,0.3,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2381-05
+M238106,Vocational Training Officer Grade DV14,238106,,8,5,1,2,low,3,0.375,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2381-06
+M238107,"Assistant Vocational Training Officer Grade DV5, DV6, DV7, DV8",238107,,10,2,1,7,low,4,0.4,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2381-07
+M239301,Software Trainer,239301,,7,1,2,4,low,3,0.4286,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2393-01
+M242102,Operation Research Analyst,242102,,7,3,0,4,medium,3,0.4286,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2421-02
+M242401,Staff Training Officer,242401,,8,3,0,5,medium,5,0.625,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2424-01
+M242601,Agro-Based Biotech Food Researcher,242601,,7,5,0,2,medium,3,0.4286,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2426-01
+M242602,Aquaculture Biotech Researcher,242602,,8,4,1,3,low,2,0.25,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2426-02
+M242603,Research and Development Executive,242603,,8,5,0,3,medium,3,0.375,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2426-03
+M242604,Research Officer,242604,,9,8,0,1,medium,3,0.3333,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2426-04
+M242606,Research Officer Grade Q9,242606,,10,6,1,3,low,6,0.6,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2426-06
+M242607,Scientific Officer Grade C9,242607,,10,3,3,4,low,2,0.2,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2426-07
+M243103,Technical Sales Engineer,243103,,10,6,0,4,medium,1,0.1,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2431-03
+M243104,Product Specialist,243104,,8,4,0,4,medium,3,0.375,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2431-04
+M243301,Sales Representative (Medical),243301,,7,5,0,2,medium,2,0.2857,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2433-01
+M243302,Application Specialist (Haematology),243302,,8,3,2,3,low,3,0.375,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2433-02
+M243401,Sales Representative (Information and Communications Technology),243401,,9,6,0,3,medium,3,0.3333,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2434-01
+M243402,Digital Banking-Internet Technology Specialist,243402,,7,7,0,0,high,2,0.2857,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2434-02
+M251101,Management Information Systems (MIS) Analyst,251101,,8,7,0,1,medium,7,0.875,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2511-01
+M251102,Technical Specialist (.Net),251102,,10,8,0,2,medium,6,0.6,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2511-02
+M251103,Register Transfer Level (RTL) Designer (Information Technology),251103,,10,10,0,0,high,9,0.9,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2511-03
+M251104,Design Engineer (Information Technology),251104,,8,8,0,0,high,8,1.0,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2511-04
+M251201,Software Developer,251201,,10,10,0,0,high,10,1.0,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2512-01
+M251202,Information Technology Systems Architect,251202,,8,6,0,2,medium,5,0.625,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2512-02
+M251203,Information Systems Executive,251203,,10,8,0,2,medium,6,0.6,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2512-03
+M251301,Website Developer,251301,,9,4,0,5,medium,5,0.5556,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2513-01
+M251302,Internet/Intranet Developer,251302,,10,7,0,3,medium,7,0.7,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2513-02
+M251401,Computer Programmer,251401,,8,6,0,2,medium,8,1.0,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2514-01
+M251402,Systems Programmer,251402,,8,8,0,0,high,7,0.875,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2514-02
+M251403,C/C++ Programmer,251403,,9,5,0,4,medium,7,0.7778,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2514-03
+M251404,Computer Infrastructure Specialist,251404,,9,4,0,5,medium,4,0.4444,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2514-04
+M251405,User Interface (UI)/Gameplay Coder,251405,,9,4,0,5,medium,6,0.6667,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2514-05
+M251901,Systems Tester,251901,,8,8,0,0,high,7,0.875,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2519-01
+M251902,Information Technology Auditor,251902,,6,4,0,2,medium,3,0.5,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2519-02
+M251903,Machine Learning/Artificial Intelligence (AI) Engineer,251903,,8,6,0,2,medium,6,0.75,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2519-03
+M252101,Database Architect,252101,,9,9,0,0,high,9,1.0,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2521-01
+M252102,Database Administrator,252102,,8,7,0,1,medium,7,0.875,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2521-02
+M252105,Oracle Database Administrator,252105,,8,7,0,1,medium,7,0.875,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2521-05
+M252201,Information Systems Officer,252201,,8,5,0,3,medium,3,0.375,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2522-01
+M252202,Information Technology Support Officer,252202,,9,6,1,2,low,4,0.4444,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2522-02
+M252203,Computer Support Engineer,252203,,10,7,1,2,low,4,0.4,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2522-03
+M252204,Information Technology Technical Specialist,252204,,9,6,0,3,medium,4,0.4444,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2522-04
+M252205,Cloud Computing Solution Architect,252205,,8,8,0,0,high,5,0.625,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2522-05
+M252209,Geographic Information Systems (GIS) Officer,252209,,8,7,0,1,medium,7,0.875,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2522-09
+M252211,Information Technology Officer Grade F9,252211,,5,2,0,3,medium,2,0.4,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2522-11
+M252301,Network Specialist,252301,,8,3,0,5,medium,3,0.375,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2523-01
+M252401,Data Scientist,252401,,7,6,0,1,medium,6,0.8571,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2524-01
+M252402,Data Analyst,252402,,8,7,0,1,medium,7,0.875,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2524-02
+M252403,Data Architect,252403,,8,8,0,0,high,8,1.0,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2524-03
+M253101,Cybersecurity Executive,253101,,8,5,0,3,medium,5,0.625,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2531-01
+M253102,Digital Forensic Specialist,253102,,6,6,0,0,high,4,0.6667,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2531-02
+M253103,Information Security Officer,253103,,9,4,0,5,medium,4,0.4444,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2531-03
+M253104,Cybersecurity Analyst,253104,,8,5,0,3,medium,4,0.5,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2531-04
+M253105,Test Analyst (Information Technology),253105,,9,7,0,2,medium,8,0.8889,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2531-05
+M253106,Security Infrastructure Engineer,253106,,8,4,0,4,medium,4,0.5,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2531-06
+M253107,Internet Safety Evaluator,253107,,6,4,0,2,medium,6,1.0,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2531-07
+M254101,Compositor/Composite Artist,254101,,7,2,0,5,medium,0,0.0,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2541-01
+M254102,Scriptwriter / Screenwriter,254102,,7,3,0,4,medium,2,0.2857,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2541-02
+M254103,Digital Artist,254103,,8,4,0,4,medium,3,0.375,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2541-03
+M254104,Multimedia Designer/Artist/Animator,254104,,9,4,0,5,medium,4,0.4444,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2541-04
+M254105,Visualization Specialist,254105,,7,4,0,3,medium,4,0.5714,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2541-05
+M254106,Computer Specialist,254106,,9,5,1,3,low,3,0.3333,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2541-06
+M254107,Story Content Writer,254107,,7,4,0,3,medium,4,0.5714,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2541-07
+M254108,3D Generalist,254108,,10,4,0,6,medium,2,0.2,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2541-08
+M254201,Game Designer (Digital),254201,,9,4,0,5,medium,6,0.6667,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2542-01
+M254202,QA Tester/Game Tester (Digital),254202,,6,6,0,0,high,6,1.0,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2542-02
+M254203,Game Producer (Digital),254203,,10,4,0,6,medium,4,0.4,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2542-03
+M254204,Concept Artist,254204,,7,3,0,4,medium,3,0.4286,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2542-04
+M254205,Technical Artist,254205,,7,1,0,6,medium,1,0.1429,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2542-05
+M254206,"Creative, Performing and Media Production Directors",254206,,9,3,0,6,medium,3,0.3333,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2542-06
+M254207,Graphics Programmer,254207,,8,3,0,5,medium,3,0.375,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2542-07
+M254208,Graphics Creator,254208,,9,6,0,3,medium,3,0.3333,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2542-08
+M254301,Web Designer,254301,,8,7,0,1,medium,7,0.875,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2543-01
+M254302,Graphics Designer,254302,,9,8,0,1,medium,7,0.7778,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2543-02
+M254303,UX Designer (User Experience),254303,,8,5,0,3,medium,5,0.625,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2543-03
+M254304,Digital Designer,254304,,8,7,0,1,medium,7,0.875,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2543-04
+M254305,Creative Team Leader,254305,,9,3,0,6,medium,2,0.2222,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2543-05
+M254306,Character Rigger,254306,,7,1,0,6,medium,2,0.2857,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2543-06
+M261906,Coroner,261906,,9,2,0,7,medium,3,0.3333,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2619-06
+M282203,Archaeologist,282203,,8,4,1,3,low,3,0.375,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2822-03
+M282204,Geographer,282204,,7,5,2,0,low,3,0.4286,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2822-04
+M282206,Criminologist,282206,,6,2,0,4,medium,2,0.3333,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2822-06
+M282401,Clinical Psychologist,282401,,8,5,0,3,medium,2,0.25,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2824-01
+M291602,Industrial Relations Officer Grade S9,291602,,10,3,0,7,medium,3,0.3,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2916-02
+M291606,Maritime Superintendent Officer Grade T8,291606,,10,1,0,9,medium,0,0.0,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/2916-06
+M311101,Geophysics Technician,311101,,8,3,5,0,low,6,0.75,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3111-01
+M311102,Chemistry Technician,311102,,10,4,2,4,low,5,0.5,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3111-02
+M311103,Physics Science Laboratory Technician,311103,,9,4,4,1,low,3,0.3333,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3111-03
+M311104,Physical Science Technician,311104,,10,3,5,2,low,5,0.5,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3111-04
+M311105,Chemistry Laboratory Assistant,311105,,10,4,2,4,low,4,0.4,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3111-05
+M311106,Soil Technician,311106,,10,4,2,4,low,8,0.8,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3111-06
+M311107,Meteorological Technician,311107,,10,7,3,0,low,7,0.7,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3111-07
+M311108,Geological Technician,311108,,10,2,3,5,low,4,0.4,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3111-08
+M311109,Oceanography Technician,311109,,10,6,3,1,low,7,0.7,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3111-09
+M311110,Slope Monitoring Technician,311110,,9,4,0,5,medium,3,0.3333,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3111-10
+M311111,Climate Science Technician,311111,,9,6,2,1,low,8,0.8889,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3111-11
+M311112,Laboratory Technician,311112,,10,3,3,4,low,4,0.4,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3111-12
+M311113,Laboratory Assistant Grade C1,311113,,8,3,1,4,low,4,0.5,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3111-13
+M311114,"Research Assistant Grade Q1, Q2, Q3, Q4",311114,,8,5,1,2,low,5,0.625,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3111-14
+M311115,Assistant Meteorological Officer Grade C5,311115,,10,5,4,1,low,7,0.7,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3111-15
+M311116,Assistant Science Officer Grade C5,311116,,6,3,2,1,low,6,1.0,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3111-16
+M311117,Assistant Research Officer Grade Q5,311117,,2,0,2,0,low,2,1.0,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3111-17
+M311201,Civil Engineering Technician,311201,,10,6,2,2,low,7,0.7,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3112-01
+M311202,Civil Engineering Estimator,311202,,9,4,0,5,medium,5,0.5556,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3112-02
+M311203,Engineering Designer,311203,,9,9,0,0,high,9,1.0,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3112-03
+M311204,Civil Engineering Supervisor,311204,,9,3,1,5,low,3,0.3333,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3112-04
+M311205,Tunnel Boring Machine Technician,311205,,9,2,1,6,low,2,0.2222,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3112-05
+M311206,Building Inspector,311206,,8,4,1,3,low,4,0.5,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3112-06
+M311207,Geotechnical Technician,311207,,5,1,1,3,low,2,0.4,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3112-07
+M311208,Fire Inspector,311208,,9,3,0,6,medium,4,0.4444,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3112-08
+M311209,Surveying Technician,311209,,8,3,2,3,low,3,0.375,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3112-09
+M311211,Process Instrument Technician,311211,,9,4,1,4,low,4,0.4444,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3112-11
+M311212,Assistant Civil Engineer,311212,,10,7,0,3,medium,6,0.6,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3112-12
+M311213,Operation Technician,311213,,9,2,2,5,low,3,0.3333,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3112-13
+M311214,Green Building Facilities Maintenance Technician,311214,,6,1,1,4,low,1,0.1667,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3112-14
+M311216,Assistant Engineer Maintenance,311216,,8,1,3,4,low,1,0.125,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3112-16
+M311217,Quantity Surveyor Assistant,311217,,9,8,0,1,medium,8,0.8889,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3112-17
+M311219,Assistant Engineer Grade JA5,311219,,9,2,0,7,medium,3,0.3333,medium,2,pending,research_pre_rating_only,unit_group_inherited,https://emasco.mohr.gov.my/masco/3112
+M311220,Assistant Quantity Surveyor Grade JA5,311220,,5,5,0,0,high,4,0.8,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3112-20
+M311222,Assistant Building Surveyor Grade J5,311222,,5,5,0,0,high,3,0.6,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3112-22
+M311301,Electrical Engineering Technician,311301,,9,2,1,6,low,5,0.5556,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3113-01
+M311303,Electrical and Instrument Supervisor,311303,,10,1,3,6,low,5,0.5,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3113-03
+M311304,Electrical Engineering Estimator,311304,,8,3,1,4,low,4,0.5,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3113-04
+M311306,Electrical High Voltage Technician,311306,,9,3,1,5,low,2,0.2222,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3113-06
+M311307,Debug Technician,311307,,9,3,2,4,low,6,0.6667,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3113-07
+M311308,Assistant Electrical Engineer,311308,,10,2,2,6,low,3,0.3,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3113-08
+M311401,Electronics Engineering Technician,311401,,8,1,1,6,low,3,0.375,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3114-01
+M311402,Electronics Engineering Estimator,311402,,8,3,0,5,medium,4,0.5,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3114-02
+M311403,Electronics Design Technician,311403,,8,3,2,3,low,4,0.5,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3114-03
+M311404,Semi-Conductor Technician,311404,,8,0,5,3,low,2,0.25,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3114-04
+M311501,Mechanical Engineering Technician,311501,,8,2,2,4,low,3,0.375,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3115-01
+M311502,Mechanical Engineering Assistant,311502,,8,3,3,2,low,5,0.625,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3115-02
+M311503,Mechanical Engineering Estimator,311503,,10,4,1,5,low,5,0.5,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3115-03
+M311504,Port Master/Dockmaster,311504,,7,2,0,5,medium,3,0.4286,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3115-04
+M311505,Hydraulic Hose Technician,311505,,9,2,1,6,low,2,0.2222,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3115-05
+M311506,Mechatronics Technician,311506,,9,4,2,3,low,4,0.4444,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3115-06
+M311507,CNC Technician (Computer Numerical Control),311507,,10,2,2,6,low,3,0.3,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3115-07
+M311508,Welding Technician,311508,,9,2,3,4,low,3,0.3333,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3115-08
+M311509,Steelmaking Technician,311509,,9,4,3,2,low,4,0.4444,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3115-09
+M311510,Competent Person (CP) - Hygiene Technician,311510,,8,3,3,2,low,3,0.375,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3115-10
+M311511,Mechatronics Engineering Assistant,311511,,7,5,2,0,low,4,0.5714,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3115-11
+M311512,CAD/CAM (Computer-Aided Design and Manufacturing) Technician,311512,,9,5,0,4,medium,5,0.5556,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3115-12
+M311515,Equipment Technician,311515,,7,1,3,3,low,1,0.1429,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3115-15
+M311516,Assistant Equipment Engineer,311516,,8,0,5,3,low,1,0.125,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3115-16
+M311517,Assistant Welding Engineer,311517,,7,2,1,4,low,3,0.4286,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3115-17
+M311518,AutoCAD Designer,311518,,9,5,1,3,low,6,0.6667,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3115-18
+M311519,Pneumatic Supervisor,311519,,8,4,2,2,low,1,0.125,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3115-19
+M311520,Repair and Maintenance (R&M) Technician,311520,,8,1,4,3,low,2,0.25,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3115-20
+M311521,Optical Engineering Technician,311521,,9,1,4,4,low,3,0.3333,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3115-21
+M311601,Chemical Engineering Technician,311601,,7,3,3,1,low,4,0.5714,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3116-01
+M311602,Oil Technologist,311602,,5,0,2,3,low,1,0.2,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3116-02
+M311603,Chemical Petroleum Technician,311603,,6,3,3,0,low,3,0.5,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3116-03
+M311604,Chemical Engineering Estimator,311604,,4,3,0,1,medium,3,0.75,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3116-04
+M311701,Metallurgical Technician,311701,,6,3,2,1,low,3,0.5,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3117-01
+M311702,Metallurgical Laboratory Assistant,311702,,8,2,5,1,low,5,0.625,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3117-02
+M311703,Mining Assistant,311703,,7,2,3,2,low,3,0.4286,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3117-03
+M311704,Associate Field Professional,311704,,8,2,3,3,low,2,0.25,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3117-04
+M311801,Draughtsperson,311801,,6,3,0,3,medium,3,0.5,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3118-01
+M311802,Geospatial Technician,311802,,7,6,0,1,medium,6,0.8571,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3118-02
+M311804,Draughtsperson (Architecture) Grade JA1,311804,,10,7,0,3,medium,6,0.6,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3118-04
+M311805,Assistant Architectural Officer Grade JA5,311805,,10,8,0,2,medium,7,0.7,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3118-05
+M311806,Draughtsperson (Civil Engineering) Grade JA1,311806,,5,4,0,1,medium,1,0.2,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3118-06
+M311807,Assistant Landscape Architect Grade JA5,311807,,11,5,3,3,low,3,0.2727,low,2,pending,research_pre_rating_only,unit_group_inherited,https://emasco.mohr.gov.my/masco/3118
+M311808,Assistant Land Officer Grade NT5,311808,,9,3,0,6,medium,3,0.3333,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3118-08
+M311809,Land Administration Assistant/Assistant Land Administrator Grade NT5,311809,,10,5,0,5,medium,5,0.5,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3118-09
+M311810,Assistant Surveyor Grade JA5,311810,,11,5,3,3,low,3,0.2727,low,2,pending,research_pre_rating_only,unit_group_inherited,https://emasco.mohr.gov.my/masco/3118
+M311811,Assistant Urban and Rural Planning Officer Grade JA7,311811,,11,5,3,3,low,3,0.2727,low,2,pending,research_pre_rating_only,unit_group_inherited,https://emasco.mohr.gov.my/masco/3118
+M311901,Engineering Technician (Production),311901,,9,1,5,3,low,2,0.2222,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3119-01
+M311902,Quality Assurance Engineering Technician,311902,,9,1,2,6,low,4,0.4444,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3119-02
+M311904,Food Processing Technician,311904,,9,1,3,5,low,2,0.2222,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3119-04
+M311905,Crankshaft Grinding Technician,311905,,9,1,2,6,low,1,0.1111,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3119-05
+M311906,Agro-Based Biotech Research Technician,311906,,7,3,1,3,low,3,0.4286,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3119-06
+M311907,Aquaculture Biotech Research Technician,311907,,8,3,1,4,low,3,0.375,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3119-07
+M311909,Test Technician,311909,,8,2,2,4,low,7,0.875,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3119-09
+M311914,Assistant Factory and Machinery Inspector Grade JA5,311914,,6,1,2,3,low,1,0.1667,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3119-14
+M312201,Manufacturing Supervisor,312201,,10,4,1,5,low,3,0.3,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3122-01
+M312202,Finishing Supervisor,312202,,9,1,1,7,low,2,0.2222,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3122-02
+M312203,Compounding Supervisor,312203,,10,3,0,7,medium,3,0.3,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3122-03
+M312204,Cutting Supervisor,312204,,10,3,3,4,low,4,0.4,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3122-04
+M312205,Plywood Inspection Supervisor,312205,,8,4,1,3,low,5,0.625,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3122-05
+M312206,Sawyer Supervisor,312206,,9,1,2,6,low,2,0.2222,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3122-06
+M312207,Halal Food Manufacturing Production Supervisor,312207,,9,2,1,6,low,2,0.2222,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3122-07
+M312208,Halal Meat Processing Quality Assurance Supervisor,312208,,9,4,0,5,medium,4,0.4444,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3122-08
+M312212,Maintenance Supervisor,312212,,7,1,2,4,low,2,0.2857,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3122-12
+M312213,Halal Slaughterhouse Supervisor,312213,,7,2,1,4,low,2,0.2857,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3122-13
+M312214,Halal Logistics Operation Warehouse Supervisor,312214,,7,2,0,5,medium,2,0.2857,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3122-14
+M312217,Industrial Robot Controller,312217,,7,1,1,5,low,2,0.2857,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3122-17
+M312218,Quality Assurance Supervisor,312218,,8,3,0,5,medium,4,0.5,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3122-18
+M312301,Operation Supervisor,312301,,7,2,1,4,low,3,0.4286,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3123-01
+M312302,Construction Supervisor,312302,,10,3,2,5,low,4,0.4,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3123-02
+M313101,Power Generating Plant Operator,313101,,10,4,3,3,low,1,0.1,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3131-01
+M313102,Powerhouse Fabricator,313102,,7,1,2,4,low,1,0.1429,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3131-02
+M313103,Solar Power Plant Operator,313103,,9,5,2,2,low,1,0.1111,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3131-03
+M313104,Distribution Control Operator,313104,,9,4,1,4,low,2,0.2222,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3131-04
+M313105,Power Systems Operator,313105,,9,5,1,3,low,1,0.1111,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3131-05
+M313107,Solar Cell Technician,313107,,8,5,0,3,medium,3,0.375,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3131-07
+M313201,Stationary Engine Operator,313201,,8,1,3,4,low,1,0.125,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3132-01
+M313301,Chemical Processing Plant Controller / Supervisor,313301,,10,2,2,6,low,2,0.2,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3133-01
+M313401,Gas Plant Operator,313401,,9,1,4,4,low,2,0.2222,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3134-01
+M313402,Pumping-Station Petroleum and Natural Gas Operator,313402,,10,1,3,6,low,2,0.2,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3134-02
+M313403,Refinery Process Technician,313403,,9,2,3,4,low,1,0.1111,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3134-03
+M313501,Metal Processing Control Operator,313501,,9,1,4,4,low,1,0.1111,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3135-01
+M314101,Biological Technician,314101,,9,4,3,2,low,3,0.3333,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3141-01
+M314102,Entomological Technician,314102,,10,2,1,7,low,4,0.4,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3141-02
+M314103,Botanical Technician,314103,,9,7,1,1,low,3,0.3333,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3141-03
+M314104,Artificial Breeding Technician,314104,,10,2,1,7,low,3,0.3,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3141-04
+M314105,Zoological Technician,314105,,10,8,2,0,low,4,0.4,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3141-05
+M314201,Soil Science Technician,314201,,9,2,2,5,low,3,0.3333,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3142-01
+M314202,Horticulture Technician,314202,,10,9,1,0,low,4,0.4,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3142-02
+M314203,Irrigation Technician,314203,,5,2,2,1,low,1,0.2,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3142-03
+M314204,Farming Technician (Animal Production),314204,,9,3,1,5,low,4,0.4444,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3142-04
+M314205,Halal Livestock Production Supervisor,314205,,8,2,0,6,medium,2,0.25,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3142-05
+M314206,Assistant Agricultural Officer Grade G5,314206,,10,7,1,2,low,7,0.7,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3142-06
+M314207,Assistant Land Planning Officer Grade G5,314207,,8,3,2,3,low,4,0.5,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3142-07
+M314208,Land Scheme Supervisor Grade G1,314208,,7,1,0,6,medium,1,0.1429,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3142-08
+M314301,Forestry Technician,314301,,10,5,1,4,low,3,0.3,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3143-01
+M314303,Assistant Conservator of Forests Grade G5,314303,,7,0,0,7,medium,0,0.0,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3143-03
+M314304,Assistant Wildlife Officer Grade G5,314304,,8,0,0,8,medium,1,0.125,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3143-04
+M314305,Wildlife Assistant Grade G1,314305,,6,0,0,6,medium,1,0.1667,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3143-05
+M314401,Hatchery Technician,314401,,10,3,2,5,low,5,0.5,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3144-01
+M314402,Hatchery Supervisor,314402,,9,3,2,4,low,3,0.3333,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3144-02
+M314403,Fishery Technician,314403,,9,2,2,5,low,4,0.4444,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3144-03
+M314404,Hatchery Assistant,314404,,10,3,3,4,low,4,0.4,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3144-04
+M314405,Aquaculture Technician,314405,,7,3,1,3,low,3,0.4286,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3144-05
+M314407,Assistant Fisheries Officer Grade G5,314407,,9,5,1,3,low,4,0.4444,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3144-07
+M315101,Air Traffic Safety Technician,315101,,7,3,3,1,low,3,0.4286,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3151-01
+M315102,Aviation Maintenance Technician,315102,,8,3,1,4,low,2,0.25,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3151-02
+M315103,Aircraft Restorer,315103,,6,1,0,5,medium,3,0.5,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3151-03
+M315104,Airframe and Power Plant Technician,315104,,8,1,0,7,medium,3,0.375,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3151-04
+M315105,Rocket Engine Component Technician,315105,,6,2,0,4,medium,5,0.8333,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3151-05
+M315107,"Aircraft Examiner Grade A5, A6",315107,,10,2,4,4,low,7,0.7,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3151-07
+M315108,Assistant Air Traffic Control Officer Grade A5,315108,,9,4,0,5,medium,4,0.4444,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3151-08
+M315201,Berthing Master,315201,,9,3,0,6,medium,1,0.1111,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3152-01
+M315202,Ship Technician,315202,,5,1,0,4,medium,1,0.2,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3152-02
+M315203,Marine Assistant Grade A1,315203,,8,5,0,3,medium,6,0.75,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3152-03
+M315204,Assistant Marine Officer Grade A5,315204,,8,4,0,4,medium,3,0.375,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3152-04
+M315301,Train Technician,315301,,6,2,0,4,medium,1,0.1667,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3153-01
+M315302,Track Network Technician,315302,,6,3,0,3,medium,3,0.5,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3153-02
+M315303,Signalling and Communication Technician,315303,,6,5,1,0,low,1,0.1667,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3153-03
+M315401,Motor Vehicle Technician,315401,,9,5,0,4,medium,5,0.5556,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3154-01
+M315901,Transport/Logistics Supervisor,315901,,9,2,0,7,medium,2,0.2222,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3159-01
+M315902,Green Technology Infrastructure Assistant Facilitator,315902,,10,4,0,6,medium,2,0.2,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3159-02
+M316101,Nuclear Technician,316101,,9,1,2,6,low,3,0.3333,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3161-01
+M321101,Radiographer,321101,,9,2,2,5,low,2,0.2222,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3211-01
+M321102,Radiographer Grade U5,321102,,5,2,1,2,low,2,0.4,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3211-02
+M321201,Ecology Technician,321201,,9,6,1,2,low,5,0.5556,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3212-01
+M321202,Histology Technician,321202,,9,4,1,4,low,5,0.5556,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3212-02
+M321203,Cytology Technician,321203,,7,2,1,4,low,3,0.4286,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3212-03
+M321204,Physiology Technician,321204,,6,2,2,2,low,5,0.8333,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3212-04
+M321205,Parasitological Assistant,321205,,7,1,2,4,low,2,0.2857,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3212-05
+M321206,Medical Laboratory Technician,321206,,7,3,2,2,low,4,0.5714,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3212-06
+M321207,Surgical Technician,321207,,7,1,3,3,low,1,0.1429,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3212-07
+M321301,Pharmaceutical Assistant,321301,,7,1,0,6,medium,1,0.1429,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3213-01
+M321302,Pharmacy Aide,321302,,7,2,1,4,low,1,0.1429,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3213-02
+M321303,Assistant Pharmacy Officer Grade U5,321303,,9,2,0,7,medium,3,0.3333,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3213-03
+M321401,Dental Technician,321401,,6,1,0,5,medium,1,0.1667,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3214-01
+M321402,Orthotist,321402,,5,3,1,1,low,2,0.4,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3214-02
+M321501,Prosthetic Technician,321501,,6,1,2,3,low,1,0.1667,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3215-01
+M321502,Medical Technician Grade U1,321502,,5,0,1,4,low,0,0.0,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3215-02
+M322101,Practical Nurse,322101,,10,2,1,7,low,2,0.2,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3221-01
+M322102,Nurse Grade U5,322102,,10,4,2,4,low,4,0.4,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3221-02
+M323101,Traditional and Complementary Medicine Associate Professional,323101,,9,2,0,7,medium,1,0.1111,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3231-01
+M324101,Veterinary Biotech Research Technician,324101,,10,6,1,3,low,4,0.4,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3241-01
+M324102,Veterinary Artificial Inseminator,324102,,8,2,1,5,low,2,0.25,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3241-02
+M324103,Veterinary Biotech Production Technician,324103,,7,3,1,3,low,2,0.2857,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3241-03
+M324104,Veterinary Nurse,324104,,9,2,0,7,medium,1,0.1111,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3241-04
+M324105,Animal Therapist,324105,,8,3,1,4,low,2,0.25,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3241-05
+M324107,Assistant Veterinary Officer Grade G5,324107,,10,3,0,7,medium,4,0.4,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3241-07
+M325101,Dental Aide/Assistant,325101,,7,1,1,5,low,3,0.4286,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3251-01
+M325102,Dental Hygienist,325102,,9,2,1,6,low,1,0.1111,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3251-02
+M325103,Dental Surgery Assistant Grade U1,325103,,10,1,2,7,low,1,0.1,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3251-03
+M325104,Dental Therapist Grade U5,325104,,5,2,0,3,medium,2,0.4,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3251-04
+M325301,Community Health Promoter,325301,,8,2,0,6,medium,3,0.375,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3253-01
+M325302,Village Health Worker,325302,,9,2,0,7,medium,1,0.1111,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3253-02
+M325303,Community Nurse Grade U1,325303,,10,4,2,4,low,2,0.2,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3253-03
+M325401,Optician,325401,,8,1,0,7,medium,0,0.0,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3254-01
+M325501,Massage Therapist,325501,,7,3,1,3,low,1,0.1429,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3255-01
+M325502,Physiotherapy Technician,325502,,8,3,1,4,low,4,0.5,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3255-02
+M325503,Stress Therapist,325503,,7,5,0,2,medium,0,0.0,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3255-03
+M325601,Medical Laboratory Assistant,325601,,7,2,1,4,low,3,0.4286,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3256-01
+M325602,Hospital Assistant,325602,,7,3,1,3,low,3,0.4286,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3256-02
+M325603,Diagnostic Imaging Equipment Technician,325603,,9,2,1,6,low,3,0.3333,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3256-03
+M325604,Sonographer,325604,,7,2,1,4,low,2,0.2857,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3256-04
+M325605,Clinical Instructor,325605,,7,2,1,4,low,2,0.2857,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3256-05
+M325606,Ophthalmic Assistant,325606,,8,1,0,7,medium,3,0.375,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3256-06
+M325607,Assistant Medical Officer Grade U5,325607,,5,1,0,4,medium,3,0.6,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3256-07
+M325701,Public Health Unit Inspector,325701,,10,4,1,5,low,3,0.3,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3257-01
+M325702,Occupational Safety and Health Inspector,325702,,9,2,2,5,low,2,0.2222,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3257-02
+M325703,Product Quality Inspector,325703,,10,5,1,4,low,4,0.4,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3257-03
+M325704,Water Inspector,325704,,10,6,2,2,low,4,0.4,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3257-04
+M325705,Mine Safety Inspector,325705,,9,2,1,6,low,1,0.1111,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3257-05
+M325706,Mine Examiner,325706,,10,3,1,6,low,1,0.1,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3257-06
+M325707,Assistant Food Technology Officer Grade C5,325707,,8,4,3,1,low,5,0.625,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3257-07
+M325708,Assistant Environmental Health Officer Grade U5,325708,,7,3,2,2,low,5,0.7143,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3257-08
+M325709,Assistant Environmental Control Officer Grade C5,325709,,10,2,1,7,low,4,0.4,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3257-09
+M325801,Ambulance Officer,325801,,6,2,1,3,low,1,0.1667,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3258-01
+M325802,Emergency Paramedic,325802,,8,2,2,4,low,1,0.125,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3258-02
+M331401,Assistant Statistics Officer Grade E5,331401,,8,6,1,1,low,7,0.875,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3314-01
+M351101,Computer Technician,351101,,7,5,2,0,low,4,0.5714,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3511-01
+M351102,Electronic Data Processing Technician,351102,,8,5,3,0,low,5,0.625,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3511-02
+M351103,Information Technology Assistant,351103,,9,6,2,1,low,5,0.5556,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3511-03
+M351104,Computer Console Operator,351104,,9,5,3,1,low,4,0.4444,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3511-04
+M351105,Engineering Assistant (Telecommunications),351105,,7,3,2,2,low,2,0.2857,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3511-05
+M351106,Management Information Systems Supervisor,351106,,9,6,0,3,medium,4,0.4444,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3511-06
+M351107,Computer Technician Grade FT1,351107,,9,5,0,4,medium,5,0.5556,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3511-07
+M351108,Assistant Information Technology Officer Grade FA5,351108,,9,6,0,3,medium,7,0.7778,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3511-08
+M351201,Computer Help Desk Technician,351201,,7,4,0,3,medium,4,0.5714,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3512-01
+M351202,Information Technology Technician,351202,,8,6,1,1,low,4,0.5,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3512-02
+M351203,Computer Assistant,351203,,5,3,1,1,low,3,0.6,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3512-03
+M351204,Communications Assistant (ICT),351204,,7,5,0,2,medium,3,0.4286,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3512-04
+M351205,Database Assistant,351205,,6,5,0,1,medium,6,1.0,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3512-05
+M351206,Computer Programming Assistant,351206,,6,6,0,0,high,6,1.0,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3512-06
+M351207,Call Centre Trainer,351207,,8,3,1,4,low,2,0.25,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3512-07
+M351208,Data Centre Supervisor,351208,,8,6,2,0,low,6,0.75,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3512-08
+M351209,Technical Support Technician,351209,,9,6,0,3,medium,4,0.4444,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3512-09
+M351301,Computer Network Technician,351301,,6,3,0,3,medium,3,0.5,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3513-01
+M351302,Network Security Technician (ICT),351302,,9,4,1,4,low,4,0.4444,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3513-02
+M351401,Web Technician,351401,,8,5,0,3,medium,5,0.625,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3514-01
+M351402,Creative Assistance,351402,,7,4,1,2,low,5,0.7143,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3514-02
+M352101,Cinematographer,352101,,9,3,3,3,low,1,0.1111,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3521-01
+M352102,Motion Picture Assistant,352102,,6,2,2,2,low,4,0.6667,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3521-02
+M352103,Sound Mixer,352103,,7,0,2,5,low,3,0.4286,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3521-03
+M352104,Ships Radio Officer,352104,,7,5,2,0,low,1,0.1429,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3521-04
+M352105,Broadcast Technician,352105,,9,2,3,4,low,4,0.4444,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3521-05
+M352106,Land-Base Radio Equipment Technician,352106,,8,6,0,2,medium,4,0.5,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3521-06
+M352107,Flight Radio Equipment Technician,352107,,5,2,1,2,low,1,0.2,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3521-07
+M352108,Videographer,352108,,7,2,3,2,low,1,0.1429,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3521-08
+M352109,Assistant Telecommunications Engineer,352109,,8,5,1,2,low,3,0.375,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3521-09
+M352111,"Audio-Visual Technician Grade N1, N2, N3, N4",352111,,4,0,2,2,low,2,0.5,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3521-11
+M352201,Telecommunications Technician,352201,,9,2,3,4,low,3,0.3333,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3522-01
+M363201,Interior Designer,363201,,8,5,0,3,medium,5,0.625,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3632-01
+M363206,Carve Technician,363206,,6,2,2,2,low,2,0.3333,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3632-06
+M363209,Designer Grade B1,363209,,10,5,2,3,low,7,0.7,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3632-09
+M363301,Gallery/Museum Technician,363301,,9,2,0,7,medium,1,0.1111,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3633-01
+M363302,Library Technician,363302,,8,2,0,6,medium,3,0.375,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3633-02
+M363401,Stage/Broadcast Production Technician,363401,,8,1,7,0,low,3,0.375,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/3634-01
+M411106,Economic Affairs Assistant Grade E1,411106,,10,5,0,5,medium,5,0.5,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/4111-06
+M413202,Data Entry Clerk,413202,,10,8,1,1,low,9,0.9,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/4132-02
+M422601,Enumerator/Survey Interviewer,422601,,9,4,1,4,low,4,0.4444,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/4226-01
+M431101,Auction Clerk,431101,,9,4,0,5,medium,5,0.5556,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/4311-01
+M431102,Audit Clerk,431102,,9,7,0,2,medium,6,0.6667,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/4311-02
+M431103,Credit Control Clerk,431103,,9,5,0,4,medium,6,0.6667,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/4311-03
+M431104,Billing Clerk,431104,,7,4,0,3,medium,6,0.8571,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/4311-04
+M431105,Property Clerk,431105,,8,7,0,1,medium,5,0.625,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/4311-05
+M431106,Cost Clerk,431106,,10,7,0,3,medium,8,0.8,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/4311-06
+M431107,Office Cash Clerk,431107,,9,5,0,4,medium,5,0.5556,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/4311-07
+M431108,Energy Audit Assistant Technician,431108,,9,5,1,3,low,5,0.5556,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/4311-08
+M431109,Compliance Assistant,431109,,7,3,0,4,medium,3,0.4286,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/4311-09
+M431110,Audit Assistant Grade W1,431110,,4,1,0,3,medium,1,0.25,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/4311-10
+M431201,Statistical Clerk,431201,,5,3,1,1,low,3,0.6,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/4312-01
+M431204,Finance Clerk,431204,,8,5,1,2,low,5,0.625,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/4312-04
+M431205,Brokerage Clerk,431205,,6,6,0,0,high,5,0.8333,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/4312-05
+M431206,Insurance Clerk,431206,,7,5,0,2,medium,4,0.5714,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/4312-06
+M431207,Tax Clerk,431207,,8,8,0,0,high,7,0.875,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/4312-07
+M431208,Investment Clerk,431208,,7,6,0,1,medium,5,0.7143,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/4312-08
+M431209,Adjustment Clerk,431209,,7,2,0,5,medium,3,0.4286,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/4312-09
+M431210,Stockbroker Clerk,431210,,9,5,0,4,medium,4,0.4444,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/4312-10
+M431211,Rating Clerk,431211,,7,4,0,3,medium,5,0.7143,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/4312-11
+M431212,Assistant Broker,431212,,8,6,0,2,medium,3,0.375,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/4312-12
+M431213,Collateral Clerk,431213,,6,6,0,0,high,6,1.0,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/4312-13
+M431214,Mortgage Clerk,431214,,7,5,0,2,medium,5,0.7143,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/4312-14
+M431215,Actuarial Assistant,431215,,7,6,0,1,medium,6,0.8571,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/4312-15
+M431216,E-Commerce Assistant,431216,,7,4,0,3,medium,2,0.2857,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/4312-16
+M431217,Leasing Assistant,431217,,7,6,0,1,medium,6,0.8571,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/4312-17
+M431218,Administrative Assistant (Finance) Grade W1,431218,,10,2,0,8,medium,1,0.1,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/4312-18
+M431219,Statistical Assistant Grade E1,431219,,8,5,0,3,medium,5,0.625,high,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/4312-19
+M531204,Vocational Training Assistant Grade DV1,531204,,9,1,1,7,low,3,0.3333,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/5312-04
+M531205,Vocational Training Assistant Grade DV2,531205,,9,1,1,7,low,3,0.3333,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/5312-05
+M532106,Public Health Assistant Grade U1,532106,,10,3,1,6,low,4,0.4,medium,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/5321-06
+M818202,Competent Person (CP) - Internal Combustion Engine Driver,818202,,9,0,2,7,low,0,0.0,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/8182-02
+M821101,Assembler,821101,,9,1,1,7,low,2,0.2222,low,2,pending,research_pre_rating_only,exact_occupation,https://emasco.mohr.gov.my/masco/8211-01

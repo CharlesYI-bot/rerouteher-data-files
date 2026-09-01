@@ -1,0 +1,169 @@
+The following is a diff from the previous accessibility tree for Window: "pgAdmin 4" with ~ and + representing changed and added elements, respectively. Removed elements are summarized by ID range.
+Removed element IDs: 506, 526-534
+~									460 button The session is idle and there is no current transaction.
++									538 container Cancel query
++									539 button Execute script F5
++									540 button Execute query
++									541 button Explain
++									542 button Explain Analyze
+~												502 tab (selectable) Data Output
+~												503 tab (selected) Messages
++										543 container Messages
++											544 text entry area Secondary Actions: Show Writing Tools, Value: NOTICE:  DATABASE rerouteher_test
+NOTICE:  COLUMN {"table_name":"dataset_metadata","column_name":"metadata_key","data_type":"text","udt_name":"text","is_nullable":"NO","column_default":null}
+NOTICE:  COLUMN {"table_name":"dataset_metadata","column_name":"metadata_value","data_type":"jsonb","udt_name":"jsonb","is_nullable":"NO","column_default":null}
+NOTICE:  COLUMN {"table_name":"role_skill_lineage","column_name":"role_id","data_type":"text","udt_name":"text","is_nullable":"NO","column_default":null}
+NOTICE:  COLUMN {"table_name":"role_skill_lineage","column_name":"skill_id","data_type":"text","udt_name":"text","is_nullable":"NO","column_default":null}
+NOTICE:  COLUMN {"table_name":"role_skill_lineage","column_name":"skill_name","data_type":"text","udt_name":"text","is_nullable":"NO","column_default":null}
+NOTICE:  COLUMN {"table_name":"role_skill_lineage","column_name":"skill_type","data_type":"text","udt_name":"text","is_nullable":"NO","column_default":null}
+NOTICE:  COLUMN {"table_name":"role_skill_lineage","column_name":"importance","data_type":"double precision","udt_name":"float8","is_nullable":"YES","column_default":null}
+NOTICE:  COLUMN {"table_name":"role_skill_lineage","column_name":"source","data_type":"text","udt_name":"text","is_nullable":"NO","column_default":null}
+NOTICE:  COLUMN {"table_name":"role_skill_lineage","column_name":"source_occupation_code","data_type":"text","udt_name":"text","is_nullable":"YES","column_default":null}
+NOTICE:  COLUMN {"table_name":"role_skill_lineage","column_name":"source_element_id","data_type":"text","udt_name":"text","is_nullable":"YES","column_default":null}
+NOTICE:  COLUMN {"table_name":"role_skill_lineage","column_name":"importance_method","data_type":"text","udt_name":"text","is_nullable":"YES","column_default":null}
+NOTICE:  COLUMN {"table_name":"role_skill_lineage","column_name":"curation_note","data_type":"text","udt_name":"text","is_nullable":"YES","column_default":null}
+NOTICE:  COLUMN {"table_name":"role_skill_lineage","column_name":"raw_source_value","data_type":"text","udt_name":"text","is_nullable":"YES","column_default":null}
+NOTICE:  COLUMN {"table_name":"role_skill_lineage","column_name":"normalisation_or_rating_rule","data_type":"text","udt_name":"text","is_nullable":"YES","column_default":null}
+NOTICE:  COLUMN {"table_name":"role_skill_lineage","column_name":"one_line_justification","data_type":"text","udt_name":"text","is_nullable":"YES","column_default":null}
+NOTICE:  COLUMN {"table_name":"role_skill_lineage","column_name":"source_url","data_type":"text","udt_name":"text","is_nullable":"YES","column_default":null}
+NOTICE:  COLUMN {"table_name":"role_skill_lineage","column_name":"review_status","data_type":"text","udt_name":"text","is_nullable":"NO","column_default":null}
+NOTICE:  COLUMN {"table_name":"role_skills","column_name":"role_id","data_type":"text","udt_name":"text","is_nullable":"NO","column_default":null}
+NOTICE:  COLUMN {"table_name":"role_skills","column_name":"skill_id","data_type":"text","udt_name":"text","is_nullable":"NO","column_default":null}
+NOTICE:  COLUMN {"table_name":"role_skills","column_name":"skill_name","data_type":"text","udt_name":"text","is_nullable":"NO","column_default":null}
+NOTICE:  COLUMN {"table_name":"role_skills","column_name":"skill_type","data_type":"text","udt_name":"text","is_nullable":"NO","column_default":null}
+NOTICE:  COLUMN {"table_name":"role_skills","column_name":"importance","data_type":"double precision","udt_name":"float8","is_nullable":"NO","column_default":null}
+NOTICE:  COLUMN {"table_name":"role_skills","column_name":"source","data_type":"text","udt_name":"text","is_nullable":"NO","column_default":null}
+NOTICE:  COLUMN {"table_name":"role_skills","column_name":"source_occupation_code","data_type":"text","udt_name":"text","is_nullable":"YES","column_default":null}
+NOTICE:  COLUMN {"table_name":"role_skills","column_name":"source_element_id","data_type":"text","udt_name":"text","is_nullable":"YES","column_default":null}
+NOTICE:  COLUMN {"table_name":"role_skills","column_name":"importance_method","data_type":"text","udt_name":"text","is_nullable":"NO","column_default":null}
+NOTICE:  COLUMN {"table_name":"role_skills","column_name":"curation_note","data_type":"text","udt_name":"text","is_nullable":"YES","column_default":null}
+NOTICE:  COLUMN {"table_name":"skill_taxonomy","column_name":"skill_id","data_type":"text","udt_name":"text","is_nullable":"NO","column_default":null}
+NOTICE:  COLUMN {"table_name":"skill_taxonomy","column_name":"canonical_name","data_type":"text","udt_name":"text","is_nullable":"NO","column_default":null}
+NOTICE:  COLUMN {"table_name":"skill_taxonomy","column_name":"definition","data_type":"text","udt_name":"text","is_nullable":"YES","column_default":null}
+NOTICE:  COLUMN {"table_name":"skill_taxonomy","column_name":"skill_type","data_type":"text","udt_name":"text","is_nullable":"NO","column_default":null}
+NOTICE:  COLUMN {"table_name":"skill_taxonomy","column_name":"competence_area","data_type":"text","udt_name":"text","is_nullable":"YES","column_default":null}
+NOTICE:  COLUMN {"table_name":"skill_taxonomy","column_name":"level","data_type":"text","udt_name":"text","is_nullable":"YES","column_default":null}
+NOTICE:  COLUMN {"table_name":"skill_taxonomy","column_name":"source_framework","data_type":"text","udt_name":"text","is_nullable":"NO","column_default":null}
+NOTICE:  COLUMN {"table_name":"skill_taxonomy","column_name":"source_id","data_type":"text","udt_name":"text","is_nullable":"YES","column_default":null}
+NOTICE:  COLUMN {"table_name":"skill_taxonomy","column_name":"embedding_model","data_type":"text","udt_name":"text","is_nullable":"NO","column_default":null}
+NOTICE:  COLUMN {"table_name":"skill_taxonomy","column_name":"embedding","data_type":"USER-DEFINED","udt_name":"vector","is_nullable":"NO","column_default":null}
+NOTICE:  CONSTRAINT {"tbl":"rerouteher.roles","conname":"roles_remote_possibility_check","def":"CHECK ((remote_possibility = ANY (ARRAY['low'::text, 'medium'::text, 'high'::text])))"}
+NOTICE:  CONSTRAINT {"tbl":"rerouteher.roles","conname":"roles_remote_task_count_check","def":"CHECK ((remote_task_count >= 0))"}
+NOTICE:  CONSTRAINT {"tbl":"rerouteher.roles","conname":"roles_remote_capable_tasks_check","def":"CHECK ((remote_capable_tasks >= 0))"}
+NOTICE:  CONSTRAINT {"tbl":"rerouteher.roles","conname":"roles_remote_onsite_tasks_check","def":"CHECK ((remote_onsite_tasks >= 0))"}
+NOTICE:  CONSTRAINT {"tbl":"rerouteher.roles","conname":"roles_remote_unclear_tasks_check","def":"CHECK ((remote_unclear_tasks >= 0))"}
+NOTICE:  CONSTRAINT {"tbl":"rerouteher.roles","conname":"roles_ai_exposure_check","def":"CHECK ((ai_exposure = ANY (ARRAY['low'::text, 'medium'::text, 'high'::text])))"}
+NOTICE:  CONSTRAINT {"tbl":"rerouteher.roles","conname":"roles_ai_exposure_share_check","def":"CHECK (((ai_exposure_share >= (0)::double precision) AND (ai_exposure_share <= (1)::double precision)))"}
+NOTICE:  CONSTRAINT {"tbl":"rerouteher.roles","conname":"roles_ai_exposure_external_score_0_100_check","def":"CHECK (((ai_exposure_external_score_0_100 >= (0)::double precision) AND (ai_exposure_external_score_0_100 <= (100)::double precision)))"}
+NOTICE:  CONSTRAINT {"tbl":"rerouteher.role_tasks","conname":"role_tasks_task_rank_check","def":"CHECK ((task_rank > 0))"}
+NOTICE:  CONSTRAINT {"tbl":"rerouteher.role_rating_lineage","conname":"role_rating_lineage_rated_task_count_check","def":"CHECK ((rated_task_count >= 0))"}
+NOTICE:  CONSTRAINT {"tbl":"rerouteher.role_rating_lineage","conname":"role_rating_lineage_remote_capable_tasks_check","def":"CHECK ((remote_capable_tasks >= 0))"}
+NOTICE:  CONSTRAINT {"tbl":"rerouteher.role_rating_lineage","conname":"role_rating_lineage_remote_onsite_tasks_check","def":"CHECK ((remote_onsite_tasks >= 0))"}
+NOTICE:  CONSTRAINT {"tbl":"rerouteher.role_rating_lineage","conname":"role_rating_lineage_remote_unclear_tasks_check","def":"CHECK ((remote_unclear_tasks >= 0))"}
+NOTICE:  CONSTRAINT {"tbl":"rerouteher.role_rating_lineage","conname":"role_rating_lineage_ai_exposable_tasks_check","def":"CHECK ((ai_exposable_tasks >= 0))"}
+NOTICE:  CONSTRAINT {"tbl":"rerouteher.role_rating_lineage","conname":"role_rating_lineage_ai_exposure_share_check","def":"CHECK (((ai_exposure_share >= (0)::double precision) AND (ai_exposure_share <= (1)::double precision)))"}
+NOTICE:  CONSTRAINT {"tbl":"rerouteher.role_rating_lineage","conname":"role_rating_lineage_independent_raters_required_check","def":"CHECK ((independent_raters_required >= 2))"}
+NOTICE:  CONSTRAINT {"tbl":"rerouteher.onet_task_context","conname":"onet_task_context_task_rank_check","def":"CHECK ((task_rank > 0))"}
+NOTICE:  CONSTRAINT {"tbl":"rerouteher.skill_taxonomy","conname":"skill_taxonomy_skill_type_check","def":"CHECK ((skill_type = ANY (ARRAY['technical'::text, 'soft'::text, 'digital'::text])))"}
+NOTICE:  CONSTRAINT {"tbl":"rerouteher.role_skills","conname":"role_skills_skill_type_check","def":"CHECK ((skill_type = ANY (ARRAY['technical'::text, 'soft'::text, 'digital'::text])))"}
+NOTICE:  CONSTRAINT {"tbl":"rerouteher.role_skills","conname":"role_skills_importance_check","def":"CHECK (((importance >= (0)::double precision) AND (importance <= (100)::double precision)))"}
+NOTICE:  CONSTRAINT {"tbl":"rerouteher.role_skills","conname":"role_skills_role_id_not_null","def":"NOT NULL role_id"}
+NOTICE:  CONSTRAINT {"tbl":"rerouteher.role_skills","conname":"role_skills_skill_id_not_null","def":"NOT NULL skill_id"}
+NOTICE:  CONSTRAINT {"tbl":"rerouteher.role_skills","conname":"role_skills_skill_name_not_null","def":"NOT NULL skill_name"}
+NOTICE:  CONSTRAINT {"tbl":"rerouteher.role_skills","conname":"role_skills_skill_type_not_null","def":"NOT NULL skill_type"}
+NOTICE:  CONSTRAINT {"tbl":"rerouteher.role_skills","conname":"role_skills_importance_not_null","def":"NOT NULL importance"}
+NOTICE:  CONSTRAINT {"tbl":"rerouteher.role_skills","conname":"role_skills_source_not_null","def":"NOT NULL source"}
+NOTICE:  CONSTRAINT {"tbl":"rerouteher.role_skills","conname":"role_skills_importance_method_not_null","def":"NOT NULL importance_method"}
+NOTICE:  CONSTRAINT {"tbl":"rerouteher.role_skills","conname":"role_skills_pkey","def":"PRIMARY KEY (role_id, skill_id)"}
+NOTICE:  CONSTRAINT {"tbl":"rerouteher.role_skills","conname":"role_skills_role_id_fkey","def":"FOREIGN KEY (role_id) REFERENCES rerouteher.roles(role_id)"}
+NOTICE:  CONSTRAINT {"tbl":"rerouteher.role_skills","conname":"role_skills_skill_id_fkey","def":"FOREIGN KEY (skill_id) REFERENCES rerouteher.skill_taxonomy(skill_id)"}
+NOTICE:  CONSTRAINT {"tbl":"rerouteher.role_skill_lineage","conname":"role_skill_lineage_importance_check","def":"CHECK (((importance >= (0)::double precision) AND (importance <= (100)::double precision)))"}
+NOTICE:  CONSTRAINT {"tbl":"rerouteher.role_skill_lineage","conname":"role_skill_lineage_role_id_not_null","def":"NOT NULL role_id"}
+NOTICE:  CONSTRAINT {"tbl":"rerouteher.role_skill_lineage","conname":"role_skill_lineage_skill_id_not_null","def":"NOT NULL skill_id"}
+NOTICE:  CONSTRAINT {"tbl":"rerouteher.role_skill_lineage","conname":"role_skill_lineage_skill_name_not_null","def":"NOT NULL skill_name"}
+NOTICE:  CONSTRAINT {"tbl":"rerouteher.role_skill_lineage","conname":"role_skill_lineage_skill_type_not_null","def":"NOT NULL skill_type"}
+NOTICE:  CONSTRAINT {"tbl":"rerouteher.role_skill_lineage","conname":"role_skill_lineage_source_not_null","def":"NOT NULL source"}
+NOTICE:  CONSTRAINT {"tbl":"rerouteher.role_skill_lineage","conname":"role_skill_lineage_review_status_not_null","def":"NOT NULL review_status"}
+NOTICE:  CONSTRAINT {"tbl":"rerouteher.role_skill_lineage","conname":"role_skill_lineage_pkey","def":"PRIMARY KEY (role_id, skill_id)"}
+NOTICE:  CONSTRAINT {"tbl":"rerouteher.role_skill_lineage","conname":"role_skill_lineage_role_id_fkey","def":"FOREIGN KEY (role_id) REFERENCES rerouteher.roles(role_id)"}
+NOTICE:  CONSTRAINT {"tbl":"rerouteher.role_skill_lineage","conname":"role_skill_lineage_skill_id_fkey","def":"FOREIGN KEY (skill_id) REFERENCES rerouteher.skill_taxonomy(skill_id)"}
+NOTICE:  CONSTRAINT {"tbl":"rerouteher.digital_skill_rating_lineage","conname":"digital_skill_rating_lineage_importance_check","def":"CHECK (((importance >= (0)::double precision) AND (importance <= (100)::double precision)))"}
+NOTICE:  CONSTRAINT {"tbl":"rerouteher.caregiving_map","conname":"caregiving_map_mapping_rank_check","def":"CHECK ((mapping_rank > 0))"}
+NOTICE:  CONSTRAINT {"tbl":"rerouteher.employers","conname":"employers_recognition_score_check","def":"CHECK (((recognition_score >= (0)::double precision) AND (recognition_score <= (100)::double precision)))"}
+NOTICE:  CONSTRAINT {"tbl":"rerouteher.employers","conname":"employers_gender_equity_score_check","def":"CHECK (((gender_equity_score >= (0)::double precision) AND (gender_equity_score <= (100)::double precision)))"}
+NOTICE:  CONSTRAINT {"tbl":"rerouteher.employers","conname":"employers_policy_flex_score_check","def":"CHECK (((policy_flex_score >= (0)::double precision) AND (policy_flex_score <= (100)::double precision)))"}
+NOTICE:  CONSTRAINT {"tbl":"rerouteher.employers","conname":"employers_mother_friendly_score_check","def":"CHECK (((mother_friendly_score >= (0)::double precision) AND (mother_friendly_score <= (100)::double precision)))"}
+NOTICE:  CONSTRAINT {"tbl":"rerouteher.employers","conname":"employers_check","def":"CHECK ((abs((mother_friendly_score - ((((0.30)::double precision * recognition_score) + ((0.40)::double precision * gender_equity_score)) + ((0.30)::double precision * policy_flex_score)))) <= (0.051)::double precision))"}
+NOTICE:  CONSTRAINT {"tbl":"rerouteher.employer_report_search","conname":"employer_report_search_search_status_check","def":"CHECK ((search_status = ANY (ARRAY['not_completed'::text, 'report_located_and_reviewed'::text, 'completed_no_report_found'::text])))"}
+NOTICE:  CONSTRAINT {"tbl":"rerouteher.employer_report_search","conname":"employer_report_search_check","def":"CHECK (((NOT no_report_zero_rule_applied) OR (search_status = 'completed_no_report_found'::text)))"}
+NOTICE:  CONSTRAINT {"tbl":"rerouteher.d9_target_role_mapping","conname":"d9_target_role_mapping_jobhop_records_in_group_check","def":"CHECK ((jobhop_records_in_group >= 0))"}
+NOTICE:  CONSTRAINT {"tbl":"rerouteher.d9_target_role_mapping","conname":"d9_target_role_mapping_jobhop_resumes_in_group_check","def":"CHECK ((jobhop_resumes_in_group >= 0))"}
+NOTICE:  CONSTRAINT {"tbl":"rerouteher.d9_target_role_mapping","conname":"d9_target_role_mapping_latest_resume_targets_in_group_check","def":"CHECK ((latest_resume_targets_in_group >= 0))"}
+NOTICE:  CONSTRAINT {"tbl":"rerouteher.d9_training_examples","conname":"d9_training_examples_split_check","def":"CHECK ((split = ANY (ARRAY['train'::text, 'val'::text, 'test'::text])))"}
+NOTICE:  CONSTRAINT {"tbl":"rerouteher.jobhop_esco_onet_coverage","conname":"jobhop_esco_onet_coverage_source_records_check","def":"CHECK ((source_records >= 0))"}
+NOTICE:  CONSTRAINT {"tbl":"rerouteher.jobhop_esco_onet_coverage","conname":"jobhop_esco_onet_coverage_source_resumes_check","def":"CHECK ((source_resumes >= 0))"}
+NOTICE:  CONSTRAINT {"tbl":"rerouteher.jobhop_esco_onet_coverage","conname":"jobhop_esco_onet_coverage_official_crosswalk_row_count_check","def":"CHECK ((official_crosswalk_row_count >= 0))"}
+NOTICE:  CONSTRAINT {"tbl":"rerouteher.jobhop_esco_onet_coverage","conname":"jobhop_esco_onet_coverage_unique_onet_code_count_check","def":"CHECK ((unique_onet_code_count >= 0))"}
+NOTICE:  CONSTRAINT {"tbl":"rerouteher.source_manifest","conname":"source_manifest_bytes_check","def":"CHECK ((bytes >= 0))"}
+NOTICE:  CONSTRAINT {"tbl":"rerouteher.source_manifest","conname":"source_manifest_sha256_check","def":"CHECK ((length(sha256) = 64))"}
+NOTICE:  CONSTRAINT {"tbl":"rerouteher.occupation_profiles","conname":"occupation_profiles_top_skill_count_check","def":"CHECK ((top_skill_count >= 0))"}
+NOTICE:  CONSTRAINT {"tbl":"rerouteher.occupation_profiles","conname":"occupation_profiles_jobhop_record_count_check","def":"CHECK ((jobhop_record_count >= 0))"}
+NOTICE:  CONSTRAINT {"tbl":"rerouteher.occupation_profiles","conname":"occupation_profiles_work_length_median_years_check","def":"CHECK ((work_length_median_years >= (0)::double precision))"}
+NOTICE:  CONSTRAINT {"tbl":"rerouteher.occupation_profiles","conname":"occupation_profiles_work_length_mean_years_check","def":"CHECK ((work_length_mean_years >= (0)::double precision))"}
+NOTICE:  CONSTRAINT {"tbl":"rerouteher.occupation_profiles","conname":"occupation_profiles_work_length_p25_years_check","def":"CHECK ((work_length_p25_years >= (0)::double precision))"}
+NOTICE:  CONSTRAINT {"tbl":"rerouteher.occupation_profiles","conname":"occupation_profiles_work_length_p75_years_check","def":"CHECK ((work_length_p75_years >= (0)::double precision))"}
+NOTICE:  CONSTRAINT {"tbl":"rerouteher.occupation_skill_weights","conname":"occupation_skill_weights_matrix_weight_check","def":"CHECK ((matrix_weight >= (0)::double precision))"}
+NOTICE:  CONSTRAINT {"tbl":"rerouteher.occupation_skill_weights","conname":"occupation_skill_weights_skill_rank_check","def":"CHECK ((skill_rank > 0))"}
+NOTICE:  CONSTRAINT {"tbl":"rerouteher.jobhop_esco_features","conname":"jobhop_esco_features_split_check","def":"CHECK ((split = ANY (ARRAY['train'::text, 'val'::text, 'test'::text])))"}
+NOTICE:  CONSTRAINT {"tbl":"rerouteher.jobhop_esco_features","conname":"jobhop_esco_features_work_length_years_est_check","def":"CHECK ((work_length_years_est >= (0)::double precision))"}
+NOTICE:  CONSTRAINT {"tbl":"rerouteher.jobhop_esco_features","conname":"jobhop_esco_features_work_length_months_est_check","def":"CHECK ((work_length_months_est >= 0))"}
+NOTICE:  CONSTRAINT {"tbl":"rerouteher.jobhop_esco_features","conname":"jobhop_esco_features_resume_job_count_check","def":"CHECK ((resume_job_count > 0))"}
+NOTICE:  CONSTRAINT {"tbl":"rerouteher.jobhop_esco_features","conname":"jobhop_esco_features_resume_total_role_years_est_check","def":"CHECK ((resume_total_role_years_est >= (0)::double precision))"}
+NOTICE:  CONSTRAINT {"tbl":"rerouteher.jobhop_esco_features","conname":"jobhop_esco_features_resume_span_years_est_check","def":"CHECK ((resume_span_years_est >= (0)::double precision))"}
+NOTICE:  CONSTRAINT {"tbl":"rerouteher.jobhop_esco_features","conname":"jobhop_esco_features_top_skill_count_check","def":"CHECK ((top_skill_count >= 0))"}
+NOTICE:  CONSTRAINT {"tbl":"rerouteher.jobhop_esco_features","conname":"jobhop_esco_features_check","def":"CHECK ((end_year >= start_year))"}
+NOTICE:  CONSTRAINT {"tbl":"rerouteher.jobhop_esco_features","conname":"jobhop_esco_features_check1","def":"CHECK ((resume_last_end_year >= resume_first_start_year))"}
+NOTICE:  CONSTRAINT {"tbl":"rerouteher.minilm_embeddings","conname":"minilm_embeddings_embedding_index_check","def":"CHECK ((embedding_index >= 0))"}
+NOTICE:  CONSTRAINT {"tbl":"rerouteher.minilm_embeddings","conname":"minilm_embeddings_dimensions_check","def":"CHECK ((dimensions = 384))"}
+NOTICE:  CONSTRAINT {"tbl":"rerouteher.minilm_embeddings","conname":"minilm_embeddings_check","def":"CHECK ((cardinality(embedding) = dimensions))"}
+NOTICE:  COUNTS {"links": 13266, "roles": 662, "skills": 6121, "lineage": 13266}
+NOTICE:  BAND {"skill_type":"digital","source":"DigComp 2.2","n":35}
+NOTICE:  BAND {"skill_type":"digital","source":"ESCO v1.2.1 / MASCO 2020 project test mapping","n":2107}
+NOTICE:  BAND {"skill_type":"soft","source":"O*NET Transferable Skills","n":35}
+NOTICE:  BAND {"skill_type":"technical","source":"ESCO v1.2.1 / MASCO 2020 project test mapping","n":11040}
+NOTICE:  BAND {"skill_type":"technical","source":"O*NET Essential Skills","n":49}
+NOTICE:  MASTER {"skill_id":"ONET_2_A_1_a","canonical_name":"Reading Comprehension","skill_type":"technical"}
+NOTICE:  MASTER {"skill_id":"ONET_2_A_1_b","canonical_name":"Active Listening","skill_type":"technical"}
+NOTICE:  MASTER {"skill_id":"ONET_2_A_1_c","canonical_name":"Writing","skill_type":"technical"}
+NOTICE:  MASTER {"skill_id":"ONET_2_A_1_d","canonical_name":"Speaking","skill_type":"technical"}
+NOTICE:  MASTER {"skill_id":"ONET_2_A_2_a","canonical_name":"Critical Thinking","skill_type":"technical"}
+NOTICE:  MASTER {"skill_id":"ONET_2_A_2_b","canonical_name":"Active Learning","skill_type":"technical"}
+NOTICE:  MASTER {"skill_id":"ONET_2_A_2_c","canonical_name":"Learning Strategies","skill_type":"technical"}
+NOTICE:  MASTER {"skill_id":"ONET_2_A_2_d","canonical_name":"Monitoring","skill_type":"technical"}
+NOTICE:  MASTER {"skill_id":"ONET_2_B_1_a","canonical_name":"Social Perceptiveness","skill_type":"soft"}
+NOTICE:  MASTER {"skill_id":"ONET_2_B_1_b","canonical_name":"Coordination","skill_type":"soft"}
+NOTICE:  MASTER {"skill_id":"ONET_2_B_1_c","canonical_name":"Persuasion","skill_type":"soft"}
+NOTICE:  MASTER {"skill_id":"ONET_2_B_1_d","canonical_name":"Negotiation","skill_type":"soft"}
+NOTICE:  MASTER {"skill_id":"ONET_2_B_1_e","canonical_name":"Instructing","skill_type":"soft"}
+NOTICE:  MASTER {"skill_id":"ONET_2_B_1_f","canonical_name":"Service Orientation","skill_type":"soft"}
+NOTICE:  MASTER {"skill_id":"ONET_2_B_2_i","canonical_name":"Complex Problem Solving","skill_type":"soft"}
+NOTICE:  MASTER {"skill_id":"ONET_2_B_3_a","canonical_name":"Operations Analysis","skill_type":"soft"}
+NOTICE:  MASTER {"skill_id":"ONET_2_B_3_b","canonical_name":"Technology Design","skill_type":"soft"}
+NOTICE:  MASTER {"skill_id":"ONET_2_B_4_e","canonical_name":"Judgment and Decision Making","skill_type":"soft"}
+NOTICE:  MASTER {"skill_id":"ONET_2_B_4_g","canonical_name":"Systems Analysis","skill_type":"soft"}
+NOTICE:  MASTER {"skill_id":"ONET_2_B_4_h","canonical_name":"Systems Evaluation","skill_type":"soft"}
+NOTICE:  MASTER {"skill_id":"ONET_2_B_5_a","canonical_name":"Time Management","skill_type":"soft"}
+NOTICE:  MASTER {"skill_id":"ONET_2_B_5_b","canonical_name":"Management of Financial Resources","skill_type":"soft"}
+NOTICE:  MASTER {"skill_id":"ONET_2_B_5_d","canonical_name":"Management of Personnel Resources","skill_type":"soft"}
+NOTICE:  MASTER {"skill_id":"ONET_2_A_1_e","canonical_name":"Mathematics (O*NET Skill)","skill_type":"technical"}
+NOTICE:  MASTER {"skill_id":"ONET_2_B_3_e","canonical_name":"Programming (O*NET Skill)","skill_type":"digital"}
+ROLLBACK
+
+Query returned successfully in 318 msec.
++												545 text NOTICE:  DATABASE rerouteher_test
+NOTICE:  COLUMN {"table_name":"dataset_metadata","column_name":"metadata_key","data_type":"text","udt_name":"text","is_nullable":"NO","column_default":null}
+NOTICE:  COLUMN {"table_name":"dataset_metadata","column_name":"metadata_value","data_type":"jsonb","udt_name":"jsonb","is_nullable":"NO","column_default":null}
+NOTICE:  COLUMN {"table_name":"role_skill_lineage","column_name":"role_id","data_type":"text","udt_name":"text","is_nullable":"NO","column_default":null}
+NOTICE
+~									535 text Query complete 00:00:00.321
+The focused UI element is 458 HTML content pgadmin-agk54moxhek3abjlpt3jvpxs.152.69.222.16.sslip.io/sqleditor/panel/2164545?is_query_tool=true&sgid=1&sid=1&did=107074&database_name=rerouteher_test

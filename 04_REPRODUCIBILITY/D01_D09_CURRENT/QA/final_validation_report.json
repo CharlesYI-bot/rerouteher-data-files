@@ -1,0 +1,43 @@
+{
+  "release": "ReRouteHer_DataTeam_Fresh_HighStandard_2026-08-27",
+  "generated_on": "2026-08-27",
+  "overall_passed": true,
+  "release_status": "STRUCTURALLY_VALID_NON_PRODUCTION",
+  "checks_total": 41,
+  "checks_passed": 41,
+  "checks_failed": 0,
+  "human_gates_remaining": {
+    "D1": "two independent task raters and reconciliation",
+    "D3": "product owner confirmation of definitive EPIC Page-3 tags",
+    "D5": "two-rater reconciliation",
+    "D8": "second reviewer approval of 27 manual role-sector pairs",
+    "D9": "new consented Malaysian labeled CV text, external test, calibration and fairness validation",
+    "D10": "owner approval and named data steward"
+  },
+  "core_counts": {
+    "roles": 10,
+    "masco_tasks": 95,
+    "skills": 41,
+    "role_skills": 170,
+    "caregiving_mappings": 33,
+    "bursa_sectors": 12,
+    "role_sector_links": 27,
+    "employers": 50,
+    "reviewed_reports": 50,
+    "atomic_employer_evidence": 85,
+    "d7_approved_employers": 50,
+    "d7_complete_scores": 50,
+    "d7_zero_filled_scores": 49,
+    "d7_zero_filled_pillar_cells": 131,
+    "jobhop_records": 47224,
+    "jobhop_resumes": 35568,
+    "d9_examples": 562
+  },
+  "artifacts": {
+    "dmp": "05_DMP/ReRouteHer_Data_Management_Plan_HighStandard_2026-08-27.docx",
+    "review_workbook": "outputs/01a04198-62bd-7390-96c9-e1956ffe7543/ReRouteHer_D7_Evidence_Review.xlsx",
+    "source_manifest": "06_QA/source_manifest.csv",
+    "checks": "06_QA/final_validation_checks.csv",
+    "checksums": "FINAL_RELEASE_SHA256SUMS.txt"
+  }
+}

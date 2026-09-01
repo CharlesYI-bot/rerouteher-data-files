@@ -1,0 +1,37 @@
+{
+  "deliverable": "D11 expansion of D1 to official eMASCO STEM category roles",
+  "scope_definition": "Occupation that includes Science, Technology, Engineering or Mathematics element",
+  "occupation_count": 657,
+  "task_count": 5518,
+  "original_d1_role_count": 10,
+  "roles_with_original_d1_unit_group_lineage": 26,
+  "roles_with_esco_comparison": 7,
+  "roles_with_exact_occupation_tasks": 653,
+  "roles_with_unit_group_task_fallback": 4,
+  "major_group_counts": {
+    "1": 59,
+    "2": 312,
+    "3": 251,
+    "4": 30,
+    "5": 3,
+    "8": 2
+  },
+  "remote_pre_rating_counts": {
+    "high": 30,
+    "low": 312,
+    "medium": 315
+  },
+  "ai_pre_rating_counts": {
+    "high": 139,
+    "low": 230,
+    "medium": 288
+  },
+  "production_approved": false,
+  "human_review_required": true,
+  "notes": [
+    "Remote/flexible and AI labels are transparent D1-method pre-ratings pending two independent raters.",
+    "ESCO fields are retained for comparison where the project crosswalk has an exact six-digit mapping.",
+    "Where an exact occupation page has no task list, task lineage points to the official eMASCO four-digit unit-group page rather than fabricating tasks.",
+    "No resume dataset is used in D11; this is an occupational reference-table expansion."
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "basis": "Manual occupational review of supplied resume headlines and work content before live results. Folder labels are sampling strata, not ground truth. These are broad relevance expectations, not certified six-digit MASCO labels.",
+  "cases": [
+    {"case_id":"T01","profile":"IT applications team lead / business intelligence manager","expected_family":"ICT management, business intelligence or information systems","recent_title":"Applications Team Leader"},
+    {"case_id":"T02","profile":"Business systems analyst","expected_family":"Business or ICT systems analysis","recent_title":"Business Systems Analyst I"},
+    {"case_id":"T03","profile":"Operations research analyst","expected_family":"Operations research, quantitative/data analysis","recent_title":"Operations Research Analyst"},
+    {"case_id":"T04","profile":"Senior information technology manager","expected_family":"ICT management","recent_title":"Information Technology Senior Manager"},
+    {"case_id":"T05","profile":"ASP.NET web developer","expected_family":"Web/software development; .NET specialization is supported","recent_title":"ASP.Net Web Developer"},
+    {"case_id":"T06","profile":"Software engineering team lead, Agile/Scrum and web applications","expected_family":"Software development leadership, not generic physical engineering","recent_title":"Engineering Team Lead"},
+    {"case_id":"T07","profile":"Industrial/chemical engineering intern; manufacturing, quality and process improvement","expected_family":"Industrial, manufacturing, production or chemical/process engineering","recent_title":"Engineering Intern"},
+    {"case_id":"T08","profile":"Engineering manager in building/hotel maintenance and equipment operations","expected_family":"Facilities/building maintenance or engineering management","recent_title":"Engineering Manager"},
+    {"case_id":"T09","profile":"Engineering technician in electrical/mechanical test-equipment maintenance","expected_family":"Electrical/mechanical maintenance or test engineering technician","recent_title":"Engineering Technician III"},
+    {"case_id":"T10","profile":"Substitute teacher with office-support background","expected_family":"School teaching; distinguish from vocational specialties","recent_title":"Substitute Teacher"},
+    {"case_id":"T11","profile":"Teacher with lesson planning and executive/administrative support experience","expected_family":"Teaching; administrative work is secondary","recent_title":"Teacher"},
+    {"case_id":"T12","profile":"English teacher","expected_family":"Language/school teaching; do not infer nursing or other clinical work","recent_title":"English Teacher"},
+    {"case_id":"T13","profile":"Healthcare/wellness consultant and preventive-health program developer","expected_family":"Wellness/health promotion or health-program management; clinical licensing cannot be inferred","recent_title":"Healthcare Consultant"},
+    {"case_id":"T14","profile":"Consumer food-business CEO with marketing and sales background","expected_family":"General business/marketing executive; not automatically a technical STEM executive","recent_title":"Chief Executive Officer"},
+    {"case_id":"T15","profile":"Presentation designer","expected_family":"Presentation/graphic/visual design","recent_title":"Presentation Designer"},
+    {"case_id":"T16","profile":"Pre-press graphic designer","expected_family":"Graphic/prepress design","recent_title":"Pre-Press Graphic Designer"},
+    {"case_id":"T17","profile":"Adult education teacher (agriculture sampling folder)","expected_family":"Adult education/teaching; do not use folder label as occupation","recent_title":"Adult Education Teacher"},
+    {"case_id":"T18","profile":"Secretary II (automobile sampling folder)","expected_family":"Administrative/secretarial work; out-of-catalog is acceptable","recent_title":"Secretary II"},
+    {"case_id":"T19","profile":"Industrial maintenance mechanic with aircraft A&P background","expected_family":"Maintenance/aircraft mechanical repair; no evidence of an engineering degree","recent_title":"Maintenance Mechanic"},
+    {"case_id":"T20","profile":"Lead digital artist and animator","expected_family":"Digital art, animation, graphics/multimedia design","recent_title":"Lead Artist"},
+    {"case_id":"T21","profile":"Project and construction manager","expected_family":"Construction/project management","recent_title":"Project & Construction Manager"},
+    {"case_id":"T22","profile":"Finance coordinator with accounting, ERP master data and financial analyst history","expected_family":"Finance/accounting analysis; ICT/database analysis only as a supported adjacent role","recent_title":"Finance Coordinator"},
+    {"case_id":"T23","profile":"Human resources generalist","expected_family":"HR/personnel administration; out-of-catalog is acceptable","recent_title":"HR Generalist"},
+    {"case_id":"T24","profile":"Sales associate","expected_family":"Retail/sales; out-of-catalog is acceptable","recent_title":"Sales Associate"},
+    {"case_id":"T25","profile":"Culinary lecturer/chef instructor, dietitian and food-service operations background","expected_family":"Culinary/vocational teaching, food-service management or evidenced dietetics; not generic nursing","recent_title":"Lecturer, Chef Instructor, Researcher, and Recruiter"}
+  ]
+}

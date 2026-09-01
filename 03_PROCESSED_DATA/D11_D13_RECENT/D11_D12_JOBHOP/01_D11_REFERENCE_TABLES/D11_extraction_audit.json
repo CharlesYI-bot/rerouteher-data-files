@@ -1,0 +1,30 @@
+{
+  "task": "D11",
+  "source": "ReRouteHer_TeamDrive_Upload_2026-08-27/02_RAW_SOURCE_DATA/MASCO_2020_English_official.pdf",
+  "source_sha256": "4ab3736cd6890afcad3ab2d5a87499e66c468f749cc6ed4ea96b22a20c2fc97e",
+  "role_code_rule": "exactly six digits; printed MASCO hyphen retained separately",
+  "role_code_regex": "^\\d{6}$",
+  "granular_roles": 258,
+  "unique_masco_codes": 258,
+  "parent_groups": {
+    "2311": 42,
+    "2423": 25,
+    "2431": 41,
+    "2512": 47,
+    "2524": 21,
+    "2543": 19,
+    "2833": 10,
+    "4121": 13,
+    "4222": 7,
+    "4311": 33
+  },
+  "curated_anchor_roles": 10,
+  "rating_method": "inherit D1 unit-group rating; child-specific two-rater review pending",
+  "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "embedding_shape": [
+    258,
+    384
+  ],
+  "all_codes_six_digit": true,
+  "four_digit_role_codes": 0
+}

@@ -1,0 +1,50 @@
+{
+  "result": "PASS_LOCAL_DATA_CHECKS",
+  "live_applied": false,
+  "source_roles": 655,
+  "source_skill_concepts_preserved": 6080,
+  "source_role_skill_links": 41024,
+  "all_source_essential_links": 18821,
+  "approved_core_candidate_links": 13147,
+  "low_confidence_essential_links_held": 5674,
+  "conditional_links": 22203,
+  "auto_approved_roles_medium_and_high": 442,
+  "low_confidence_roles_pending": 213,
+  "auto_approved_confidence_counts": {
+    "medium": 325,
+    "high": 117
+  },
+  "core_only_roles_without_digital_band": 190,
+  "approved_roles_without_digital_band": 128,
+  "active_combined_alias_rows": 37284,
+  "archived_alias_rows": 446,
+  "remaining_exact_term_to_multiple_skill_id_conflicts": 0,
+  "skill_ids_merged": 0,
+  "qualified_framework_concepts": 3,
+  "role_merge_map": {
+    "R01": "M251201",
+    "R02": "M252403",
+    "R06": "M254302"
+  },
+  "unresolved_legacy_group_roles": [
+    "R03",
+    "R04",
+    "R05",
+    "R07",
+    "R08",
+    "R09",
+    "R10"
+  ],
+  "minimum_core_candidates": 6,
+  "maximum_core_candidates": 99,
+  "teacher_before": 115,
+  "teacher_after": 11,
+  "esco_comparisons_preserved": true,
+  "masco_roles_and_embeddings_unchanged": true,
+  "live_sql_execution_tested": false,
+  "database_schema_changed": false,
+  "backend_changed": false,
+  "release_scope": "Dataset Only; Database Migration Draft Not Applied",
+  "source_pair_md5": "a19a5c3166481a508adc7f7680f4a95c",
+  "sql_sha256": "9cc500189c7e23c6e6da34933ed543389ba0732c84b97fff50984aba824ea996"
+}

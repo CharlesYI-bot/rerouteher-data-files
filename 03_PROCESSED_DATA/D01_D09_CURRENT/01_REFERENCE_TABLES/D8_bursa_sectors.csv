@@ -1,0 +1,13 @@
+sector_id,sector_name,classification,source_table,review_status
+BS01,Construction,Bursa Malaysia sector vocabulary used by D7 candidate list,D7_employer_universe_50.csv,vocabulary_locked_for_release
+BS02,Consumer Products & Services,Bursa Malaysia sector vocabulary used by D7 candidate list,D7_employer_universe_50.csv,vocabulary_locked_for_release
+BS03,Energy,Bursa Malaysia sector vocabulary used by D7 candidate list,D7_employer_universe_50.csv,vocabulary_locked_for_release
+BS04,Financial Services,Bursa Malaysia sector vocabulary used by D7 candidate list,D7_employer_universe_50.csv,vocabulary_locked_for_release
+BS05,Health Care,Bursa Malaysia sector vocabulary used by D7 candidate list,D7_employer_universe_50.csv,vocabulary_locked_for_release
+BS06,Industrial Products & Services,Bursa Malaysia sector vocabulary used by D7 candidate list,D7_employer_universe_50.csv,vocabulary_locked_for_release
+BS07,Plantation,Bursa Malaysia sector vocabulary used by D7 candidate list,D7_employer_universe_50.csv,vocabulary_locked_for_release
+BS08,Property,Bursa Malaysia sector vocabulary used by D7 candidate list,D7_employer_universe_50.csv,vocabulary_locked_for_release
+BS09,Technology,Bursa Malaysia sector vocabulary used by D7 candidate list,D7_employer_universe_50.csv,vocabulary_locked_for_release
+BS10,Telecommunications & Media,Bursa Malaysia sector vocabulary used by D7 candidate list,D7_employer_universe_50.csv,vocabulary_locked_for_release
+BS11,Transportation & Logistics,Bursa Malaysia sector vocabulary used by D7 candidate list,D7_employer_universe_50.csv,vocabulary_locked_for_release
+BS12,Utilities,Bursa Malaysia sector vocabulary used by D7 candidate list,D7_employer_universe_50.csv,vocabulary_locked_for_release

@@ -1,0 +1,121 @@
+[
+  {
+    "control": "empty_profile",
+    "target_role": "Village Community Center Manager",
+    "input_skill_count": 0,
+    "http": {
+      "status": 200,
+      "seconds": 0.123
+    },
+    "result": {
+      "readiness": 100.0,
+      "skills_have": [],
+      "gaps": []
+    }
+  },
+  {
+    "control": "empty_profile",
+    "target_role": "Teacher, Vocational",
+    "input_skill_count": 0,
+    "http": {
+      "status": 200,
+      "seconds": 0.077
+    },
+    "result": {
+      "readiness": 20.0,
+      "skills_have": [],
+      "gaps": [
+        {
+          "skill": "Guarantee Students' Safety",
+          "band": "role",
+          "importance": 100.0,
+          "uplift": 7.3
+        },
+        {
+          "skill": "Assessment Processes",
+          "band": "role",
+          "importance": 100.0,
+          "uplift": 7.3
+        },
+        {
+          "skill": "Adapt Teaching to Student's Capabilities",
+          "band": "role",
+          "importance": 100.0,
+          "uplift": 7.3
+        }
+      ]
+    }
+  },
+  {
+    "control": "empty_profile",
+    "target_role": "Technical Specialist (.Net)",
+    "input_skill_count": 0,
+    "http": {
+      "status": 200,
+      "seconds": 0.079
+    },
+    "result": {
+      "readiness": 0.0,
+      "skills_have": [],
+      "gaps": [
+        {
+          "skill": "Identify Customer Requirements",
+          "band": "role",
+          "importance": 100.0,
+          "uplift": 4.4
+        },
+        {
+          "skill": "Engineering Principles",
+          "band": "role",
+          "importance": 100.0,
+          "uplift": 4.4
+        },
+        {
+          "skill": "Perform Scientific Research",
+          "band": "role",
+          "importance": 100.0,
+          "uplift": 4.4
+        }
+      ]
+    }
+  },
+  {
+    "control": "all_24_active_core_ids",
+    "target_role": "Technical Specialist (.Net)",
+    "input_skill_count": 24,
+    "http": {
+      "status": 200,
+      "seconds": 0.082
+    },
+    "result": {
+      "readiness": 100.0,
+      "skills_have": [
+        "Analyse Software Specifications",
+        "Computer Programming",
+        "Create Flowchart Diagram",
+        "Debug Software",
+        "Define Technical Requirements",
+        "Develop Automated Migration Methods",
+        "Develop Software Prototype",
+        "Engineering Principles",
+        "Engineering Processes",
+        "ICT Debugging Tools",
+        "Identify Customer Requirements",
+        "Integrated Development Environment Software",
+        "Interpret Technical Requirements",
+        "Manage Engineering Project",
+        "Perform Scientific Research",
+        "Project Management",
+        "Technical Drawings",
+        "Tools for Software Configuration Management",
+        "Use Software Design Patterns",
+        "Use Software Libraries",
+        "Use Technical Drawing Software",
+        "Use an Application-Specific Interface",
+        "Utilise Computer-Aided Software Engineering Tools",
+        "Web Services"
+      ],
+      "gaps": []
+    }
+  }
+]

@@ -1,0 +1,114 @@
+{
+  "status": "COMMITTED_AND_VERIFIED",
+  "date": "2026-08-30",
+  "committed_at_utc": "2026-08-30T07:25:30.316948+00:00",
+  "target_service": "postgresql-database-wxnjpd2ia8avtwbs739mtamk",
+  "database": "rerouteher_test",
+  "schema": "rerouteher",
+  "execution_interface": "Safari / Coolify container terminal / psql",
+  "user_action_time_confirmation": "I confirm deletion on coolify, you may proceed",
+  "migration_sql_sha256": "9ac887a7301a7a99bf777837daf8389d296b30bb4ba4e891ebff6b0ff2aba7be",
+  "source_release_sql_sha256": "3533a79e1035e45f5ef01ce53adbb2e8de5025b12786a7b8c3a42ea327ba7edf",
+  "uploaded_sql_checksum_matched": true,
+  "rehearsal": {
+    "psql_exit_status": 0,
+    "seconds": 26,
+    "all_migration_guards_passed": true,
+    "rollback_observed": true,
+    "original_counts_rechecked_after_rollback": true,
+    "new_release_metadata_after_rollback": 0
+  },
+  "commit": {
+    "psql_exit_status": 0,
+    "seconds": 23,
+    "all_migration_guards_passed": true,
+    "commit_observed": true,
+    "success_marker": "MASCO2020_MIGRATION_COMMITTED"
+  },
+  "before_counts": {
+    "roles": 667,
+    "skill_taxonomy": 6205,
+    "skill_aliases": 38285,
+    "role_skills": 41118,
+    "role_skill_lineage": 41118
+  },
+  "after_counts": {
+    "roles": 665,
+    "skill_taxonomy": 6121,
+    "skill_aliases": 37730,
+    "role_skills": 41194,
+    "role_skill_lineage": 41194
+  },
+  "new_dataset_counts": {
+    "masco_2020_six_digit_roles": 655,
+    "esco_leaf_skills": 6080,
+    "matching_aliases": 37654,
+    "role_skill_links": 41024,
+    "role_skill_lineage": 41024,
+    "release_metadata": 8068,
+    "original_esco_comparison_records": 657
+  },
+  "replacement_scope": {
+    "superseded_role_ids_removed": 382,
+    "new_role_ids_added": 380,
+    "overlapping_role_ids_refreshed": 275,
+    "old_only_skill_ids_removed": 130,
+    "new_skill_ids_added": 46,
+    "prior_d13_links_replaced": 40948,
+    "prior_d13_aliases_replaced": 38209,
+    "old_role_rows_archived_in_existing_metadata_table": 657
+  },
+  "preservation": {
+    "original_roles_R01_R10": 10,
+    "original_skills": 41,
+    "original_aliases": 76,
+    "original_role_skill_links": 170,
+    "original_role_skill_lineage": 170,
+    "original_and_unrelated_row_hashes_match_across_all_35_tables": true,
+    "prior_metadata_retained_unchanged": true,
+    "schema_before_after_dumps_identical": true,
+    "schema_changed": false,
+    "table_count": 35,
+    "constraints_or_indexes_changed": false,
+    "schema_dump_sha256_before_and_after": "07cdc5de3a8721e6557717a407fad933968dffde541a441c993b6eacf1925ff1",
+    "transaction_schema_signature_md5": "405cff9cb15e3013ffed4f18f4c8c9cd",
+    "source_csvs_changed": false,
+    "other_databases_modified": false
+  },
+  "exact_source_content_checks": {
+    "psql_exit_status": 0,
+    "checks_passed": 6,
+    "MASCO_role_identities_and_ESCO_codes": "PASS",
+    "ESCO_Title_Case_display_titles": "PASS",
+    "Title_Case_canonical_skills_and_unchanged_definitions": "PASS",
+    "lowercase_aliases_and_provenance": "PASS",
+    "role_skill_labels_types_and_weights": "PASS",
+    "preserved_original_ESCO_comparisons": "PASS"
+  },
+  "target_table_statistics_refreshed": true,
+  "backup": {
+    "directory": "/var/lib/postgresql/masco2020_migration_20260830.MLQhVm",
+    "file": "before.dump",
+    "format": "pg_dump custom format, full rerouteher_test database",
+    "persistent_storage": true,
+    "sha256": "dc6c47767eb7bb533d20e30ffcdc34f71114dc23f1becd5da31cfa3d1ca6e3d7",
+    "archive_listing_checked": true,
+    "backup_restore_executed": false,
+    "retained": true
+  },
+  "server_evidence_files": [
+    "before.schema.normalized.sql",
+    "pre_rehearsal.schema.normalized.sql",
+    "after.schema.normalized.sql",
+    "rehearsal.log",
+    "commit.log",
+    "source_content_checks.log",
+    "preservation_checks.log",
+    "migration.sql"
+  ],
+  "limits": [
+    "Project-derived test mappings, not an official MASCO–ESCO crosswalk.",
+    "Raw historical metadata and source labels are intentionally preserved; Title Case applies to the new display fields.",
+    "No matching model was retrained or deployed in this database update."
+  ]
+}

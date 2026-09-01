@@ -1,0 +1,130 @@
+{
+  "cases": [
+    {
+      "input": "chief information officer",
+      "expected": "Chief Information Officer",
+      "actual": "Chief Information Officer",
+      "passed": true
+    },
+    {
+      "input": "use spreadsheets software",
+      "expected": "Use Spreadsheets Software",
+      "actual": "Use Spreadsheets Software",
+      "passed": true
+    },
+    {
+      "input": "manage health and safety standards",
+      "expected": "Manage Health and Safety Standards",
+      "actual": "Manage Health and Safety Standards",
+      "passed": true
+    },
+    {
+      "input": "ICT system administrator",
+      "expected": "ICT System Administrator",
+      "actual": "ICT System Administrator",
+      "passed": true
+    },
+    {
+      "input": "use SQL and JavaScript",
+      "expected": "Use SQL and JavaScript",
+      "actual": "Use SQL and JavaScript",
+      "passed": true
+    },
+    {
+      "input": "use Microsoft Excel",
+      "expected": "Use Microsoft Excel",
+      "actual": "Use Microsoft Excel",
+      "passed": true
+    },
+    {
+      "input": "3D animation and CAD/CAM",
+      "expected": "3D Animation and CAD/CAM",
+      "actual": "3D Animation and CAD/CAM",
+      "passed": true
+    },
+    {
+      "input": "perform pH measurements",
+      "expected": "Perform pH Measurements",
+      "actual": "Perform pH Measurements",
+      "passed": true
+    },
+    {
+      "input": "assess patient's needs",
+      "expected": "Assess Patient's Needs",
+      "actual": "Assess Patient's Needs",
+      "passed": true
+    },
+    {
+      "input": "use .NET and C++",
+      "expected": "Use .NET and C++",
+      "actual": "Use .NET and C++",
+      "passed": true
+    },
+    {
+      "input": "develop NoSQL databases",
+      "expected": "Develop NoSQL Databases",
+      "actual": "Develop NoSQL Databases",
+      "passed": true
+    },
+    {
+      "input": "for the benefit of",
+      "expected": "For the Benefit Of",
+      "actual": "For the Benefit Of",
+      "passed": true
+    },
+    {
+      "input": "data-driven decision-making",
+      "expected": "Data-Driven Decision-Making",
+      "actual": "Data-Driven Decision-Making",
+      "passed": true
+    },
+    {
+      "input": "use visual aids",
+      "expected": "Use Visual Aids",
+      "actual": "Use Visual Aids",
+      "passed": true
+    },
+    {
+      "input": "provide basic care",
+      "expected": "Provide Basic Care",
+      "actual": "Provide Basic Care",
+      "passed": true
+    },
+    {
+      "input": "support people who need it",
+      "expected": "Support People Who Need It",
+      "actual": "Support People Who Need It",
+      "passed": true
+    },
+    {
+      "input": "HIV and AIDS",
+      "expected": "HIV and AIDS",
+      "actual": "HIV and AIDS",
+      "passed": true
+    },
+    {
+      "input": "less noise and spark detection",
+      "expected": "Less Noise and Spark Detection",
+      "actual": "Less Noise and Spark Detection",
+      "passed": true
+    },
+    {
+      "input": "use JS in MS Excel",
+      "expected": "Use JS in MS Excel",
+      "actual": "Use JS in MS Excel",
+      "passed": true
+    },
+    {
+      "input": "comply with ATC instructions",
+      "expected": "Comply with ATC Instructions",
+      "actual": "Comply with ATC Instructions",
+      "passed": true
+    },
+    {
+      "input": "use IntelliJ IDEA and t-SNE",
+      "expected": "Use IntelliJ IDEA and t-SNE",
+      "actual": "Use IntelliJ IDEA and t-SNE",
+      "passed": true
+    }
+  ]
+}

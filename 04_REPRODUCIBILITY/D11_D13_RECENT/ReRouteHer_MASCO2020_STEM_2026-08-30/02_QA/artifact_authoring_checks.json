@@ -1,0 +1,134 @@
+[
+  {
+    "file": "01_TABLES/MASCO2020_role_crosswalk.csv",
+    "rows": 675,
+    "columns": 21,
+    "round_trip": "PASS"
+  },
+  {
+    "file": "01_TABLES/MASCO2020_excluded_roles.csv",
+    "rows": 19,
+    "columns": 21,
+    "round_trip": "PASS"
+  },
+  {
+    "file": "01_TABLES/ESCO_comparison_preservation.csv",
+    "rows": 657,
+    "columns": 13,
+    "round_trip": "PASS"
+  },
+  {
+    "file": "01_TABLES/D11_STEM_roles.csv",
+    "rows": 655,
+    "columns": 63,
+    "round_trip": "PASS"
+  },
+  {
+    "file": "01_TABLES/D13_role_esco_coverage.csv",
+    "rows": 655,
+    "columns": 48,
+    "round_trip": "PASS"
+  },
+  {
+    "file": "05_MODEL_ARTIFACTS/D11_role_embedding_index.csv",
+    "rows": 655,
+    "columns": 2,
+    "round_trip": "PASS"
+  },
+  {
+    "file": "01_TABLES/MASCO2020_retained_roles.csv",
+    "rows": 655,
+    "columns": 11,
+    "round_trip": "PASS"
+  },
+  {
+    "file": "01_TABLES/D11_STEM_role_tasks.csv",
+    "rows": 5512,
+    "columns": 22,
+    "round_trip": "PASS"
+  },
+  {
+    "file": "01_TABLES/D11_STEM_task_rating_lineage.csv",
+    "rows": 5512,
+    "columns": 28,
+    "round_trip": "PASS"
+  },
+  {
+    "file": "01_TABLES/D11_STEM_role_rating_lineage.csv",
+    "rows": 655,
+    "columns": 28,
+    "round_trip": "PASS"
+  },
+  {
+    "file": "01_TABLES/D11_STEM_D1_scope_lineage.csv",
+    "rows": 10,
+    "columns": 6,
+    "round_trip": "PASS"
+  },
+  {
+    "file": "01_TABLES/D13_role_esco_mapping_review.csv",
+    "rows": 655,
+    "columns": 35,
+    "round_trip": "PASS"
+  },
+  {
+    "file": "01_TABLES/D13_mapping_evidence.csv",
+    "rows": 655,
+    "columns": 41,
+    "round_trip": "PASS"
+  },
+  {
+    "file": "01_TABLES/D13_mapping_candidates.csv",
+    "rows": 5240,
+    "columns": 26,
+    "round_trip": "PASS"
+  },
+  {
+    "file": "01_TABLES/role_skills.csv",
+    "rows": 41286,
+    "columns": 16,
+    "round_trip": "PASS"
+  },
+  {
+    "file": "01_TABLES/role_skills_lineage.csv",
+    "rows": 41286,
+    "columns": 30,
+    "round_trip": "PASS"
+  },
+  {
+    "file": "01_TABLES/skill_taxonomy.csv",
+    "rows": 6051,
+    "columns": 5,
+    "round_trip": "PASS"
+  },
+  {
+    "file": "01_TABLES/skill_taxonomy_lineage.csv",
+    "rows": 6051,
+    "columns": 14,
+    "round_trip": "PASS"
+  },
+  {
+    "file": "01_TABLES/skill_aliases.csv",
+    "rows": 37521,
+    "columns": 3,
+    "round_trip": "PASS"
+  },
+  {
+    "file": "05_MODEL_ARTIFACTS/D13_skill_embedding_index.csv",
+    "rows": 6051,
+    "columns": 2,
+    "round_trip": "PASS"
+  },
+  {
+    "file": "02_QA/D13_source_quality_issues.csv",
+    "rows": 4,
+    "columns": 16,
+    "round_trip": "PASS"
+  },
+  {
+    "file": "02_QA/MASCO2020_live_database_code_conflicts.csv",
+    "rows": 209,
+    "columns": 4,
+    "round_trip": "PASS"
+  }
+]

@@ -1,0 +1,96 @@
+role_id,task_rank,masco_task_id,masco_code,task,source,source_page_pdf
+R01,1,MASCO_2512_01,2512,"studying, analysing and evaluating requirements for software applications and operating systems.",MASCO 2020 official PDF,92
+R01,2,MASCO_2512_02,2512,"studying, designing and developing computer software systems.",MASCO 2020 official PDF,92
+R01,3,MASCO_2512_03,2512,consulting with engineering staff to evaluate interfaces between hardware and software.,MASCO 2020 official PDF,92
+R01,4,MASCO_2512_04,2512,developing and directing software testing and procedure validation.,MASCO 2020 official PDF,92
+R01,5,MASCO_2512_05,2512,"modifying existing software to correct errors, to adapt it to new hardware or to upgrade interfaces and improve performance; FESSIONALS.",MASCO 2020 official PDF,92
+R01,6,MASCO_2512_06,2512,directing software programming and development of documentation.,MASCO 2020 official PDF,92
+R01,7,MASCO_2512_07,2512,"assessing, developing, upgrading and documenting maintenance procedures for operating systems, communication environments and application software.",MASCO 2020 official PDF,92
+R01,8,MASCO_2512_08,2512,consulting with customers concerning maintenance of software system; and.,MASCO 2020 official PDF,92
+R01,9,MASCO_2512_09,2512,enhancing knowledge and coordinating work performance.,MASCO 2020 official PDF,92
+R02,1,MASCO_2524_01,2524,"preparing documentation to outline data sources, models and algorithms used and developed.",MASCO 2020 official PDF,96
+R02,2,MASCO_2524_02,2524,extracting data from data sources.,MASCO 2020 official PDF,96
+R02,3,MASCO_2524_03,2524,proposing new uses for existing data sources and structures.,MASCO 2020 official PDF,96
+R02,4,MASCO_2524_04,2524,integrating multiple data sets to build large and complex data sets.,MASCO 2020 official PDF,96
+R02,5,MASCO_2524_05,2524,"building software to scrub, combine and manage data.",MASCO 2020 official PDF,96
+R02,6,MASCO_2524_06,2524,"applying data mining techniques to investigate leads, identify patterns and regularities in data.",MASCO 2020 official PDF,96
+R02,7,MASCO_2524_07,2524,implementing automated processes to produce scale models.,MASCO 2020 official PDF,96
+R02,8,MASCO_2524_08,2524,"developing complex code, scripts and data pipelines to process structured and unstructured data.",MASCO 2020 official PDF,96
+R02,9,MASCO_2524_09,2524,testing data system configurations to increase efficiency.,MASCO 2020 official PDF,96
+R02,10,MASCO_2524_10,2524,"enabling searching, data visualisation, and advanced analytics functionality.",MASCO 2020 official PDF,96
+R02,11,MASCO_2524_11,2524,monitoring data system performance.,MASCO 2020 official PDF,96
+R02,12,MASCO_2524_12,2524,facilitating data cleansing and enrichment; and.,MASCO 2020 official PDF,96
+R02,13,MASCO_2524_13,2524,performing data validation and quality control checks.,MASCO 2020 official PDF,96
+R03,1,MASCO_2423_01,2423,"advising on and performing personnel functions relating to recruitment, placement, training, staff performance, promotion, compensation and employee-management relations.",MASCO 2020 official PDF,88
+R03,2,MASCO_2423_02,2423,maintaining personnel records and associated human resource information systems.,MASCO 2020 official PDF,88
+R03,3,MASCO_2423_03,2423,"studying and analysing jobs performed in an establishment, conducting interviews with workers, supervisors and the management, and writing detailed post, job and occupation descriptions from data obtained.",MASCO 2020 official PDF,88
+R03,4,MASCO_2423_04,2423,preparing occupational information booklets/pamphlets and occupational classification systems.,MASCO 2020 official PDF,88
+R03,5,MASCO_2423_05,2423,"advising on aspects of personnel administration, manpower research and planning, training or occupational information and vocational guidance.",MASCO 2020 official PDF,88
+R03,6,MASCO_2423_06,2423,"studying and advising individuals on employment opportunities, career choices and further education or training.",MASCO 2020 official PDF,88
+R03,7,MASCO_2423_07,2423,"providing guidance to students, parents and teachers in a wide range of matters, including students’ personal problems, learning difficulties and special needs.",MASCO 2020 official PDF,88
+R03,8,MASCO_2423_08,2423,performing related tasks; and.,MASCO 2020 official PDF,88
+R03,9,MASCO_2423_09,2423,enhancing knowledge and coordinating work performance.,MASCO 2020 official PDF,88
+R04,1,MASCO_2431_01,2431,"planning, implementing and monitoring various business activities.",MASCO 2020 official PDF,90
+R04,2,MASCO_2431_02,2431,reporting on customer feedback and requirements to manufacturers.,MASCO 2020 official PDF,90
+R04,3,MASCO_2431_03,2431,developing and devising creative ideas for an advertising campaign for a brand or business.,MASCO 2020 official PDF,90
+R04,4,MASCO_2431_04,2431,"advising clients on how, when and where to spend their advertising budgets.",MASCO 2020 official PDF,90
+R04,5,MASCO_2431_05,2431,"providing direct, creative and strategic communication with the target audience, e.g. direct mail and direct response radio advertising.",MASCO 2020 official PDF,90
+R04,6,MASCO_2431_06,2431,interacting with the media.,MASCO 2020 official PDF,90
+R04,7,MASCO_2431_07,2431,performing related tasks; and.,MASCO 2020 official PDF,90
+R04,8,MASCO_2431_08,2431,enhancing knowledge and coordinating work performance.,MASCO 2020 official PDF,90
+R05,1,MASCO_2833_01,2833,"studying the relationships between ancient parent languages and modern language groups, tracing the origin and evolution of words, grammar and language forms and presenting findings.",MASCO 2020 official PDF,107
+R05,2,MASCO_2833_02,2833,"advising on or preparing language classification systems, grammars, dictionaries and similar matters.",MASCO 2020 official PDF,107
+R05,3,MASCO_2833_03,2833,"translating from one language into another and ensuring that the correct meaning of the original is retained, that legal, technical or scientific texts are correctly rendered and that the phraseology, terminology, spirit and style are conveyed as far as possible.",MASCO 2020 official PDF,107
+R05,4,MASCO_2833_04,2833,"interpreting from one language into another, in particular at conferences, meetings and similar occasions, and ensuring that the correct meaning and, as far as possible, the spirit of the original are transmitted.",MASCO 2020 official PDF,107
+R05,5,MASCO_2833_05,2833,"providing simultaneous interpreting at meetings of the Senate and House of Representatives, and editing the questions of the Senate.",MASCO 2020 official PDF,107
+R05,6,MASCO_2833_06,2833,specialising in at least two or more languages.,MASCO 2020 official PDF,107
+R05,7,MASCO_2833_07,2833,"responsible for managing and implementing projects, programs and development activities and the development of the Malay language as the national language and official language.",MASCO 2020 official PDF,107
+R05,8,MASCO_2833_08,2833,performing related tasks; and.,MASCO 2020 official PDF,107
+R05,9,MASCO_2833_09,2833,enhancing knowledge and coordinating work performance.,MASCO 2020 official PDF,107
+R06,1,MASCO_2543_01,2543,"creating world class, user centered designs through considerations of user research, business requirements, customer feedback and usability study findings.",MASCO 2020 official PDF,98
+R06,2,MASCO_2543_02,2543,"developing conceptual diagrams, wireframes, visual mockups, prototypes and visual design of web and mobile applications.",MASCO 2020 official PDF,98
+R06,3,MASCO_2543_03,2543,developing and maintaining detailed user interface specifications.,MASCO 2020 official PDF,98
+R06,4,MASCO_2543_04,2543,"presenting design works to user experience, product, business owners for review and feedback.",MASCO 2020 official PDF,98
+R06,5,MASCO_2543_05,2543,"creating and implementing usability studies, personality, navigational structures, and affinity diagrams.",MASCO 2020 official PDF,98
+R06,6,MASCO_2543_06,2543,"providing usability recommendations based on industry best practices, analytics, and user behavior.",MASCO 2020 official PDF,98
+R06,7,MASCO_2543_07,2543,collaborating proactively with the other members of the team including from different expertise to solve problems.,MASCO 2020 official PDF,98
+R06,8,MASCO_2543_08,2543,optimising user experience based on the compilation of data analytics of user activities.,MASCO 2020 official PDF,98
+R06,9,MASCO_2543_09,2543,"performing related tasks through digital content creation tools, visualization software, tools and technology; and.",MASCO 2020 official PDF,98
+R06,10,MASCO_2543_10,2543,enhancing knowledge and coordinating work performance.,MASCO 2020 official PDF,98
+R07,1,MASCO_4311_01,4311,"checking figures, notification and documents for correct information, mathematical accuracy and proper codes.",MASCO 2020 official PDF,179
+R07,2,MASCO_4311_02,4311,"operating computers programmed with accounting software to record, store, and analyse information.",MASCO 2020 official PDF,179
+R07,3,MASCO_4311_03,4311,"classifying, recording and summarising numerical and financial data to compile and keep financial records using journals and ledgers or computers.",MASCO 2020 official PDF,179
+R07,4,MASCO_4311_04,4311,"calculating, preparing and issuing bills, invoices, account statements and other financial statements according to established procedures.",MASCO 2020 official PDF,179
+R07,5,MASCO_4311_05,4311,"compiling statistical, financial, accounting or audit reports and tables pertaining to such matters as cash receipts, expenditures, payable and receivable accounts, and profits and losses.",MASCO 2020 official PDF,179
+R07,6,MASCO_4311_06,4311,performing related tasks; and.,MASCO 2020 official PDF,179
+R07,7,MASCO_4311_07,4311,"supervising, scheduling and monitoring the tasks of other workers.",MASCO 2020 official PDF,179
+R08,1,MASCO_4222_01,4222,"taking charge of incoming calls and messages from clients either responding to queries, handling calls about services or sorting complaints.",MASCO 2020 official PDF,176
+R08,2,MASCO_4222_02,4222,"issuing invoices or handling payments, if necessary.",MASCO 2020 official PDF,176
+R08,3,MASCO_4222_03,4222,"sending letters, information sheets and other documents to clients.",MASCO 2020 official PDF,176
+R08,4,MASCO_4222_04,4222,advising clients of additional products or services.,MASCO 2020 official PDF,176
+R08,5,MASCO_4222_05,4222,dealing with telephone requests for information or appointments.,MASCO 2020 official PDF,176
+R08,6,MASCO_4222_06,4222,directing clients or patients to the appropriate location or person.,MASCO 2020 official PDF,176
+R08,7,MASCO_4222_07,4222,taking any form of complaint or feedback from customers which is related to organisational operation and services.,MASCO 2020 official PDF,176
+R08,8,MASCO_4222_08,4222,performing related tasks; and.,MASCO 2020 official PDF,176
+R08,9,MASCO_4222_09,4222,"supervising, scheduling and monitoring the tasks of other workers.",MASCO 2020 official PDF,176
+R09,1,MASCO_4121_01,4121,"checking, formatting and transcribing correspondence, minutes and reports from dictation, electronic documents or written drafts to conform to office standards using the typewriter or other word processing equipment.",MASCO 2020 official PDF,172
+R09,2,MASCO_4121_02,4121,using various computer software packages including spreadsheets to provide administrative support.,MASCO 2020 official PDF,172
+R09,3,MASCO_4121_03,4121,dealing with incoming or outgoing mail.,MASCO 2020 official PDF,172
+R09,4,MASCO_4121_04,4121,"checking, recording and distributing mail, correspondence and documents.",MASCO 2020 official PDF,172
+R09,5,MASCO_4121_05,4121,screening requests for meetings or appointments and helping to organise meetings.,MASCO 2020 official PDF,172
+R09,6,MASCO_4121_06,4121,screening and recording leave and other staff members’ entitlements.,MASCO 2020 official PDF,172
+R09,7,MASCO_4121_07,4121,organising and supervising filing systems.,MASCO 2020 official PDF,172
+R09,8,MASCO_4121_08,4121,dealing with routine correspondence.,MASCO 2020 official PDF,172
+R09,9,MASCO_4121_09,4121,"taking shorthand, typing and managing file movement.",MASCO 2020 official PDF,172
+R09,10,MASCO_4121_10,4121,performing related tasks; and.,MASCO 2020 official PDF,172
+R09,11,MASCO_4121_11,4121,"supervising, scheduling and monitoring the tasks of other workers.",MASCO 2020 official PDF,172
+R10,1,MASCO_2311_01,2311,"delivering lectures and conducting tutorials, research and releasing publications.",MASCO 2020 official PDF,78
+R10,2,MASCO_2311_02,2311,"giving lectures, supervising thesis projects, managing practical work/tutorials and preparing lecture notes/laboratory manuals.",MASCO 2020 official PDF,78
+R10,3,MASCO_2311_03,2311,"conducting examination matters, monitoring the practical training of students, assisting in reviewing / preparing the curriculum / syllabus, engaging in research work and undertaking student development work.",MASCO 2020 official PDF,78
+R10,4,MASCO_2311_04,2311,"providing consultancy services to students and outsiders, supervising projects, theses and student papers, conducting research, publishing journals, articles, books and other forms of related publications, services, performing community and professional services, helping students develop their potential and character, and managing academic-related activities.",MASCO 2020 official PDF,78
+R10,5,MASCO_2311_05,2311,designing and modifying the curricula and preparing courses of study in accordance with the requirements.,MASCO 2020 official PDF,78
+R10,6,MASCO_2311_06,2311,encouraging discussion and independent thinking among students.,MASCO 2020 official PDF,78
+R10,7,MASCO_2311_07,2311,"conducting research and developing concepts, theories and operational methods for application in the industry and other fields.",MASCO 2020 official PDF,78
+R10,8,MASCO_2311_08,2311,assisting in co-curricular activities.,MASCO 2020 official PDF,78
+R10,9,MASCO_2311_09,2311,performing related tasks; and.,MASCO 2020 official PDF,78
+R10,10,MASCO_2311_10,2311,enhancing knowledge and coordinating work performance.,MASCO 2020 official PDF,78

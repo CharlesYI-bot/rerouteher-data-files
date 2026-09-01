@@ -1,0 +1,20 @@
+pillar,component,points_or_weight,rule
+recognition,Life at Work women/family winner,60.0,sum confirmed signals; cap at 100
+recognition,Life at Work other DEI winner,40.0,sum confirmed signals; cap at 100
+recognition,Life at Work finalist/entrant,20.0,sum confirmed signals; cap at 100
+recognition,flexWorkLife/FWA adopter,25.0,sum confirmed signals; cap at 100
+recognition,other government family-friendly recognition,15.0,sum confirmed signals; cap at 100
+gender_equity,women workforce parity,0.25,"min(women_workforce_pct/50,1)*100"
+gender_equity,women management,0.3,"min(women_management_pct/40,1)*100"
+gender_equity,women board,0.2,"min(women_board_pct/30,1)*100"
+gender_equity,promotion-through,0.25,"min(women_management_pct/women_workforce_pct,1)*100"
+policy_flex,maternity >=120 days,40.0,confirmed disclosure
+policy_flex,maternity 99-119 days,25.0,confirmed disclosure
+policy_flex,maternity 98 days,15.0,confirmed disclosure
+policy_flex,flexible/remote work,30.0,confirmed disclosure
+policy_flex,childcare/nursing/phased return,20.0,confirmed disclosure
+policy_flex,paternity beyond statutory,10.0,confirmed disclosure
+overall,recognition weight,0.3,0.30*recognition + 0.40*gender + 0.30*policy
+overall,gender-equity weight,0.4,0.30*recognition + 0.40*gender + 0.30*policy
+overall,policy/flex weight,0.3,0.30*recognition + 0.40*gender + 0.30*policy
+missingness,completed source search finds no qualifying evidence for a pillar,0.0,score that unsupported pillar as 0; keep raw fact fields blank and retain evidence/search provenance

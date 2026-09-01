@@ -1,0 +1,48 @@
+{
+  "input_current_STEM_roles": 657,
+  "retained_current_source_roles": 638,
+  "excluded_current_source_roles": 19,
+  "output_unique_MASCO2020_roles": 655,
+  "split_source_roles": 15,
+  "additional_rows_from_splits": 18,
+  "merged_duplicate_source_rows": 1,
+  "masco2020_reference_codes": 6620,
+  "roles_with_ESCo_assignment": 655,
+  "skills": 6051,
+  "aliases": 37521,
+  "role_skill_links": 41286,
+  "role_tasks": 5512,
+  "ESCO_comparison_source_records_preserved": 657,
+  "current_database_release_code_title_conflicts": 209,
+  "exclusion_reasons": {
+    "aggregate_no_unique_2020_identity": 4,
+    "no_verified_2020_equivalent": 14,
+    "grade_entry_not_in_2020": 1
+  },
+  "source_remap_methods": {
+    "aggregate_no_unique_2020_identity": 4,
+    "exact_normalized_title": 458,
+    "reviewed_functional_equivalent": 32,
+    "title_variant": 33,
+    "no_verified_2020_equivalent": 14,
+    "combined_title_split": 15,
+    "grade_reversion": 99,
+    "grade_entry_not_in_2020": 1,
+    "duplicate_2020_title_canonical_choice": 1
+  },
+  "D13_effective_mapping_relations": {
+    "close_match": 216,
+    "inherited_test_proxy": 65,
+    "partial_proxy": 199,
+    "broader_proxy": 175
+  },
+  "schema_changed": false,
+  "live_database_modified": false,
+  "model_retrained_or_deployed": false,
+  "role_embeddings_recomputed": true,
+  "skill_embeddings_filtered_without_changes": true,
+  "STEM_scope_basis": "Current official STEM category retained; no retrospective claim that 2020 separately tagged these roles as STEM.",
+  "publication_warning": "Official 2020 publication reports 6630 titles; the existing audited English systematic-index extraction contains 6620 distinct codes. No missing codes are invented.",
+  "purpose": "test_only",
+  "official_MASCO_version_crosswalk": false
+}

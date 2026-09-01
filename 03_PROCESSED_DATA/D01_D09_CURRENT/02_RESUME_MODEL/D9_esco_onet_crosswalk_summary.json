@@ -1,0 +1,8 @@
+{
+  "jobhop_unique_esco_codes": 2278,
+  "covered_by_exact_official_esco_rows": 2254,
+  "unmatched": 24,
+  "coverage_rate": 0.989464,
+  "one_to_many_onet_codes": 1441,
+  "policy": "Retain all official O*NET candidates when the published crosswalk is one-to-many; do not choose silently."
+}

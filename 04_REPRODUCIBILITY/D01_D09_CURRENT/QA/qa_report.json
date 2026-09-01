@@ -1,0 +1,122 @@
+{
+  "generated_on": "2026-08-27",
+  "all_passed": true,
+  "checks": [
+    {
+      "check": "D1 has 10 roles",
+      "passed": true,
+      "detail": 10
+    },
+    {
+      "check": "Every role has official crosswalk",
+      "passed": true,
+      "detail": "exact ESCO-O*NET rows"
+    },
+    {
+      "check": "Every role has technical/soft skills",
+      "passed": true,
+      "detail": {
+        "('R01', 'digital')": 5,
+        "('R01', 'soft')": 7,
+        "('R01', 'technical')": 5,
+        "('R02', 'digital')": 5,
+        "('R02', 'soft')": 4,
+        "('R02', 'technical')": 8,
+        "('R03', 'digital')": 5,
+        "('R03', 'soft')": 6,
+        "('R03', 'technical')": 6,
+        "('R04', 'digital')": 5,
+        "('R04', 'soft')": 5,
+        "('R04', 'technical')": 7,
+        "('R05', 'digital')": 5,
+        "('R05', 'soft')": 5,
+        "('R05', 'technical')": 7,
+        "('R06', 'digital')": 5,
+        "('R06', 'soft')": 5,
+        "('R06', 'technical')": 7,
+        "('R07', 'digital')": 5,
+        "('R07', 'soft')": 4,
+        "('R07', 'technical')": 8,
+        "('R08', 'digital')": 5,
+        "('R08', 'soft')": 6,
+        "('R08', 'technical')": 6,
+        "('R09', 'digital')": 5,
+        "('R09', 'soft')": 5,
+        "('R09', 'technical')": 7,
+        "('R10', 'digital')": 5,
+        "('R10', 'soft')": 4,
+        "('R10', 'technical')": 8
+      }
+    },
+    {
+      "check": "Every role has 5 digital skills",
+      "passed": true,
+      "detail": {
+        "R01": 5,
+        "R02": 5,
+        "R03": 5,
+        "R04": 5,
+        "R05": 5,
+        "R06": 5,
+        "R07": 5,
+        "R08": 5,
+        "R09": 5,
+        "R10": 5
+      }
+    },
+    {
+      "check": "All 12 EPIC activities mapped",
+      "passed": true,
+      "detail": 33
+    },
+    {
+      "check": "Employer universe has 50 rows",
+      "passed": true,
+      "detail": 50
+    },
+    {
+      "check": "All 50 employer reports searched and reviewed",
+      "passed": true,
+      "detail": 50
+    },
+    {
+      "check": "Completed-search unsupported D7 pillars are zero-filled",
+      "passed": true,
+      "detail": "131 pillar cells across 49 employers; raw undisclosed facts remain blank"
+    },
+    {
+      "check": "Resume source hash matches approved audit",
+      "passed": true,
+      "detail": "423bb1410db68feec2c5196297ee13277781dce1754de6e2d7c0daac1f4f53d4"
+    },
+    {
+      "check": "Resume model uses train/val/test",
+      "passed": true,
+      "detail": {
+        "train": 455,
+        "val": 62,
+        "test": 45
+      }
+    },
+    {
+      "check": "No partial downloads in manifest",
+      "passed": true,
+      "detail": 15
+    },
+    {
+      "check": "MiniLM role embeddings are 384-dimensional",
+      "passed": true,
+      "detail": "10 role vectors"
+    },
+    {
+      "check": "MiniLM skill embeddings are 384-dimensional",
+      "passed": true,
+      "detail": "41 skill vectors"
+    },
+    {
+      "check": "Resume model is blocked from automatic production use",
+      "passed": true,
+      "detail": "Held-out top-1 and macro-F1 are too low for automatic classification. Use top-3 suggestions with user confirmation and collect labeled raw resume text before retraining."
+    }
+  ]
+}

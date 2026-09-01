@@ -1,0 +1,9 @@
+{
+  "model": "sentence-transformers/all-MiniLM-L6-v2",
+  "dimensions": 384,
+  "l2_normalized": true,
+  "input_format": "preferredLabel. definition (description used when definition is blank)",
+  "skill_count": 2575,
+  "min_l2_norm": 0.9999998211860657,
+  "max_l2_norm": 1.0000001192092896
+}

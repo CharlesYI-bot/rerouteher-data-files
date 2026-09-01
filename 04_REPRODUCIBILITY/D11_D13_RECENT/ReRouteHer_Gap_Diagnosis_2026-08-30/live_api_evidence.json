@@ -1,0 +1,161 @@
+{
+  "ict_operations": {
+    "key": "ict_operations",
+    "endpoint": "snapshot/generate",
+    "payload": {
+      "cv": {
+        "raw_text": "ICT Operations Manager. Manage networks, IT infrastructure and service delivery.",
+        "experiences": [
+          {
+            "title": "ICT Operations Manager",
+            "description": "Manage networks, IT infrastructure and service delivery."
+          }
+        ],
+        "skill_mentions": []
+      },
+      "break": {
+        "duration_years": 2,
+        "activities": []
+      }
+    },
+    "result": {
+      "professional_skills": [
+        {
+          "skill": "Computer Technology",
+          "skill_id": "ddc3119d-1d6e-4324-9125-a3380d299ac5",
+          "source": "experience",
+          "evidence": "ict"
+        },
+        {
+          "skill": "Administer ICT System",
+          "skill_id": "0868eef3-2213-4572-9343-74931345a7d3",
+          "source": "experience",
+          "evidence": "semantic match"
+        },
+        {
+          "skill": "Manage ICT Data Classification",
+          "skill_id": "03a74eee-2dc6-4147-8667-5cdeb65f122d",
+          "source": "experience",
+          "evidence": "semantic match"
+        },
+        {
+          "skill": "Manage ICT Data Architecture",
+          "skill_id": "4d85b881-e490-4b4c-897a-2faa4ef53956",
+          "source": "experience",
+          "evidence": "semantic match"
+        }
+      ],
+      "reframed_skills": [],
+      "previous_occupation": {
+        "role": "Technology Manager",
+        "confidence": 0.838,
+        "method": "classifier"
+      },
+      "recommended_roles": [
+        {
+          "role": "Technology Manager",
+          "similarity": 1
+        },
+        {
+          "role": "Manufacturing Manager",
+          "similarity": 0.735
+        },
+        {
+          "role": "Railway and Locomotive Operation Officer",
+          "similarity": 0.595
+        }
+      ]
+    }
+  },
+  "gap_three_skills": {
+    "key": "gap_three_skills",
+    "endpoint": "gap/compute",
+    "payload": {
+      "target_role": "Technical Specialist (.Net)",
+      "skills": [
+        {
+          "skill": "Python (Computer Programming)",
+          "skill_id": "ccd0a1d9-afda-43d9-b901-96344886e14d"
+        },
+        {
+          "skill": "SQL",
+          "skill_id": "598de5b0-5b58-4ea7-8058-a4bc4d18c742"
+        },
+        {
+          "skill": "JavaScript",
+          "skill_id": "3cd569a2-4f88-4c1e-9995-8dce8c5e51a7"
+        }
+      ]
+    },
+    "result": {
+      "readiness": 1.7,
+      "skills_have": [
+        "JavaScript",
+        "Python (Computer Programming)",
+        "SQL"
+      ],
+      "gaps": [
+        {
+          "skill": "Identify Customer Requirements",
+          "band": "role",
+          "importance": 100,
+          "uplift": 3.5
+        },
+        {
+          "skill": "Engineering Principles",
+          "band": "role",
+          "importance": 100,
+          "uplift": 3.5
+        },
+        {
+          "skill": "Perform Scientific Research",
+          "band": "role",
+          "importance": 100,
+          "uplift": 3.5
+        }
+      ]
+    }
+  },
+  "gap_names_only": {
+    "key": "gap_names_only",
+    "endpoint": "gap/compute",
+    "payload": {
+      "target_role": "Technical Specialist (.Net)",
+      "skills": [
+        {
+          "skill": "Python (Computer Programming)"
+        },
+        {
+          "skill": "SQL"
+        },
+        {
+          "skill": "JavaScript"
+        }
+      ]
+    },
+    "result": {
+      "readiness": 0,
+      "skills_have": [],
+      "gaps": [
+        {
+          "skill": "Identify Customer Requirements",
+          "band": "role",
+          "importance": 100,
+          "uplift": 3.5
+        },
+        {
+          "skill": "Engineering Principles",
+          "band": "role",
+          "importance": 100,
+          "uplift": 3.5
+        },
+        {
+          "skill": "Perform Scientific Research",
+          "band": "role",
+          "importance": 100,
+          "uplift": 3.5
+        }
+      ]
+    }
+  }
+}

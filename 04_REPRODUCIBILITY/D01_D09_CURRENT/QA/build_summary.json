@@ -1,0 +1,22 @@
+{
+  "generated_on": "2026-08-27",
+  "roles": 10,
+  "skills": 41,
+  "role_skills": 170,
+  "caregiving_mappings": 33,
+  "employers": 50,
+  "reports_reviewed": 20,
+  "resume_examples": 562,
+  "resume_test_accuracy": 0.3333333333333333,
+  "resume_test_macro_f1": 0.15439925571504517,
+  "qa_all_passed": true,
+  "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "embedding_dimension": 384,
+  "resume_selected_model": "minilm_centroid_retrieval",
+  "resume_nb_test_accuracy": 0.3333333333333333,
+  "resume_nb_test_macro_f1": 0.15439925571504517,
+  "resume_minilm_test_accuracy": 0.24444444444444444,
+  "resume_minilm_test_macro_f1": 0.15017088174982912,
+  "resume_production_recommendation": false,
+  "source_manifest_files": 34
+}

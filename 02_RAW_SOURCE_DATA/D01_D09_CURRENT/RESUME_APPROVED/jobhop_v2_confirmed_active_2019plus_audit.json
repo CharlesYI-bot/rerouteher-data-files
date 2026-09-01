@@ -1,0 +1,43 @@
+{
+  "dataset_name": "JobHop v2 confirmed active 2019+",
+  "definition": "Known ESCO code; exact duplicates removed; valid quarter-year start and end dates; 1950 <= start_year <= end_year <= 2025; end_year >= 2019.",
+  "education_counts": {
+    "Bachelor": 17682,
+    "Master": 6886,
+    "No tertiary qualification": 5668,
+    "PhD": 286,
+    "Secondary school": 16702
+  },
+  "education_label_normalization": {
+    "None": "No tertiary qualification"
+  },
+  "end_year_counts": {
+    "2019": 45246,
+    "2020": 1879,
+    "2021": 24,
+    "2022": 28,
+    "2023": 35,
+    "2024": 8,
+    "2025": 4
+  },
+  "exact_duplicates_removed": 45261,
+  "output_rows": 47224,
+  "output_sha256": "423bb1410db68feec2c5196297ee13277781dce1754de6e2d7c0daac1f4f53d4",
+  "raw_rows": 1993291,
+  "remaining_exact_duplicates": 0,
+  "remaining_invalid_date_rows": 0,
+  "remaining_unknown_codes": 0,
+  "rows_after_known_code_filter": 1817230,
+  "source_files": [
+    "JobHop_v2_train.parquet",
+    "JobHop_v2_val.parquet",
+    "JobHop_v2_test.parquet"
+  ],
+  "split_counts": {
+    "test": 4693,
+    "train": 37782,
+    "val": 4749
+  },
+  "unique_esco_codes": 2278,
+  "unique_resumes": 35568
+}

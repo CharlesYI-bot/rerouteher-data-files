@@ -1,0 +1,34 @@
+activity_id,break_activity,mapping_rank,onet_skill_id,onet_skill_name,reframed_label,mapping_method
+care_household.cared_for_children,Cared for children,1,ONET_2_A_1_b,Active Listening,Listening,deterministic expert-curated map to canonical O*NET 31.0 skill
+care_household.cared_for_children,Cared for children,2,ONET_2_B_1_a,Social Perceptiveness,Empathy,deterministic expert-curated map to canonical O*NET 31.0 skill
+care_household.cared_for_children,Cared for children,3,ONET_2_B_1_e,Instructing,Guidance,deterministic expert-curated map to canonical O*NET 31.0 skill
+care_household.ran_household,Ran the household,1,ONET_2_B_1_b,Coordination,Coordination,deterministic expert-curated map to canonical O*NET 31.0 skill
+care_household.ran_household,Ran the household,2,ONET_2_B_5_a,Time Management,Scheduling,deterministic expert-curated map to canonical O*NET 31.0 skill
+care_household.ran_household,Ran the household,3,ONET_2_B_5_d,Management of Personnel Resources,People coordination,deterministic expert-curated map to canonical O*NET 31.0 skill
+care_household.cared_for_elderly_sick_family,Cared for elderly / sick family,1,ONET_2_B_1_f,Service Orientation,Care orientation,deterministic expert-curated map to canonical O*NET 31.0 skill
+care_household.cared_for_elderly_sick_family,Cared for elderly / sick family,2,ONET_2_A_2_d,Monitoring,Monitoring,deterministic expert-curated map to canonical O*NET 31.0 skill
+care_household.cared_for_elderly_sick_family,Cared for elderly / sick family,3,ONET_2_B_1_a,Social Perceptiveness,Empathy,deterministic expert-curated map to canonical O*NET 31.0 skill
+planning.organised_family_logistics,Organised family logistics,1,ONET_2_B_1_b,Coordination,Coordination,deterministic expert-curated map to canonical O*NET 31.0 skill
+planning.organised_family_logistics,Organised family logistics,2,ONET_2_B_5_a,Time Management,Scheduling,deterministic expert-curated map to canonical O*NET 31.0 skill
+planning.managed_multiple_schedules,Managed multiple schedules,1,ONET_2_B_5_a,Time Management,Scheduling,deterministic expert-curated map to canonical O*NET 31.0 skill
+planning.managed_multiple_schedules,Managed multiple schedules,2,ONET_2_B_1_b,Coordination,Coordination,deterministic expert-curated map to canonical O*NET 31.0 skill
+planning.planned_events_gatherings,Planned events / gatherings,1,ONET_2_B_5_a,Time Management,Planning,deterministic expert-curated map to canonical O*NET 31.0 skill
+planning.planned_events_gatherings,Planned events / gatherings,2,ONET_2_B_1_b,Coordination,Coordination,deterministic expert-curated map to canonical O*NET 31.0 skill
+planning.planned_events_gatherings,Planned events / gatherings,3,ONET_2_B_1_d,Negotiation,Vendor negotiation,deterministic expert-curated map to canonical O*NET 31.0 skill
+planning.kept_household_records,Kept household records / documents,1,ONET_2_A_2_d,Monitoring,Record monitoring,deterministic expert-curated map to canonical O*NET 31.0 skill
+planning.kept_household_records,Kept household records / documents,2,ONET_2_B_5_a,Time Management,Administrative organisation,deterministic expert-curated map to canonical O*NET 31.0 skill
+finance.managed_budget_finances,Managed budget / finances,1,ONET_2_B_5_b,Management of Financial Resources,Budgeting,deterministic expert-curated map to canonical O*NET 31.0 skill
+finance.managed_budget_finances,Managed budget / finances,2,ONET_2_A_1_e,Mathematics,Numeracy,deterministic expert-curated map to canonical O*NET 31.0 skill
+finance.managed_budget_finances,Managed budget / finances,3,ONET_2_B_4_e,Judgment and Decision Making,Financial decisions,deterministic expert-curated map to canonical O*NET 31.0 skill
+finance.managed_home_repairs_vendors,Managed home repairs / vendors,1,ONET_2_B_1_d,Negotiation,Vendor negotiation,deterministic expert-curated map to canonical O*NET 31.0 skill
+finance.managed_home_repairs_vendors,Managed home repairs / vendors,2,ONET_2_B_1_b,Coordination,Vendor coordination,deterministic expert-curated map to canonical O*NET 31.0 skill
+finance.managed_home_repairs_vendors,Managed home repairs / vendors,3,ONET_2_B_2_i,Complex Problem Solving,Problem solving,deterministic expert-curated map to canonical O*NET 31.0 skill
+finance.handled_disputes_negotiations,Handled disputes / negotiations,1,ONET_2_B_1_d,Negotiation,Negotiation,deterministic expert-curated map to canonical O*NET 31.0 skill
+finance.handled_disputes_negotiations,Handled disputes / negotiations,2,ONET_2_A_1_b,Active Listening,Listening,deterministic expert-curated map to canonical O*NET 31.0 skill
+finance.handled_disputes_negotiations,Handled disputes / negotiations,3,ONET_2_B_1_a,Social Perceptiveness,Empathy,deterministic expert-curated map to canonical O*NET 31.0 skill
+learning.taught_tutored_children,Taught or tutored children,1,ONET_2_B_1_e,Instructing,Teaching,deterministic expert-curated map to canonical O*NET 31.0 skill
+learning.taught_tutored_children,Taught or tutored children,2,ONET_2_A_2_c,Learning Strategies,Learning support,deterministic expert-curated map to canonical O*NET 31.0 skill
+learning.taught_tutored_children,Taught or tutored children,3,ONET_2_A_1_b,Active Listening,Listening,deterministic expert-curated map to canonical O*NET 31.0 skill
+learning.volunteered_community_roles,Volunteered / community roles,1,ONET_2_B_1_f,Service Orientation,Community service,deterministic expert-curated map to canonical O*NET 31.0 skill
+learning.volunteered_community_roles,Volunteered / community roles,2,ONET_2_B_1_b,Coordination,Coordination,deterministic expert-curated map to canonical O*NET 31.0 skill
+learning.volunteered_community_roles,Volunteered / community roles,3,ONET_2_A_1_d,Speaking,Communication,deterministic expert-curated map to canonical O*NET 31.0 skill

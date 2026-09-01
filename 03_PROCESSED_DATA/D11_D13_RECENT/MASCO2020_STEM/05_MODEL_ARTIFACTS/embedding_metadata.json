@@ -1,0 +1,10 @@
+{
+  "model": "sentence-transformers/all-MiniLM-L6-v2",
+  "dimensions": 384,
+  "l2_normalized": true,
+  "role_count": 655,
+  "role_embedding_input": "MASCO 2020 role title + period + inherited current D11 task_summary",
+  "role_embedding_note": "Existing model inference only; no fine-tuning or deployed model update.",
+  "skill_count": 6051,
+  "skill_embedding_note": "Exact row subset of original D13 skill embeddings; not regenerated."
+}

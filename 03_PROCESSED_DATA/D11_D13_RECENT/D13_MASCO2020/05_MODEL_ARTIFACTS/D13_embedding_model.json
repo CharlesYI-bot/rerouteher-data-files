@@ -1,0 +1,11 @@
+{
+  "model": "sentence-transformers/all-MiniLM-L6-v2",
+  "dimensions": 384,
+  "l2_normalized": true,
+  "skill_count": 6080,
+  "input_format": "Title Case canonical_name + period + ESCO description (definition fallback)",
+  "min_l2_norm": 0.9999998211860657,
+  "max_l2_norm": 1.0000001192092896,
+  "case_policy": "Project Title Case with protected technical spellings",
+  "training_or_deployment": false
+}

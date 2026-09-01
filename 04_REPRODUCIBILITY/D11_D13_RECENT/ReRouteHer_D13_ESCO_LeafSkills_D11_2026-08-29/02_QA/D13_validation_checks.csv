@@ -1,0 +1,16 @@
+check_id,status,observed
+d11_role_count_657,PASS,657
+all_masco_codes_six_digits,PASS,657
+unique_role_ids,PASS,657
+coverage_has_all_d11_roles,PASS,657
+chosen_esco_codes_exist_officially,PASS,95
+role_skill_importance_is_essential_or_optional,PASS,"[50, 100]"
+role_skill_pairs_unique,PASS,5851
+taxonomy_matches_linked_skills,PASS,2575
+skill_types_nonblank,PASS,"{""knowledge"": 929, ""skill/competence"": 1643, ""esco_unspecified_digcomp"": 3}"
+mapping_review_represents_all_roles,PASS,657
+aliases_unique_case_insensitive,PASS,15203
+embedding_dimension_384,PASS,384
+embeddings_l2_normalized,PASS,"{""min"": 0.9999998211860657, ""max"": 1.0000001192092896}"
+scope_excludes_full_esco_skill_universe,PASS,"{""scoped"": 2575, ""official_unique"": 13939}"
+no_fuzzy_candidates_used,PASS,95

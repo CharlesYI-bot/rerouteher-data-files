@@ -1,0 +1,193 @@
+{
+  "model": "TF-IDF (1,2-grams) + balanced logistic regression",
+  "task_alignment": "Implements the D9 vectorization and classifier process in the task brief.",
+  "input_scope": "Prior standardized ESCO occupation titles plus education; no raw resume text.",
+  "selection_metric": "validation macro-F1, tie-broken by validation accuracy",
+  "selected_C": 8.0,
+  "grid_results": [
+    {
+      "C": 0.1,
+      "accuracy": 0.3064516129032258,
+      "macro_f1": 0.20910919540229886,
+      "top3_accuracy": 0.6290322580645161
+    },
+    {
+      "C": 0.25,
+      "accuracy": 0.3225806451612903,
+      "macro_f1": 0.22247360482654602,
+      "top3_accuracy": 0.6129032258064516
+    },
+    {
+      "C": 0.5,
+      "accuracy": 0.3064516129032258,
+      "macro_f1": 0.22377104377104376,
+      "top3_accuracy": 0.6451612903225806
+    },
+    {
+      "C": 1.0,
+      "accuracy": 0.2903225806451613,
+      "macro_f1": 0.21599511599511598,
+      "top3_accuracy": 0.6290322580645161
+    },
+    {
+      "C": 2.0,
+      "accuracy": 0.27419354838709675,
+      "macro_f1": 0.2073160173160173,
+      "top3_accuracy": 0.5967741935483871
+    },
+    {
+      "C": 4.0,
+      "accuracy": 0.27419354838709675,
+      "macro_f1": 0.2073160173160173,
+      "top3_accuracy": 0.5806451612903226
+    },
+    {
+      "C": 8.0,
+      "accuracy": 0.2903225806451613,
+      "macro_f1": 0.22669078048388389,
+      "top3_accuracy": 0.6129032258064516
+    }
+  ],
+  "validation": {
+    "split": "val",
+    "n_examples": 62,
+    "accuracy": 0.2903225806451613,
+    "macro_f1": 0.22669078048388389,
+    "top3_accuracy": 0.6129032258064516,
+    "per_class": {
+      "R01": {
+        "precision": 1.0,
+        "recall": 0.3333333333333333,
+        "f1": 0.5,
+        "support": 3
+      },
+      "R02": {
+        "precision": 0.14285714285714285,
+        "recall": 0.3333333333333333,
+        "f1": 0.2,
+        "support": 3
+      },
+      "R03": {
+        "precision": 0.4,
+        "recall": 0.3333333333333333,
+        "f1": 0.36363636363636365,
+        "support": 6
+      },
+      "R04": {
+        "precision": 0.5384615384615384,
+        "recall": 0.4375,
+        "f1": 0.4827586206896552,
+        "support": 16
+      },
+      "R05": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 2
+      },
+      "R06": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 6
+      },
+      "R07": {
+        "precision": 0.3333333333333333,
+        "recall": 0.5,
+        "f1": 0.4,
+        "support": 10
+      },
+      "R08": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 2
+      },
+      "R09": {
+        "precision": 0.25,
+        "recall": 0.125,
+        "f1": 0.16666666666666666,
+        "support": 8
+      },
+      "R10": {
+        "precision": 0.14285714285714285,
+        "recall": 0.16666666666666666,
+        "f1": 0.15384615384615385,
+        "support": 6
+      }
+    }
+  },
+  "test": {
+    "split": "test",
+    "n_examples": 45,
+    "accuracy": 0.17777777777777778,
+    "macro_f1": 0.13177489177489177,
+    "top3_accuracy": 0.5333333333333333,
+    "per_class": {
+      "R01": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 0
+      },
+      "R02": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 1
+      },
+      "R03": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 5
+      },
+      "R04": {
+        "precision": 0.2,
+        "recall": 0.18181818181818182,
+        "f1": 0.19047619047619047,
+        "support": 11
+      },
+      "R05": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 3
+      },
+      "R06": {
+        "precision": 0.6,
+        "recall": 0.5,
+        "f1": 0.5454545454545454,
+        "support": 6
+      },
+      "R07": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 4
+      },
+      "R08": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 2
+      },
+      "R09": {
+        "precision": 0.3333333333333333,
+        "recall": 0.125,
+        "f1": 0.18181818181818182,
+        "support": 8
+      },
+      "R10": {
+        "precision": 0.4,
+        "recall": 0.4,
+        "f1": 0.4,
+        "support": 5
+      }
+    }
+  },
+  "feature_count": 414,
+  "scikit_learn_version": "1.9.0",
+  "random_state": 42,
+  "production_approved": false
+}

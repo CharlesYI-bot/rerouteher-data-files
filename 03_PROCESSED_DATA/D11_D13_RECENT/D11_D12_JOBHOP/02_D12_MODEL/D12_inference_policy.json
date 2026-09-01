@@ -1,0 +1,15 @@
+{
+  "label_format": "six ASCII digits",
+  "label_regex": "^\\d{6}$",
+  "primary_model": "word + char_wb TF-IDF balanced logistic regression",
+  "validation_benchmark_winner": "minilm_centroid_retrieval",
+  "selection_metric": "validation macro-F1",
+  "deployment_note": "The benchmark winner is recorded for research comparison; no model is approved for automatic production use.",
+  "low_confidence_threshold": 0.05,
+  "fallback": "character char_wb TF-IDF retrieval over the complete D11 catalog",
+  "decision": "Use classifier prediction when probability >= threshold; otherwise return catalog fallback as a suggestion requiring user confirmation.",
+  "human_confirmation_required": true,
+  "automatic_employment_decision_use": false,
+  "input_contract": "Structured prior occupation titles, optional ESCO skill groups, durations, and education; do not represent this artifact as a raw-CV model.",
+  "resume_dataset": "JobHop v2 confirmed active 2019+ only"
+}

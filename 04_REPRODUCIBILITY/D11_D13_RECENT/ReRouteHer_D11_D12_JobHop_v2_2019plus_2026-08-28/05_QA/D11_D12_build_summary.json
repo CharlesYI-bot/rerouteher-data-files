@@ -1,0 +1,11 @@
+{
+  "d11_granular_roles": 258,
+  "d11_all_codes_six_digit": true,
+  "d12_training_examples": 562,
+  "d12_model_classes": 19,
+  "d12_catalog_size": 258,
+  "d12_validation_accuracy": 0.1935483870967742,
+  "d12_test_accuracy": 0.2,
+  "resume_dataset": "JobHop v2 confirmed active 2019+ only",
+  "source_files": 6
+}

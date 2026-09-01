@@ -1,0 +1,221 @@
+{
+  "release": "ReRouteHer complete D1-D10 no-pgvector import",
+  "validated_on": "2026-08-28",
+  "overall_passed": true,
+  "checks_total": 23,
+  "checks_passed": 23,
+  "checks_failed": 0,
+  "copy_row_counts": {
+    "dataset_metadata": 14,
+    "occupation_profiles": 3349,
+    "occupation_skill_weights": 55265,
+    "jobhop_esco_features": 47224,
+    "minilm_embeddings": 2980,
+    "roles": 10,
+    "role_tasks": 95,
+    "task_rating_reviews": 95,
+    "role_rating_lineage": 10,
+    "official_role_crosswalk": 10,
+    "onet_task_context": 79,
+    "skill_taxonomy": 41,
+    "skill_aliases": 76,
+    "role_skills": 170,
+    "role_skill_lineage": 170,
+    "digcomp_competences": 21,
+    "digital_skill_rating_lineage": 50,
+    "caregiving_map": 33,
+    "bursa_sectors": 12,
+    "employers": 50,
+    "employer_report_evidence": 50,
+    "employer_evidence": 85,
+    "employer_report_search": 50,
+    "employer_review_queue": 50,
+    "employer_scoring_rules": 19,
+    "role_sector_map": 27,
+    "role_sector_review_queue": 27,
+    "d9_target_role_mapping": 10,
+    "d9_training_examples": 562,
+    "esco_onet_crosswalk": 8627,
+    "jobhop_esco_onet_coverage": 2278,
+    "source_manifest": 36,
+    "data_dictionary": 10,
+    "data_lineage": 7,
+    "task_compliance": 10
+  },
+  "checks": [
+    {
+      "check_id": "SQL_FILE_EXISTS",
+      "status": "PASS",
+      "actual": 169239149,
+      "expected": ">100 MB",
+      "note": ""
+    },
+    {
+      "check_id": "GZIP_FILE_EXISTS",
+      "status": "PASS",
+      "actual": 21917336,
+      "expected": ">10 MB",
+      "note": ""
+    },
+    {
+      "check_id": "GZIP_SHA256",
+      "status": "PASS",
+      "actual": "8ffcbae537a91750fd83d80125a55dd2e3b12f1a5fcc43185e5bb43f95375a59",
+      "expected": "8ffcbae537a91750fd83d80125a55dd2e3b12f1a5fcc43185e5bb43f95375a59",
+      "note": ""
+    },
+    {
+      "check_id": "GZIP_ROUND_TRIP",
+      "status": "PASS",
+      "actual": 169239149,
+      "expected": 169239149,
+      "note": ""
+    },
+    {
+      "check_id": "TRANSACTION_BOUNDARY",
+      "status": "PASS",
+      "actual": {
+        "begin": 1,
+        "commit": 1
+      },
+      "expected": {
+        "begin": 1,
+        "commit": 1
+      },
+      "note": ""
+    },
+    {
+      "check_id": "NO_PGVECTOR",
+      "status": "PASS",
+      "actual": "no extension or vector type",
+      "expected": "core PostgreSQL types only",
+      "note": ""
+    },
+    {
+      "check_id": "REAL_ARRAY_DIMENSION_GATES",
+      "status": "PASS",
+      "actual": 3,
+      "expected": ">=3",
+      "note": ""
+    },
+    {
+      "check_id": "ALL_COPY_ROW_COUNTS",
+      "status": "PASS",
+      "actual": "all matched",
+      "expected": "all expected COPY counts match",
+      "note": ""
+    },
+    {
+      "check_id": "COPY_TABLE_COVERAGE",
+      "status": "PASS",
+      "actual": [],
+      "expected": [],
+      "note": ""
+    },
+    {
+      "check_id": "COPY_COLUMNS_MATCH_DDL",
+      "status": "PASS",
+      "actual": "all matched",
+      "expected": "every COPY column exists in its target table",
+      "note": ""
+    },
+    {
+      "check_id": "FULL_D1_D10_DDL",
+      "status": "PASS",
+      "actual": [],
+      "expected": [],
+      "note": ""
+    },
+    {
+      "check_id": "ROLE_SKILL_FKS",
+      "status": "PASS",
+      "actual": 170,
+      "expected": 170,
+      "note": ""
+    },
+    {
+      "check_id": "CAREGIVING_SKILL_FKS",
+      "status": "PASS",
+      "actual": 33,
+      "expected": 33,
+      "note": ""
+    },
+    {
+      "check_id": "ROLE_SECTOR_FKS",
+      "status": "PASS",
+      "actual": 27,
+      "expected": 27,
+      "note": ""
+    },
+    {
+      "check_id": "EMPLOYER_SECTOR_FKS",
+      "status": "PASS",
+      "actual": 50,
+      "expected": 50,
+      "note": ""
+    },
+    {
+      "check_id": "EMPLOYER_EVIDENCE_FKS",
+      "status": "PASS",
+      "actual": 85,
+      "expected": 85,
+      "note": ""
+    },
+    {
+      "check_id": "D7_SCORE_RECALCULATION",
+      "status": "PASS",
+      "actual": "50/50 matched",
+      "expected": "50/50 within 0.051",
+      "note": ""
+    },
+    {
+      "check_id": "OFFICIAL_ESCO_ONET_UNIQUENESS",
+      "status": "PASS",
+      "actual": 8627,
+      "expected": 8627,
+      "note": ""
+    },
+    {
+      "check_id": "OFFICIAL_CROSSWALK_SOURCE",
+      "status": "PASS",
+      "actual": 8627,
+      "expected": 8627,
+      "note": ""
+    },
+    {
+      "check_id": "JOBHOP_OFFICIAL_CROSSWALK_COVERAGE",
+      "status": "PASS",
+      "actual": {
+        "codes": 2278,
+        "covered": 2254
+      },
+      "expected": {
+        "codes": 2278,
+        "covered": 2254
+      },
+      "note": ""
+    },
+    {
+      "check_id": "JOBHOP_APPROVED_FEATURE_ROWS",
+      "status": "PASS",
+      "actual": 47224,
+      "expected": 47224,
+      "note": ""
+    },
+    {
+      "check_id": "JOBHOP_ESCO_SKILL_LINKAGE",
+      "status": "PASS",
+      "actual": 46621,
+      "expected": 46621,
+      "note": ""
+    },
+    {
+      "check_id": "POST_IMPORT_ASSERTIONS",
+      "status": "PASS",
+      "actual": "assertion script present",
+      "expected": "row counts + integrity assertions",
+      "note": ""
+    }
+  ],
+  "runtime_note": "Structural/source validation completed locally. Run verify_complete_import.sql after loading into PostgreSQL for engine-level validation."
+}

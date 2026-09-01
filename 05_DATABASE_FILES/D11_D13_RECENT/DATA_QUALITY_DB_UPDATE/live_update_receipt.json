@@ -1,0 +1,73 @@
+{
+  "status": "COMMITTED_AND_VERIFIED",
+  "database": "rerouteher_test",
+  "resource": "postgresql-database-wxnjpd2ia8avtwbs739mtamk",
+  "schema": "rerouteher",
+  "committed_at_utc": "2026-08-30T09:00:51.632816+00:00",
+  "committed_at_malaysia": "2026-08-30T17:00:51.632816+08:00",
+  "permanent_schema_changed": false,
+  "schema_signature_before_and_after": "a4badd11ae51e535e54d9425dbf656a2",
+  "tables_verified": 35,
+  "rehearsal_seconds": 13,
+  "rehearsal_rolled_back": true,
+  "commit_seconds": 14,
+  "post_commit_read_only_checks": "PASS",
+  "sql_sha256": "b1027f4968e8a3353269ca35140c43590e489b71429e4b3c542cb7e37e9b2283",
+  "verification_sql_sha256": "940fcc4f6451a5793c104e90fa3258e64c71cb374b57b996107e9929601bdf61",
+  "backup_path": "/var/lib/postgresql/d13_quality_apply_20260830.pxD2jB/before.dump",
+  "backup_sha256": "47d7f2d2ee9cf5c1877962a4b8af213aa24af985f785fae1a69b0a27b9c06f50",
+  "backup_archive_listing_verified": true,
+  "full_backup_restore_tested": false,
+  "counts_after": {
+    "roles": 662,
+    "masco_2020_stem_roles": 655,
+    "retained_other_legacy_roles": 7,
+    "skill_taxonomy": 6121,
+    "role_skills": 13266,
+    "approved_d13_core_links": 13147,
+    "retained_legacy_role_skill_links": 119,
+    "role_skill_lineage": 13266,
+    "skill_aliases": 37284
+  },
+  "mapping_approvals": {"high": 117, "medium": 325, "low_pending": 213},
+  "invalid_duplicate_groups_after": {
+    "normalized_role_titles": 0,
+    "masco_codes": 0,
+    "normalized_canonical_skill_names": 0,
+    "role_skill_pairs": 0,
+    "ambiguous_exact_lookup_terms": 0
+  },
+  "valid_shared_esco_comparison_groups_preserved": 143,
+  "canonical_role_skill_name_or_type_mismatches": 0,
+  "unvalidated_foreign_keys": 0,
+  "approved_d13_core_csv_md5": "5d9fa703798bdf611b436d54e70d8052",
+  "approved_d13_core_csv_matches_database": true,
+  "retired_role_map": {"R01": "M251201", "R02": "M252403", "R06": "M254302"},
+  "retired_role_rows_remaining": 0,
+  "historical_training_rows_reparented_and_preserved": 109,
+  "rows_removed_from_active_tables": {
+    "roles": 3,
+    "role_skills": 27911,
+    "role_skill_lineage": 27928,
+    "skill_aliases": 446
+  },
+  "archive_row_counts": {
+    "roles": 3,
+    "role_skills": 27913,
+    "role_skill_lineage": 41077,
+    "skill_aliases": 446
+  },
+  "archive_note": "Archive counts include original rows whose display labels, types or review status changed, not only deleted rows. Further historical table and skill-taxonomy archives are stored under the same metadata prefix.",
+  "metadata_prefix": "d13_quality_fix_20260830.",
+  "backend_changed": false,
+  "backend_restarted": false,
+  "model_retrained": false,
+  "other_databases_modified": false,
+  "activation_route": "Checksum-verified file staging and guarded psql migration through the PostgreSQL terminal; no database restore operation was executed.",
+  "remaining_limitations": [
+    "The existing backend role-selection and readiness-scoring limitations remain.",
+    "The backend's in-memory alias lookup needs a reload/restart to adopt alias changes.",
+    "Seven historical D1 group-level role identities still need separate six-digit review; they were not duplicated or recoded by this update.",
+    "Medium/High approval is the user-authorized test-mapping rule, not proof of exact MASCO-ESCO equivalence."
+  ]
+}

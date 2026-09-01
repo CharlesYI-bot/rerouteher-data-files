@@ -1,0 +1,20 @@
+.DS_Store
+._*
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+.env
+.env.*
+*.pem
+*.key
+credentials*
+secrets*
+*~
+
+# Legacy resume archive and related D9 baseline/model artifacts stay in the local archive.
+02_RAW_SOURCE_DATA/D01_D09_SOURCE_ARCHIVE/
+03_PROCESSED_DATA/D09_MODEL_ARCHIVE/
+04_REPRODUCIBILITY/D01_D09_BASELINE/
+05_DATABASE_FILES/D01_D09_BASELINE/
+04_REPRODUCIBILITY/UPLOAD_SHA256SUMS.txt

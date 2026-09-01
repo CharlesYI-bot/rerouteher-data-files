@@ -1,0 +1,11 @@
+role_id,curated_role_title,d11_masco_code,d11_masco_code_printed,d11_masco_title,source_parent_group_code,jobhop_esco_target_group,anchor_method,review_status
+R01,Software Developer,251201,2512-01,Software Developer,2512,2512,curated exact or closest MASCO 2020 granular occupation,requires domain-owner confirmation before production
+R02,Data Analyst,252403,2524-03,Data Analyst,2524,2511,curated exact or closest MASCO 2020 granular occupation,requires domain-owner confirmation before production
+R03,Human Resources Officer,242323,2423-23,Human Resource Officer,2423,2423,curated exact or closest MASCO 2020 granular occupation,requires domain-owner confirmation before production
+R04,Online Marketing Specialist,243135,2431-35,Digital Marketing Executive,2431,2431,curated exact or closest MASCO 2020 granular occupation,requires domain-owner confirmation before production
+R05,Translator,283302,2833-02,Translator,2833,2643,curated exact or closest MASCO 2020 granular occupation,requires domain-owner confirmation before production
+R06,Graphic Designer,254302,2543-02,Graphic Designer,2543,2166,curated exact or closest MASCO 2020 granular occupation,requires domain-owner confirmation before production
+R07,Accounting & Bookkeeping Clerk,431105,4311-05,Book-keeping Clerk,4311,4311,curated exact or closest MASCO 2020 granular occupation,requires domain-owner confirmation before production
+R08,Customer Contact Centre Officer,422207,4222-07,Customer Contact Centre Information Clerk,4222,4222,curated exact or closest MASCO 2020 granular occupation,requires domain-owner confirmation before production
+R09,Secretary / Administrative Assistant,412107,4121-07,Secretary,4121,4120,curated exact or closest MASCO 2020 granular occupation,requires domain-owner confirmation before production
+R10,Tutor,231109,2311-09,Tutor,2311,2359,curated exact or closest MASCO 2020 granular occupation,requires domain-owner confirmation before production

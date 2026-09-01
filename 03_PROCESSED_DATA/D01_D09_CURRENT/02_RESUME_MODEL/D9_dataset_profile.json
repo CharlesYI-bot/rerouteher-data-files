@@ -1,0 +1,43 @@
+{
+  "source_file": "00_SOURCE_ARCHIVE/RESUME_APPROVED/jobhop_v2_confirmed_active_2019plus.csv",
+  "source_sha256": "423bb1410db68feec2c5196297ee13277781dce1754de6e2d7c0daac1f4f53d4",
+  "records": 47224,
+  "resumes": 35568,
+  "unique_esco_codes": 2278,
+  "split_rows": {
+    "train": 37782,
+    "val": 4749,
+    "test": 4693
+  },
+  "split_resumes": {
+    "test": 3505,
+    "train": 28500,
+    "val": 3563
+  },
+  "duplicate_full_rows": 0,
+  "missing_cells": 0,
+  "single_record_resumes": 27217,
+  "single_record_resume_share": 0.76521,
+  "multi_record_resumes": 8351,
+  "training_examples": 562,
+  "training_example_share_of_all_resumes": 0.015801,
+  "training_example_share_of_multi_record_resumes": 0.067297,
+  "end_year_2019_share": 0.958115,
+  "median_duration_years": 1.25,
+  "mean_duration_years": 2.845,
+  "official_esco_onet_codes_covered": 2254,
+  "official_esco_onet_codes_unmatched": 24,
+  "geographic_context": "JobHop is based on Flemish/Belgian employment histories; transfer to Malaysian returners is unvalidated.",
+  "available_demographic_proxy": "education level only",
+  "unavailable_attributes": [
+    "gender",
+    "age",
+    "caregiving status",
+    "nationality",
+    "ethnicity",
+    "location",
+    "raw resume text"
+  ],
+  "supported_task": "structured career-history-to-role research prototype",
+  "unsupported_claim": "raw resume-text classifier or demographic fairness validation"
+}

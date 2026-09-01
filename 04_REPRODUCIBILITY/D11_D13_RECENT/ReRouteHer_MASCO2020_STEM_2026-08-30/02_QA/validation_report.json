@@ -1,0 +1,226 @@
+{
+  "result": "PASS",
+  "checks_passed": 43,
+  "checks": [
+    {
+      "check": "655 unique six-digit 2020 role identities",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Every output code/title equals the 2020 registry",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "D1-compatible first 24 role fields preserved",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "657 original sources accounted for: 638 retained, 19 excluded",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "675 audit rows: splits and duplicate reconciled",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "No excluded source profile used by an output role",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Exact source wins duplicate mechatronics target",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "STEM scope inherited, with explicit year/profile caveats",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Hierarchy prefixes consistent",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "2020 code present on every cited PDF index page",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "All 655 retained ESCO assignments equal primary source assignments",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Original ESCO comparison fields preserved for all 657 sources",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Ambiguous remaps do not inherit an unsupported close-match claim",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "No production-ready or human-reviewed claims introduced",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Task profiles and remote/AI pre-ratings retained without unsupported rerating",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "5512 tasks and rating references have valid unique keys",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Per-role task counts reconcile",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Inherited task wording and source linkage preserved",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "D11_STEM_role_rating_lineage.csv has exactly one row per role",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "D13_role_esco_mapping_review.csv has exactly one row per role",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "D13_mapping_evidence.csv has exactly one row per role",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "6051 skills are exactly the referenced skill set",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "41286 links: unique keys and all role/skill foreign keys valid",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Role-skill lineage matches every link",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "37521 aliases retain valid skill references and unique keys",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Every retained/split role-skill relationship equals its source relationship",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "skill_taxonomy.csv is an exact source row subset",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "skill_taxonomy_lineage.csv is an exact source row subset",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "skill_aliases.csv is an exact source row subset",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Role embedding matrix: 655 x 384, finite, normalized, indexed",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Role CSV embeddings equal NPY rows",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Skill embedding matrix is exact unchanged source subset",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Skill CSV embedding matches indexed NPY",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "All previous D13 source tables remain unchanged",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Source snapshots match recorded hashes",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Official PDF unchanged",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "All 22 CSV matrices round-trip through artifact workbook authoring",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Review workbook formula totals reconcile",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "XLSX archive integrity",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Saved XLSX caches all summary counts correctly",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "No saved Excel error cells",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "SQL import matches counts and is not a current database migration",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "SQL checksum matches",
+      "result": "PASS",
+      "detail": ""
+    }
+  ],
+  "limits": [
+    "Project-reviewed crosswalk, not an official MASCO version crosswalk.",
+    "Functional matches and inherited task profiles need human validation before production.",
+    "SQL structurally validated, not executed against a database."
+  ]
+}

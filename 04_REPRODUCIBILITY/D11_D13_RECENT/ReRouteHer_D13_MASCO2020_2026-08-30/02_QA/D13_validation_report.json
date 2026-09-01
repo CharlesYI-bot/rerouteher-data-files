@@ -1,0 +1,251 @@
+{
+  "result": "PASS",
+  "checks_passed": 48,
+  "checks": [
+    {
+      "check": "Exactly the approved 655 MASCO 2020 identities",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Role IDs use six-digit occupation codes",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "D1-compatible first 24 role columns preserved",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "MASCO titles, tasks, ratings and other non-ESCO fields unchanged",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "MASCO 2020 source role CSV snapshot unchanged",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Every ESCO code/URI resolves to official source",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Every chosen ESCO title uses the Title Case official preferred label",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "D11 ESCO code and display title agree with D13",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "All 65 explicit 2020 target decisions applied",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "D13_mapping_evidence.csv agrees with primary coverage",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "D13_role_esco_mapping_review.csv agrees with primary coverage",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "No production-ready or false human-review claims",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Fresh 2020 queries for all roles; numeric group not used to rank",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Exactly one selected fresh candidate per role",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Known misleading aliases not adopted",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Mapping changes reconcile",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Role-skill links are exactly the official essential/optional join",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "No orphan role or skill keys",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Every role has skill links; skill scope is not full ESCO universe",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Importance exactly essential=100, optional=50",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Skill names/types agree in all link records",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Role-skill lineage has one exact row per link",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Canonical skills are Title Case preferred labels",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Raw preferred labels/types retained exactly in lineage",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Definitions use unchanged ESCO description, then definition fallback",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Skill categories fit unchanged existing schema",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Aliases unique, lowercase and not duplicate canonical matches",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Alias provenance and display casing agree with raw labels",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "All official alternate/hidden matching aliases preserved",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "657 original comparison records preserved: identifiers exact, titles recased only",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Every audited display label follows the case policy",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Casing does not alter label wording or punctuation",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "All operational ESCO display fields consistently Title Cased",
+      "result": "PASS",
+      "detail": "244870 nonempty display cells checked"
+    },
+    {
+      "check": "21 acronym/product/ordinary-word case regression tests pass",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Skill matrix shape, finite values, normalization and index",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "CSV vectors agree with NPY matrix",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Embedding text matches corrected display name plus source definition",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Independent embedding recomputation spot-check",
+      "result": "PASS",
+      "detail": "6 exact input samples"
+    },
+    {
+      "check": "D11 role embeddings/index retained unchanged",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Raw ESCO snapshots unchanged",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "All source manifest hashes match",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "19 complete CSV matrices round-trip checked through artifact authoring",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "SQL is guarded for a separate empty test database and correct row counts",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "SQL checksum matches",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Review workbook formula totals reconcile",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Review workbook ZIP integrity",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Saved workbook formula caches match expected counts",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "No Excel error cells in saved workbook",
+      "result": "PASS",
+      "detail": ""
+    }
+  ],
+  "limits": [
+    "Mappings are project test proxies, not an official crosswalk or independently human-validated.",
+    "SQL was structurally checked but not executed against a database.",
+    "Raw source labels and lowercase matching aliases intentionally retain non-Title-Case forms."
+  ]
+}
