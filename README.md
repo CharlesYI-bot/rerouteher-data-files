@@ -1,6 +1,6 @@
 # ReRouteHer data files
 
-This public repository stores the ReRouteHer Iteration 1 data files from D1-D13. The Data Management Plan is kept separately in the Team Drive.
+This public repository stores ReRouteHer Iteration 1 data files from D1-D13 and selected Iteration 2 datasets. The Data Management Plan is kept separately in the Team Drive.
 
 ## Folder structure
 
@@ -10,6 +10,8 @@ This public repository stores the ReRouteHer Iteration 1 data files from D1-D13.
 - `05_DATABASE_FILES` contains database schemas, migrations, verification SQL and receipts.
 
 Large binary and data files are tracked with Git Large File Storage (Git LFS). Install Git LFS before cloning if the complete files are needed.
+
+The Iteration 2 employer dataset is stored in `03_PROCESSED_DATA/ITERATION_2/EMPLOYER_DATA_COLLECTION`.
 
 ## Data handling
 
