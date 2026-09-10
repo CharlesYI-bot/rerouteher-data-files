@@ -11,7 +11,7 @@ This public repository stores ReRouteHer Iteration 1 data files from D1-D13 and 
 
 Large binary and data files are tracked with Git Large File Storage (Git LFS). Install Git LFS before cloning if the complete files are needed.
 
-The Iteration 2 employer dataset is stored in `03_PROCESSED_DATA/ITERATION_2/EMPLOYER_DATA_COLLECTION`.
+The Iteration 2 employer dataset is stored in `03_PROCESSED_DATA/ITERATION_2/EMPLOYER_DATA_COLLECTION`; its source manifest and directly downloadable raw documents are stored in `02_RAW_SOURCE_DATA/ITERATION_2/EMPLOYER_DATA_COLLECTION`.
 
 ## Data handling
 

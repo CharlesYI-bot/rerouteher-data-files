@@ -1,0 +1,24 @@
+{
+  "generated_at": "2026-09-10T09:57:41.422Z",
+  "workbook_sha256": "f7e1419e1de5f3da524e567d7d543b1e6757a9f3130ef0245b535339d918b6fc",
+  "employer_csv": {
+    "path": "03_PROCESSED_DATA/ITERATION_2/EMPLOYER_DATA_COLLECTION/ReRouteHer_Iteration2_Employer_Data_70_Qualifying.csv",
+    "data_rows": 70,
+    "columns": 23,
+    "collector_removed": true
+  },
+  "source_manifest": {
+    "path": "02_RAW_SOURCE_DATA/ITERATION_2/EMPLOYER_DATA_COLLECTION/employer_source_manifest.csv",
+    "source_rows": 95,
+    "status_counts": {
+      "downloaded": 67,
+      "download_failed": 14,
+      "url_only_no_snapshot": 14
+    },
+    "downloaded_bytes": 789733415
+  },
+  "project_requirement_files": [
+    "02_RAW_SOURCE_DATA/ITERATION_2/EMPLOYER_DATA_COLLECTION/PROJECT_REQUIREMENTS/ReRouteHer_Iteration2_Employer_Data_Collection_Spec.docx",
+    "02_RAW_SOURCE_DATA/ITERATION_2/EMPLOYER_DATA_COLLECTION/PROJECT_REQUIREMENTS/ReRouteHer_Iteration2_Task_List.docx"
+  ]
+}
