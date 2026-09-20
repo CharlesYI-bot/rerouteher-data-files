@@ -1,0 +1,21 @@
+{
+  "generated_at": "2026-09-20T05:30:10Z",
+  "source_roster_sha256": "9c5e1502a5b81fcba5cd949f2f66718538019ab06aefd1c09610e95ae5e8cb9c",
+  "source_workbook_sha256": "71d1ea2b928bd368b47ea75505f9d68ca4958ac77231e5bb921a97f6b3c5be40",
+  "processed_outputs": {
+    "csv": "03_PROCESSED_DATA/ITERATION_3/EMPLOYER_DATA_COLLECTION/ReRouteHer_Iteration3_Employer_Data_260_Qualifying.csv",
+    "json": "03_PROCESSED_DATA/ITERATION_3/EMPLOYER_DATA_COLLECTION/ReRouteHer_Iteration3_Employer_Data_260_Qualifying.json",
+    "xlsx": "03_PROCESSED_DATA/ITERATION_3/EMPLOYER_DATA_COLLECTION/ReRouteHer_Iteration3_Employer_Data_260_Qualifying.xlsx",
+    "sector_summary_csv": "03_PROCESSED_DATA/ITERATION_3/EMPLOYER_DATA_COLLECTION/ReRouteHer_Iteration3_Sector_Summary.csv",
+    "company_rows": 260,
+    "sectors": 13
+  },
+  "source_manifest": {
+    "path": "02_RAW_SOURCE_DATA/ITERATION_3/EMPLOYER_DATA_COLLECTION/employer_source_manifest.csv",
+    "unique_source_rows": 245,
+    "status_counts": {
+      "downloaded": 245
+    },
+    "downloaded_bytes": 2282358703
+  }
+}
