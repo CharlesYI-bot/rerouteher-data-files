@@ -1,0 +1,18 @@
+{
+  "release_id": "MASCO657_GLOBAL_INTERVIEW_V3",
+  "release_date": "2026-09-22",
+  "role_scope": "MASCO 2020 only",
+  "role_count": 657,
+  "interview_question_count": 7884,
+  "global_match_count": 1078,
+  "role_anchor_count": 5581,
+  "open_qa_record_count": 142,
+  "open_qa_link_count": 320,
+  "roles_with_esco": 657,
+  "roles_with_onet": 151,
+  "roles_with_noc": 84,
+  "roles_with_osca": 186,
+  "quality_checks_passed": 11,
+  "quality_checks_failed": 0,
+  "workbook_sha256": "edb6435a216891f4731d0ef6b02513716f2141d7c6a853325eea4e500fba0f6d"
+}

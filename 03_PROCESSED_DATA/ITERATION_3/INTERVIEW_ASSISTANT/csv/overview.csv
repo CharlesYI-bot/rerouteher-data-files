@@ -1,0 +1,20 @@
+MASCO 657 interview assistant dataset,,,,,,,,
+Global occupation sources and open interview Q&A enrich the existing MASCO role catalogue; no roles are added.,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+Dataset metric,Value,,Global source,Matched MASCO roles,Match records,Anchor records,Mapping method,Review requirement
+MASCO roles,657,,ESCO 1.2.1,657,657,3776,MASCO project crosswalk,Review crosswalk status and confidence
+Interview questions,7884,,O*NET 31.0,151,151,797,conservative English title similarity,Human mapping review required
+Global match records,1078,,NOC 2021 Version 1.0,84,84,312,conservative English title similarity,Human mapping review required
+Global anchor records,5581,,OSCA 2024 Version 1.0,186,186,696,conservative English title similarity,Human mapping review required
+Open Q&A records,142,,Open technical Q&A,40,320,142,Role-title keyword to Q&A topic,Human relevance and currentness review required
+Open Q&A role links,320,,,,,,,
+Quality checks passed,11,,,,,,,
+,,,,,,,,
+Role boundary,,,,,,,,
+"The workbook contains exactly 657 MASCO roles. ESCO, O*NET, NOC, and OSCA are used only to enrich those roles with global tasks, duties, requirements, and skills. The Interview Q&A sheet contains 12 authored practice questions per MASCO role. The Open Q&A sheet remains a separate licensed technical corpus.",,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+Use and limitations,,,,,,,,
+"Filter MASCO Roles to choose the target role, then use role_id in Interview Q&A. Review Global Matches and Role Anchors before publishing a role pack. Title-similarity mappings and technical Q&A links require human review. Confirm MASCO redistribution rights, preserve all source licences, and complete domain, fairness, and local legal review before production use.",,,,,,,,

@@ -1,0 +1,658 @@
+role_id,masco_code,role_title,expected_questions,actual_questions,expected_global_matches_minimum,actual_global_matches,actual_global_anchors,linked_open_qa_records,qa_status
+M111201,111201,Senior Government Officials,12,12,1,2,11,0,PASS
+M112104,112104,Chief Technical Officer,12,12,1,3,14,0,PASS
+M121101,121101,Budgeting/Financial Accounting Manager,12,12,1,3,14,0,PASS
+M121102,121102,Audit and Risk Management Manager,12,12,1,1,6,0,PASS
+M121103,121103,Credit Manager,12,12,1,2,10,0,PASS
+M121104,121104,Insurance Manager,12,12,1,1,6,0,PASS
+M121105,121105,Fund/Portfolio Manager,12,12,1,2,13,0,PASS
+M121107,121107,Tax Manager,12,12,1,1,6,0,PASS
+M121108,121108,Claims Manager,12,12,1,1,6,0,PASS
+M121109,121109,Actuarial Valuation Manager,12,12,1,1,6,0,PASS
+M121111,121111,Transfer Pricing Manager,12,12,1,1,6,0,PASS
+M121202,121202,Occupational Safety and Health Manager,12,12,1,4,14,0,PASS
+M121404,121404,Supply Chain and Logistics Management Manager,12,12,1,2,13,0,PASS
+M121408,121408,Technology Manager,12,12,1,2,13,0,PASS
+M121409,121409,Chief Business Officer,12,12,1,3,14,0,PASS
+M122301,122301,Research and Development Manager,12,12,1,3,14,0,PASS
+M131101,131101,Forestry Manager,12,12,1,1,6,0,PASS
+M131102,131102,Agricultural Manager,12,12,1,2,13,0,PASS
+M131103,131103,Veterinary Manager,12,12,1,2,10,0,PASS
+M131104,131104,Field Manager (Grass),12,12,1,1,6,0,PASS
+M131201,131201,Aquaculture and Fisheries Production/Operation Manager,12,12,1,1,6,0,PASS
+M132101,132101,Manufacturing Manager,12,12,1,3,14,0,PASS
+M132102,132102,Electrical Manager,12,12,1,1,6,0,PASS
+M132103,132103,Energy Manager,12,12,1,2,13,0,PASS
+M132104,132104,Production Manager (Manufacturing),12,12,1,4,14,0,PASS
+M132105,132105,Ship Hull Manager,12,12,1,1,6,0,PASS
+M132106,132106,Mechanical Manager,12,12,1,1,6,0,PASS
+M132107,132107,Welding Manager,12,12,1,1,6,0,PASS
+M132108,132108,Oil Mill Manager,12,12,1,1,6,0,PASS
+M132109,132109,Manager (Halal Food Manufacturing),12,12,1,2,11,0,PASS
+M132111,132111,Power Generation Plant Manager,12,12,1,3,14,0,PASS
+M132201,132201,Production and Operation Manager (Mine),12,12,1,1,6,0,PASS
+M132202,132202,Production and Operation Manager (Oil and Gas Extraction),12,12,1,1,6,0,PASS
+M132203,132203,Offshore Installation Manager,12,12,1,1,6,0,PASS
+M132205,132205,Metallurgy Manager,12,12,1,1,6,0,PASS
+M132301,132301,Construction Manager,12,12,1,4,14,0,PASS
+M132302,132302,Building and Architecture Manager,12,12,1,2,11,0,PASS
+M132303,132303,Land Surveyor Manager,12,12,1,3,14,0,PASS
+M132401,132401,Railway Station Master,12,12,1,2,10,0,PASS
+M132402,132402,Transport Manager,12,12,1,2,10,0,PASS
+M132404,132404,Port/Shipping Operations Manager,12,12,1,1,6,0,PASS
+M132405,132405,Halal Logistics Operation Manager,12,12,1,1,6,0,PASS
+M151101,151101,Chief Information Officer/Chief Data Officer/Chief Information Security Officer,12,12,1,2,10,8,PASS
+M151102,151102,Information Systems Manager,12,12,1,4,14,0,PASS
+M151103,151103,Village Community Center Manager (Information Technology),12,12,1,1,6,8,PASS
+M151104,151104,Internet Service Provider,12,12,1,1,6,0,PASS
+M151105,151105,Network/Communications/Infrastructure Manager,12,12,1,1,6,0,PASS
+M151106,151106,Audio Visual Manager,12,12,1,1,6,0,PASS
+M151107,151107,Information Technology Project Manager,12,12,1,2,13,8,PASS
+M151108,151108,Information Technology Programme Manager,12,12,1,2,13,8,PASS
+M151109,151109,Bioinformatics Manager,12,12,1,1,6,0,PASS
+M151110,151110,Creative Multimedia Manager,12,12,1,1,6,0,PASS
+M151111,151111,Network Operations Manager,12,12,1,3,14,0,PASS
+M151112,151112,Information Technology Business Development Manager,12,12,1,3,14,8,PASS
+M151113,151113,Software and Applications Manager,12,12,1,1,6,8,PASS
+M151118,151118,Data Manager,12,12,1,2,13,0,PASS
+M161201,161201,Phytonutrients Manager,12,12,1,1,6,0,PASS
+M161202,161202,Health Educator,12,12,1,1,6,0,PASS
+M161203,161203,Chief Nurse,12,12,1,1,6,0,PASS
+M211101,211101,Physicist,12,12,1,3,14,0,PASS
+M211102,211102,Astronaut,12,12,1,1,6,0,PASS
+M211201,211201,Meteorologist,12,12,1,2,10,0,PASS
+M211202,211202,Meteorologist (Environmental),12,12,1,1,6,0,PASS
+M211203,211203,Meteorologist (Numerical Weather Prediction Modelling),12,12,1,1,6,0,PASS
+M211204,211204,Meteorological Officer Grade C9,12,12,1,1,6,0,PASS
+M211301,211301,Chemist,12,12,1,4,14,0,PASS
+M211401,211401,Geologist,12,12,1,2,10,0,PASS
+M211402,211402,Hydrologist,12,12,1,3,14,0,PASS
+M211403,211403,Geoscientist,12,12,1,1,6,0,PASS
+M212101,212101,Mathematician,12,12,1,3,14,0,PASS
+M212102,212102,Statistician,12,12,1,3,14,8,PASS
+M212103,212103,Actuary,12,12,1,3,14,0,PASS
+M212104,212104,Metrologist,12,12,1,1,6,0,PASS
+M212105,212105,Statistician Grade E9,12,12,1,1,6,8,PASS
+M213101,213101,Microbiologist,12,12,1,3,14,0,PASS
+M213102,213102,Serologist,12,12,1,1,6,0,PASS
+M213103,213103,Biologist,12,12,1,2,13,0,PASS
+M213104,213104,Cytologist,12,12,1,1,6,0,PASS
+M213105,213105,Botanist,12,12,1,2,10,0,PASS
+M213106,213106,Ecologist,12,12,1,2,10,0,PASS
+M213107,213107,Wildlife Officer Grade G9,12,12,1,1,6,0,PASS
+M213201,213201,Agricultural Officer,12,12,1,1,6,0,PASS
+M213202,213202,Farm Demonstrator,12,12,1,1,6,0,PASS
+M213203,213203,Forestry Officer,12,12,1,1,6,0,PASS
+M213204,213204,Aquaculture Executive,12,12,1,1,6,0,PASS
+M213206,213206,Conservator of Forests Grade G9,12,12,1,1,6,0,PASS
+M213207,213207,Agricultural Officer Grade G9,12,12,1,1,6,0,PASS
+M213208,213208,Land Planning Officer Grade G9,12,12,1,1,6,0,PASS
+M213301,213301,Agronomist,12,12,1,2,10,0,PASS
+M213302,213302,Agricultural Scientist,12,12,1,2,10,0,PASS
+M213303,213303,Floriculturist,12,12,1,1,6,0,PASS
+M213304,213304,Horticulturist/Arborist,12,12,1,1,6,0,PASS
+M213305,213305,Wood Analyst,12,12,1,1,6,0,PASS
+M213306,213306,Animal Scientist,12,12,1,2,13,0,PASS
+M213307,213307,Environmental Research Scientist,12,12,1,2,10,0,PASS
+M213308,213308,Conservation Officer,12,12,1,3,14,0,PASS
+M213309,213309,Environmental Consultant,12,12,1,2,10,0,PASS
+M213310,213310,Environmental Control Officer Grade C9,12,12,1,1,6,0,PASS
+M213401,213401,Biochemist,12,12,1,1,6,0,PASS
+M213402,213402,Endocrinologist,12,12,1,2,10,0,PASS
+M213403,213403,Physiologist,12,12,1,1,6,0,PASS
+M213404,213404,Pharmacologist,12,12,1,1,6,0,PASS
+M213405,213405,Pathologist,12,12,1,2,10,0,PASS
+M213406,213406,Bio-Fermentation Specialist,12,12,1,1,6,0,PASS
+M213407,213407,Bee Cultivation Specialist,12,12,1,1,6,0,PASS
+M213408,213408,Embryologist,12,12,1,1,6,0,PASS
+M214101,214101,Automation Engineer,12,12,1,1,6,0,PASS
+M214102,214102,Robotics Engineer,12,12,1,2,13,0,PASS
+M214103,214103,Industrial Engineer,12,12,1,4,14,0,PASS
+M214104,214104,Communication Analyst,12,12,1,1,6,0,PASS
+M214105,214105,Systems Engineer (except Computers),12,12,1,3,14,0,PASS
+M214106,214106,Systems Design Engineer (except Computers),12,12,1,2,13,0,PASS
+M214107,214107,Cost Evaluation Engineer,12,12,1,1,6,0,PASS
+M214108,214108,Industrial and Production Technologist,12,12,1,2,13,0,PASS
+M214109,214109,Ceramics Technologist,12,12,1,1,6,0,PASS
+M214110,214110,Photonic Engineer,12,12,1,2,13,0,PASS
+M214111,214111,Scada Engineer,12,12,1,1,6,0,PASS
+M214112,214112,Energy Engineer,12,12,1,2,13,0,PASS
+M214113,214113,Renewable Energy Engineer,12,12,1,2,13,0,PASS
+M214114,214114,Environment Engineer,12,12,1,1,6,0,PASS
+M214115,214115,Energy Auditor,12,12,1,2,13,0,PASS
+M214116,214116,Materials Engineer,12,12,1,4,14,0,PASS
+M214201,214201,Civil Engineering Technologist,12,12,1,4,14,0,PASS
+M214202,214202,Civil Engineer,12,12,1,4,14,0,PASS
+M214203,214203,Foundation Engineer,12,12,1,1,6,0,PASS
+M214204,214204,Quantity Surveyor,12,12,1,2,10,0,PASS
+M214206,214206,Engineer Grade J9,12,12,1,1,6,0,PASS
+M214207,214207,Quantity Surveyor Grade J9/J10,12,12,1,2,10,0,PASS
+M214208,214208,Building Surveyor Grade J9/J10,12,12,1,2,10,0,PASS
+M214301,214301,Environmental Engineer,12,12,1,3,14,0,PASS
+M214302,214302,Environmental Analyst,12,12,1,1,6,0,PASS
+M214401,214401,Mechanical Engineer,12,12,1,4,14,0,PASS
+M214402,214402,Lift Engineer,12,12,1,1,6,0,PASS
+M214403,214403,Competent Person (CP) - Internal Combustion Engine Engineer,12,12,1,1,6,0,PASS
+M214404,214404,Welding Engineer,12,12,1,1,6,0,PASS
+M214405,214405,Engineering Technologist,12,12,1,4,14,0,PASS
+M214406,214406,Robotic Technologist,12,12,1,1,6,0,PASS
+M214407,214407,Aerospace Engineer,12,12,1,4,14,0,PASS
+M214408,214408,Mine Ventilation Engineer,12,12,1,1,6,0,PASS
+M214501,214501,Chemical Engineer,12,12,1,4,14,0,PASS
+M214601,214601,Mining Engineer,12,12,1,3,14,0,PASS
+M214602,214602,Petroleum Mining Engineer,12,12,1,4,14,0,PASS
+M214603,214603,Metallurgist,12,12,1,1,6,0,PASS
+M214604,214604,Assayer,12,12,1,1,6,0,PASS
+M214605,214605,Marine Section Leader,12,12,1,1,6,0,PASS
+M214606,214606,Hydraulics Engineer,12,12,1,1,6,0,PASS
+M214607,214607,Water Management Engineer,12,12,1,3,14,0,PASS
+M214608,214608,Pipeline Mechanical Engineer,12,12,1,4,14,0,PASS
+M214609,214609,Pipe Stress Engineer,12,12,1,1,6,0,PASS
+M214610,214610,Blasting Expert (Mine),12,12,1,1,6,0,PASS
+M214901,214901,Explosive Ordnance Engineer,12,12,1,1,6,0,PASS
+M214902,214902,Marine Salvage Engineer,12,12,1,2,10,0,PASS
+M214904,214904,Industrial Health and Safety Engineer,12,12,1,3,14,0,PASS
+M214905,214905,Field Service Engineer,12,12,1,2,10,0,PASS
+M214906,214906,Research Engineer,12,12,1,1,6,0,PASS
+M214907,214907,Biomedical Engineer,12,12,1,3,14,0,PASS
+M214908,214908,Optical Engineer,12,12,1,1,6,0,PASS
+M214909,214909,Quality Assurance/Quality Control Inspection Engineer (QA/QC),12,12,1,1,6,0,PASS
+M214910,214910,Commissioning Engineer,12,12,1,1,6,0,PASS
+M214911,214911,Nano Engineer,12,12,1,1,6,0,PASS
+M214913,214913,Factories and Machinery Inspector Grade J9,12,12,1,1,6,0,PASS
+M215101,215101,Electrical Engineer,12,12,1,4,14,0,PASS
+M215102,215102,Electrical Energy Auditor,12,12,1,2,13,0,PASS
+M215103,215103,Electrical Superintendent,12,12,1,1,6,0,PASS
+M215201,215201,Electronics Engineer,12,12,1,4,14,0,PASS
+M215202,215202,Integrated Circuit (IC) Package Assembly Process Engineer,12,12,1,1,6,0,PASS
+M215301,215301,Telecommunications Engineer,12,12,1,2,10,0,PASS
+M215302,215302,Network and Systems Engineer,12,12,1,2,10,0,PASS
+M215303,215303,Acoustic Engineer,12,12,1,2,10,0,PASS
+M216101,216101,Architect,12,12,1,3,14,0,PASS
+M216102,216102,Architect Grade J9/J10,12,12,1,1,6,0,PASS
+M216201,216201,Landscape Architect,12,12,1,4,14,0,PASS
+M216202,216202,Landscape Architect Grade J9,12,12,1,4,14,0,PASS
+M216301,216301,Commercial Products Designer,12,12,1,2,13,0,PASS
+M216302,216302,Green Technology Design Professional,12,12,1,1,6,0,PASS
+M216401,216401,Town Planner,12,12,1,1,6,0,PASS
+M216402,216402,Traffic Engineer,12,12,1,1,6,0,PASS
+M216403,216403,Urban and Regional Planner,12,12,1,3,14,0,PASS
+M216404,216404,Urban and Rural Planning Officer Grade J9,12,12,1,1,6,0,PASS
+M216501,216501,Cartographer,12,12,1,2,10,0,PASS
+M216502,216502,Surveyor,12,12,1,2,13,0,PASS
+M216503,216503,Geospatialist Grade J9,12,12,1,1,6,0,PASS
+M216504,216504,Surveyor Grade J9,12,12,1,1,6,0,PASS
+M216602,216602,Poster Designer,12,12,1,1,6,0,PASS
+M216603,216603,Designer Grade B9,12,12,1,1,6,0,PASS
+M217101,217101,Marine Engineer,12,12,1,3,14,0,PASS
+M217102,217102,Naval Architect,12,12,1,3,14,0,PASS
+M217201,217201,Hovercraft Pilot,12,12,1,1,6,0,PASS
+M217202,217202,Port Captain,12,12,1,1,6,0,PASS
+M217203,217203,Ship Navigator,12,12,1,1,6,0,PASS
+M217204,217204,Marine Superintendent (Deck),12,12,1,1,6,0,PASS
+M217205,217205,Shipping Executive,12,12,1,1,6,0,PASS
+M217206,217206,Marine Officer Grade AL9,12,12,1,1,6,0,PASS
+M217301,217301,Pilot,12,12,1,1,6,0,PASS
+M217302,217302,Flight Instructor,12,12,1,2,10,0,PASS
+M217303,217303,Aircraft Design Engineer,12,12,1,1,6,0,PASS
+M217304,217304,Aeronautical Engineer,12,12,1,1,6,0,PASS
+M217306,217306,Marine Aviation Officer,12,12,1,1,6,0,PASS
+M217308,217308,Pilot/Pilot Inspector Grade AT9,12,12,1,1,6,0,PASS
+M217309,217309,Aircraft Examiner Grade AT9,12,12,1,1,6,0,PASS
+M217310,217310,Pilot/Pilot Examiner Grade AT10,12,12,1,1,6,0,PASS
+M217311,217311,Pilot/Pilot Examiner Grade AT12,12,12,1,1,6,0,PASS
+M217312,217312,Pilot/Pilot Examiner Grade AT13,12,12,1,1,6,0,PASS
+M217313,217313,Pilot/Pilot Examiner Grade AT14 (Flight Operation Director),12,12,1,1,6,0,PASS
+M217401,217401,Air Traffic Controller,12,12,1,4,14,0,PASS
+M217402,217402,Operation Centre Controller,12,12,1,1,6,0,PASS
+M217404,217404,Air Traffic Control Officer Grade A9,12,12,1,1,6,0,PASS
+M217501,217501,Railway and Locomotive Operation Officer,12,12,1,1,6,0,PASS
+M218101,218101,Mining Executive,12,12,1,1,6,0,PASS
+M218201,218201,Manufacturing Executive,12,12,1,1,6,0,PASS
+M218202,218202,Quality Assurance Executive,12,12,1,2,10,0,PASS
+M218203,218203,Store Executive,12,12,1,1,6,0,PASS
+M218204,218204,Competent Person (CP) - Boilerman,12,12,1,1,6,0,PASS
+M218205,218205,Technical Service Adviser,12,12,1,2,10,0,PASS
+M218206,218206,Material Specialist,12,12,1,1,6,0,PASS
+M218207,218207,Product Development Executive,12,12,1,1,6,0,PASS
+M218301,218301,Construction Executive,12,12,1,1,6,0,PASS
+M221101,221101,Medical Doctor,12,12,1,1,6,0,PASS
+M221102,221102,Medical Doctor (Gynaecology),12,12,1,1,6,0,PASS
+M221103,221103,Medical Doctor (Cardiology),12,12,1,1,6,0,PASS
+M221104,221104,Medical Doctor (Obstetrics),12,12,1,1,6,0,PASS
+M221105,221105,Medical Doctor (Ophthalmology),12,12,1,1,6,0,PASS
+M221106,221106,Medical Doctor (Psychiatry),12,12,1,1,6,0,PASS
+M221107,221107,Medical Doctor (Radiology),12,12,1,1,6,0,PASS
+M221108,221108,Medical Doctor (Skin),12,12,1,1,6,0,PASS
+M221111,221111,"Medical Officer Grade UD9, UD10",12,12,1,1,6,0,PASS
+M221201,221201,"Ear, Nose and Throat Specialist",12,12,1,1,6,0,PASS
+M221202,221202,Anaesthetist,12,12,1,2,10,0,PASS
+M221203,221203,Medical Oncologist,12,12,1,2,10,0,PASS
+M221204,221204,Psychiatrist,12,12,1,3,14,0,PASS
+M221205,221205,Ophthalmologist,12,12,1,2,10,0,PASS
+M221206,221206,Cardiologist,12,12,1,3,14,0,PASS
+M221207,221207,Neurologist,12,12,1,3,14,0,PASS
+M221208,221208,Obstetrician and Gynaecologist,12,12,1,2,10,0,PASS
+M221209,221209,Surgeon,12,12,1,1,6,0,PASS
+M221210,221210,Dermatologist,12,12,1,3,14,0,PASS
+M221211,221211,Orthopaedist,12,12,1,1,6,0,PASS
+M221212,221212,Paediatrician,12,12,1,2,10,0,PASS
+M221213,221213,Physician,12,12,1,1,6,0,PASS
+M221214,221214,Radiologist,12,12,1,3,14,0,PASS
+M221215,221215,Urologist,12,12,1,3,14,0,PASS
+M221216,221216,Venereologist,12,12,1,1,6,0,PASS
+M221217,221217,Occupational Therapist,12,12,1,4,14,0,PASS
+M222101,222101,Professional Nurse,12,12,1,1,6,0,PASS
+M222102,222102,Specialist Nurse,12,12,1,2,13,0,PASS
+M222103,222103,Nurse Instructor,12,12,1,1,6,0,PASS
+M222104,222104,Nurse Grade U9,12,12,1,1,6,0,PASS
+M222201,222201,Professional Midwife,12,12,1,1,6,0,PASS
+M224101,224101,Paramedic,12,12,1,3,14,0,PASS
+M225101,225101,Veterinarian,12,12,1,4,14,0,PASS
+M225102,225102,Veterinary Officer Grade GV9,12,12,1,1,6,0,PASS
+M226101,226101,Dentist,12,12,1,3,14,0,PASS
+M226102,226102,Dental Officer Grade UG9,12,12,1,1,6,0,PASS
+M226201,226201,Pharmacist,12,12,1,3,14,0,PASS
+M226202,226202,Pharmacist Grade UF9,12,12,1,1,6,0,PASS
+M226203,226203,Pharmacist Grade UF10,12,12,1,1,6,0,PASS
+M226301,226301,Occupational Safety and Health Adviser,12,12,1,4,14,0,PASS
+M226302,226302,Competent Person (CP) - Assessor,12,12,1,1,6,0,PASS
+M226303,226303,Competent Person (CP) - Waste Management,12,12,1,1,6,0,PASS
+M226304,226304,Building Auditor,12,12,1,1,6,0,PASS
+M226305,226305,Halal Executive,12,12,1,1,6,0,PASS
+M226306,226306,Food and Drinks Technologist,12,12,1,3,14,0,PASS
+M226307,226307,Landfill Engineer,12,12,1,1,6,0,PASS
+M226308,226308,Competent Person (CP) - Major Hazard,12,12,1,1,6,0,PASS
+M226310,226310,Ergonomist,12,12,1,1,6,0,PASS
+M226311,226311,Authorised Gas Tester and Entry Supervisor,12,12,1,1,6,0,PASS
+M226312,226312,Environmental Health Officer Grade U9,12,12,1,2,10,0,PASS
+M226401,226401,Orthopaedic Physical Therapist,12,12,1,2,13,0,PASS
+M226402,226402,Medical Rehabilitation Officer Grade U9,12,12,1,1,6,0,PASS
+M226501,226501,Dietitian,12,12,1,2,10,0,PASS
+M226502,226502,Dietetics Officer Grade U9,12,12,1,1,6,0,PASS
+M226503,226503,Food Preparation Officer Grade C9,12,12,1,1,6,0,PASS
+M226601,226601,Audiologist,12,12,1,3,14,0,PASS
+M226602,226602,Speech Therapist,12,12,1,1,6,0,PASS
+M226603,226603,Orthoepist,12,12,1,1,6,0,PASS
+M226701,226701,Optometrist,12,12,1,4,14,0,PASS
+M226702,226702,Optometry Officer Grade U9,12,12,1,1,6,0,PASS
+M226902,226902,Radiographer Grade U9,12,12,1,1,6,0,PASS
+M226903,226903,Instructor Grade U9,12,12,1,1,6,0,PASS
+M231104,231104,Dental Lecturer Grade DUG13P,12,12,1,1,6,0,PASS
+M231107,231107,Pharmacy Lecturer Grade DUF11,12,12,1,1,6,0,PASS
+M232101,232101,Vocational Teacher,12,12,1,2,10,0,PASS
+M238101,238101,Skills Training Trainer,12,12,1,1,6,0,PASS
+M238102,238102,Vocational Training Officer Grade DV9,12,12,1,1,6,0,PASS
+M238103,238103,Vocational Training Officer Grade DV10,12,12,1,1,6,0,PASS
+M238104,238104,Vocational Training Officer Grade DV12,12,12,1,1,6,0,PASS
+M238105,238105,Vocational Training Officer Grade DV13,12,12,1,1,6,0,PASS
+M238106,238106,Vocational Training Officer Grade DV14,12,12,1,1,6,0,PASS
+M238107,238107,"Assistant Vocational Training Officer Grade DV5, DV6, DV7, DV8",12,12,1,1,6,0,PASS
+M239301,239301,Software Trainer,12,12,1,1,6,8,PASS
+M242102,242102,Operation Research Analyst,12,12,1,3,14,0,PASS
+M242401,242401,Staff Training Officer,12,12,1,1,6,0,PASS
+M242601,242601,Agro-Based Biotech Food Researcher,12,12,1,1,6,0,PASS
+M242602,242602,Aquaculture Biotech Researcher,12,12,1,1,6,0,PASS
+M242603,242603,Research and Development Executive,12,12,1,2,10,0,PASS
+M242604,242604,Research Officer,12,12,1,1,6,0,PASS
+M242606,242606,Research Officer Grade Q9,12,12,1,1,6,0,PASS
+M242607,242607,Scientific Officer Grade C9,12,12,1,1,6,0,PASS
+M243103,243103,Technical Sales Engineer,12,12,1,2,13,0,PASS
+M243104,243104,Product Specialist,12,12,1,1,6,0,PASS
+M243301,243301,Sales Representative (Medical),12,12,1,3,14,0,PASS
+M243302,243302,Application Specialist (Haematology),12,12,1,1,6,8,PASS
+M243401,243401,Sales Representative (Information and Communications Technology),12,12,1,1,6,0,PASS
+M243402,243402,Digital Banking-Internet Technology Specialist,12,12,1,1,6,0,PASS
+M251101,251101,Management Information Systems (MIS) Analyst,12,12,1,1,6,0,PASS
+M251102,251102,Technical Specialist (.Net),12,12,1,1,6,0,PASS
+M251103,251103,Register Transfer Level (RTL) Designer (Information Technology),12,12,1,1,6,8,PASS
+M251104,251104,Design Engineer (Information Technology),12,12,1,1,6,8,PASS
+M251201,251201,Software Developer,12,12,1,3,14,8,PASS
+M251202,251202,Information Technology Systems Architect,12,12,1,1,6,8,PASS
+M251203,251203,Information Systems Executive,12,12,1,2,11,0,PASS
+M251301,251301,Website Developer,12,12,1,1,6,8,PASS
+M251302,251302,Internet/Intranet Developer,12,12,1,1,6,8,PASS
+M251401,251401,Computer Programmer,12,12,1,3,14,8,PASS
+M251402,251402,Systems Programmer,12,12,1,2,11,8,PASS
+M251403,251403,C/C++ Programmer,12,12,1,1,6,8,PASS
+M251404,251404,Computer Infrastructure Specialist,12,12,1,1,6,0,PASS
+M251405,251405,User Interface (UI)/Gameplay Coder,12,12,1,1,6,0,PASS
+M251901,251901,Systems Tester,12,12,1,1,6,0,PASS
+M251902,251902,Information Technology Auditor,12,12,1,1,6,8,PASS
+M251903,251903,Machine Learning/Artificial Intelligence (AI) Engineer,12,12,1,1,6,0,PASS
+M252101,252101,Database Architect,12,12,1,2,13,8,PASS
+M252102,252102,Database Administrator,12,12,1,4,14,8,PASS
+M252105,252105,Oracle Database Administrator,12,12,1,3,14,8,PASS
+M252201,252201,Information Systems Officer,12,12,1,3,14,0,PASS
+M252202,252202,Information Technology Support Officer,12,12,1,2,10,8,PASS
+M252203,252203,Computer Support Engineer,12,12,1,3,14,0,PASS
+M252204,252204,Information Technology Technical Specialist,12,12,1,1,6,8,PASS
+M252205,252205,Cloud Computing Solution Architect,12,12,1,2,10,0,PASS
+M252209,252209,Geographic Information Systems (GIS) Officer,12,12,1,1,6,0,PASS
+M252211,252211,Information Technology Officer Grade F9,12,12,1,1,6,8,PASS
+M252301,252301,Network Specialist,12,12,1,2,13,0,PASS
+M252401,252401,Data Scientist,12,12,1,4,14,8,PASS
+M252402,252402,Data Analyst,12,12,1,3,14,8,PASS
+M252403,252403,Data Architect,12,12,1,2,10,0,PASS
+M253101,253101,Cybersecurity Executive,12,12,1,1,6,8,PASS
+M253102,253102,Digital Forensic Specialist,12,12,1,2,13,0,PASS
+M253103,253103,Information Security Officer,12,12,1,3,14,8,PASS
+M253104,253104,Cybersecurity Analyst,12,12,1,1,6,8,PASS
+M253105,253105,Test Analyst (Information Technology),12,12,1,1,6,8,PASS
+M253106,253106,Security Infrastructure Engineer,12,12,1,3,14,8,PASS
+M253107,253107,Internet Safety Evaluator,12,12,1,1,6,0,PASS
+M254101,254101,Compositor/Composite Artist,12,12,1,1,6,0,PASS
+M254102,254102,Scriptwriter / Screenwriter,12,12,1,1,6,0,PASS
+M254103,254103,Digital Artist,12,12,1,1,6,0,PASS
+M254104,254104,Multimedia Designer/Artist/Animator,12,12,1,2,10,0,PASS
+M254105,254105,Visualization Specialist,12,12,1,1,6,0,PASS
+M254106,254106,Computer Specialist,12,12,1,2,13,0,PASS
+M254107,254107,Story Content Writer,12,12,1,1,6,0,PASS
+M254108,254108,3D Generalist,12,12,1,1,6,0,PASS
+M254201,254201,Game Designer (Digital),12,12,1,3,14,0,PASS
+M254202,254202,QA Tester/Game Tester (Digital),12,12,1,1,6,0,PASS
+M254203,254203,Game Producer (Digital),12,12,1,2,10,0,PASS
+M254204,254204,Concept Artist,12,12,1,1,6,0,PASS
+M254205,254205,Technical Artist,12,12,1,1,6,0,PASS
+M254206,254206,"Creative, Performing and Media Production Directors",12,12,1,1,6,0,PASS
+M254207,254207,Graphics Programmer,12,12,1,1,6,8,PASS
+M254208,254208,Graphics Creator,12,12,1,1,6,0,PASS
+M254301,254301,Web Designer,12,12,1,4,14,8,PASS
+M254302,254302,Graphics Designer,12,12,1,4,14,0,PASS
+M254303,254303,UX Designer (User Experience),12,12,1,1,6,0,PASS
+M254304,254304,Digital Designer,12,12,1,2,13,0,PASS
+M254305,254305,Creative Team Leader,12,12,1,2,10,0,PASS
+M254306,254306,Character Rigger,12,12,1,1,6,0,PASS
+M261906,261906,Coroner,12,12,1,2,13,0,PASS
+M282203,282203,Archaeologist,12,12,1,2,10,0,PASS
+M282204,282204,Geographer,12,12,1,2,13,0,PASS
+M282206,282206,Criminologist,12,12,1,1,6,0,PASS
+M282401,282401,Clinical Psychologist,12,12,1,2,13,0,PASS
+M291602,291602,Industrial Relations Officer Grade S9,12,12,1,1,6,0,PASS
+M291606,291606,Maritime Superintendent Officer Grade T8,12,12,1,1,6,0,PASS
+M311101,311101,Geophysics Technician,12,12,1,1,6,0,PASS
+M311102,311102,Chemistry Technician,12,12,1,1,6,0,PASS
+M311103,311103,Physics Science Laboratory Technician,12,12,1,1,6,0,PASS
+M311104,311104,Physical Science Technician,12,12,1,3,14,0,PASS
+M311105,311105,Chemistry Laboratory Assistant,12,12,1,2,11,0,PASS
+M311106,311106,Soil Technician,12,12,1,1,6,0,PASS
+M311107,311107,Meteorological Technician,12,12,1,1,6,0,PASS
+M311108,311108,Geological Technician,12,12,1,3,14,0,PASS
+M311109,311109,Oceanography Technician,12,12,1,1,6,0,PASS
+M311110,311110,Slope Monitoring Technician,12,12,1,2,13,0,PASS
+M311111,311111,Climate Science Technician,12,12,1,3,14,0,PASS
+M311112,311112,Laboratory Technician,12,12,1,3,14,0,PASS
+M311113,311113,Laboratory Assistant Grade C1,12,12,1,1,6,0,PASS
+M311114,311114,"Research Assistant Grade Q1, Q2, Q3, Q4",12,12,1,1,6,0,PASS
+M311115,311115,Assistant Meteorological Officer Grade C5,12,12,1,1,6,0,PASS
+M311116,311116,Assistant Science Officer Grade C5,12,12,1,1,6,0,PASS
+M311117,311117,Assistant Research Officer Grade Q5,12,12,1,1,6,0,PASS
+M311201,311201,Civil Engineering Technician,12,12,1,4,14,0,PASS
+M311202,311202,Civil Engineering Estimator,12,12,1,2,10,0,PASS
+M311203,311203,Engineering Designer,12,12,1,1,6,0,PASS
+M311204,311204,Civil Engineering Supervisor,12,12,1,2,10,0,PASS
+M311205,311205,Tunnel Boring Machine Technician,12,12,1,1,6,0,PASS
+M311206,311206,Building Inspector,12,12,1,3,14,0,PASS
+M311207,311207,Geotechnical Technician,12,12,1,1,6,0,PASS
+M311208,311208,Fire Inspector,12,12,1,2,13,0,PASS
+M311209,311209,Surveying Technician,12,12,1,3,14,0,PASS
+M311211,311211,Process Instrument Technician,12,12,1,2,10,0,PASS
+M311212,311212,Assistant Civil Engineer,12,12,1,4,14,0,PASS
+M311213,311213,Operation Technician,12,12,1,1,6,0,PASS
+M311214,311214,Green Building Facilities Maintenance Technician,12,12,1,1,6,0,PASS
+M311216,311216,Assistant Engineer Maintenance,12,12,1,1,6,0,PASS
+M311217,311217,Quantity Surveyor Assistant,12,12,1,2,10,0,PASS
+M311219,311219,Assistant Engineer Grade JA5,12,12,1,1,6,0,PASS
+M311220,311220,Assistant Quantity Surveyor Grade JA5,12,12,1,2,10,0,PASS
+M311222,311222,Assistant Building Surveyor Grade J5,12,12,1,2,10,0,PASS
+M311301,311301,Electrical Engineering Technician,12,12,1,4,14,0,PASS
+M311303,311303,Electrical and Instrument Supervisor,12,12,1,1,6,0,PASS
+M311304,311304,Electrical Engineering Estimator,12,12,1,2,10,0,PASS
+M311306,311306,Electrical High Voltage Technician,12,12,1,1,6,0,PASS
+M311307,311307,Debug Technician,12,12,1,1,6,0,PASS
+M311308,311308,Assistant Electrical Engineer,12,12,1,4,14,0,PASS
+M311401,311401,Electronics Engineering Technician,12,12,1,4,14,0,PASS
+M311402,311402,Electronics Engineering Estimator,12,12,1,2,10,0,PASS
+M311403,311403,Electronics Design Technician,12,12,1,2,10,0,PASS
+M311404,311404,Semi-Conductor Technician,12,12,1,1,6,0,PASS
+M311501,311501,Mechanical Engineering Technician,12,12,1,4,14,0,PASS
+M311502,311502,Mechanical Engineering Assistant,12,12,1,2,10,0,PASS
+M311503,311503,Mechanical Engineering Estimator,12,12,1,2,10,0,PASS
+M311504,311504,Port Master/Dockmaster,12,12,1,1,6,0,PASS
+M311505,311505,Hydraulic Hose Technician,12,12,1,1,6,0,PASS
+M311506,311506,Mechatronics Technician,12,12,1,1,6,0,PASS
+M311507,311507,CNC Technician (Computer Numerical Control),12,12,1,1,6,0,PASS
+M311508,311508,Welding Technician,12,12,1,1,6,0,PASS
+M311509,311509,Steelmaking Technician,12,12,1,1,6,0,PASS
+M311510,311510,Competent Person (CP) - Hygiene Technician,12,12,1,1,6,0,PASS
+M311511,311511,Mechatronics Engineering Assistant,12,12,1,1,6,0,PASS
+M311512,311512,CAD/CAM (Computer-Aided Design and Manufacturing) Technician,12,12,1,1,4,0,PASS
+M311515,311515,Equipment Technician,12,12,1,2,10,0,PASS
+M311516,311516,Assistant Equipment Engineer,12,12,1,1,6,0,PASS
+M311517,311517,Assistant Welding Engineer,12,12,1,1,6,0,PASS
+M311518,311518,AutoCAD Designer,12,12,1,1,4,0,PASS
+M311519,311519,Pneumatic Supervisor,12,12,1,1,6,0,PASS
+M311520,311520,Repair and Maintenance (R&M) Technician,12,12,1,1,6,0,PASS
+M311521,311521,Optical Engineering Technician,12,12,1,3,14,0,PASS
+M311601,311601,Chemical Engineering Technician,12,12,1,4,14,0,PASS
+M311602,311602,Oil Technologist,12,12,1,1,6,0,PASS
+M311603,311603,Chemical Petroleum Technician,12,12,1,4,14,0,PASS
+M311604,311604,Chemical Engineering Estimator,12,12,1,1,6,0,PASS
+M311701,311701,Metallurgical Technician,12,12,1,2,10,0,PASS
+M311702,311702,Metallurgical Laboratory Assistant,12,12,1,2,11,0,PASS
+M311703,311703,Mining Assistant,12,12,1,1,6,0,PASS
+M311704,311704,Associate Field Professional,12,12,1,1,6,0,PASS
+M311801,311801,Draughtsperson,12,12,1,1,6,0,PASS
+M311802,311802,Geospatial Technician,12,12,1,2,10,0,PASS
+M311804,311804,Draughtsperson (Architecture) Grade JA1,12,12,1,1,6,0,PASS
+M311805,311805,Assistant Architectural Officer Grade JA5,12,12,1,1,6,0,PASS
+M311806,311806,Draughtsperson (Civil Engineering) Grade JA1,12,12,1,1,6,0,PASS
+M311807,311807,Assistant Landscape Architect Grade JA5,12,12,1,2,10,0,PASS
+M311808,311808,Assistant Land Officer Grade NT5,12,12,1,1,6,0,PASS
+M311809,311809,Land Administration Assistant/Assistant Land Administrator Grade NT5,12,12,1,1,6,0,PASS
+M311810,311810,Assistant Surveyor Grade JA5,12,12,1,1,6,0,PASS
+M311811,311811,Assistant Urban and Rural Planning Officer Grade JA7,12,12,1,1,6,0,PASS
+M311901,311901,Engineering Technician (Production),12,12,1,3,14,0,PASS
+M311902,311902,Quality Assurance Engineering Technician,12,12,1,1,6,0,PASS
+M311904,311904,Food Processing Technician,12,12,1,2,13,0,PASS
+M311905,311905,Crankshaft Grinding Technician,12,12,1,1,6,0,PASS
+M311906,311906,Agro-Based Biotech Research Technician,12,12,1,1,6,0,PASS
+M311907,311907,Aquaculture Biotech Research Technician,12,12,1,1,6,0,PASS
+M311909,311909,Test Technician,12,12,1,1,6,0,PASS
+M311914,311914,Assistant Factory and Machinery Inspector Grade JA5,12,12,1,1,6,0,PASS
+M312201,312201,Manufacturing Supervisor,12,12,1,2,11,0,PASS
+M312202,312202,Finishing Supervisor,12,12,1,1,6,0,PASS
+M312203,312203,Compounding Supervisor,12,12,1,1,6,0,PASS
+M312204,312204,Cutting Supervisor,12,12,1,1,6,0,PASS
+M312205,312205,Plywood Inspection Supervisor,12,12,1,1,6,0,PASS
+M312206,312206,Sawyer Supervisor,12,12,1,1,6,0,PASS
+M312207,312207,Halal Food Manufacturing Production Supervisor,12,12,1,1,6,0,PASS
+M312208,312208,Halal Meat Processing Quality Assurance Supervisor,12,12,1,1,6,0,PASS
+M312212,312212,Maintenance Supervisor,12,12,1,1,6,0,PASS
+M312213,312213,Halal Slaughterhouse Supervisor,12,12,1,1,6,0,PASS
+M312214,312214,Halal Logistics Operation Warehouse Supervisor,12,12,1,2,10,0,PASS
+M312217,312217,Industrial Robot Controller,12,12,1,1,6,0,PASS
+M312218,312218,Quality Assurance Supervisor,12,12,1,2,10,0,PASS
+M312301,312301,Operation Supervisor,12,12,1,3,14,0,PASS
+M312302,312302,Construction Supervisor,12,12,1,2,10,0,PASS
+M313101,313101,Power Generating Plant Operator,12,12,1,3,14,0,PASS
+M313102,313102,Powerhouse Fabricator,12,12,1,1,6,0,PASS
+M313103,313103,Solar Power Plant Operator,12,12,1,3,14,0,PASS
+M313104,313104,Distribution Control Operator,12,12,1,1,6,0,PASS
+M313105,313105,Power Systems Operator,12,12,1,3,14,0,PASS
+M313107,313107,Solar Cell Technician,12,12,1,1,6,0,PASS
+M313201,313201,Stationary Engine Operator,12,12,1,2,10,0,PASS
+M313301,313301,Chemical Processing Plant Controller / Supervisor,12,12,1,1,6,0,PASS
+M313401,313401,Gas Plant Operator,12,12,1,3,14,0,PASS
+M313402,313402,Pumping-Station Petroleum and Natural Gas Operator,12,12,1,2,13,0,PASS
+M313403,313403,Refinery Process Technician,12,12,1,1,6,0,PASS
+M313501,313501,Metal Processing Control Operator,12,12,1,2,11,0,PASS
+M314101,314101,Biological Technician,12,12,1,3,14,0,PASS
+M314102,314102,Entomological Technician,12,12,1,1,6,0,PASS
+M314103,314103,Botanical Technician,12,12,1,1,6,0,PASS
+M314104,314104,Artificial Breeding Technician,12,12,1,1,6,0,PASS
+M314105,314105,Zoological Technician,12,12,1,1,6,0,PASS
+M314201,314201,Soil Science Technician,12,12,1,3,14,0,PASS
+M314202,314202,Horticulture Technician,12,12,1,2,11,0,PASS
+M314203,314203,Irrigation Technician,12,12,1,2,10,0,PASS
+M314204,314204,Farming Technician (Animal Production),12,12,1,1,6,0,PASS
+M314205,314205,Halal Livestock Production Supervisor,12,12,1,1,6,0,PASS
+M314206,314206,Assistant Agricultural Officer Grade G5,12,12,1,1,6,0,PASS
+M314207,314207,Assistant Land Planning Officer Grade G5,12,12,1,1,6,0,PASS
+M314208,314208,Land Scheme Supervisor Grade G1,12,12,1,1,6,0,PASS
+M314301,314301,Forestry Technician,12,12,1,2,11,0,PASS
+M314303,314303,Assistant Conservator of Forests Grade G5,12,12,1,1,6,0,PASS
+M314304,314304,Assistant Wildlife Officer Grade G5,12,12,1,1,6,0,PASS
+M314305,314305,Wildlife Assistant Grade G1,12,12,1,1,6,0,PASS
+M314401,314401,Hatchery Technician,12,12,1,1,6,0,PASS
+M314402,314402,Hatchery Supervisor,12,12,1,1,6,0,PASS
+M314403,314403,Fishery Technician,12,12,1,2,10,0,PASS
+M314404,314404,Hatchery Assistant,12,12,1,1,6,0,PASS
+M314405,314405,Aquaculture Technician,12,12,1,2,10,0,PASS
+M314407,314407,Assistant Fisheries Officer Grade G5,12,12,1,2,10,0,PASS
+M315101,315101,Air Traffic Safety Technician,12,12,1,2,13,0,PASS
+M315102,315102,Aviation Maintenance Technician,12,12,1,1,6,0,PASS
+M315103,315103,Aircraft Restorer,12,12,1,1,6,0,PASS
+M315104,315104,Airframe and Power Plant Technician,12,12,1,1,6,0,PASS
+M315105,315105,Rocket Engine Component Technician,12,12,1,1,6,0,PASS
+M315107,315107,"Aircraft Examiner Grade A5, A6",12,12,1,1,6,0,PASS
+M315108,315108,Assistant Air Traffic Control Officer Grade A5,12,12,1,1,6,0,PASS
+M315201,315201,Berthing Master,12,12,1,1,6,0,PASS
+M315202,315202,Ship Technician,12,12,1,1,6,0,PASS
+M315203,315203,Marine Assistant Grade A1,12,12,1,1,6,0,PASS
+M315204,315204,Assistant Marine Officer Grade A5,12,12,1,1,6,0,PASS
+M315301,315301,Train Technician,12,12,1,1,6,0,PASS
+M315302,315302,Track Network Technician,12,12,1,2,10,0,PASS
+M315303,315303,Signalling and Communication Technician,12,12,1,1,6,0,PASS
+M315401,315401,Motor Vehicle Technician,12,12,1,2,10,0,PASS
+M315901,315901,Transport/Logistics Supervisor,12,12,1,1,6,0,PASS
+M315902,315902,Green Technology Infrastructure Assistant Facilitator,12,12,1,1,6,0,PASS
+M316101,316101,Nuclear Technician,12,12,1,2,13,0,PASS
+M321101,321101,Radiographer,12,12,1,2,10,0,PASS
+M321102,321102,Radiographer Grade U5,12,12,1,1,6,0,PASS
+M321201,321201,Ecology Technician,12,12,1,1,6,0,PASS
+M321202,321202,Histology Technician,12,12,1,2,13,0,PASS
+M321203,321203,Cytology Technician,12,12,1,1,6,0,PASS
+M321204,321204,Physiology Technician,12,12,1,1,6,0,PASS
+M321205,321205,Parasitological Assistant,12,12,1,1,6,0,PASS
+M321206,321206,Medical Laboratory Technician,12,12,1,4,14,0,PASS
+M321207,321207,Surgical Technician,12,12,1,1,6,0,PASS
+M321301,321301,Pharmaceutical Assistant,12,12,1,1,6,0,PASS
+M321302,321302,Pharmacy Aide,12,12,1,2,13,0,PASS
+M321303,321303,Assistant Pharmacy Officer Grade U5,12,12,1,1,6,0,PASS
+M321401,321401,Dental Technician,12,12,1,4,14,0,PASS
+M321402,321402,Orthotist,12,12,1,1,6,0,PASS
+M321501,321501,Prosthetic Technician,12,12,1,1,6,0,PASS
+M321502,321502,Medical Technician Grade U1,12,12,1,1,6,0,PASS
+M322101,322101,Practical Nurse,12,12,1,3,14,0,PASS
+M322102,322102,Nurse Grade U5,12,12,1,1,6,0,PASS
+M323101,323101,Traditional and Complementary Medicine Associate Professional,12,12,1,1,6,0,PASS
+M324101,324101,Veterinary Biotech Research Technician,12,12,1,1,6,0,PASS
+M324102,324102,Veterinary Artificial Inseminator,12,12,1,1,6,0,PASS
+M324103,324103,Veterinary Biotech Production Technician,12,12,1,1,6,0,PASS
+M324104,324104,Veterinary Nurse,12,12,1,2,10,0,PASS
+M324105,324105,Animal Therapist,12,12,1,1,6,0,PASS
+M324107,324107,Assistant Veterinary Officer Grade G5,12,12,1,1,6,0,PASS
+M325101,325101,Dental Aide/Assistant,12,12,1,4,14,0,PASS
+M325102,325102,Dental Hygienist,12,12,1,4,14,0,PASS
+M325103,325103,Dental Surgery Assistant Grade U1,12,12,1,1,6,0,PASS
+M325104,325104,Dental Therapist Grade U5,12,12,1,1,6,0,PASS
+M325301,325301,Community Health Promoter,12,12,1,2,13,0,PASS
+M325302,325302,Village Health Worker,12,12,1,3,14,0,PASS
+M325303,325303,Community Nurse Grade U1,12,12,1,1,6,0,PASS
+M325401,325401,Optician,12,12,1,2,11,0,PASS
+M325501,325501,Massage Therapist,12,12,1,4,14,0,PASS
+M325502,325502,Physiotherapy Technician,12,12,1,1,6,0,PASS
+M325503,325503,Stress Therapist,12,12,1,1,6,0,PASS
+M325601,325601,Medical Laboratory Assistant,12,12,1,4,14,0,PASS
+M325602,325602,Hospital Assistant,12,12,1,1,6,0,PASS
+M325603,325603,Diagnostic Imaging Equipment Technician,12,12,1,1,6,0,PASS
+M325604,325604,Sonographer,12,12,1,2,10,0,PASS
+M325605,325605,Clinical Instructor,12,12,1,1,6,0,PASS
+M325606,325606,Ophthalmic Assistant,12,12,1,1,6,0,PASS
+M325607,325607,Assistant Medical Officer Grade U5,12,12,1,1,6,0,PASS
+M325701,325701,Public Health Unit Inspector,12,12,1,1,6,0,PASS
+M325702,325702,Occupational Safety and Health Inspector,12,12,1,4,14,0,PASS
+M325703,325703,Product Quality Inspector,12,12,1,1,6,0,PASS
+M325704,325704,Water Inspector,12,12,1,2,10,0,PASS
+M325705,325705,Mine Safety Inspector,12,12,1,2,10,0,PASS
+M325706,325706,Mine Examiner,12,12,1,1,6,0,PASS
+M325707,325707,Assistant Food Technology Officer Grade C5,12,12,1,1,6,0,PASS
+M325708,325708,Assistant Environmental Health Officer Grade U5,12,12,1,2,10,0,PASS
+M325709,325709,Assistant Environmental Control Officer Grade C5,12,12,1,1,6,0,PASS
+M325801,325801,Ambulance Officer,12,12,1,1,6,0,PASS
+M325802,325802,Emergency Paramedic,12,12,1,1,6,0,PASS
+M331401,331401,Assistant Statistics Officer Grade E5,12,12,1,1,6,0,PASS
+M351101,351101,Computer Technician,12,12,1,2,11,0,PASS
+M351102,351102,Electronic Data Processing Technician,12,12,1,1,6,0,PASS
+M351103,351103,Information Technology Assistant,12,12,1,1,6,8,PASS
+M351104,351104,Computer Console Operator,12,12,1,1,6,0,PASS
+M351105,351105,Engineering Assistant (Telecommunications),12,12,1,2,13,0,PASS
+M351106,351106,Management Information Systems Supervisor,12,12,1,1,6,0,PASS
+M351107,351107,Computer Technician Grade FT1,12,12,1,1,6,0,PASS
+M351108,351108,Assistant Information Technology Officer Grade FA5,12,12,1,1,6,8,PASS
+M351201,351201,Computer Help Desk Technician,12,12,1,1,6,0,PASS
+M351202,351202,Information Technology Technician,12,12,1,1,6,8,PASS
+M351203,351203,Computer Assistant,12,12,1,1,6,0,PASS
+M351204,351204,Communications Assistant (ICT),12,12,1,2,10,0,PASS
+M351205,351205,Database Assistant,12,12,1,1,6,8,PASS
+M351206,351206,Computer Programming Assistant,12,12,1,1,6,0,PASS
+M351207,351207,Call Centre Trainer,12,12,1,1,6,0,PASS
+M351208,351208,Data Centre Supervisor,12,12,1,1,6,0,PASS
+M351209,351209,Technical Support Technician,12,12,1,2,11,0,PASS
+M351301,351301,Computer Network Technician,12,12,1,4,14,0,PASS
+M351302,351302,Network Security Technician (ICT),12,12,1,1,6,8,PASS
+M351401,351401,Web Technician,12,12,1,2,11,0,PASS
+M351402,351402,Creative Assistance,12,12,1,1,6,0,PASS
+M352101,352101,Cinematographer,12,12,1,2,11,0,PASS
+M352102,352102,Motion Picture Assistant,12,12,1,2,13,0,PASS
+M352103,352103,Sound Mixer,12,12,1,1,6,0,PASS
+M352104,352104,Ships Radio Officer,12,12,1,2,10,0,PASS
+M352105,352105,Broadcast Technician,12,12,1,4,14,0,PASS
+M352106,352106,Land-Base Radio Equipment Technician,12,12,1,1,6,0,PASS
+M352107,352107,Flight Radio Equipment Technician,12,12,1,1,6,0,PASS
+M352108,352108,Videographer,12,12,1,1,6,0,PASS
+M352109,352109,Assistant Telecommunications Engineer,12,12,1,2,10,0,PASS
+M352111,352111,"Audio-Visual Technician Grade N1, N2, N3, N4",12,12,1,1,6,0,PASS
+M352201,352201,Telecommunications Technician,12,12,1,2,10,0,PASS
+M363201,363201,Interior Designer,12,12,1,4,14,0,PASS
+M363206,363206,Carve Technician,12,12,1,1,6,0,PASS
+M363209,363209,Designer Grade B1,12,12,1,1,6,0,PASS
+M363301,363301,Gallery/Museum Technician,12,12,1,3,14,0,PASS
+M363302,363302,Library Technician,12,12,1,4,14,0,PASS
+M363401,363401,Stage/Broadcast Production Technician,12,12,1,4,14,0,PASS
+M411106,411106,Economic Affairs Assistant Grade E1,12,12,1,1,6,0,PASS
+M413202,413202,Data Entry Clerk,12,12,1,4,14,0,PASS
+M422601,422601,Enumerator/Survey Interviewer,12,12,1,2,10,0,PASS
+M431101,431101,Auction Clerk,12,12,1,1,6,0,PASS
+M431102,431102,Audit Clerk,12,12,1,1,6,0,PASS
+M431103,431103,Credit Control Clerk,12,12,1,1,6,0,PASS
+M431104,431104,Billing Clerk,12,12,1,2,13,0,PASS
+M431105,431105,Property Clerk,12,12,1,1,6,0,PASS
+M431106,431106,Cost Clerk,12,12,1,1,6,0,PASS
+M431107,431107,Office Cash Clerk,12,12,1,2,13,0,PASS
+M431108,431108,Energy Audit Assistant Technician,12,12,1,1,6,0,PASS
+M431109,431109,Compliance Assistant,12,12,1,1,6,0,PASS
+M431110,431110,Audit Assistant Grade W1,12,12,1,1,6,0,PASS
+M431201,431201,Statistical Clerk,12,12,1,2,11,0,PASS
+M431204,431204,Finance Clerk,12,12,1,1,6,0,PASS
+M431205,431205,Brokerage Clerk,12,12,1,2,13,0,PASS
+M431206,431206,Insurance Clerk,12,12,1,1,6,0,PASS
+M431207,431207,Tax Clerk,12,12,1,1,6,0,PASS
+M431208,431208,Investment Clerk,12,12,1,1,6,0,PASS
+M431209,431209,Adjustment Clerk,12,12,1,1,6,0,PASS
+M431210,431210,Stockbroker Clerk,12,12,1,1,6,0,PASS
+M431211,431211,Rating Clerk,12,12,1,1,6,0,PASS
+M431212,431212,Assistant Broker,12,12,1,1,6,0,PASS
+M431213,431213,Collateral Clerk,12,12,1,1,6,0,PASS
+M431214,431214,Mortgage Clerk,12,12,1,1,6,0,PASS
+M431215,431215,Actuarial Assistant,12,12,1,1,6,0,PASS
+M431216,431216,E-Commerce Assistant,12,12,1,1,6,0,PASS
+M431217,431217,Leasing Assistant,12,12,1,1,6,0,PASS
+M431218,431218,Administrative Assistant (Finance) Grade W1,12,12,1,1,6,0,PASS
+M431219,431219,Statistical Assistant Grade E1,12,12,1,2,13,0,PASS
+M531204,531204,Vocational Training Assistant Grade DV1,12,12,1,1,6,0,PASS
+M531205,531205,Vocational Training Assistant Grade DV2,12,12,1,1,6,0,PASS
+M532106,532106,Public Health Assistant Grade U1,12,12,1,1,6,0,PASS
+M818202,818202,Competent Person (CP) - Internal Combustion Engine Driver,12,12,1,1,6,0,PASS
+M821101,821101,Assembler,12,12,1,1,6,0,PASS

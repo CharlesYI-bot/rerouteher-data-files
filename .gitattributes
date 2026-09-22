@@ -23,3 +23,4 @@
 04_REPRODUCIBILITY/D11_D13_RECENT/ReRouteHer_D13_FINAL_2026-08-30/02_QA/table_payloads.json filter=lfs diff=lfs merge=lfs -text
 *.xlsx filter=lfs diff=lfs merge=lfs -text
 05_DATABASE_FILES/D11_D13_RECENT/D13_FINAL/04_DATABASE/D13_APPEND_LIVE_COMPAT.sql filter=lfs diff=lfs merge=lfs -text
+02_RAW_SOURCE_DATA/ITERATION_3/INTERVIEW_ASSISTANT/ESCO/occupationSkillRelations_en.csv filter=lfs diff=lfs merge=lfs -text

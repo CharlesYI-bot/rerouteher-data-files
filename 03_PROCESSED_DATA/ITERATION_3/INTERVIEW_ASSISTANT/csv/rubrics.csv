@@ -1,0 +1,7 @@
+dimension,definition,score_1,score_3,score_5
+Relevance,Evidence directly addresses the question and the MASCO role.,Mostly unrelated or generic.,Relevant example with some missing detail.,Role-specific evidence with clear scope and context.
+Ownership,Candidate makes their own contribution and decisions clear.,Contribution cannot be separated from the team.,Personal actions are stated but rationale is limited.,"Actions, judgment, and collaboration boundaries are explicit."
+Method,"Approach is structured, safe, and technically credible.",Unstructured or unsafe approach.,Generally sound approach with incomplete controls.,"Clear sequence, trade-offs, controls, and escalation points."
+Outcome,Response explains the result and how it was verified.,No result or only assertion.,Result described but weakly evidenced.,"Specific, evidenced result linked to the candidate's action."
+Reflection,Candidate identifies learning and how it changes future action.,No learning or defensive response.,General lesson stated.,"Specific learning, limitation, and improved future approach."
+Communication,"Answer is concise, understandable, and appropriate for the audience.",Difficult to follow or inappropriate detail.,Mostly clear with some unnecessary detail.,"Clear structure, precise language, and audience-aware detail."

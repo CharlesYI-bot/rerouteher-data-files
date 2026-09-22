@@ -1,0 +1,24 @@
+{
+  "verified_at": "2026-09-22",
+  "workbook_archive_integrity": "pass",
+  "formula_error_matches": 0,
+  "data_quality_checks_passed": 11,
+  "data_quality_checks_failed": 0,
+  "raw_source_file_count": 17,
+  "processed_csv_file_count": 12,
+  "normalized_file_count": 2,
+  "csv_dimensions": {
+    "overview.csv": [20, 9],
+    "masco_roles.csv": [658, 16],
+    "interview_qa.csv": [7885, 24],
+    "global_matches.csv": [1079, 15],
+    "role_anchors.csv": [5582, 11],
+    "open_qa.csv": [143, 15],
+    "open_qa_links.csv": [321, 12],
+    "coverage.csv": [658, 10],
+    "data_quality.csv": [12, 6],
+    "sources_and_licences.csv": [10, 13],
+    "rubrics.csv": [7, 5],
+    "data_notes.csv": [11, 2]
+  }
+}

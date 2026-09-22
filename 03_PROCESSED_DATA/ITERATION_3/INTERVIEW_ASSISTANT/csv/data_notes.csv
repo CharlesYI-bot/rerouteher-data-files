@@ -1,0 +1,11 @@
+topic,guidance
+Role scope,"The workbook contains exactly 657 roles, all defined by the existing MASCO role catalogue. ESCO, O*NET, NOC, and OSCA records enrich those roles; they do not create additional roles."
+Global interview content,"Each MASCO role receives 12 interview questions. Global occupation sources provide task, duty, requirement, and skill anchors. OPM and VA guidance informs structured interviewing and answer frameworks."
+Open Q&A,The Open Q&A sheet contains licensed technical questions from 30 Seconds of Interviews and Continuum Analytics. Open QA Links recommends a small subset only where role-title keywords indicate technical relevance.
+Mapping quality,"ESCO mappings use the existing MASCO crosswalk. O*NET, NOC, and OSCA mappings use conservative English title similarity and always require human review before production."
+Source fidelity,"Interview Q&A rows are authored practice prompts, not verbatim employer questions. Open Q&A rows are retained from their source and marked separately."
+MASCO rights,"MASCO is the role backbone, but an explicit open-data licence for bulk redistribution was not confirmed in the supplied files. Confirm rights before external bulk release."
+Technical currentness,The licensed technical Q&A repositories may contain outdated framework or vendor assumptions. Review versions and current practices before surfacing them.
+Fairness,Use consistent job-relevant questions and rubrics for candidates in the same process. Do not ask about protected or personal characteristics. Provide reasonable accommodations and local legal review.
+Scoring,"Score evidence quality, ownership, method, outcome, reflection, and communication. Do not score accent, confidence style, school prestige, employment gaps, or cultural familiarity."
+Excluded collections,"Scraped Glassdoor, Indeed, Reddit, LeetCode, and unclear-licence Kaggle collections are not included. Public accessibility does not create reuse rights."

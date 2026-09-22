@@ -1,0 +1,12 @@
+check_id,check,expected,actual,status,evidence
+DQ-01,Exactly 657 MASCO roles,657,657,PASS,MASCO Roles.role_id
+DQ-02,Unique MASCO role IDs,657,657,PASS,MASCO Roles.role_id
+DQ-03,Unique role-question IDs,7884,7884,PASS,Interview Q&A.question_id
+DQ-04,Twelve interview questions per role,657,657,PASS,Coverage formulas recalculate in Excel
+DQ-05,No duplicate normalized question within a role,0,0,PASS,role_id + normalized question_text
+DQ-06,Every question has source lineage,7884,7884,PASS,Interview Q&A source columns
+DQ-07,Every role has at least one global match,657,657,PASS,Global Matches.role_id
+DQ-08,Open Q&A records retained with licence IDs,142,142,PASS,Open Q&A.license_id
+DQ-09,Source-designated 'never ask' records disabled,5,5,PASS,Continuum source section
+DQ-10,Source file checksums captured,14,14,PASS,SHA-256 at build
+DQ-11,Structural classification headings excluded from anchors,0,0,PASS,Role Anchors.anchor_text
