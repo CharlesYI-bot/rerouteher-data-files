@@ -1,0 +1,18 @@
+check_id,check,expected,actual,status,evidence
+DQ-01,Exactly 631 canonical MASCO roles,631,631,PASS,MASCO Roles.role_id
+DQ-02,Unique canonical MASCO role IDs,631,631,PASS,MASCO Roles.role_id
+DQ-03,Unique role-question IDs,7572,7572,PASS,Role Questions.question_id
+DQ-04,Twelve interview questions per role,631,631,PASS,Coverage formulas recalculate in Excel
+DQ-05,No duplicate normalized question within a role,0,0,PASS,role_id + normalized question_text
+DQ-06,Every role question has source lineage,7572,7572,PASS,Role Questions source columns
+DQ-07,Every role has at least one global match,631,631,PASS,Global Matches.role_id
+DQ-08,Open question records retained with licence IDs,142,142,PASS,Open Questions.license_id
+DQ-09,Source-designated 'never ask' records disabled,5,5,PASS,Continuum source section
+DQ-10,Source file checksums captured,15,15,PASS,SHA-256 at build
+DQ-11,Structural classification headings excluded from anchors,0,0,PASS,Role Anchors.anchor_text
+DQ-12,General question bank is intentionally compact,18,18,PASS,General Questions.question_id
+DQ-13,Conflict category has two reusable questions,2,2,PASS,General Questions.category
+DQ-14,"General, role-specific, and mixed blueprints exist for 5- and 10-question sessions",6,6,PASS,Session Blueprints.blueprint_id
+DQ-15,No prewritten answer fields in question tables,0,0,PASS,Role Questions; General Questions; Open Questions
+DQ-16,No government grade suffix remains in canonical role titles,0,0,PASS,MASCO Roles.role_title
+DQ-17,All canonical display titles are unique after approved merges,631,631,PASS,MASCO Roles.role_title

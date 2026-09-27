@@ -1,0 +1,23 @@
+MASCO 631 interview coach dataset,,,,,,,,
+"Answer-free practice questions, session mixes, global occupation anchors, and AI evaluation criteria for the canonical ReRouteHer role catalogue.",,,,,,,,
+,,,,,,,,
+,,,,,,,,
+Dataset metric,Value,,Global source,Matched MASCO roles,Match records,Anchor records,Mapping method,Review requirement
+Canonical MASCO roles,631,,ESCO 1.2.1,631,631,3611,MASCO project crosswalk,Review crosswalk status and confidence
+Role questions,7572,,O*NET 31.0,155,155,817,conservative English title similarity,Human mapping review required
+General questions,18,,NOC 2021 Version 1.0,92,92,348,conservative English title similarity,Human mapping review required
+Session blueprints,6,,OSCA 2024 Version 1.0,200,200,750,conservative English title similarity,Human mapping review required
+Global match records,1078,,Open technical questions,41,328,142,Role-title keyword to question topic,Human relevance and currentness review required
+Global anchor records,5526,,,,,,,
+Open question records,142,,,,,,,
+Open question role links,328,,,,,,,
+AI evaluation criteria,10,,,,,,,
+Quality checks passed,17,,,,,,,
+,,,,,,,,
+Role and question boundary,,,,,,,,
+"This release uses the application's 631 canonical roles: 657 source-current records map to 655 MASCO 2020 identities, and the approved alias table consolidates 24 duplicate identities. Global standards enrich these roles without adding new ones. Prewritten answers have been removed from Role Questions, General Questions, and Open Questions.",,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+Use and limitations,,,,,,,,
+"Choose the target role in MASCO Roles, then select General, Role-specific, or Mixed using Session Blueprints. Use AI Evaluation Rubric to assess the user's transcript and generate evidence-linked feedback; do not compare the response to a model answer. Review title-similarity mappings and technical question links before production, confirm MASCO redistribution rights, preserve source licences, and complete domain, fairness, accessibility, and local legal review.",,,,,,,,

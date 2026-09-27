@@ -1,0 +1,12 @@
+topic,guidance
+Role scope,"The workbook contains exactly 631 canonical application roles. The 657 source-current records map to 655 MASCO 2020 identities, then the approved role alias table consolidates 24 duplicate identities. Original codes remain visible as aliases."
+Question banks,"Role Questions contains 12 prompts per canonical role. General Questions contains 18 reusable prompts covering introduction, motivation, achievement, conflict, teamwork, problem solving, adaptability, failure, prioritisation, communication, integrity, and growth."
+Open questions,The Open Questions sheet contains licensed technical questions from 30 Seconds of Interviews and Continuum Analytics. Source answers are deliberately omitted because the product evaluates each user's response with AI.
+Session design,"Session Blueprints supports General, Role-specific, and Mixed practice for both 5-question and 10-question sessions. Selection sequences are defaults and may be rotated without changing the underlying role catalogue."
+Mapping quality,"ESCO mappings use the existing MASCO crosswalk. O*NET, NOC, and OSCA mappings use conservative English title similarity and always require human review before production."
+Source fidelity,"Role Questions and General Questions are authored practice prompts derived from structured interview patterns, not verbatim employer questions. Open Questions are retained from licensed sources and marked separately."
+MASCO rights,"MASCO is the role backbone, but an explicit open-data licence for bulk redistribution was not confirmed in the supplied files. Confirm rights before external bulk release."
+Technical currentness,The licensed technical question repositories may contain outdated framework or vendor assumptions. Review versions and current practices before surfacing them.
+Fairness,Use consistent job-relevant questions and rubrics for candidates in the same process. Do not ask about protected or personal characteristics. Provide reasonable accommodations and local legal review.
+AI evaluation,"Use the AI Evaluation Rubric to produce evidence-linked strengths and improvement tags. Do not compare a transcript against a model answer, and do not score accent, confidence style, school prestige, employment gaps, or cultural familiarity."
+Excluded collections,"Scraped Glassdoor, Indeed, Reddit, LeetCode, and unclear-licence Kaggle collections are not included. Public accessibility does not create reuse rights."
