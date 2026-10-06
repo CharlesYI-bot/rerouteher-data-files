@@ -563,7 +563,7 @@ function questionSet(role) {
     { category: "situational", difficulty: "intermediate", anchor: a[6], text: `Imagine priorities change while you are working on “${a[6].anchor_text}”. How would you reassess, communicate, and deliver?`, follow_up: "What would cause you to escalate?" },
     { category: "situational", difficulty: "advanced", anchor: a[7], text: `You identify a quality, safety, or compliance risk in work related to “${a[7].anchor_text}”. What would you do first, and why?`, follow_up: "How would you document and close the issue?" },
     { category: "career_growth", difficulty: "foundation", anchor: null, text: `Which capability would you most need to strengthen to excel in the ${role.role_title} role, and how would you develop it?`, follow_up: "How would you demonstrate progress?" },
-    { category: "questions_for_interviewer", difficulty: "foundation", anchor: null, text: "If the interviewer gives you an opportunity to ask a question, what would you ask?", follow_up: "What would you hope to learn from their answer?" },
+    { category: "questions_for_interviewer", difficulty: "foundation", anchor: null, text: "What question would you ask the interviewer if given the opportunity?", follow_up: "What would you hope to learn from their answer?" },
   ];
 }
 

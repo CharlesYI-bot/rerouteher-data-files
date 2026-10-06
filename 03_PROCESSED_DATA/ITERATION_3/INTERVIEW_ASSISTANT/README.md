@@ -26,7 +26,7 @@ The 657 source-current records map to 655 MASCO 2020 identities. The approved ap
 
 The question tables do not contain model answers, answer frameworks, or suggested-answer fields. The product can evaluate each user's transcript against the evidence-focused criteria in `AI Evaluation Rubric`.
 
-The former `employer_question` category is now `questions_for_interviewer`. It directly asks what the user would ask if the interviewer gives them an opportunity to ask a question, followed by what they hope to learn from the answer.
+The former `employer_question` category is now `questions_for_interviewer`. It asks, “What question would you ask the interviewer if given the opportunity?”, followed by what the user hopes to learn from the answer.
 
 ## Validation
 
